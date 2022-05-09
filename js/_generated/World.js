@@ -3,7 +3,7 @@ const data = {
     "zoom": 5,
     "center": "51.507200,-0.127600",
     "borders": null,
-    "useInternalMap": true
+    "useInternalMap": false
   },
   "points": {
     "1709": "51.49847923861978,-0.13602878042143146",

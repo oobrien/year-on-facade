@@ -8,7 +8,7 @@ const data = {
       "west": 9.057742,
       "east": 9.24476
     },
-    "useInternalMap": true
+    "useInternalMap": false
   },
   "points": {
     "1924": "55.73171536145109,9.113889380972617"
