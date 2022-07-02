@@ -24,7 +24,7 @@ It is OK to replace existing points in case the replacement:
 
 ## Contribution
 
-Please read [Contributor's Guide](https://github.com/aelmekeev/year-on-facade/tree/main/.github/CONTRIBUTING.md).
+Please read [Contributor's Guide](.github/CONTRIBUTING.md).
 
 ## Similar projects
 
