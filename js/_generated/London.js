@@ -21,6 +21,46 @@ const data = {
     "city": "London"
   },
   "points": {
+    "1658": {
+      "latlng": {
+        "lat": 51.55150570588003,
+        "lng": -0.08588690411222581
+      },
+      "notes": "TODO",
+      "external": "1293320"
+    },
+    "1665": {
+      "latlng": {
+        "lat": 51.54012913767072,
+        "lng": 0.16254019586796453
+      },
+      "notes": "TODO",
+      "external": "1064411"
+    },
+    "1669": {
+      "latlng": {
+        "lat": 51.366376853500455,
+        "lng": -0.30684944046646584
+      },
+      "notes": "TODO",
+      "external": "1184479"
+    },
+    "1702": {
+      "latlng": {
+        "lat": 51.518003317823236,
+        "lng": -0.10088095828089627
+      },
+      "notes": "TODO",
+      "external": "1079115"
+    },
+    "1705": {
+      "latlng": {
+        "lat": 51.353924798649906,
+        "lng": 0.1379032927353277
+      },
+      "notes": "TODO",
+      "external": "1359298"
+    },
     "1709": {
       "latlng": {
         "lat": 51.49847923861978,
@@ -29,12 +69,20 @@ const data = {
       "notes": "",
       "external": "1210081"
     },
+    "1713": {
+      "latlng": {
+        "lat": 51.582921611075214,
+        "lng": -0.21535680992076248
+      },
+      "notes": "TODO",
+      "external": "1359024"
+    },
     "1719": {
       "latlng": {
         "lat": 51.506665651285076,
         "lng": -0.0579892712400174
       },
-      "notes": "Impossible to read in Google maps atm, should be better once restored",
+      "notes": "Impossible to read in Google maps atm - should be better once restored",
       "external": "1260423"
     },
     "1720": {
@@ -69,6 +117,14 @@ const data = {
       "notes": "",
       "external": "1236244"
     },
+    "1731": {
+      "latlng": {
+        "lat": 51.33643988903099,
+        "lng": 0.03103325066986683
+      },
+      "notes": "TODO",
+      "external": "1055773"
+    },
     "1734": {
       "latlng": {
         "lat": 51.51224015403307,
@@ -101,6 +157,14 @@ const data = {
       "notes": "Retake photo once construction is complete",
       "external": "1064693"
     },
+    "1755": {
+      "latlng": {
+        "lat": 51.44160860852726,
+        "lng": 0.1477712680269168
+      },
+      "notes": "TODO",
+      "external": "1064243"
+    },
     "1760": {
       "latlng": {
         "lat": 51.50383135264198,
@@ -108,6 +172,14 @@ const data = {
       },
       "notes": "",
       "external": "1065086"
+    },
+    "1761": {
+      "latlng": {
+        "lat": 51.48321650208327,
+        "lng": -0.2932745539360185
+      },
+      "notes": "TODO",
+      "external": "1263075"
     },
     "1762": {
       "latlng": {
@@ -141,6 +213,22 @@ const data = {
       "notes": "",
       "external": "1080970"
     },
+    "1782": {
+      "latlng": {
+        "lat": 51.4856744535243,
+        "lng": -0.3072805119249971
+      },
+      "notes": "TODO",
+      "external": "1294582"
+    },
+    "1785": {
+      "latlng": {
+        "lat": 51.478984550230265,
+        "lng": -0.3259104361624849
+      },
+      "notes": "TODO",
+      "external": "1240256"
+    },
     "1786": {
       "latlng": {
         "lat": 51.46712771285955,
@@ -164,6 +252,62 @@ const data = {
       },
       "notes": "",
       "external": "1280131"
+    },
+    "1791": {
+      "latlng": {
+        "lat": 51.48189551248653,
+        "lng": -0.0009524735020238904
+      },
+      "notes": "",
+      "external": "1078953"
+    },
+    "1792": {
+      "latlng": {
+        "lat": 51.46777964983422,
+        "lng": 0.0016759431661196407
+      },
+      "notes": "",
+      "external": "1286675"
+    },
+    "1795": {
+      "latlng": {
+        "lat": 51.58442176879655,
+        "lng": -0.012419421300780905
+      },
+      "notes": "TODO",
+      "external": "1065608"
+    },
+    "1797": {
+      "latlng": {
+        "lat": 51.45907964982244,
+        "lng": -0.3036895054983236
+      },
+      "notes": "TODO",
+      "external": "1358048"
+    },
+    "1799": {
+      "latlng": {
+        "lat": 51.584475106114326,
+        "lng": 0.1736602090991156
+      },
+      "notes": "TODO",
+      "external": "1184520"
+    },
+    "1806": {
+      "latlng": {
+        "lat": 51.46760835748505,
+        "lng": -0.0006603302490758354
+      },
+      "notes": "",
+      "external": "1286658"
+    },
+    "1811": {
+      "latlng": {
+        "lat": 51.57852913655827,
+        "lng": -0.15386294828823677
+      },
+      "notes": "TODO",
+      "external": "1079189"
     },
     "1812": {
       "latlng": {
@@ -245,6 +389,14 @@ const data = {
       "notes": "What does PD mean?",
       "external": "1376562"
     },
+    "1829": {
+      "latlng": {
+        "lat": 51.49135484522112,
+        "lng": 0.06955560536950561
+      },
+      "notes": "TODO",
+      "external": "1079080"
+    },
     "1830": {
       "latlng": {
         "lat": 51.512196862800046,
@@ -309,6 +461,14 @@ const data = {
       "notes": "",
       "external": "1209479"
     },
+    "1842": {
+      "latlng": {
+        "lat": 51.490713568647855,
+        "lng": 0.06430737577769526
+      },
+      "notes": "TODO",
+      "external": "1079064"
+    },
     "1844": {
       "latlng": {
         "lat": 51.493102624901645,
@@ -338,7 +498,8 @@ const data = {
         "lat": 51.5151682770451,
         "lng": -0.1128261536588332
       },
-      "notes": "Hardly a facade"
+      "notes": "Hardly a facade",
+      "external": ""
     },
     "1850": {
       "latlng": {
@@ -364,6 +525,14 @@ const data = {
       "notes": "",
       "external": "1064606"
     },
+    "1854": {
+      "latlng": {
+        "lat": 51.499055934136145,
+        "lng": 0.06335156553439077
+      },
+      "notes": "TODO",
+      "external": "1376229"
+    },
     "1855": {
       "latlng": {
         "lat": 51.520500151365795,
@@ -371,6 +540,14 @@ const data = {
       },
       "notes": "",
       "external": "1298102"
+    },
+    "1857": {
+      "latlng": {
+        "lat": 51.585905533879654,
+        "lng": -0.07033708595953014
+      },
+      "notes": "TODO: Check March 2018 to verify",
+      "external": "1079168"
     },
     "1858": {
       "latlng": {
@@ -408,7 +585,17 @@ const data = {
       "latlng": {
         "lat": 51.51991313977862,
         "lng": -0.15189308940352775
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1864": {
+      "latlng": {
+        "lat": 51.41074957336541,
+        "lng": -0.30021478961622816
+      },
+      "notes": "TODO",
+      "external": "1184637"
     },
     "1865": {
       "latlng": {
@@ -430,7 +617,9 @@ const data = {
       "latlng": {
         "lat": 51.508432465297346,
         "lng": -0.07893555143274959
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1869": {
       "latlng": {
@@ -476,13 +665,17 @@ const data = {
       "latlng": {
         "lat": 51.486220666770585,
         "lng": -0.1652195975638562
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1875": {
       "latlng": {
         "lat": 51.492898227374305,
         "lng": -0.23605706435895332
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1876": {
       "latlng": {
@@ -600,19 +793,41 @@ const data = {
       "latlng": {
         "lat": 51.4917065076334,
         "lng": -0.11890162231838927
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1891": {
+      "latlng": {
+        "lat": 51.526110625913276,
+        "lng": -0.027550670605991135
+      },
+      "notes": "TODO: Not available due to construction",
+      "external": ""
+    },
+    "1892": {
+      "latlng": {
+        "lat": 51.57607292023583,
+        "lng": -0.029968151294945646
+      },
+      "notes": "TODO",
+      "external": "1391928"
     },
     "1893": {
       "latlng": {
         "lat": 51.52374728812829,
         "lng": -0.07846580212247177
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1894": {
       "latlng": {
         "lat": 51.49351509740085,
         "lng": -0.24494205049341808
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1895": {
       "latlng": {
@@ -626,7 +841,9 @@ const data = {
       "latlng": {
         "lat": 51.499315909348844,
         "lng": -0.16558587585727838
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1897": {
       "latlng": {
@@ -680,13 +897,17 @@ const data = {
       "latlng": {
         "lat": 51.50241134635818,
         "lng": -0.22589630662998486
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1904": {
       "latlng": {
         "lat": 51.49962117850561,
         "lng": -0.16637723166738133
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1905": {
       "latlng": {
@@ -701,7 +922,8 @@ const data = {
         "lat": 51.51151898820374,
         "lng": -0.1365725714120233
       },
-      "notes": "Hardly a facade"
+      "notes": "Hardly a facade",
+      "external": ""
     },
     "1907": {
       "latlng": {
@@ -718,6 +940,14 @@ const data = {
       },
       "notes": "",
       "external": "1192446"
+    },
+    "1909": {
+      "latlng": {
+        "lat": 51.41004230016464,
+        "lng": -0.30659101957045914
+      },
+      "notes": "TODO",
+      "external": "1184764"
     },
     "1910": {
       "latlng": {
@@ -755,7 +985,9 @@ const data = {
       "latlng": {
         "lat": 51.513596653731256,
         "lng": -0.1120202349541296
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1915": {
       "latlng": {
@@ -769,7 +1001,9 @@ const data = {
       "latlng": {
         "lat": 51.52838568117278,
         "lng": -0.018955591995673187
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1920": {
       "latlng": {
@@ -783,13 +1017,17 @@ const data = {
       "latlng": {
         "lat": 51.51439589455065,
         "lng": -0.05385178971555038
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1922": {
       "latlng": {
         "lat": 51.528975682275586,
         "lng": -0.11586027364646377
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1923": {
       "latlng": {
@@ -803,7 +1041,9 @@ const data = {
       "latlng": {
         "lat": 51.51613997834704,
         "lng": -0.2052375194195213
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1925": {
       "latlng": {
@@ -817,31 +1057,65 @@ const data = {
       "latlng": {
         "lat": 51.506598297566164,
         "lng": -0.26677317202584194
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1927": {
+      "latlng": {
+        "lat": 51.40564335790167,
+        "lng": 0.013973970382273842
+      },
+      "notes": "TODO",
+      "external": "1186830"
     },
     "1929": {
       "latlng": {
         "lat": 51.53161440573577,
         "lng": -0.13452690989194183
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1931": {
+      "latlng": {
+        "lat": 51.50450052620141,
+        "lng": -0.3063282571404384
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1932": {
       "latlng": {
         "lat": 51.524486102173746,
         "lng": -0.168959155361982
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1933": {
       "latlng": {
         "lat": 51.496855668873025,
         "lng": -0.17404722057261884
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1934": {
+      "latlng": {
+        "lat": 51.56816064952934,
+        "lng": 0.010780853193313442
+      },
+      "notes": "TODO",
+      "external": "1418380"
     },
     "1936": {
       "latlng": {
         "lat": 51.50345166547039,
         "lng": -0.10651402477112712
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1955": {
       "latlng": {
@@ -850,6 +1124,14 @@ const data = {
       },
       "notes": "",
       "external": "1195534"
+    },
+    "1962": {
+      "latlng": {
+        "lat": 51.51674530295639,
+        "lng": -0.10176218482665145
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1969": {
       "latlng": {
@@ -867,55 +1149,85 @@ const data = {
       "notes": "",
       "external": "1224373"
     },
+    "1981": {
+      "latlng": {
+        "lat": 51.51575260865176,
+        "lng": -0.09929624069836795
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1985": {
       "latlng": {
         "lat": 51.499137826754534,
         "lng": -0.10916729058594485
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1987": {
       "latlng": {
         "lat": 51.519602372879305,
         "lng": -0.11473055411593223
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1988": {
       "latlng": {
         "lat": 51.51995755900059,
         "lng": -0.15303397064267749
       },
-      "notes": "Retake the photo"
+      "notes": "Retake the photo",
+      "external": ""
     },
     "1993": {
       "latlng": {
         "lat": 51.49122137346518,
         "lng": -0.23167309975822403
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "1997": {
       "latlng": {
         "lat": 51.500631691752275,
         "lng": -0.08169293099627453
       },
-      "notes": "Not ideal just a metal plaque attached to the building"
+      "notes": "Not ideal just a metal plaque attached to the building",
+      "external": ""
     },
     "1999": {
       "latlng": {
         "lat": 51.49285967213844,
         "lng": -0.2335728686373021
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "2000": {
       "latlng": {
         "lat": 51.51559107085581,
         "lng": -0.1950800616770617
-      }
+      },
+      "notes": "",
+      "external": ""
     },
     "2001": {
       "latlng": {
         "lat": 51.46293033575634,
         "lng": -0.2099396188497619
-      }
+      },
+      "notes": "",
+      "external": ""
+    },
+    "2002": {
+      "latlng": {
+        "lat": 51.658522612449595,
+        "lng": -0.08817388107804792
+      },
+      "notes": "TODO",
+      "external": ""
     }
   }
 }
