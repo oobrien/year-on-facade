@@ -7,7 +7,7 @@ const data = {
     },
     "borders": null,
     "useInternalMap": true,
-    "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web"
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
   },
   "points": {
     "1658": {
@@ -875,11 +875,11 @@ const data = {
       "notes": ""
     },
     "1889": {
-      "city": "Middlesex",
-      "external": "",
+      "city": "London",
+      "external": "1211009",
       "latlng": {
-        "lat": 51.57019,
-        "lng": -0.33985
+        "lat": 51.51662431229585,
+        "lng": -0.138591338918972
       },
       "notes": ""
     },
@@ -893,13 +893,13 @@ const data = {
       "notes": ""
     },
     "1891": {
-      "city": "Middlesex",
+      "city": "London",
       "external": "",
       "latlng": {
-        "lat": 51.57591,
-        "lng": -0.34293
+        "lat": 51.526110625913276,
+        "lng": -0.027550670605991135
       },
-      "notes": ""
+      "notes": "TODO: Not available due to construction"
     },
     "1892": {
       "city": "London",
@@ -911,13 +911,13 @@ const data = {
       "notes": "TODO"
     },
     "1893": {
-      "city": "Middlesex",
+      "city": "London",
       "external": "",
       "latlng": {
-        "lat": 51.60988,
-        "lng": -0.42124
+        "lat": 51.52374728812829,
+        "lng": -0.07846580212247177
       },
-      "notes": "TODO Ferndale Villas"
+      "notes": ""
     },
     "1894": {
       "city": "London",
@@ -974,13 +974,13 @@ const data = {
       "notes": ""
     },
     "1900": {
-      "city": "Middlesex",
-      "external": "",
+      "city": "London",
+      "external": "1260615",
       "latlng": {
-        "lat": 51.606,
-        "lng": -0.41879
+        "lat": 51.491351158667854,
+        "lng": -0.26533081752309784
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1901": {
       "city": "London",
@@ -1091,13 +1091,13 @@ const data = {
       "notes": "Check August 2020 to verify"
     },
     "1913": {
-      "city": "Middlesex",
-      "external": "",
+      "city": "London",
+      "external": "1079844",
       "latlng": {
-        "lat": 51.57025,
-        "lng": -0.33993
+        "lat": 51.49561429449592,
+        "lng": -0.21934561954130852
       },
-      "notes": "On drainpipe"
+      "notes": ""
     },
     "1914": {
       "city": "London",
@@ -1391,15 +1391,6 @@ const data = {
       "config": {}
     },
     "London": {
-      "config": {
-        "country": "UK",
-        "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
-        }
-      }
-    },
-    "Middlesex": {
       "config": {
         "country": "UK",
         "external": {
