@@ -48,7 +48,29 @@ function toggleTODOMarkers(showOnlyTODO) {
   }
 }
 
+function pointStyle(feature, resolution)
+{
+	return [ 
+	new ol.style.Style({
+  		text: new ol.style.Text({
+				text: feature.get('label'),
+				font: '10px Ubuntu, Gill Sans, Helvetica, Arial, sans-serif',
+				//fill: new ol.style.Fill({ color: feature.get('fontColor') }),
+				//stroke: new ol.style.Stroke({ color: feature.get('haloColor'), width: 3 })
+			}),
+		image: new ol.style.RegularShape({
+				radius: 20,	
+				fill: new ol.style.Fill({ color: 'rgba(255,0,0,1)' }),
+				stroke: new ol.style.Stroke({color: 'rgba(0, 0, 0, 0.5)', width: 1}),
+			})
+		})
+	]
+}
+
+var dataSource;
+
 function initMap() {
+  console.log('initMap called');
   const url = new URL(window.location.href)
   const year = url.searchParams.get('year')
   const points = data.points
@@ -56,6 +78,59 @@ function initMap() {
   const zoom = year && points[year] ? 18 : data.config.zoom
   const center = year && points[year] ? points[year].latlng : data.config.center
 
+
+  var layerOSM = new ol.layer.Tile({
+            source: new ol.source.OSM()
+          });
+
+  dataSource = new ol.source.Vector({
+			//url: 'data/areas_topo.json',
+			//format: new ol.format.TopoJSON(),
+			//attributions: [ 'Area Boundary Data: Crown Copyright ONS' ]
+		});
+  
+  for (const year in points) {
+
+	var pointGeom =  new ol.geom.Point(ol.proj.transform([points[year].latlng.lng, points[year].latlng.lat], "EPSG:4326", "EPSG:3857"));
+	var marker = new ol.Feature({ geometry: pointGeom });
+	marker.set('label', year);
+	dataSource.addFeature(marker);
+	}
+
+/*    const marker = new ol.Feature(({
+      position: points[year].latlng,
+      map,
+      title: year,
+      label: {
+        text: year,
+        color: 'white',
+        fontSize: '9px',
+      },
+      todo: points[year].notes.startsWith('TODO'),
+    }) */
+
+  
+  var layerData = new ol.layer.Vector({
+		source: dataSource,
+		//extent: ol.proj.transformExtent([-8, 49.8, 1.9, 60.9], 'EPSG:4326', 'EPSG:3857'),
+		style: pointStyle
+	});
+
+
+  map = new ol.Map({
+		target: "map",
+		layers: [ layerOSM, layerData ],
+		view: new ol.View({
+			projection: "EPSG:3857",
+			//maxZoom: 11,
+			//minZoom: 1, 
+			zoom: zoom,
+			center: ol.proj.transform([center.lng, center.lat], "EPSG:4326", "EPSG:3857"),
+			extent: ol.proj.transformExtent([data.config.borders.west, data.config.borders.south, data.config.borders.east, data.config.borders.north], "EPSG:4326", "EPSG:3857")
+		}),
+	});
+
+/*
   map = new google.maps.Map(document.getElementById('map'), {
     zoom,
     center,
@@ -67,7 +142,8 @@ function initMap() {
       latLngBounds: data.config.borders,
     },
   })
-
+*/
+/*
   const statsControlDiv = document.createElement('div')
   StatsControl(statsControlDiv)
   map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(statsControlDiv)
@@ -77,7 +153,9 @@ function initMap() {
     TodoFilterControl(todoFilterControlDiv)
     map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(todoFilterControlDiv)
   }
-
+ */ 
+  
+/*
   for (const year in points) {
     const marker = new google.maps.Marker({
       position: points[year].latlng,
@@ -90,6 +168,9 @@ function initMap() {
       },
       todo: points[year].notes.startsWith('TODO'),
     })
+  */  
+    /*
+    
     marker.addListener('click', () => {
       if (longpress) {
         const currentUrl = window.location.href
@@ -108,6 +189,6 @@ function initMap() {
       end = new Date().getTime()
       longpress = end - start < 500 ? false : true
     })
-    markers.push(marker)
-  }
+    markers.push(marker) */
 }
+
