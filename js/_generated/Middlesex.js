@@ -1,5 +1,6 @@
 const data = {
   "config": {
+    "country": "UK",
     "zoom": 12,
     "center": {
       "lat": 51.5072,
@@ -17,48 +18,48 @@ const data = {
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
-    "city": "Replacements"
+    "city": "Middlesex"
   },
   "points": {
-    "1767": {
+    "1889": {
       "latlng": {
-        "lat": 51.4955623949858,
-        "lng": -0.36575359610833696
+        "lat": 51.57019,
+        "lng": -0.33985
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1891": {
+      "latlng": {
+        "lat": 51.57591,
+        "lng": -0.34293
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1893": {
+      "latlng": {
+        "lat": 51.60988,
+        "lng": -0.42124
+      },
+      "notes": "TODO Ferndale Villas",
+      "external": ""
+    },
+    "1900": {
+      "latlng": {
+        "lat": 51.606,
+        "lng": -0.41879
       },
       "notes": "TODO",
-      "external": "1079381"
+      "external": ""
     },
-    "1896": {
+    "1913": {
       "latlng": {
-        "lat": 51.4646337076582,
-        "lng": 0.009301754363103189
+        "lat": 51.57025,
+        "lng": -0.33993
       },
-      "notes": "TODO",
-      "external": "1213950"
-    },
-    "1903": {
-      "latlng": {
-        "lat": 51.4864943335234,
-        "lng": 0.09639768502470046
-      },
-      "notes": "TODO",
-      "external": "1430680"
-    },
-    "1904": {
-      "latlng": {
-        "lat": 51.45876931464815,
-        "lng": 0.05432071021885597
-      },
-      "notes": "TODO: Hardly a facade",
-      "external": "1392379"
-    },
-    "1906": {
-      "latlng": {
-        "lat": 51.652988999068505,
-        "lng": -0.0726415888113681
-      },
-      "notes": "TODO",
-      "external": "1389537"
+      "notes": "On drainpipe",
+      "external": ""
     }
   }
 }
