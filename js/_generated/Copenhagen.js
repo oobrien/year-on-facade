@@ -17,7 +17,7 @@ const data = {
       "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
     },
     "useInternalMap": true,
-    "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
     "city": "Copenhagen"
   },
   "points": {

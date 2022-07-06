@@ -7,7 +7,7 @@ const data = {
     },
     "borders": null,
     "useInternalMap": true,
-    "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web"
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
   },
   "points": {
     "1658": {
@@ -883,14 +883,23 @@ const data = {
       },
       "notes": ""
     },
-    "1890": {
-      "city": "London",
+    "1889a": {
+      "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.4917065076334,
-        "lng": -0.11890162231838927
+        "lat": 51.6084408,
+        "lng": -0.4154621
       },
-      "notes": ""
+      "notes": "TODO:Replacements:Norfolk Terrace"
+    },
+    "1890": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.6061853,
+        "lng": -0.4168552
+      },
+      "notes": "Industry Cottage"
     },
     "1891": {
       "city": "Middlesex",
@@ -917,7 +926,7 @@ const data = {
         "lat": 51.60988,
         "lng": -0.42124
       },
-      "notes": "TODO Ferndale Villas"
+      "notes": "Ferndale Villas"
     },
     "1894": {
       "city": "London",
@@ -956,13 +965,13 @@ const data = {
       "notes": ""
     },
     "1898": {
-      "city": "London",
-      "external": "1357448",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.52068522552065,
-        "lng": -0.152624457958324
+        "lat": 51.5471805,
+        "lng": -0.2321194
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1899": {
       "city": "Copenhagen",
@@ -973,23 +982,41 @@ const data = {
       },
       "notes": ""
     },
-    "1900": {
+    "1899a": {
       "city": "Middlesex",
       "external": "",
+      "latlng": {
+        "lat": 51.4989288,
+        "lng": -0.3798854
+      },
+      "notes": "TODO:Penalverne Villas"
+    },
+    "1900": {
+      "city": "Middlesex",
+      "external": "823995712",
       "latlng": {
         "lat": 51.606,
         "lng": -0.41879
       },
-      "notes": "TODO"
+      "notes": "Woodbine Terrace"
     },
     "1901": {
-      "city": "London",
-      "external": "1379177",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.551752501726476,
-        "lng": -0.19269477900208365
+        "lat": 51.5022459,
+        "lng": -0.3858696
       },
-      "notes": ""
+      "notes": "TODO"
+    },
+    "1901a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57215,
+        "lng": -0.33998
+      },
+      "notes": "TODO"
     },
     "1902": {
       "city": "London",
@@ -1019,13 +1046,22 @@ const data = {
       "notes": "TODO: Hardly a facade"
     },
     "1905": {
-      "city": "London",
-      "external": "1079754",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.4748164774283,
-        "lng": -0.22060844720414502
+        "lat": 51.5584532,
+        "lng": -0.2174762
       },
       "notes": ""
+    },
+    "1905a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51115,
+        "lng": -0.37577
+      },
+      "notes": "TODO"
     },
     "1906": {
       "city": "Copenhagen",
@@ -1073,13 +1109,22 @@ const data = {
       "notes": ""
     },
     "1911": {
-      "city": "London",
-      "external": "1294346",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.49855627563943,
-        "lng": -0.16264898157580732
+        "lat": 51.6092539,
+        "lng": -0.3689304
       },
       "notes": ""
+    },
+    "1911a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.6077094,
+        "lng": -0.340214
+      },
+      "notes": "TODO"
     },
     "1912": {
       "city": "London",
@@ -1100,11 +1145,11 @@ const data = {
       "notes": "On drainpipe"
     },
     "1914": {
-      "city": "London",
+      "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.513596653731256,
-        "lng": -0.1120202349541296
+        "lat": 51.54702,
+        "lng": -0.20413
       },
       "notes": ""
     },
@@ -1118,13 +1163,13 @@ const data = {
       "notes": ""
     },
     "1919": {
-      "city": "London",
+      "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.52838568117278,
-        "lng": -0.018955591995673187
+        "lat": 51.5115,
+        "lng": -0.31508
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1920": {
       "city": "London",
@@ -1154,11 +1199,11 @@ const data = {
       "notes": ""
     },
     "1923": {
-      "city": "London",
-      "external": "1426765",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.529519856043954,
-        "lng": -0.06927860411786867
+        "lat": 51.6149468,
+        "lng": -0.2756908
       },
       "notes": ""
     },
@@ -1171,11 +1216,11 @@ const data = {
       "notes": ""
     },
     "1925": {
-      "city": "London",
-      "external": "1380170",
+      "city": "Middlesex",
+      "external": "",
       "latlng": {
-        "lat": 51.49688392337117,
-        "lng": -0.12863013544703802
+        "lat": 51.6138,
+        "lng": -0.27616
       },
       "notes": ""
     },
@@ -1197,23 +1242,49 @@ const data = {
       },
       "notes": "TODO"
     },
-    "1929": {
-      "city": "London",
-      "external": "",
+    "1928": {
+      "city": "Middlesex",
       "latlng": {
-        "lat": 51.53161440573577,
-        "lng": -0.13452690989194183
+        "lat": 51.61265,
+        "lng": -0.2773
       },
-      "notes": ""
+      "notes": "Built by Cowen & Cross"
     },
-    "1931": {
-      "city": "London",
+    "1929": {
+      "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.50450052620141,
-        "lng": -0.3063282571404384
+        "lat": 51.51227,
+        "lng": -0.38419
       },
       "notes": "TODO"
+    },
+    "1929a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5141824,
+        "lng": -0.3018914
+      },
+      "notes": "TODO"
+    },
+    "1930": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50871,
+        "lng": -0.33722
+      },
+      "notes": "TODO"
+    },
+    "1931": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5882482,
+        "lng": -0.2524284
+      },
+      "notes": "Wakemans Hill Parade"
     },
     "1932": {
       "city": "London",
@@ -1243,13 +1314,13 @@ const data = {
       "notes": "TODO"
     },
     "1936": {
-      "city": "London",
+      "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.50345166547039,
-        "lng": -0.10651402477112712
+        "lat": 51.589062,
+        "lng": -0.2533524
       },
-      "notes": ""
+      "notes": "Wakemans Hill Parade"
     },
     "1955": {
       "city": "London",
@@ -1377,6 +1448,15 @@ const data = {
       },
       "notes": "TODO"
     },
+    "2009": {
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.5796091,
+        "lng": -0.2418664
+      },
+      "notes": "TODO"
+    },
     "2010": {
       "city": "Perm",
       "latlng": {
@@ -1384,6 +1464,15 @@ const data = {
         "lng": 56.26782744824511
       },
       "notes": ""
+    },
+    "2018": {
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.302682
+      },
+      "notes": "TODO"
     }
   },
   "citiesConfig": {
@@ -1393,6 +1482,7 @@ const data = {
     "London": {
       "config": {
         "country": "UK",
+        "boundary": true,
         "external": {
           "label": "Check out Historic England",
           "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
@@ -1401,10 +1491,12 @@ const data = {
     },
     "Middlesex": {
       "config": {
-        "country": "UK",
+        "country": "UK (Historic County, 1889-1965)",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+        "boundary": true,
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "See Building details on OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },

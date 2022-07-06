@@ -4,6 +4,7 @@
 <head>
   <title>Year on Facade</title>
   <link rel="stylesheet" type="text/css" href="../css/map.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.14.1/css/ol.css" />
   <meta name="viewport" content="width=device-width" />
   <meta charset="UTF-16">
   <script>
@@ -24,15 +25,24 @@
     document.head.appendChild(mainScript);
 
     const mapScript = document.createElement('script');
-    mapScript.src = 'https://lib.oomap.co.uk/openlayers/v6.3.1-dist/ol.js'
+    mapScript.src = 'https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.14.1/build/ol.js'
     mapScript.defer = false;
     mapScript.async = false;
     document.head.appendChild(mapScript);
+    
+    function stats()
+    {
+    	window.location.href = '../stats/?city=' + city;
+    }
 </script>
 </head>
 
 <body onload="initMap();">
   <div id="map"></div>
+  <div id="buttons">
+  	<button id="stats" onclick="stats();">Statistics</button>
+  	<button id="todo" onclick="todo();">Toggle TODOs only</button>
+  </div>
 </body>
 
 </html>

@@ -1,23 +1,13 @@
 const data = {
   "config": {
     "country": "UK",
-    "zoom": 12,
-    "center": {
-      "lat": 51.5072,
-      "lng": -0.1276
-    },
-    "borders": {
-      "south": 51.27986,
-      "north": 51.692042,
-      "west": -0.524924,
-      "east": 0.32377
-    },
+    "boundary": true,
     "external": {
       "label": "Check out Historic England",
       "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
     },
     "useInternalMap": true,
-    "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
     "city": "London"
   },
   "points": {
@@ -1077,6 +1067,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1930": {
+      "latlng": {
+        "lat": 51.6525367,
+        "lng": -0.1988766
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1931": {
       "latlng": {
         "lat": 51.50450052620141,
@@ -1225,6 +1223,22 @@ const data = {
       "latlng": {
         "lat": 51.658522612449595,
         "lng": -0.08817388107804792
+      },
+      "notes": "TODO",
+      "external": ""
+    },
+    "2009": {
+      "latlng": {
+        "lat": 51.5796091,
+        "lng": -0.2418664
+      },
+      "notes": "TODO",
+      "external": ""
+    },
+    "2018": {
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.302682
       },
       "notes": "TODO",
       "external": ""

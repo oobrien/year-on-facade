@@ -12,17 +12,7 @@
   "London": {
     "config": {
       "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
-      },
-      "borders": {
-        "south": 51.279860,
-        "north": 51.692042,
-        "west": -0.524924,
-        "east": 0.323770
-      },
+      "boundary": true,
       "external": {
         "label": "Check out Historic England",
         "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
@@ -31,21 +21,12 @@
   },
   "Middlesex": {
     "config": {
-      "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
-      },
-      "borders": {
-        "south": 51.279860,
-        "north": 51.692042,
-        "west": -0.524924,
-        "east": 0.323770
-      },
+      "country": "UK (Historic County, 1889-1965)",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+      "boundary": true,
       "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "label": "See Building details on OpenStreetMap",
+        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
       }
     }
   },

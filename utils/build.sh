@@ -22,7 +22,7 @@ for filename in ./csv/*.csv; do
 
   # generate temporary json files for each city
   cat "./csv/$city.csv" | jq -sRr "split(\"\\n\") | .[1:] | map(split(\",\")) | map({(.[0]): {latlng: {lat: .[1]|tonumber, lng: .[2]|tonumber}, notes: .[3], external: .[4]} }) | add as \$points | {\"$city\": {\"points\": \$points}} | del(..|nulls)" >$temp
-  jq -s "(.[0] | del(.apiKey)) as \$globalConfigs | .[1] * .[2] | {\"$city\": .[\"$city\"]} | .[\"$city\"].config += \$globalConfigs | .[\"$city\"].config.city = \"$city\"" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
+  jq -s ".[0] as \$globalConfigs |.[1] * .[2] | {\"$city\": .[\"$city\"]} | .[\"$city\"].config += \$globalConfigs | .[\"$city\"].config.city = \"$city\"" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
 
   cat >"./js/_generated/$city.js" <<EOF
 const data = $(cat ./utils/$city.json.tmp | jq ".[\"$city\"]")
@@ -33,7 +33,7 @@ done
 jq -s --sort-keys '{"World": {"points": [.[] | ..? | .config.city as $city | .points // empty | with_entries(.value += {"city": $city})] | add }}' $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
 city="World"
 jq -s "(.[1] | with_entries(.value.config |= del(.zoom, .borders, .center))) as \$citiesConfigs |
-  (.[0] | del(.apiKey)) as \$globalConfigs |
+  .[0] as \$globalConfigs |
   .[1] * .[2] | {\"$city\": .[\"$city\"]} |
   .[\"$city\"].config += \$globalConfigs |
   .[\"$city\"].citiesConfig = \$citiesConfigs" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
@@ -77,6 +77,7 @@ EOF
 EOF
 
   for year in $(jq -r ".$city.points | keys | .[]" $filename); do
+    year=`echo $year | tr -d -c 0-9`
     rect_start=$(($year - $min_year))
     cat >>$svg_file <<EOF
   <rect y="0" x="$rect_start" width="1" height="$height" fill="#c8e3c2" />
@@ -85,10 +86,5 @@ EOF
 
   echo "</svg>" >>$svg_file
 done
-
-# update api key
-api_key=$(jq -r '.apiKey' config.json)
-cat ./map/index.html | sed -E "s/key=[^&]+/key=$api_key/g" >./utils/index.html.tmp
-mv ./utils/index.html.tmp ./map/index.html
 
 rm ./utils/*.tmp

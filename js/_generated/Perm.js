@@ -13,7 +13,7 @@ const data = {
       "east": 56.901738
     },
     "useInternalMap": true,
-    "photosBaseUrl": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
     "city": "Perm"
   },
   "points": {

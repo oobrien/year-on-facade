@@ -52,9 +52,14 @@ function addPhoto(container, url) {
 
 function addPhotos(city, year) {
   if (data.config.photosBaseUrl && city != 'Replacements') {
+    var photosBaseUrl = data.config.photosBaseUrl;
+  	if (data.config.photosBaseUrlLocal)
+  	{
+  		photosBaseUrl = data.config.photosBaseUrlLocal;
+  	}
     const photoContainer = document.querySelector('#photoContainer')
-    addPhoto(photoContainer, `${data.config.photosBaseUrl}/${city}/${year}_close.jpg`)
-    addPhoto(photoContainer, `${data.config.photosBaseUrl}/${city}/${year}.jpg`)
+    addPhoto(photoContainer, `${photosBaseUrl}/${city}/${year}_close.jpg`)
+    addPhoto(photoContainer, `${photosBaseUrl}/${city}/${year}.jpg`)
   }
 }
 
