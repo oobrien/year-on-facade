@@ -547,6 +547,14 @@ const data = {
       "notes": "",
       "external": "1065751"
     },
+    "1859": {
+      "latlng": {
+        "lat": 51.6488334,
+        "lng": -0.0830927
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1860": {
       "latlng": {
         "lat": 51.51103204801751,
