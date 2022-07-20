@@ -20,12 +20,52 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1729": {
+      "latlng": {
+        "lat": 51.5899919,
+        "lng": -0.2266909
+      },
+      "notes": "Alms Houses",
+      "external": ""
+    },
     "1730": {
       "latlng": {
         "lat": 51.4087002,
         "lng": -0.4898291
       },
       "notes": "TODO:HW",
+      "external": ""
+    },
+    "1782": {
+      "latlng": {
+        "lat": 51.48565,
+        "lng": -0.30727
+      },
+      "notes": "TODO:Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.",
+      "external": "166585101"
+    },
+    "1850": {
+      "latlng": {
+        "lat": 51.48899,
+        "lng": -0.30241
+      },
+      "notes": "TODO:Hope Cottage",
+      "external": ""
+    },
+    "1852": {
+      "latlng": {
+        "lat": 51.48438,
+        "lng": -0.3069
+      },
+      "notes": "TODO:Charlotte's Cottages",
+      "external": ""
+    },
+    "1855": {
+      "latlng": {
+        "lat": 51.50948,
+        "lng": -0.3311
+      },
+      "notes": "Kensington Cemetery",
       "external": ""
     },
     "1859": {
@@ -51,6 +91,14 @@ const data = {
       },
       "notes": "TODO:Hampton Wick U.D.C.",
       "external": ""
+    },
+    "1863a": {
+      "latlng": {
+        "lat": 51.49105,
+        "lng": -0.26893
+      },
+      "notes": "TODO:Fromow & Sons Estd 1829 Erected",
+      "external": "549228726"
     },
     "1869": {
       "latlng": {
@@ -94,10 +142,10 @@ const data = {
     },
     "1878": {
       "latlng": {
-        "lat": 51.6643489,
-        "lng": -0.1825184
+        "lat": 51.60861,
+        "lng": -0.36372
       },
-      "notes": "TODO",
+      "notes": "A.D.",
       "external": ""
     },
     "1878a": {
@@ -116,12 +164,36 @@ const data = {
       "notes": "TODO:Ayr Villa",
       "external": ""
     },
+    "1878c": {
+      "latlng": {
+        "lat": 51.6643489,
+        "lng": -0.1825184
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1880": {
+      "latlng": {
+        "lat": 51.59427,
+        "lng": -0.32991
+      },
+      "notes": "Poet Cottages",
+      "external": ""
+    },
+    "1880a": {
       "latlng": {
         "lat": 51.6609284,
         "lng": -0.0853944
       },
       "notes": "TODO:Raleigh Cottages",
+      "external": ""
+    },
+    "1880b": {
+      "latlng": {
+        "lat": 51.49043,
+        "lng": -0.27379
+      },
+      "notes": "TODO:",
       "external": ""
     },
     "1881": {
@@ -132,12 +204,60 @@ const data = {
       "notes": "TODO:Glencall Villas",
       "external": ""
     },
+    "1881a": {
+      "latlng": {
+        "lat": 51.4905561,
+        "lng": -0.2734897
+      },
+      "notes": "TODO:AD",
+      "external": ""
+    },
+    "1882": {
+      "latlng": {
+        "lat": 51.48734,
+        "lng": -0.30255
+      },
+      "notes": "TODO:Invercauld Terrace",
+      "external": ""
+    },
+    "1883": {
+      "latlng": {
+        "lat": 51.48754,
+        "lng": -0.30196
+      },
+      "notes": "TODO:Wolverton Cottages",
+      "external": ""
+    },
+    "1883a": {
+      "latlng": {
+        "lat": 51.48345,
+        "lng": -0.30256
+      },
+      "notes": "TODO:Brentford Sewage Pumping Station Erected AD 1883",
+      "external": "880566108"
+    },
+    "1883b": {
+      "latlng": {
+        "lat": 51.48732,
+        "lng": -0.30279
+      },
+      "notes": "TODO:Linden Cottages",
+      "external": ""
+    },
     "1884": {
       "latlng": {
         "lat": 51.572413,
         "lng": -0.3411424
       },
       "notes": "TODO",
+      "external": ""
+    },
+    "1884a": {
+      "latlng": {
+        "lat": 51.48742,
+        "lng": -0.3023
+      },
+      "notes": "TODO:Inverness Terrace",
       "external": ""
     },
     "1886": {
@@ -196,6 +316,14 @@ const data = {
       "notes": "TODO:Percy Villa",
       "external": ""
     },
+    "1888c": {
+      "latlng": {
+        "lat": 51.5877763,
+        "lng": -0.1174019
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -209,7 +337,7 @@ const data = {
         "lat": 51.6084408,
         "lng": -0.4154621
       },
-      "notes": "TODO:Norfolk Terrace",
+      "notes": "Norfolk Terrace",
       "external": ""
     },
     "1889b": {
@@ -254,10 +382,10 @@ const data = {
     },
     "1892": {
       "latlng": {
-        "lat": 51.5784933,
-        "lng": -0.0989971
+        "lat": 51.57847,
+        "lng": -0.09911
       },
-      "notes": "TODO:Cavendish Parade",
+      "notes": "Cavendish Parade",
       "external": ""
     },
     "1892a": {
@@ -278,13 +406,21 @@ const data = {
     },
     "1895": {
       "latlng": {
+        "lat": 51.54772,
+        "lng": -0.23651
+      },
+      "notes": "This stone was laid... on 13th July",
+      "external": ""
+    },
+    "1895a": {
+      "latlng": {
         "lat": 51.6638547,
         "lng": -0.0930174
       },
       "notes": "TODO:Hazelwood Villas",
       "external": ""
     },
-    "1895a": {
+    "1895b": {
       "latlng": {
         "lat": 51.4260453,
         "lng": -0.3380455
@@ -300,12 +436,28 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1897": {
+    "1896a": {
       "latlng": {
-        "lat": 51.5819016,
-        "lng": -0.0996386
+        "lat": 51.5877897,
+        "lng": -0.116753
+      },
+      "notes": "TODO:A.D.",
+      "external": ""
+    },
+    "1896b": {
+      "latlng": {
+        "lat": 51.5877857,
+        "lng": -0.1171037
       },
       "notes": "TODO",
+      "external": ""
+    },
+    "1897": {
+      "latlng": {
+        "lat": 51.58292,
+        "lng": -0.09995
+      },
+      "notes": "",
       "external": ""
     },
     "1897a": {
@@ -332,12 +484,28 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1898": {
+    "1897d": {
       "latlng": {
-        "lat": 51.5471805,
-        "lng": -0.2321194
+        "lat": 51.58188,
+        "lng": -0.09975
       },
       "notes": "TODO",
+      "external": ""
+    },
+    "1897e": {
+      "latlng": {
+        "lat": 51.50506,
+        "lng": -0.30565
+      },
+      "notes": "TODO",
+      "external": "92482661"
+    },
+    "1898": {
+      "latlng": {
+        "lat": 51.54711,
+        "lng": -0.23218
+      },
+      "notes": "",
       "external": ""
     },
     "1898a": {
@@ -356,12 +524,20 @@ const data = {
       "notes": "TODO:Cedar Villa",
       "external": ""
     },
+    "1898c": {
+      "latlng": {
+        "lat": 51.51205,
+        "lng": -0.28958
+      },
+      "notes": "AD",
+      "external": ""
+    },
     "1899": {
       "latlng": {
         "lat": 51.511983,
         "lng": -0.2888638
       },
-      "notes": "TODO:Inglewood",
+      "notes": "Inglewood",
       "external": ""
     },
     "1899a": {
@@ -430,10 +606,10 @@ const data = {
     },
     "1901": {
       "latlng": {
-        "lat": 51.5022459,
-        "lng": -0.3858696
+        "lat": 51.59132,
+        "lng": -0.1486
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1901a": {
@@ -460,34 +636,50 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1902": {
+    "1901d": {
       "latlng": {
-        "lat": 51.5749379,
-        "lng": -0.1043464
+        "lat": 51.5022459,
+        "lng": -0.3858696
       },
       "notes": "TODO",
+      "external": ""
+    },
+    "1902": {
+      "latlng": {
+        "lat": 51.57495,
+        "lng": -0.10451
+      },
+      "notes": "",
       "external": ""
     },
     "1902a": {
       "latlng": {
-        "lat": 51.6124546,
-        "lng": -0.180737
+        "lat": 51.6125075,
+        "lng": -0.1808578
       },
       "notes": "TODO:Thornton Villa",
       "external": ""
     },
+    "1902b": {
+      "latlng": {
+        "lat": 51.5397381,
+        "lng": -0.2086757
+      },
+      "notes": "TODO:",
+      "external": ""
+    },
     "1903": {
       "latlng": {
-        "lat": 51.6217525,
-        "lng": -0.1056482
+        "lat": 51.5884,
+        "lng": -0.11461
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1903a": {
       "latlng": {
-        "lat": 51.5883964,
-        "lng": -0.114446
+        "lat": 51.6217525,
+        "lng": -0.1056482
       },
       "notes": "TODO",
       "external": ""
@@ -532,6 +724,22 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1903g": {
+      "latlng": {
+        "lat": 51.50664,
+        "lng": -0.26321
+      },
+      "notes": "TODO:ADC",
+      "external": ""
+    },
+    "1903h": {
+      "latlng": {
+        "lat": 51.48653,
+        "lng": -0.30763
+      },
+      "notes": "TODO:The Gift of Andrew Carnegie Esq",
+      "external": "254134636"
+    },
     "1904": {
       "latlng": {
         "lat": 51.6176994,
@@ -572,6 +780,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1905c": {
+      "latlng": {
+        "lat": 51.4878,
+        "lng": -0.30125
+      },
+      "notes": "TODO:Edith Cottages",
+      "external": ""
+    },
     "1906": {
       "latlng": {
         "lat": 51.5775976,
@@ -596,12 +812,28 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1906c": {
+      "latlng": {
+        "lat": 51.5879369,
+        "lng": -0.1197484
+      },
+      "notes": "TODO:This stone was laid by W.C. Parkinson Esq L.C.C. 19th September",
+      "external": ""
+    },
+    "1906d": {
+      "latlng": {
+        "lat": 51.4934009,
+        "lng": -0.2674967
+      },
+      "notes": "TODO:Dewsbury Crescent",
+      "external": ""
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
         "lng": -0.19016
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1907a": {
@@ -633,7 +865,7 @@ const data = {
         "lat": 51.61496,
         "lng": -0.17696
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1908a": {
@@ -657,7 +889,23 @@ const data = {
         "lat": 51.5964513,
         "lng": -0.3343658
       },
+      "notes": "",
+      "external": ""
+    },
+    "1910a": {
+      "latlng": {
+        "lat": 51.6140427,
+        "lng": -0.2488684
+      },
       "notes": "TODO",
+      "external": ""
+    },
+    "1910b": {
+      "latlng": {
+        "lat": 51.61226,
+        "lng": -0.17552
+      },
+      "notes": "TODO:Woodhouse Parade",
       "external": ""
     },
     "1911": {
@@ -681,7 +929,7 @@ const data = {
         "lat": 51.58867,
         "lng": -0.16392
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1913a": {
@@ -689,7 +937,7 @@ const data = {
         "lat": 51.57025,
         "lng": -0.33993
       },
-      "notes": "On drainpipe",
+      "notes": "TODO:On drainpipe",
       "external": ""
     },
     "1914": {
@@ -713,7 +961,7 @@ const data = {
         "lat": 51.5115,
         "lng": -0.31508
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1923": {
@@ -740,12 +988,21 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1925a": {
+      "latlng": {
+        "lat": 51.6150139,
+        "lng": -0.2461455
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1928": {
       "latlng": {
         "lat": 51.61265,
         "lng": -0.2773
       },
-      "notes": "Built by Cowen & Cross"
+      "notes": "Built by Cowen & Cross",
+      "external": ""
     },
     "1929": {
       "latlng": {
@@ -760,7 +1017,7 @@ const data = {
         "lat": 51.5141824,
         "lng": -0.3018914
       },
-      "notes": "TODO",
+      "notes": "The Feathers Restaurant",
       "external": ""
     },
     "1930": {
@@ -768,7 +1025,8 @@ const data = {
         "lat": 51.50871,
         "lng": -0.33722
       },
-      "notes": "TODO:Rebuilt"
+      "notes": "Rebuilt",
+      "external": ""
     },
     "1930a": {
       "latlng": {
@@ -777,6 +1035,14 @@ const data = {
       },
       "notes": "TODO:[Reconstructed later]",
       "external": ""
+    },
+    "1930b": {
+      "latlng": {
+        "lat": 51.5025,
+        "lng": -0.30562
+      },
+      "notes": "",
+      "external": "913143859"
     },
     "1931": {
       "latlng": {
@@ -818,6 +1084,14 @@ const data = {
       "notes": "Wakemans Hill Parade",
       "external": ""
     },
+    "1951": {
+      "latlng": {
+        "lat": 51.58966,
+        "lng": -0.21855
+      },
+      "notes": "GR",
+      "external": ""
+    },
     "1982": {
       "latlng": {
         "lat": 51.5775457,
@@ -834,10 +1108,26 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "2000": {
+      "latlng": {
+        "lat": 51.6124546,
+        "lng": -0.180737
+      },
+      "notes": "TODO",
+      "external": ""
+    },
+    "2001": {
+      "latlng": {
+        "lat": 51.48603,
+        "lng": -0.30738
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "2002": {
       "latlng": {
-        "lat": 51.658522612449595,
-        "lng": -0.08817388107804792
+        "lat": 51.658522,
+        "lng": -0.088173
       },
       "notes": "TODO",
       "external": ""
