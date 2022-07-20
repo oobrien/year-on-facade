@@ -10,6 +10,24 @@ const data = {
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
   },
   "points": {
+    "1607": {
+      "city": "London",
+      "external": "1218593",
+      "latlng": {
+        "lat": 51.48068758027714,
+        "lng": 0.037021553277171264
+      },
+      "notes": "TODO"
+    },
+    "1629": {
+      "city": "London",
+      "external": "1080160",
+      "latlng": {
+        "lat": 51.535080908278466,
+        "lng": -0.46018471798074584
+      },
+      "notes": "TODO"
+    },
     "1658": {
       "city": "London",
       "external": "1293320",
@@ -236,13 +254,13 @@ const data = {
       "notes": ""
     },
     "1767": {
-      "city": "Replacements",
+      "city": "London",
       "external": "1079381",
       "latlng": {
         "lat": 51.4955623949858,
         "lng": -0.36575359610833696
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1776": {
       "city": "London",
@@ -269,7 +287,7 @@ const data = {
         "lat": 51.478984550230265,
         "lng": -0.3259104361624849
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1786": {
       "city": "London",
@@ -1783,6 +1801,15 @@ const data = {
       },
       "notes": ""
     },
+    "1916": {
+      "city": "London",
+      "external": "1359215",
+      "latlng": {
+        "lat": 51.51249979139474,
+        "lng": -0.1044392448218371
+      },
+      "notes": "TODO"
+    },
     "1919": {
       "city": "Middlesex",
       "external": "",
@@ -1951,7 +1978,7 @@ const data = {
         "lat": 51.6455265,
         "lng": -0.046521
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1931c": {
       "city": "Middlesex",

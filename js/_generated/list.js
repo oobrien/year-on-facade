@@ -1,10 +1,9 @@
 const data = {
   "Billund, Denmark": 1,
   "Copenhagen, Denmark": 3,
-  "London, UK": 155,
-  "Middlesex, UK (Historic County, 1889-1965)": 142,
+  "London, UK": 154,
   "Perm, Russia": 1,
-  "Replacements": 5,
-  "World": 241,
+  "Replacements": 4,
+  "World": 156,
 }
-const minYear = 1658;
+const minYear = 1607;
