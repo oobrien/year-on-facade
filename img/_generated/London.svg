@@ -1,5 +1,5 @@
 <svg viewBox="0 0 415 35" shape-rendering="crispEdges" xmlns="http://www.w3.org/2000/svg">
-  <rect y="0" x="0" width="396" height="35" fill="#a3bff4" />
+  <rect y="0" x="0" width="412" height="35" fill="#a3bff4" />
   <rect y="0" x="0" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="22" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="51" width="1" height="35" fill="#c8e3c2" />
@@ -37,10 +37,6 @@
   <rect y="0" x="190" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="192" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="199" width="1" height="35" fill="#c8e3c2" />
-  <rect y="0" x="200" width="1" height="35" fill="#c8e3c2" />
-  <rect y="0" x="201" width="1" height="35" fill="#c8e3c2" />
-  <rect y="0" x="202" width="1" height="35" fill="#c8e3c2" />
-  <rect y="0" x="203" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="204" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="205" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="209" width="1" height="35" fill="#c8e3c2" />
@@ -73,6 +69,7 @@
   <rect y="0" x="248" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="250" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="251" width="1" height="35" fill="#c8e3c2" />
+  <rect y="0" x="252" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="253" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="254" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="255" width="1" height="35" fill="#c8e3c2" />
@@ -139,6 +136,7 @@
   <rect y="0" x="319" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="320" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="322" width="1" height="35" fill="#c8e3c2" />
+  <rect y="0" x="323" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="324" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="325" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="326" width="1" height="35" fill="#c8e3c2" />
@@ -158,4 +156,6 @@
   <rect y="0" x="393" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="394" width="1" height="35" fill="#c8e3c2" />
   <rect y="0" x="395" width="1" height="35" fill="#c8e3c2" />
+  <rect y="0" x="402" width="1" height="35" fill="#c8e3c2" />
+  <rect y="0" x="411" width="1" height="35" fill="#c8e3c2" />
 </svg>

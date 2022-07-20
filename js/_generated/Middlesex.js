@@ -404,6 +404,14 @@ const data = {
       "notes": "Ferndale Villas",
       "external": ""
     },
+    "1893a": {
+      "latlng": {
+        "lat": 51.49189,
+        "lng": -0.26197
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1895": {
       "latlng": {
         "lat": 51.54772,
@@ -499,6 +507,14 @@ const data = {
       },
       "notes": "TODO",
       "external": "92482661"
+    },
+    "1897f": {
+      "latlng": {
+        "lat": 51.49256,
+        "lng": -0.26692
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1898": {
       "latlng": {

@@ -1153,6 +1153,15 @@ const data = {
       },
       "notes": "Ferndale Villas"
     },
+    "1893a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49189,
+        "lng": -0.26197
+      },
+      "notes": "TODO"
+    },
     "1894": {
       "city": "London",
       "external": "",
@@ -1267,6 +1276,15 @@ const data = {
       "latlng": {
         "lat": 51.50506,
         "lng": -0.30565
+      },
+      "notes": "TODO"
+    },
+    "1897f": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49256,
+        "lng": -0.26692
       },
       "notes": "TODO"
     },
@@ -1978,7 +1996,7 @@ const data = {
         "lat": 51.6455265,
         "lng": -0.046521
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1931c": {
       "city": "Middlesex",
