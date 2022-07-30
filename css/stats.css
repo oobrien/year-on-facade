@@ -25,7 +25,7 @@ h1 {
 .year {
   width: 34px;
   height: 34px;
-  background-color: #a3bff4;
+  background-color: #cccccc;
   border: 0.5px solid white;
   line-height: 34px;
   text-align: center;
@@ -33,11 +33,22 @@ h1 {
   color: #37383a
 }
 
+.todo {
+  background-color: #eecccc;
+  cursor: pointer;
+}
+
+.todoexternal {
+  background-color: #ffbbbb;
+  cursor: pointer;
+}
+
+
 .found {
-  background-color: #d5e5da;
+  background-color: #a3bff4;
   cursor: pointer;
 }
 
 .external {
-  background-color: #b3d9b8;
+  background-color: #83afff;
 }

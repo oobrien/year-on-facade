@@ -67,21 +67,35 @@ for filename in $(ls -A1 utils/*tmp | grep -v temp.json.tmp); do
 EOF
 
   # draw range
-  first_year=$(jq -r ".$city.points | keys | first" $filename)
-  last_year=$(jq -r ".$city.points | keys | last" $filename)
+  first_year=$(jq -r ".$city.points | keys |  first | .[0:4]" $filename)
+  last_year=$(jq -r ".$city.points | keys | last | .[0:4]" $filename)
   background_width=$(($last_year - $first_year + 1))
   background_start=$(($first_year - $min_year))
 
   cat >>$svg_file <<EOF
-  <rect y="0" x="$background_start" width="$background_width" height="$height" fill="#a3bff4" />
+  <rect y="0" x="$background_start" width="$background_width" height="$height" fill="#cccccc" />
 EOF
 
   for year in $(jq -r ".$city.points | keys | .[]" $filename); do
     year=`echo $year | tr -d -c 0-9`
     rect_start=$(($year - $min_year))
     cat >>$svg_file <<EOF
-  <rect y="0" x="$rect_start" width="1" height="$height" fill="#c8e3c2" />
+  <rect y="0" x="$rect_start" width="1" height="$height" fill="#eecccc" />
 EOF
+  done
+
+  for year in $(jq -r ".$city.points | keys | .[]" $filename); do
+    case $year in 
+    *_*) 
+    	;;
+    *)
+        year=`echo $year | tr -d -c 0-9`
+	    rect_start=$(($year - $min_year))
+    	cat >>$svg_file <<EOF
+	   <rect y="0" x="$rect_start" width="1" height="$height" fill="#a3bff4" />
+EOF
+;;
+    esac
   done
 
   echo "</svg>" >>$svg_file

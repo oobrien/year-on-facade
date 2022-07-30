@@ -52,12 +52,30 @@ function initMap()
 		var marker = new ol.Feature({ geometry: pointGeom });
 		marker.setId(year);
 		marker.set('label', year);
-		marker.set('fillColor', 'rgba(64,192,255,0.7)');
-		marker.set('todo', false);	
-		if (points[year].notes.length > 3 && points[year].notes.substring(0, 4) == "TODO")
+		if (year.indexOf("_") > -1)
+		//if (points[year].notes.length > 3 && points[year].notes.substring(0, 4) == "TODO")
 		{
-			marker.set('fillColor', 'rgba(255,96,96,0.5)');	
+			if (year.length > 5)
+			{
+				marker.set('fillColor', 'rgba(255,220,96,0.3)');	
+			}
+			else
+			{
+				marker.set('fillColor', 'rgba(255,96,96,0.5)');			
+			}
 			marker.set('todo', true);	
+		}
+		else
+		{
+			if (year.length > 4)
+			{
+				marker.set('fillColor', 'rgba(64,255,192,0.4)');			
+			}
+			else
+			{
+				marker.set('fillColor', 'rgba(64,192,255,0.7)');	
+			}		
+			marker.set('todo', false);	
 		}
 		dataSource.addFeature(marker);
 	}

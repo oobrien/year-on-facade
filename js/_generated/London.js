@@ -51,6 +51,14 @@ const data = {
       "notes": "TODO",
       "external": "1184479"
     },
+    "1675": {
+      "latlng": {
+        "lat": 51.48795,
+        "lng": -0.47839
+      },
+      "notes": "TODO",
+      "external": "1358413"
+    },
     "1702": {
       "latlng": {
         "lat": 51.518003317823236,
@@ -1187,6 +1195,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1982": {
+      "latlng": {
+        "lat": 51.5775457,
+        "lng": -0.3336037
+      },
+      "notes": "TODO",
+      "external": ""
+    },
     "1985": {
       "latlng": {
         "lat": 51.499137826754534,
@@ -1217,6 +1233,14 @@ const data = {
         "lng": -0.23167309975822403
       },
       "notes": "",
+      "external": ""
+    },
+    "1994": {
+      "latlng": {
+        "lat": 51.5813749,
+        "lng": -0.3349292
+      },
+      "notes": "TODO",
       "external": ""
     },
     "1997": {

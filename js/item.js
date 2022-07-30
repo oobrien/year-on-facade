@@ -11,6 +11,9 @@ function updateLinks(city, year) {
     ? currentLocation.href.replace('/item', '/map')
     : `https://www.google.com/maps/search/${data.points[year].latlng.lat},${data.points[year].latlng.lng}`
 
+  const streetview = document.querySelector('#streetview a')
+  streetview.href = `https://www.google.com/maps?q=&layer=c&cbll=${data.points[year].latlng.lat},${data.points[year].latlng.lng}&cbp=11,0,0,0,0`
+
   const more = document.querySelector('#more a')
   const statsUrl = `${currentLocation.origin}${currentLocation.pathname.replace('/item', '/stats')}`
   more.href = `${statsUrl}?city=${city}`

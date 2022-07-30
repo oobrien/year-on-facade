@@ -24,7 +24,8 @@ function redirectToExactPoint(year) {
 function updateTable() {
   const yearsInLine = 10
 
-  const years = Object.keys(data.points).map(y => parseInt(y))
+  const years = Object.keys(data.points).map(y => parseInt(y.substring(0,4)))
+  console.log(years);
   const min = Math.floor(Math.min(...years) / yearsInLine) * yearsInLine
   let max = Math.ceil((Math.max(...years) + 1) / yearsInLine) * yearsInLine
 
@@ -38,11 +39,21 @@ function updateTable() {
       year.classList.add('year')
       const currentYear = r * yearsInLine + c
       if (years.includes(currentYear)) {
-        year.classList.add('found')
-        year.onclick = redirectToExactPoint(currentYear)
-        if (data.points[currentYear].external) {
-          year.classList.add('external')
-        }
+        if (data.points[currentYear + "_"])
+        {
+			year.classList.add('todo')
+			year.onclick = redirectToExactPoint(currentYear + "_")
+			if (data.points[currentYear + "_"].external) {
+			  year.classList.add('todoexternal')
+			}
+		} else if (data.points[currentYear])
+		{
+			year.classList.add('found')
+			year.onclick = redirectToExactPoint(currentYear)
+			if (data.points[currentYear].external) {
+			  year.classList.add('external')
+			}		
+		}
       }
       if (c == 0 || c % 5 == 0) {
         year.innerText = currentYear
