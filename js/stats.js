@@ -92,6 +92,16 @@ function updateLongestSequence() {
   )})`
 }
 
+function updateHeritageRegistry () {
+  const inRegistry = Object.values(data.points).filter(p => p.external).length
+  if (inRegistry > 0) {
+    const percentage = Math.floor(inRegistry * 100 / Object.keys(data.points).length)
+    document.querySelector('#registry .value').innerHTML = `${inRegistry} (${percentage}%)`
+  } else {
+    document.querySelector('#registry').remove()
+  }
+}
+
 function updateLinks() {
   document.querySelector('#compare a').href = window.location.href.replace('stats/', '').replace(/\?.+/, '')
   const map = document.querySelector('#map a')
@@ -132,6 +142,7 @@ function updateStats() {
   updateRange()
   updateTotal()
   updateLongestSequence()
+  updateHeritageRegistry()
   updateLinks()
   updateTable()
 }
