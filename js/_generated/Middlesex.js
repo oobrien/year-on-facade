@@ -220,6 +220,14 @@ const data = {
       "notes": "TODO:Silver Hall Place",
       "external": ""
     },
+    "1859a_": {
+      "latlng": {
+        "lat": 51.6488334,
+        "lng": -0.0830927
+      },
+      "notes": "Rose Cottages",
+      "external": ""
+    },
     "1861_": {
       "latlng": {
         "lat": 51.4241958,
@@ -1572,7 +1580,7 @@ const data = {
       "notes": "TODO",
       "external": "236509956"
     },
-    "1904d": {
+    "1904d_": {
       "latlng": {
         "lat": 51.63561,
         "lng": -0.05213
