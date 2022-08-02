@@ -1751,7 +1751,7 @@ const data = {
     "1905e": {
       "latlng": {
         "lat": 51.47161,
-        "lng": 0.36393
+        "lng": -0.36393
       },
       "notes": "Edward Villas",
       "external": ""
@@ -1831,7 +1831,7 @@ const data = {
     "1906g_": {
       "latlng": {
         "lat": 51.64024,
-        "lng": 0.30141
+        "lng": -0.30141
       },
       "notes": "",
       "external": "1058208398"

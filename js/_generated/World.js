@@ -2787,7 +2787,7 @@ const data = {
       "external": "",
       "latlng": {
         "lat": 51.47161,
-        "lng": 0.36393
+        "lng": -0.36393
       },
       "notes": "Edward Villas"
     },
@@ -2886,7 +2886,7 @@ const data = {
       "external": "1058208398",
       "latlng": {
         "lat": 51.64024,
-        "lng": 0.30141
+        "lng": -0.30141
       },
       "notes": ""
     },
