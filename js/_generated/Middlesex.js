@@ -52,7 +52,7 @@ const data = {
       "notes": "Alms Houses",
       "external": ""
     },
-    "1730__": {
+    "1730_": {
       "latlng": {
         "lat": 51.4087002,
         "lng": -0.4898291
@@ -92,14 +92,6 @@ const data = {
       "notes": "TODO:Erected by the Worshipful Company of Goldsmiths A.D.",
       "external": "211819761"
     },
-    "1825_": {
-      "latlng": {
-        "lat": 51.4657249,
-        "lng": -0.3593105
-      },
-      "notes": "TODO:[?] Villas",
-      "external": ""
-    },
     "1834_": {
       "latlng": {
         "lat": 51.47918,
@@ -108,20 +100,20 @@ const data = {
       "notes": "TODO:W R IV",
       "external": "43798084"
     },
-    "1835_": {
+    "1835": {
       "latlng": {
-        "lat": 51.4678296,
-        "lng": -0.3616288
+        "lat": 51.46778,
+        "lng": -0.36143
       },
-      "notes": "TODO:Independent Chapel. Rebuilt.",
-      "external": ""
+      "notes": "Independent Chapel; Rebuilt;",
+      "external": "1035381961"
     },
-    "1846_": {
+    "1846": {
       "latlng": {
-        "lat": 51.4643648,
-        "lng": -0.3776079
+        "lat": 51.46452,
+        "lng": -0.37752
       },
-      "notes": "TODO:Wellington Cottages",
+      "notes": "Wellington Cottages",
       "external": ""
     },
     "1847_": {
@@ -260,6 +252,14 @@ const data = {
       "notes": "TODO:Fromow & Sons Estd 1829 Erected",
       "external": "549228726"
     },
+    "1868": {
+      "latlng": {
+        "lat": 51.46805,
+        "lng": -0.37835
+      },
+      "notes": "Magdala Cottages",
+      "external": ""
+    },
     "1869_": {
       "latlng": {
         "lat": 51.4685512,
@@ -388,12 +388,20 @@ const data = {
       "notes": "TODO:AD",
       "external": ""
     },
-    "1881b_": {
+    "1881c_": {
       "latlng": {
-        "lat": 51.4683963,
-        "lng": -0.3785518
+        "lat": 51.6166904,
+        "lng": -0.316065
       },
-      "notes": "TODO:[?] Villas",
+      "notes": "Erected in loving memory of Robert Hollond by Ellen Julia his widow",
+      "external": ""
+    },
+    "1881d_": {
+      "latlng": {
+        "lat": 51.61295,
+        "lng": -0.33132
+      },
+      "notes": "Roxwell Cottages",
       "external": ""
     },
     "1882_": {
@@ -486,13 +494,21 @@ const data = {
     },
     "1885_": {
       "latlng": {
+        "lat": 51.414297,
+        "lng": -0.366609
+      },
+      "notes": "TODO:Melrose Villa",
+      "external": ""
+    },
+    "1885a_": {
+      "latlng": {
         "lat": 51.4717719,
         "lng": -0.363735
       },
       "notes": "TODO:[?] Cottages",
       "external": ""
     },
-    "1885a_": {
+    "1885b_": {
       "latlng": {
         "lat": 51.4143864,
         "lng": -0.366607
@@ -500,12 +516,12 @@ const data = {
       "notes": "TODO:Avenue Villa",
       "external": ""
     },
-    "1885b_": {
+    "1885c_": {
       "latlng": {
-        "lat": 51.4721296,
-        "lng": -0.363833
+        "lat": 51.46579,
+        "lng": -0.35958
       },
-      "notes": "TODO:[?] Villas",
+      "notes": "[?]wood Villas",
       "external": ""
     },
     "1886_": {
@@ -580,12 +596,12 @@ const data = {
       "notes": "TODO:Downton Villas",
       "external": ""
     },
-    "1888_": {
+    "1888": {
       "latlng": {
-        "lat": 51.4664086,
-        "lng": -0.3675321
+        "lat": 51.46627,
+        "lng": -0.36759
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1888a_": {
@@ -764,6 +780,22 @@ const data = {
       "notes": "TODO:Sunnyside Villas",
       "external": ""
     },
+    "1891f": {
+      "latlng": {
+        "lat": 51.46644,
+        "lng": -0.36016
+      },
+      "notes": "Myrtle Villas",
+      "external": ""
+    },
+    "1891g": {
+      "latlng": {
+        "lat": 51.46633,
+        "lng": -0.36023
+      },
+      "notes": "Peascod Villas",
+      "external": ""
+    },
     "1892": {
       "latlng": {
         "lat": 51.57847,
@@ -811,6 +843,22 @@ const data = {
       },
       "notes": "TODO",
       "external": "256915441"
+    },
+    "1892f_": {
+      "latlng": {
+        "lat": 51.4671261,
+        "lng": -0.3600035
+      },
+      "notes": "Herbert Villas",
+      "external": ""
+    },
+    "1892g_": {
+      "latlng": {
+        "lat": 51.4666,
+        "lng": -0.35886
+      },
+      "notes": "Welham Villas",
+      "external": ""
     },
     "1893": {
       "latlng": {
@@ -884,12 +932,28 @@ const data = {
       "notes": "",
       "external": "326821909"
     },
-    "1894_": {
+    "1893i": {
       "latlng": {
-        "lat": 51.4658915,
-        "lng": -0.3591371
+        "lat": 51.4668392,
+        "lng": -0.3598827
       },
-      "notes": "TODO:Inwood Villas",
+      "notes": "[?] Villas",
+      "external": ""
+    },
+    "1893j": {
+      "latlng": {
+        "lat": 51.46664,
+        "lng": -0.36002
+      },
+      "notes": "[? Date to be confirmed]",
+      "external": ""
+    },
+    "1894": {
+      "latlng": {
+        "lat": 51.46839,
+        "lng": -0.37838
+      },
+      "notes": "Warwick Villas",
       "external": ""
     },
     "1894a_": {
@@ -923,6 +987,30 @@ const data = {
       },
       "notes": "Sussex House",
       "external": "104050735"
+    },
+    "1894e_": {
+      "latlng": {
+        "lat": 51.46591,
+        "lng": -0.35941
+      },
+      "notes": "Inwood Villas",
+      "external": ""
+    },
+    "1894f_": {
+      "latlng": {
+        "lat": 51.4670787,
+        "lng": -0.3596186
+      },
+      "notes": "Clyde Villas",
+      "external": ""
+    },
+    "1894g_": {
+      "latlng": {
+        "lat": 51.46644,
+        "lng": -0.3589
+      },
+      "notes": "Wolesey Villas",
+      "external": ""
     },
     "1895": {
       "latlng": {
@@ -978,6 +1066,14 @@ const data = {
         "lng": -0.23651
       },
       "notes": "This stone was laid... on 13th July",
+      "external": ""
+    },
+    "1895g": {
+      "latlng": {
+        "lat": 51.47207,
+        "lng": -0.36401
+      },
+      "notes": "Fernlea Villas",
       "external": ""
     },
     "1896": {
@@ -1068,13 +1164,13 @@ const data = {
       "notes": "TODO",
       "external": "92482661"
     },
-    "1897f_": {
+    "1897f": {
       "latlng": {
         "lat": 51.49256,
         "lng": -0.26692
       },
-      "notes": "TODO",
-      "external": ""
+      "notes": "",
+      "external": "205697238"
     },
     "1897g": {
       "latlng": {
@@ -1131,6 +1227,14 @@ const data = {
       },
       "notes": "Station Mansions",
       "external": "1056191350"
+    },
+    "1898f": {
+      "latlng": {
+        "lat": 51.49259,
+        "lng": -0.26699
+      },
+      "notes": "",
+      "external": "205697238"
     },
     "1899": {
       "latlng": {
@@ -1228,6 +1332,14 @@ const data = {
       "notes": "Truman Hanbury Buxton & Co Ltd.",
       "external": ""
     },
+    "1899l": {
+      "latlng": {
+        "lat": 51.46088,
+        "lng": -0.37073
+      },
+      "notes": "Vine Villas",
+      "external": ""
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -1316,6 +1428,14 @@ const data = {
       "notes": "TODO:[?] Cottages",
       "external": ""
     },
+    "1900k": {
+      "latlng": {
+        "lat": 51.46869,
+        "lng": -0.36261
+      },
+      "notes": "",
+      "external": "1057751922"
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -1356,20 +1476,20 @@ const data = {
       "notes": "",
       "external": "327313561"
     },
-    "1901e_": {
+    "1901e": {
       "latlng": {
-        "lat": 51.4575476,
-        "lng": -0.3720091
+        "lat": 51.45751,
+        "lng": -0.37183
       },
-      "notes": "TODO:Murray Villas",
+      "notes": "Murray Villas",
       "external": ""
     },
-    "1901f_": {
+    "1901f": {
       "latlng": {
-        "lat": 51.4633826,
-        "lng": -0.3726204
+        "lat": 51.46329,
+        "lng": -0.37239
       },
-      "notes": "TODO:[?] Villas",
+      "notes": "Walden Villas",
       "external": ""
     },
     "1901g_": {
@@ -1516,12 +1636,12 @@ const data = {
       "notes": "TODO:[?] Villas",
       "external": ""
     },
-    "1903l_": {
+    "1903l": {
       "latlng": {
-        "lat": 51.4741309,
-        "lng": -0.3655343
+        "lat": 51.47399,
+        "lng": -0.36545
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1903m_": {
@@ -1628,12 +1748,12 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1905e_": {
+    "1905e": {
       "latlng": {
-        "lat": 51.4715911,
-        "lng": -0.3636947
+        "lat": 51.47161,
+        "lng": 0.36393
       },
-      "notes": "TODO:Edward Villas",
+      "notes": "Edward Villas",
       "external": ""
     },
     "1905f_": {
@@ -1643,6 +1763,14 @@ const data = {
       },
       "notes": "TODO:Hanwell Urban District Council",
       "external": ""
+    },
+    "1905g": {
+      "latlng": {
+        "lat": 51.49281,
+        "lng": -0.26672
+      },
+      "notes": "The Old Pack Horse",
+      "external": "175629798"
     },
     "1906_": {
       "latlng": {
@@ -1700,6 +1828,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1906g_": {
+      "latlng": {
+        "lat": 51.64024,
+        "lng": 0.30141
+      },
+      "notes": "",
+      "external": "1058208398"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -1739,6 +1875,14 @@ const data = {
       },
       "notes": "TODO:Muriel Villa",
       "external": ""
+    },
+    "1907e_": {
+      "latlng": {
+        "lat": 51.6404,
+        "lng": -0.30128
+      },
+      "notes": "A D",
+      "external": "1058208403"
     },
     "1908": {
       "latlng": {
@@ -1835,6 +1979,14 @@ const data = {
       },
       "notes": "Oaklands",
       "external": ""
+    },
+    "1911c_": {
+      "latlng": {
+        "lat": 51.47482,
+        "lng": -0.34588
+      },
+      "notes": "A.D.",
+      "external": "818250610"
     },
     "1912_": {
       "latlng": {
@@ -1980,6 +2132,14 @@ const data = {
       "notes": "The Feathers Restaurant",
       "external": ""
     },
+    "1929b_": {
+      "latlng": {
+        "lat": 51.5811,
+        "lng": -0.31841
+      },
+      "notes": "Churchill Parade A.D.",
+      "external": "244764993"
+    },
     "1930": {
       "latlng": {
         "lat": 51.50871,
@@ -2003,6 +2163,14 @@ const data = {
       },
       "notes": "TODO",
       "external": "913143859"
+    },
+    "1930c_": {
+      "latlng": {
+        "lat": 51.58672,
+        "lng": -0.29864
+      },
+      "notes": "Gooseacre Parade A.D.",
+      "external": ""
     },
     "1931": {
       "latlng": {
@@ -2044,6 +2212,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1935_": {
+      "latlng": {
+        "lat": 51.58994,
+        "lng": -0.33565
+      },
+      "notes": "GR V",
+      "external": "130537060"
+    },
     "1936": {
       "latlng": {
         "lat": 51.589062,
@@ -2057,7 +2233,7 @@ const data = {
         "lat": 51.58966,
         "lng": -0.21855
       },
-      "notes": "GR",
+      "notes": "GR VI",
       "external": ""
     },
     "1982_": {
@@ -2107,6 +2283,22 @@ const data = {
       },
       "notes": "TODO",
       "external": ""
+    },
+    "2003_": {
+      "latlng": {
+        "lat": 51.6171569,
+        "lng": -0.3159878
+      },
+      "notes": "White Gates",
+      "external": ""
+    },
+    "2008_": {
+      "latlng": {
+        "lat": 51.47918,
+        "lng": -0.34172
+      },
+      "notes": "Linden Homes",
+      "external": "996297025"
     },
     "2009_": {
       "latlng": {
