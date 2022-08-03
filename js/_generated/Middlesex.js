@@ -28,12 +28,12 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1702_": {
+    "1705": {
       "latlng": {
         "lat": 51.5943,
         "lng": -0.38072
       },
-      "notes": "TODO [Recently painted on post]",
+      "notes": "Queens Head [Recently painted on post]",
       "external": ""
     },
     "1721": {
@@ -91,6 +91,14 @@ const data = {
       },
       "notes": "TODO:Erected by the Worshipful Company of Goldsmiths A.D.",
       "external": "211819761"
+    },
+    "1817_": {
+      "latlng": {
+        "lat": 51.59965,
+        "lng": -0.06769
+      },
+      "notes": "S B [On drainpipe]",
+      "external": ""
     },
     "1834_": {
       "latlng": {
@@ -292,12 +300,20 @@ const data = {
       "notes": "Leamington Cottage",
       "external": "120082967"
     },
-    "1872_": {
+    "1872": {
+      "latlng": {
+        "lat": 51.59436,
+        "lng": -0.38305
+      },
+      "notes": "Bridge Place T.E",
+      "external": ""
+    },
+    "1872R_": {
       "latlng": {
         "lat": 51.6013875,
         "lng": -0.4834587
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1876_": {
@@ -348,6 +364,36 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1878d_": {
+      "latlng": {
+        "lat": 51.60077,
+        "lng": -0.07135
+      },
+      "notes": "Derby Terrace",
+      "external": ""
+    },
+    "1878e_": {
+      "latlng": {
+        "lat": 51.60071,
+        "lng": -0.0709
+      },
+      "notes": "[?]"
+    },
+    "1879_": {
+      "latlng": {
+        "lat": 51.59993,
+        "lng": -0.07125
+      },
+      "notes": "Landermere Villa",
+      "external": ""
+    },
+    "1879a_": {
+      "latlng": {
+        "lat": 51.60007,
+        "lng": -0.07123
+      },
+      "notes": "[?]"
+    },
     "1880": {
       "latlng": {
         "lat": 51.59427,
@@ -370,6 +416,22 @@ const data = {
         "lng": -0.27379
       },
       "notes": "TODO:",
+      "external": ""
+    },
+    "1880c_": {
+      "latlng": {
+        "lat": 51.59951,
+        "lng": -0.07152
+      },
+      "notes": "Castle Terrace",
+      "external": ""
+    },
+    "1880d_": {
+      "latlng": {
+        "lat": 51.60083,
+        "lng": -0.0709
+      },
+      "notes": "St John's Villa",
       "external": ""
     },
     "1881_": {
@@ -402,6 +464,22 @@ const data = {
         "lng": -0.33132
       },
       "notes": "Roxwell Cottages",
+      "external": ""
+    },
+    "1881e_": {
+      "latlng": {
+        "lat": 51.60002,
+        "lng": -0.07077
+      },
+      "notes": "Bedford Cottages",
+      "external": ""
+    },
+    "1881f_": {
+      "latlng": {
+        "lat": 51.60049,
+        "lng": -0.07126
+      },
+      "notes": "[?]",
       "external": ""
     },
     "1882_": {
@@ -636,6 +714,14 @@ const data = {
       "notes": "Vernum Cottages",
       "external": "99491561"
     },
+    "1888e": {
+      "latlng": {
+        "lat": 51.59624,
+        "lng": -0.38629
+      },
+      "notes": "North End Cottage",
+      "external": ""
+    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -699,6 +785,14 @@ const data = {
       },
       "notes": "Lee Conservancy",
       "external": "304102037"
+    },
+    "1889h_": {
+      "latlng": {
+        "lat": 51.60024,
+        "lng": -0.0717
+      },
+      "notes": "[?] Terrace [Date unclear]",
+      "external": ""
     },
     "1890": {
       "latlng": {
@@ -932,7 +1026,7 @@ const data = {
       "notes": "",
       "external": "326821909"
     },
-    "1893i": {
+    "1893i_": {
       "latlng": {
         "lat": 51.4668392,
         "lng": -0.3598827
@@ -940,7 +1034,7 @@ const data = {
       "notes": "[?] Villas",
       "external": ""
     },
-    "1893j": {
+    "1893j_": {
       "latlng": {
         "lat": 51.46664,
         "lng": -0.36002
@@ -1340,6 +1434,14 @@ const data = {
       "notes": "Vine Villas",
       "external": ""
     },
+    "1899m_": {
+      "latlng": {
+        "lat": 51.6008,
+        "lng": -0.07183
+      },
+      "notes": "[?] Villas [Date unclear]",
+      "external": ""
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -1667,6 +1769,14 @@ const data = {
       },
       "notes": "Norfolk",
       "external": "236509956"
+    },
+    "1903p_": {
+      "latlng": {
+        "lat": 51.59835,
+        "lng": -0.07589
+      },
+      "notes": "",
+      "external": ""
     },
     "1904": {
       "latlng": {
@@ -2204,6 +2314,30 @@ const data = {
       "notes": "TODO:M. Cowan",
       "external": ""
     },
+    "1932": {
+      "latlng": {
+        "lat": 51.59464,
+        "lng": -0.38351
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1933": {
+      "latlng": {
+        "lat": 51.59415,
+        "lng": -0.37973
+      },
+      "notes": "Grange Court",
+      "external": ""
+    },
+    "1933a": {
+      "latlng": {
+        "lat": 51.5941,
+        "lng": -0.38243
+      },
+      "notes": "",
+      "external": ""
+    },
     "1934_": {
       "latlng": {
         "lat": 51.4819433,
@@ -2299,6 +2433,14 @@ const data = {
       },
       "notes": "Linden Homes",
       "external": "996297025"
+    },
+    "2008a_": {
+      "latlng": {
+        "lat": 51.59685,
+        "lng": -0.38898
+      },
+      "notes": "",
+      "external": ""
     },
     "2009_": {
       "latlng": {

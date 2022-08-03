@@ -1,7 +1,7 @@
 year,latitude,longitude,notes,external
 1580,51.59385,-0.38172,Tummies est. 1988,
 1675_,51.48795,-0.47839,TODO,
-1702_,51.59430,-0.38072,TODO [Recently painted on post],
+1705,51.59430,-0.38072,Queens Head [Recently painted on post],
 1721,51.59400,-0.38179,,
 1729,51.5899919,-0.2266909,Alms Houses,
 1730_,51.4087002,-0.4898291,TODO:HW,
@@ -9,6 +9,7 @@ year,latitude,longitude,notes,external
 1782,51.48565,-0.30727,Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.,166585101
 1791_,51.54732,-0.48029,TODO:Old Bank A.D.,990490557
 1811_,51.50959,-0.25997,TODO:Erected by the Worshipful Company of Goldsmiths A.D.,211819761
+1817_,51.59965,-0.06769,S B [On drainpipe],
 1834_,51.47918,-0.49285,TODO:W R IV,43798084
 1835,51.46778,-0.36143,Independent Chapel; Rebuilt;,1035381961
 1846,51.46452,-0.37752,Wellington Cottages,
@@ -34,20 +35,29 @@ year,latitude,longitude,notes,external
 1871,51.5700452,-0.3397754,,
 1871a_,51.6550012,-0.0867398,TODO:William Place,
 1871b_,51.66995,-0.01831,Leamington Cottage,120082967
-1872_,51.6013875,-0.4834587,TODO,
+1872,51.59436,-0.38305,Bridge Place T.E,
+1872R_,51.6013875,-0.4834587,,
 1876_,51.4105562,-0.4868538,TODO:,
 1877_,51.648313,-0.0836626,TODO:Myrtle Villa,
 1878,51.60861,-0.36372,A.D.,
 1878a_,51.648311,-0.0837495,TODO:Clyde Villa,
 1878b_,51.648311,-0.0839,TODO:Ayr Villa,
 1878c_,51.6643489,-0.1825184,TODO,
+1878d_,51.60077,-0.07135,Derby Terrace,
+1878e_,51.60071,-0.07090,[?]
+1879_,51.59993,-0.07125,Landermere Villa,
+1879a_,51.60007,-0.07123,[?]
 1880,51.59427,-0.32991,Poet Cottages,
 1880a_,51.6609284,-0.0853944,TODO:Raleigh Cottages,
 1880b_,51.49043,-0.27379,TODO:,
+1880c_,51.59951,-0.07152,Castle Terrace,
+1880d_,51.60083,-0.07090,St John's Villa,
 1881_,51.6621064,-0.0890721,TODO:Glencall Villas,
 1881a_,51.4905561,-0.2734897,TODO:AD,
 1881c_,51.6166904,-0.316065,Erected in loving memory of Robert Hollond by Ellen Julia his widow,
 1881d_,51.61295,-0.33132,Roxwell Cottages,
+1881e_,51.60002,-0.07077,Bedford Cottages,
+1881f_,51.60049,-0.07126,[?],
 1882_,51.48734,-0.30255,TODO:Invercauld Terrace,
 1882a,51.46891,-0.35827,Salvation Army [Removed (painted over) - Google Street View image © Google],1035381950
 1883_,51.48754,-0.30196,TODO:Wolverton Cottages,
@@ -78,6 +88,7 @@ year,latitude,longitude,notes,external
 1888c_,51.5877763,-0.1174019,TODO,
 1888d_,51.4141317,-0.3655692,TODO:[?] Villas,
 1888d_,51.67782,-0.03475,Vernum Cottages,99491561
+1888e,51.59624,-0.38629,North End Cottage,
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.5835295,-0.1167874,TODO:Millman Terrace,
@@ -86,6 +97,7 @@ year,latitude,longitude,notes,external
 1889e_,51.4635452,-0.3658488,TODO:[?] Villas,
 1889f_,51.4684958,-0.3763424,TODO:Solan Cottages,
 1889g_,51.66720,-0.01809,Lee Conservancy,304102037
+1889h_,51.60024,-0.07170,[?] Terrace [Date unclear],
 1890,51.6061853,-0.4168552,Industry Cottage,
 1890a_,51.63144,-0.17508,TODO:Rebuilt - The Green Man,
 1890b,51.49601,-0.37372,Metropolitan Police,324588931
@@ -115,8 +127,8 @@ year,latitude,longitude,notes,external
 1893f_,51.468403,-0.3763176,TODO:Cromore Villas,
 1893g_,51.4686,-0.3763445,TODO:Saltwood Cottage,
 1893h_,51.64366,-0.04756,,326821909
-1893i,51.4668392,-0.3598827,[?] Villas,
-1893j,51.46664,-0.36002,[? Date to be confirmed],
+1893i_,51.4668392,-0.3598827,[?] Villas,
+1893j_,51.46664,-0.36002,[? Date to be confirmed],
 1894,51.46839,-0.37838,Warwick Villas,
 1894a_,51.583254,-0.3423877,TODO[Not sure of year],
 1894b_,51.6327568,-0.1286842,TODO[Not sure of year],
@@ -167,6 +179,7 @@ year,latitude,longitude,notes,external
 1899j_,51.4733472,-0.335298,TODO:Oak Cottages,
 1899k_,51.66986,-0.04099,Truman Hanbury Buxton & Co Ltd.,
 1899l,51.46088,-0.37073,Vine Villas,
+1899m_,51.60080,-0.07183,[?] Villas [Date unclear],
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a_,51.6603104,-0.0831012,TODO:Porthkerry C.M.J.,
 1900b_,51.6610081,-0.0791394,TODO,
@@ -208,6 +221,7 @@ year,latitude,longitude,notes,external
 1903m_,51.4707456,-0.3288695,TODO:Gales Villa,
 1903n_,51.63551,-0.05220,Ringwood,236509956
 1903o_,51.63555,-0.05217,Norfolk,236509956
+1903p_,51.59835,-0.07589,,
 1904,51.48443,-0.37341,,
 1904a_,51.6356099,-0.0519908,TODO:Downham,
 1904b_,51.5830212,-0.3358475,TODO,
@@ -275,6 +289,9 @@ year,latitude,longitude,notes,external
 1931a_,51.6205928,-0.0625341,TODO:E.U.D.C. Lending Library,
 1931b_,51.6455265,-0.046521,TODO,
 1931c_,51.4736441,-0.3379382,TODO:M. Cowan,
+1932,51.59464,-0.38351,,
+1933,51.59415,-0.37973,Grange Court,
+1933a,51.5941,-0.38243,,
 1934_,51.4819433,-0.474766,TODO,
 1935_,51.58994,-0.33565,GR V,130537060
 1936,51.589062,-0.2533524,Wakemans Hill Parade,
@@ -287,5 +304,6 @@ year,latitude,longitude,notes,external
 2002_,51.658522,-0.088173,TODO,
 2003_,51.6171569,-0.3159878,White Gates,
 2008_,51.47918,-0.34172,Linden Homes,996297025
+2008a_,51.59685,-0.38898,,
 2009_,51.5796091,-0.2418664,TODO,
 2018_,51.51689,-0.302682,TODO,
