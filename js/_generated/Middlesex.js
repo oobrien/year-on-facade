@@ -132,6 +132,14 @@ const data = {
       "notes": "These almshouses were erected and endowed by Mr Charles Wright of Enfield Highway for the support of six poor women. A.D.",
       "external": "101434135"
     },
+    "1849": {
+      "latlng": {
+        "lat": 51.55956,
+        "lng": -0.3349
+      },
+      "notes": "",
+      "external": "229395601"
+    },
     "1850": {
       "latlng": {
         "lat": 51.48899,
@@ -244,13 +252,13 @@ const data = {
       "notes": "Established.",
       "external": "718831170"
     },
-    "1863_": {
+    "1863": {
       "latlng": {
-        "lat": 51.4131663,
-        "lng": -0.3113954
+        "lat": 51.57481,
+        "lng": -0.33386
       },
-      "notes": "TODO:Hampton Wick U.D.C.",
-      "external": ""
+      "notes": "",
+      "external": "229466309"
     },
     "1863a_": {
       "latlng": {
@@ -259,6 +267,46 @@ const data = {
       },
       "notes": "TODO:Fromow & Sons Estd 1829 Erected",
       "external": "549228726"
+    },
+    "1863b_": {
+      "latlng": {
+        "lat": 51.4131663,
+        "lng": -0.3113954
+      },
+      "notes": "TODO:Hampton Wick U.D.C.",
+      "external": ""
+    },
+    "1864_": {
+      "latlng": {
+        "lat": 51.57361,
+        "lng": -0.34134
+      },
+      "notes": "Trafalgar [Terrace]",
+      "external": "183351551"
+    },
+    "1865": {
+      "latlng": {
+        "lat": 51.57285,
+        "lng": -0.33747
+      },
+      "notes": "",
+      "external": "135659852"
+    },
+    "1865a_": {
+      "latlng": {
+        "lat": 51.57289,
+        "lng": -0.34199
+      },
+      "notes": "Hope Cottage",
+      "external": "183420745"
+    },
+    "1866": {
+      "latlng": {
+        "lat": 51.57246,
+        "lng": -0.33739
+      },
+      "notes": "",
+      "external": "229688648"
     },
     "1868": {
       "latlng": {
@@ -302,21 +350,29 @@ const data = {
     },
     "1872": {
       "latlng": {
+        "lat": 51.6013875,
+        "lng": -0.4834587
+      },
+      "notes": "A†D",
+      "external": ""
+    },
+    "1872a": {
+      "latlng": {
         "lat": 51.59436,
         "lng": -0.38305
       },
       "notes": "Bridge Place T.E",
       "external": ""
     },
-    "1872R_": {
+    "1876": {
       "latlng": {
-        "lat": 51.6013875,
-        "lng": -0.4834587
+        "lat": 51.53926,
+        "lng": -0.25214
       },
       "notes": "",
-      "external": ""
+      "external": "86840426"
     },
-    "1876_": {
+    "1876a_": {
       "latlng": {
         "lat": 51.4105562,
         "lng": -0.4868538
@@ -490,7 +546,7 @@ const data = {
       "notes": "TODO:Invercauld Terrace",
       "external": ""
     },
-    "1882a": {
+    "1882aX": {
       "latlng": {
         "lat": 51.46891,
         "lng": -0.35827
@@ -601,6 +657,22 @@ const data = {
       },
       "notes": "[?]wood Villas",
       "external": ""
+    },
+    "1885d": {
+      "latlng": {
+        "lat": 51.58609,
+        "lng": -0.44068
+      },
+      "notes": "Hope Cottages",
+      "external": ""
+    },
+    "1885e": {
+      "latlng": {
+        "lat": 51.57363,
+        "lng": -0.33527
+      },
+      "notes": "AD",
+      "external": "229557975"
     },
     "1886_": {
       "latlng": {
@@ -954,6 +1026,14 @@ const data = {
       "notes": "Welham Villas",
       "external": ""
     },
+    "1892h_": {
+      "latlng": {
+        "lat": 51.57538,
+        "lng": -0.33449
+      },
+      "notes": "",
+      "external": "162542512"
+    },
     "1893": {
       "latlng": {
         "lat": 51.60988,
@@ -1105,6 +1185,14 @@ const data = {
       },
       "notes": "Wolesey Villas",
       "external": ""
+    },
+    "1894h_": {
+      "latlng": {
+        "lat": 51.57671,
+        "lng": -0.33477
+      },
+      "notes": "[On drainpipe]",
+      "external": "208127182"
     },
     "1895": {
       "latlng": {
@@ -1522,12 +1610,12 @@ const data = {
       "notes": "TODO:Mabel Villa",
       "external": ""
     },
-    "1900j_": {
+    "1900j": {
       "latlng": {
         "lat": 51.6059,
         "lng": -0.47753
       },
-      "notes": "TODO:[?] Cottages",
+      "notes": "Hamlet Cottages",
       "external": ""
     },
     "1900k": {
@@ -1610,6 +1698,14 @@ const data = {
       "notes": "Alma Terrace",
       "external": "104584601"
     },
+    "1901i_": {
+      "latlng": {
+        "lat": 51.50443,
+        "lng": -0.42183
+      },
+      "notes": "Claremont Terrace",
+      "external": ""
+    },
     "1902": {
       "latlng": {
         "lat": 51.57495,
@@ -1641,6 +1737,22 @@ const data = {
       },
       "notes": "Lincoln House",
       "external": "112244204"
+    },
+    "1902d_": {
+      "latlng": {
+        "lat": 51.50466,
+        "lng": -0.42272
+      },
+      "notes": "Myrtle Villas",
+      "external": ""
+    },
+    "1902e_": {
+      "latlng": {
+        "lat": 51.5047,
+        "lng": -0.42297
+      },
+      "notes": "Mex[?] Villas",
+      "external": ""
     },
     "1903": {
       "latlng": {
@@ -1794,12 +1906,12 @@ const data = {
       "notes": "TODO:Downham",
       "external": ""
     },
-    "1904b_": {
+    "1904b": {
       "latlng": {
-        "lat": 51.5830212,
-        "lng": -0.3358475
+        "lat": 51.58309,
+        "lng": -0.33576
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "1904c_": {
@@ -1946,6 +2058,14 @@ const data = {
       "notes": "",
       "external": "1058208398"
     },
+    "1906h_": {
+      "latlng": {
+        "lat": 51.50384,
+        "lng": -0.4219
+      },
+      "notes": "South View",
+      "external": "966954179"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -2010,6 +2130,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1908b_": {
+      "latlng": {
+        "lat": 51.5953,
+        "lng": -0.33506
+      },
+      "notes": "[On drainpipes]",
+      "external": "242878990"
+    },
     "1909": {
       "latlng": {
         "lat": 51.49601,
@@ -2033,6 +2161,14 @@ const data = {
       },
       "notes": "U.D.C.E. Carnegie Library",
       "external": "102028970"
+    },
+    "1909c_": {
+      "latlng": {
+        "lat": 51.50412,
+        "lng": -0.41463
+      },
+      "notes": "",
+      "external": "711066161"
     },
     "1910": {
       "latlng": {
@@ -2098,6 +2234,22 @@ const data = {
       "notes": "A.D.",
       "external": "818250610"
     },
+    "1911d_": {
+      "latlng": {
+        "lat": 51.56142,
+        "lng": -0.3562
+      },
+      "notes": "Welldon Park Council School MCC A.D.",
+      "external": "230376774"
+    },
+    "1911e": {
+      "latlng": {
+        "lat": 51.61182,
+        "lng": -0.42518
+      },
+      "notes": "A.D",
+      "external": ""
+    },
     "1912_": {
       "latlng": {
         "lat": 51.6234141,
@@ -2130,13 +2282,21 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1914": {
+    "1913c_": {
       "latlng": {
-        "lat": 51.54702,
-        "lng": -0.20413
+        "lat": 51.56194,
+        "lng": -0.35321
       },
       "notes": "",
-      "external": ""
+      "external": "816597740"
+    },
+    "1914": {
+      "latlng": {
+        "lat": 51.58121,
+        "lng": -0.33382
+      },
+      "notes": "",
+      "external": "241798742"
     },
     "1914a_": {
       "latlng": {
@@ -2146,6 +2306,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1914b": {
+      "latlng": {
+        "lat": 51.54702,
+        "lng": -0.20413
+      },
+      "notes": "",
+      "external": ""
+    },
     "1919": {
       "latlng": {
         "lat": 51.5115,
@@ -2153,6 +2321,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1922": {
+      "latlng": {
+        "lat": 51.57344,
+        "lng": -0.33705
+      },
+      "notes": "",
+      "external": "29294316"
     },
     "1923": {
       "latlng": {
@@ -2178,7 +2354,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1924a": {
+    "1924aX": {
       "latlng": {
         "lat": 51.4993,
         "lng": -0.38305
@@ -2210,7 +2386,15 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1926_": {
+    "1926": {
+      "latlng": {
+        "lat": 51.57364,
+        "lng": -0.33695
+      },
+      "notes": "",
+      "external": "29294316"
+    },
+    "1926R_": {
       "latlng": {
         "lat": 51.61568,
         "lng": -0.27533
@@ -2224,6 +2408,14 @@ const data = {
         "lng": -0.2773
       },
       "notes": "Built by Cowen & Cross",
+      "external": ""
+    },
+    "1928a_": {
+      "latlng": {
+        "lat": 51.56438,
+        "lng": -0.35358
+      },
+      "notes": "Parkfield Parade A.D.",
       "external": ""
     },
     "1929": {
@@ -2282,6 +2474,14 @@ const data = {
       "notes": "Gooseacre Parade A.D.",
       "external": ""
     },
+    "1930d": {
+      "latlng": {
+        "lat": 51.55369,
+        "lng": -0.29377
+      },
+      "notes": "Park Lane Parade A.D.",
+      "external": "247904223"
+    },
     "1931": {
       "latlng": {
         "lat": 51.5882482,
@@ -2314,12 +2514,28 @@ const data = {
       "notes": "TODO:M. Cowan",
       "external": ""
     },
+    "1931d_": {
+      "latlng": {
+        "lat": 51.55697,
+        "lng": -0.35902
+      },
+      "notes": "",
+      "external": ""
+    },
     "1932": {
       "latlng": {
         "lat": 51.59464,
         "lng": -0.38351
       },
       "notes": "",
+      "external": ""
+    },
+    "1932a_": {
+      "latlng": {
+        "lat": 51.56075,
+        "lng": -0.35784
+      },
+      "notes": "Roxeth Grove Parade A.D.",
       "external": ""
     },
     "1933": {
@@ -2346,7 +2562,7 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
-    "1935_": {
+    "1935": {
       "latlng": {
         "lat": 51.58994,
         "lng": -0.33565
@@ -2370,13 +2586,13 @@ const data = {
       "notes": "GR VI",
       "external": ""
     },
-    "1982_": {
+    "1982": {
       "latlng": {
-        "lat": 51.5775457,
-        "lng": -0.3336037
+        "lat": 51.57752,
+        "lng": -0.33367
       },
-      "notes": "TODO:Rebuilt",
-      "external": ""
+      "notes": "Rebuilt",
+      "external": "135704911"
     },
     "1988": {
       "latlng": {
@@ -2386,12 +2602,12 @@ const data = {
       "notes": "Haydon House [On plaque]",
       "external": "317387812"
     },
-    "1994_": {
+    "1994": {
       "latlng": {
-        "lat": 51.5813749,
-        "lng": -0.3349292
+        "lat": 51.5815,
+        "lng": -0.33497
       },
-      "notes": "TODO",
+      "notes": "",
       "external": ""
     },
     "2000_": {
@@ -2410,7 +2626,15 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "2002_": {
+    "2002": {
+      "latlng": {
+        "lat": 51.61214,
+        "lng": -0.42819
+      },
+      "notes": "MSH",
+      "external": ""
+    },
+    "2002R_": {
       "latlng": {
         "lat": 51.658522,
         "lng": -0.088173
@@ -2424,6 +2648,14 @@ const data = {
         "lng": -0.3159878
       },
       "notes": "White Gates",
+      "external": ""
+    },
+    "2007": {
+      "latlng": {
+        "lat": 51.6072,
+        "lng": -0.43567
+      },
+      "notes": "",
       "external": ""
     },
     "2008_": {
@@ -2448,6 +2680,14 @@ const data = {
         "lng": -0.2418664
       },
       "notes": "TODO",
+      "external": ""
+    },
+    "2012": {
+      "latlng": {
+        "lat": 51.61182,
+        "lng": -0.4349
+      },
+      "notes": "",
       "external": ""
     },
     "2018_": {
