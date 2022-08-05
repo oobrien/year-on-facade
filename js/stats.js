@@ -30,8 +30,15 @@ function updateTable() {
   let max = Math.ceil((Math.max(...years) + 1) / yearsInLine) * yearsInLine
 
   const parent = document.querySelector('#table')
+  
+  let lastisdotrow = false;
 
   for (let r = min / yearsInLine; r < max / yearsInLine; r++) {
+    let isdotrow = true;
+    const dotrow = document.createElement('div');
+    dotrow.classList.add('row')
+    dotrow.innerText = "...";
+    
     const row = document.createElement('div')
     row.classList.add('row')
     for (let c = 0; c < yearsInLine; c++) {
@@ -41,6 +48,7 @@ function updateTable() {
       if (years.includes(currentYear)) {
         if (data.points[currentYear + "_"])
         {
+	        isdotrow = false;
 			year.classList.add('todo')
 			year.onclick = redirectToExactPoint(currentYear + "_")
 			if (data.points[currentYear + "_"].external) {
@@ -48,6 +56,7 @@ function updateTable() {
 			}
 		} else if (data.points[currentYear])
 		{
+	        isdotrow = false;
 			year.classList.add('found')
 			year.onclick = redirectToExactPoint(currentYear)
 			if (data.points[currentYear].external) {
@@ -61,7 +70,8 @@ function updateTable() {
       year.title = currentYear
       row.appendChild(year)
     }
-    parent.appendChild(row)
+    if (isdotrow) { if (!lastisdotrow) { parent.appendChild(dotrow); lastisdotrow = true; } }
+    else { parent.appendChild(row); lastisdotrow = false; } 
   }
 }
 
