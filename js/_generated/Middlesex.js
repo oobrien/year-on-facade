@@ -1450,6 +1450,14 @@ const data = {
       "notes": "Fernlea Villas",
       "external": ""
     },
+    "1895h_": {
+      "latlng": {
+        "lat": 51.43274,
+        "lng": -0.47774
+      },
+      "notes": "A.B. District Bakery [Tablet transferred to new building]",
+      "external": ""
+    },
     "1896": {
       "latlng": {
         "lat": 51.57971,
@@ -2417,6 +2425,14 @@ const data = {
       },
       "notes": "",
       "external": "711066161"
+    },
+    "1909d_": {
+      "latlng": {
+        "lat": 51.4348,
+        "lng": -0.4725
+      },
+      "notes": "",
+      "external": ""
     },
     "1910": {
       "latlng": {

@@ -41,7 +41,6 @@ jq -s "(.[1] | with_entries(.value.config |= del(.zoom, .borders, .center))) as 
   cat >"./js/_generated/$city.js" <<EOF
 const data = $(cat ./utils/$city.json.tmp | jq ".[\"$city\"]")
 EOF
-}
 
 function generateFakeCity {
   city=$1

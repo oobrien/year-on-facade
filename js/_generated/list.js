@@ -1,11 +1,12 @@
 const data = {
   "Billund, Denmark": 1,
   "Copenhagen, Denmark": 3,
-  "London, UK": 172,
-  "Middlesex, UK": 377,
+  "London, UK": 175,
+  "Middlesex, UK": 379,
   "Perm, Russia": 1,
-  "Replacements": 5,
+  "Replacements": 7,
+  "TODO": 189,
   "Wolverhampton, UK": 56,
-  "World": 524,
+  "World": 528,
 }
 const minYear = 1580;

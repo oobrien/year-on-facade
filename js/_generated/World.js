@@ -2573,6 +2573,15 @@ const data = {
       },
       "notes": "Fernlea Villas"
     },
+    "1895h_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43274,
+        "lng": -0.47774
+      },
+      "notes": "A.B. District Bakery [Tablet transferred to new building]"
+    },
     "1896": {
       "city": "Replacements",
       "external": "1213950",
@@ -3769,6 +3778,15 @@ const data = {
       },
       "notes": ""
     },
+    "1909d_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4348,
+        "lng": -0.4725
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -4353,15 +4371,6 @@ const data = {
       },
       "notes": ""
     },
-    "1935": {
-      "city": "London",
-      "external": "",
-      "latlng": {
-        "lat": 51.58650822483798,
-        "lng": -0.21503353456319424
-      },
-      "notes": "TODO"
-    },
     "1934_": {
       "city": "Middlesex",
       "external": "",
@@ -4381,13 +4390,13 @@ const data = {
       "notes": "W.S.F."
     },
     "1935": {
-      "city": "Middlesex",
-      "external": "130537060",
+      "city": "London",
+      "external": "",
       "latlng": {
-        "lat": 51.58994,
-        "lng": -0.33565
+        "lat": 51.58650822483798,
+        "lng": -0.21503353456319424
       },
-      "notes": "GR V"
+      "notes": "TODO"
     },
     "1935a_": {
       "city": "Middlesex",
