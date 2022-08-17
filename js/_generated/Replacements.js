@@ -20,12 +20,20 @@ const data = {
     "city": "Replacements"
   },
   "points": {
+    "1863": {
+      "latlng": {
+        "lat": 51.533889128530646,
+        "lng": -0.08002735315358976
+      },
+      "notes": "TODO",
+      "external": "1393325"
+    },
     "1896": {
       "latlng": {
         "lat": 51.4646337076582,
         "lng": 0.009301754363103189
       },
-      "notes": "",
+      "notes": "TODO",
       "external": "1213950"
     },
     "1903": {
@@ -33,7 +41,7 @@ const data = {
         "lat": 51.4864943335234,
         "lng": 0.09639768502470046
       },
-      "notes": "",
+      "notes": "TODO",
       "external": "1430680"
     },
     "1904": {
@@ -41,7 +49,7 @@ const data = {
         "lat": 51.45876931464815,
         "lng": 0.05432071021885597
       },
-      "notes": "Hardly a facade",
+      "notes": "TODO: Hardly a facade",
       "external": "1392379"
     },
     "1906": {
@@ -49,15 +57,23 @@ const data = {
         "lat": 51.652988999068505,
         "lng": -0.0726415888113681
       },
-      "notes": "",
+      "notes": "TODO",
       "external": "1389537"
+    },
+    "1987": {
+      "latlng": {
+        "lat": 51.533040650381615,
+        "lng": -0.10630392881939463
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1999": {
       "latlng": {
         "lat": 51.33331970197817,
         "lng": -0.26813525094536617
       },
-      "notes": "",
+      "notes": "TODO",
       "external": ""
     }
   }

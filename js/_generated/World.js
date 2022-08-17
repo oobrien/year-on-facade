@@ -116,7 +116,7 @@ const data = {
         "lat": 51.582921611075214,
         "lng": -0.21535680992076248
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1719": {
       "city": "London",
@@ -440,7 +440,7 @@ const data = {
         "lat": 51.58442176879655,
         "lng": -0.012419421300780905
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1797": {
       "city": "London",
@@ -451,12 +451,30 @@ const data = {
       },
       "notes": "TODO"
     },
+    "1798": {
+      "city": "London",
+      "external": "1066156",
+      "latlng": {
+        "lat": 51.51081852855117,
+        "lng": -0.13179918042208724
+      },
+      "notes": "TODO: year is not related to the built date"
+    },
     "1799": {
       "city": "London",
       "external": "1184520",
       "latlng": {
         "lat": 51.584475106114326,
         "lng": 0.1736602090991156
+      },
+      "notes": "TODO"
+    },
+    "1802": {
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.52937316843962,
+        "lng": -0.0836608177654305
       },
       "notes": "TODO"
     },
@@ -476,7 +494,7 @@ const data = {
         "lat": 51.57852913655827,
         "lng": -0.15386294828823677
       },
-      "notes": "TODO"
+      "notes": "TODO: Take photo when wisteria has no leafs"
     },
     "1811_": {
       "city": "Middlesex",
@@ -503,7 +521,7 @@ const data = {
         "lat": 51.5566287628569,
         "lng": -0.18062882454293655
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1816": {
       "city": "London",
@@ -863,7 +881,7 @@ const data = {
         "lat": 51.585905533879654,
         "lng": -0.07033708595953014
       },
-      "notes": "TODO: Check March 2018 to verify"
+      "notes": ""
     },
     "1858": {
       "city": "London",
@@ -947,13 +965,13 @@ const data = {
       "notes": ""
     },
     "1863": {
-      "city": "London",
-      "external": "",
+      "city": "Replacements",
+      "external": "1393325",
       "latlng": {
-        "lat": 51.51991313977862,
-        "lng": -0.15189308940352775
+        "lat": 51.533889128530646,
+        "lng": -0.08002735315358976
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1863a_": {
       "city": "Middlesex",
@@ -2148,7 +2166,7 @@ const data = {
         "lat": 51.57607292023583,
         "lng": -0.029968151294945646
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1892a_": {
       "city": "Middlesex",
@@ -2562,7 +2580,7 @@ const data = {
         "lat": 51.4646337076582,
         "lng": 0.009301754363103189
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1896a_": {
       "city": "Middlesex",
@@ -3209,7 +3227,7 @@ const data = {
         "lat": 51.4864943335234,
         "lng": 0.09639768502470046
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1903_": {
       "city": "Wolverhampton",
@@ -3371,7 +3389,7 @@ const data = {
         "lat": 51.45876931464815,
         "lng": 0.05432071021885597
       },
-      "notes": "Hardly a facade"
+      "notes": "TODO: Hardly a facade"
     },
     "1904_": {
       "city": "Wolverhampton",
@@ -4333,6 +4351,15 @@ const data = {
         "lat": 51.56816064952934,
         "lng": 0.010780853193313442
       },
+      "notes": ""
+    },
+    "1935": {
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.58650822483798,
+        "lng": -0.21503353456319424
+      },
       "notes": "TODO"
     },
     "1934_": {
@@ -4498,13 +4525,13 @@ const data = {
       "notes": ""
     },
     "1987": {
-      "city": "London",
+      "city": "Replacements",
       "external": "",
       "latlng": {
-        "lat": 51.519602372879305,
-        "lng": -0.11473055411593223
+        "lat": 51.533040650381615,
+        "lng": -0.10630392881939463
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "1988": {
       "city": "London",
@@ -4558,7 +4585,7 @@ const data = {
         "lat": 51.33331970197817,
         "lng": -0.26813525094536617
       },
-      "notes": ""
+      "notes": "TODO"
     },
     "2000": {
       "city": "London",
@@ -4724,6 +4751,9 @@ const data = {
   },
   "citiesConfig": {
     "World": {
+      "config": {}
+    },
+    "TODO": {
       "config": {}
     },
     "London": {

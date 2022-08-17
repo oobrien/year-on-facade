@@ -88,7 +88,7 @@ const data = {
         "lat": 51.582921611075214,
         "lng": -0.21535680992076248
       },
-      "notes": "TODO",
+      "notes": "",
       "external": "1359024"
     },
     "1719": {
@@ -320,7 +320,7 @@ const data = {
         "lat": 51.58442176879655,
         "lng": -0.012419421300780905
       },
-      "notes": "TODO",
+      "notes": "",
       "external": "1065608"
     },
     "1797": {
@@ -331,6 +331,14 @@ const data = {
       "notes": "TODO",
       "external": "1358048"
     },
+    "1798": {
+      "latlng": {
+        "lat": 51.51081852855117,
+        "lng": -0.13179918042208724
+      },
+      "notes": "TODO: year is not related to the built date",
+      "external": "1066156"
+    },
     "1799": {
       "latlng": {
         "lat": 51.584475106114326,
@@ -338,6 +346,14 @@ const data = {
       },
       "notes": "TODO",
       "external": "1184520"
+    },
+    "1802": {
+      "latlng": {
+        "lat": 51.52937316843962,
+        "lng": -0.0836608177654305
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1806": {
       "latlng": {
@@ -352,7 +368,7 @@ const data = {
         "lat": 51.57852913655827,
         "lng": -0.15386294828823677
       },
-      "notes": "TODO",
+      "notes": "TODO: Take photo when wisteria has no leafs",
       "external": "1079189"
     },
     "1812": {
@@ -368,7 +384,7 @@ const data = {
         "lat": 51.5566287628569,
         "lng": -0.18062882454293655
       },
-      "notes": "TODO",
+      "notes": "",
       "external": "1244496"
     },
     "1816": {
@@ -608,7 +624,7 @@ const data = {
         "lat": 51.585905533879654,
         "lng": -0.07033708595953014
       },
-      "notes": "TODO: Check March 2018 to verify",
+      "notes": "",
       "external": "1079168"
     },
     "1858": {
@@ -880,7 +896,7 @@ const data = {
         "lat": 51.57607292023583,
         "lng": -0.029968151294945646
       },
-      "notes": "TODO",
+      "notes": "",
       "external": "1391928"
     },
     "1893": {
@@ -1200,8 +1216,16 @@ const data = {
         "lat": 51.56816064952934,
         "lng": 0.010780853193313442
       },
-      "notes": "TODO",
+      "notes": "",
       "external": "1418380"
+    },
+    "1935": {
+      "latlng": {
+        "lat": 51.58650822483798,
+        "lng": -0.21503353456319424
+      },
+      "notes": "TODO",
+      "external": ""
     },
     "1936": {
       "latlng": {
