@@ -10,6 +10,7 @@ year,latitude,longitude,notes,external
 1791_,51.54732,-0.48029,TODO:Old Bank A.D.,990490557
 1811_,51.50959,-0.25997,TODO:Erected by the Worshipful Company of Goldsmiths A.D.,211819761
 1817_,51.59965,-0.06769,S B [On drainpipe],
+1828_,51.44339,-0.52287,J.P.W,
 1834_,51.47918,-0.49285,TODO:W R IV,43798084
 1835,51.46778,-0.36143,Independent Chapel; Rebuilt;,1035381961
 1846,51.46452,-0.37752,Wellington Cottages,
@@ -35,6 +36,7 @@ year,latitude,longitude,notes,external
 1864_,51.57361,-0.34134,Trafalgar [Terrace],183351551
 1865,51.57285,-0.33747,,135659852
 1865a_,51.57289,-0.34199,Hope Cottage,183420745
+1865b_,51.42970,-0.50811,Musgrove,
 1866,51.57246,-0.33739,,229688648
 1868,51.46805,-0.37835,Magdala Cottages,
 1869_,51.4685512,-0.3293125,TODO:Bath Villas,
@@ -43,6 +45,7 @@ year,latitude,longitude,notes,external
 1871b_,51.66995,-0.01831,Leamington Cottage,120082967
 1872,51.6013875,-0.4834587,A†D,
 1872a,51.59436,-0.38305,Bridge Place T.E,
+1872b_,51.42914,-0.50462,Dane More Cottages,
 1876,51.53926,-0.25214,,86840426
 1876a_,51.4105562,-0.4868538,TODO:,
 1877_,51.648313,-0.0836626,TODO:Myrtle Villa,
@@ -59,6 +62,7 @@ year,latitude,longitude,notes,external
 1880b_,51.49043,-0.27379,TODO:,
 1880c_,51.59951,-0.07152,Castle Terrace,
 1880d_,51.60083,-0.07090,St John's Villa,
+1880e_,51.43296,-0.51430,AD,557988559
 1881_,51.6621064,-0.0890721,TODO:Glencall Villas,
 1881a_,51.4905561,-0.2734897,TODO:AD,
 1881c_,51.6166904,-0.316065,Erected in loving memory of Robert Hollond by Ellen Julia his widow,
@@ -67,25 +71,39 @@ year,latitude,longitude,notes,external
 1881f_,51.60049,-0.07126,[?],
 1882_,51.48734,-0.30255,TODO:Invercauld Terrace,
 1882aX,51.46891,-0.35827,Salvation Army [Removed (painted over) - Google Street View image © Google],1035381950
+1882b_,51.43852,-0.49964,Rose Cottages,
+1882c_,51.43777,-0.49804,East View Cottages,308358247
+1882d_,51.43781,-0.49854,South View Cottages,308358245
 1883_,51.48754,-0.30196,TODO:Wolverton Cottages,
 1883a_,51.48345,-0.30256,TODO:Brentford Sewage Pumping Station Erected AD 1883,880566108
 1883b_,51.48732,-0.30279,TODO:Linden Cottages,
 1883c_,51.467596,-0.358369,TODO:Sunbeam Villas,
 1883d_,51.4673761,-0.3584072,TODO:[?],
 1883e_,51.4672878,-0.3584346,TODO:[?] Villas,
+1883f_,51.43846,-0.49866,South View Cottages,
+1883g_,51.43802,-0.49800,East View Cottages,308358249
+1883h_,51.43769,-0.49865,North View Cottages,
+1883i_,51.43767,-0.49846,North View Cottages,
+1883j_,51.43770,-0.49894,North View Cottages,
+1883k_,51.43772,-0.49919,Stanley Cottages,
 1884,51.572413,-0.3411424,,
 1884a_,51.48742,-0.3023,TODO:Inverness Terrace,
 1884b_,51.4670146,-0.3592203,TODO:[?] Villas,
+1884c_,51.43828,-0.49869,Gloucester Villas,308358258
 1885_,51.414297,-0.366609,TODO:Melrose Villa,
 1885a_,51.4717719,-0.363735,TODO:[?] Cottages,
 1885b_,51.4143864,-0.366607,TODO:Avenue Villa,
 1885c_,51.46579,-0.35958,[?]wood Villas,
 1885d,51.58609,-0.44068,Hope Cottages,
 1885e,51.57363,-0.33527,AD,229557975
+1885f_,51.43829,-0.49884,Warwick Villas,308358260
 1886_,51.661142,-0.0861842,TODO:Raleigh Place,
 1886a_,51.4671991,-0.3584619,TODO:Brodmore Villas,
 1886b_,51.67729,-0.03507,Claremont Villas,99491552
 1886c_,51.67745,-0.03497,[?] Villa,99491557
+1886d_,51.43832,-0.49916,York Villas,308358264
+1886e_,51.43831,-0.49899,Lincoln Villas,308358262
+1886f_,51.43849,-0.49902,Wellow Villas,
 1887_,51.6612687,-0.0860591,TODO:Raleigh Buildings.,
 1887a_,51.6616157,-0.0858438,TODO:Henrietta Cottages,
 1887b_,51.6609585,-0.0855164,TODO:Ashby Terrace,
@@ -98,6 +116,7 @@ year,latitude,longitude,notes,external
 1888d_,51.4141317,-0.3655692,TODO:[?] Villas,
 1888d_,51.67782,-0.03475,Vernum Cottages,99491561
 1888e,51.59624,-0.38629,North End Cottage,
+1888f_,51.42979,-0.50799,Katrine,
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.5835295,-0.1167874,TODO:Millman Terrace,
@@ -107,6 +126,9 @@ year,latitude,longitude,notes,external
 1889f_,51.4684958,-0.3763424,TODO:Solan Cottages,
 1889g_,51.66720,-0.01809,Lee Conservancy,304102037
 1889h_,51.60024,-0.07170,[?] Terrace [Date unclear],
+1889i_,51.43795,-0.49958,Fern Cottages,308358236
+1889j_,51.43735,-0.49820,[?] Cottages,
+1889k_,51.42940,-0.50568,J.A.E,
 1890,51.6061853,-0.4168552,Industry Cottage,
 1890a_,51.63144,-0.17508,TODO:Rebuilt - The Green Man,
 1890b,51.49601,-0.37372,Metropolitan Police,324588931
@@ -119,6 +141,7 @@ year,latitude,longitude,notes,external
 1891e_,51.60632,-0.41875,TODO:Sunnyside Villas,
 1891f,51.46644,-0.36016,Myrtle Villas,
 1891g,51.46633,-0.36023,Peascod Villas,
+1891h_,51.43519,-0.50233,Kimpton House,566113416
 1892,51.57847,-0.09911,Cavendish Parade,
 1892a_,51.6175664,-0.0637221,TODO:The Golden Fleece,
 1892b_,51.582235,-0.3358358,TODO:Palmerston Villas,
@@ -148,6 +171,7 @@ year,latitude,longitude,notes,external
 1894f_,51.4670787,-0.3596186,Clyde Villas,
 1894g_,51.46644,-0.35890,Wolesey Villas,
 1894h_,51.57671,-0.33477,[On drainpipe],208127182
+1894i_,51.43851,-0.49955,The Oaks,
 1895,51.4835022,-0.3704674,Heston Fire Station,
 1895a_,51.6638547,-0.0930174,TODO:Hazelwood Villas,
 1895b_,51.4260453,-0.3380455,TODO,
@@ -156,12 +180,14 @@ year,latitude,longitude,notes,external
 1895e_,51.4710552,-0.3653585,TODO:Pilatus Villas,
 1895f,51.54772,-0.23651,This stone was laid... on 13th July,
 1895g,51.47207,-0.36401,Fernlea Villas,
+1895h_,51.43274,-0.47774,A.B. District Bakery [Tablet transferred to new building],
 1896,51.57971,-0.24223,,
 1896a_,51.5877897,-0.116753,TODO:A.D.,
 1896b_,51.5877857,-0.1171037,TODO,
 1896c_,51.4690069,-0.3581276,TODO:Lewisham Villas,
 1896c_,51.5822487,-0.3421676,TODO,
 1896d_,51.4693555,-0.3578947,TODO:Malborough Villas,
+1896e_,51.42883,-0.50473,for use as an Infants School A.D.,
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,TODO,
 1897b_,51.4132,-0.3642206,TODO,
@@ -177,6 +203,7 @@ year,latitude,longitude,notes,external
 1898d_,51.4605729,-0.3707011,TODO:The Cottage,
 1898e,51.58708,-0.10876,Station Mansions,1056191350
 1898f,51.49259,-0.26699,,205697238
+1898g_,51.43836,-0.49958,Myrtle Cottages,308358271
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,TODO,
@@ -191,6 +218,7 @@ year,latitude,longitude,notes,external
 1899k_,51.66986,-0.04099,Truman Hanbury Buxton & Co Ltd.,
 1899l,51.46088,-0.37073,Vine Villas,
 1899m_,51.60080,-0.07183,[?] Villas [Date unclear],
+1899n_,51.43415,-0.51118,J A A.D.,345710955
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a_,51.6603104,-0.0831012,TODO:Porthkerry C.M.J.,
 1900b_,51.6610081,-0.0791394,TODO,
@@ -203,6 +231,7 @@ year,latitude,longitude,notes,external
 1900i_,51.4707456,-0.3289695,TODO:Mabel Villa,
 1900j,51.60590,-0.47753,Hamlet Cottages,
 1900k,51.46869,-0.36261,,1057751922
+1900l_,51.43828,-0.49765,,
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,TODO,
@@ -241,6 +270,9 @@ year,latitude,longitude,notes,external
 1904b,51.58309,-0.33576,,
 1904c_,51.6176994,-0.1092371,TODO,236509956
 1904d_,51.63561,-0.05213,Downham,
+1904e_,51.42930,-0.50642,Pever Villas,
+1904f_,51.42935,-0.50630,Cambo Villas,
+1904g_,51.42941,-0.50618,East Neuk Villas,
 1905,51.5584532,-0.2174762,,
 1905a,51.51115,-0.37577,A.D.,192928593
 1905b_,51.6061519,-0.0681858,TODO,
@@ -271,6 +303,7 @@ year,latitude,longitude,notes,external
 1909a_,51.6630342,-0.0772972,TODO,
 1909b_,51.65894,-0.04723,U.D.C.E. Carnegie Library,102028970
 1909c_,51.50412,-0.41463,,711066161
+1909d_,51.4348,-0.4725,,
 1910,51.5964513,-0.3343658,,
 1910a_,51.6140427,-0.2488684,TODO,
 1910b_,51.61226,-0.17552,TODO:Woodhouse Parade,
@@ -289,6 +322,9 @@ year,latitude,longitude,notes,external
 1914,51.58121,-0.33382,,241798742
 1914a_,51.5989031,-0.0679869,TODO,
 1914b,51.54702,-0.20413,,
+1914c_,51.43989,-0.49762,Carson Villas,
+1914d_,51.43995,-0.49761,Primrose Villas,
+1914e_,51.42922,-0.50667,,558833863
 1919,51.5115,-0.31508,,
 1922,51.57344,-0.33705,,29294316
 1923,51.6149468,-0.2756908,,
@@ -320,14 +356,19 @@ year,latitude,longitude,notes,external
 1933,51.59415,-0.37973,Grange Court,
 1933a,51.5941,-0.38243,,
 1934_,51.4819433,-0.474766,TODO,
+1934a_,51.43950,-0.49768,W.S.F.,
 1935,51.58994,-0.33565,GR V,130537060
+1935a_,51.42777,-0.49140,,
 1936,51.589062,-0.2533524,Wakemans Hill Parade,
 1951,51.58966,-0.21855,GR VI,
+1963_,51.63050,-0.12803,ER II,188837393
+1971_,51.42971,-0.49877,[On drainpipe],162411474
 1982,51.57752,-0.33367,Rebuilt,135704911
 1988,51.50874,-0.33359,Haydon House [On plaque],317387812
 1994,51.58150,-0.33497,,
 2000_,51.6124546,-0.180737,TODO,
 2001,51.48603,-0.30738,,
+2001a_,51.43396,-0.51202,,345709446
 2002,51.61214,-0.42819,MSH,
 2002R_,51.658522,-0.088173,TODO,
 2003_,51.6171569,-0.3159878,White Gates,
@@ -336,4 +377,6 @@ year,latitude,longitude,notes,external
 2008a_,51.59685,-0.38898,,
 2009_,51.5796091,-0.2418664,TODO,
 2012,51.61182,-0.43490,,
+2014_,51.43429,-0.49501,,
 2018_,51.51689,-0.302682,TODO,
+2020_,51.43393,-0.49558,Violet House,558823698

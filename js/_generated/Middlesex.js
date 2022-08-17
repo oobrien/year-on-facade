@@ -100,6 +100,14 @@ const data = {
       "notes": "S B [On drainpipe]",
       "external": ""
     },
+    "1828_": {
+      "latlng": {
+        "lat": 51.44339,
+        "lng": -0.52287
+      },
+      "notes": "J.P.W",
+      "external": ""
+    },
     "1834_": {
       "latlng": {
         "lat": 51.47918,
@@ -300,6 +308,14 @@ const data = {
       "notes": "Hope Cottage",
       "external": "183420745"
     },
+    "1865b_": {
+      "latlng": {
+        "lat": 51.4297,
+        "lng": -0.50811
+      },
+      "notes": "Musgrove",
+      "external": ""
+    },
     "1866": {
       "latlng": {
         "lat": 51.57246,
@@ -362,6 +378,14 @@ const data = {
         "lng": -0.38305
       },
       "notes": "Bridge Place T.E",
+      "external": ""
+    },
+    "1872b_": {
+      "latlng": {
+        "lat": 51.42914,
+        "lng": -0.50462
+      },
+      "notes": "Dane More Cottages",
       "external": ""
     },
     "1876": {
@@ -490,6 +514,14 @@ const data = {
       "notes": "St John's Villa",
       "external": ""
     },
+    "1880e_": {
+      "latlng": {
+        "lat": 51.43296,
+        "lng": -0.5143
+      },
+      "notes": "AD",
+      "external": "557988559"
+    },
     "1881_": {
       "latlng": {
         "lat": 51.6621064,
@@ -554,6 +586,30 @@ const data = {
       "notes": "Salvation Army [Removed (painted over) - Google Street View image © Google]",
       "external": "1035381950"
     },
+    "1882b_": {
+      "latlng": {
+        "lat": 51.43852,
+        "lng": -0.49964
+      },
+      "notes": "Rose Cottages",
+      "external": ""
+    },
+    "1882c_": {
+      "latlng": {
+        "lat": 51.43777,
+        "lng": -0.49804
+      },
+      "notes": "East View Cottages",
+      "external": "308358247"
+    },
+    "1882d_": {
+      "latlng": {
+        "lat": 51.43781,
+        "lng": -0.49854
+      },
+      "notes": "South View Cottages",
+      "external": "308358245"
+    },
     "1883_": {
       "latlng": {
         "lat": 51.48754,
@@ -602,6 +658,54 @@ const data = {
       "notes": "TODO:[?] Villas",
       "external": ""
     },
+    "1883f_": {
+      "latlng": {
+        "lat": 51.43846,
+        "lng": -0.49866
+      },
+      "notes": "South View Cottages",
+      "external": ""
+    },
+    "1883g_": {
+      "latlng": {
+        "lat": 51.43802,
+        "lng": -0.498
+      },
+      "notes": "East View Cottages",
+      "external": "308358249"
+    },
+    "1883h_": {
+      "latlng": {
+        "lat": 51.43769,
+        "lng": -0.49865
+      },
+      "notes": "North View Cottages",
+      "external": ""
+    },
+    "1883i_": {
+      "latlng": {
+        "lat": 51.43767,
+        "lng": -0.49846
+      },
+      "notes": "North View Cottages",
+      "external": ""
+    },
+    "1883j_": {
+      "latlng": {
+        "lat": 51.4377,
+        "lng": -0.49894
+      },
+      "notes": "North View Cottages",
+      "external": ""
+    },
+    "1883k_": {
+      "latlng": {
+        "lat": 51.43772,
+        "lng": -0.49919
+      },
+      "notes": "Stanley Cottages",
+      "external": ""
+    },
     "1884": {
       "latlng": {
         "lat": 51.572413,
@@ -625,6 +729,14 @@ const data = {
       },
       "notes": "TODO:[?] Villas",
       "external": ""
+    },
+    "1884c_": {
+      "latlng": {
+        "lat": 51.43828,
+        "lng": -0.49869
+      },
+      "notes": "Gloucester Villas",
+      "external": "308358258"
     },
     "1885_": {
       "latlng": {
@@ -674,6 +786,14 @@ const data = {
       "notes": "AD",
       "external": "229557975"
     },
+    "1885f_": {
+      "latlng": {
+        "lat": 51.43829,
+        "lng": -0.49884
+      },
+      "notes": "Warwick Villas",
+      "external": "308358260"
+    },
     "1886_": {
       "latlng": {
         "lat": 51.661142,
@@ -705,6 +825,30 @@ const data = {
       },
       "notes": "[?] Villa",
       "external": "99491557"
+    },
+    "1886d_": {
+      "latlng": {
+        "lat": 51.43832,
+        "lng": -0.49916
+      },
+      "notes": "York Villas",
+      "external": "308358264"
+    },
+    "1886e_": {
+      "latlng": {
+        "lat": 51.43831,
+        "lng": -0.49899
+      },
+      "notes": "Lincoln Villas",
+      "external": "308358262"
+    },
+    "1886f_": {
+      "latlng": {
+        "lat": 51.43849,
+        "lng": -0.49902
+      },
+      "notes": "Wellow Villas",
+      "external": ""
     },
     "1887_": {
       "latlng": {
@@ -794,6 +938,14 @@ const data = {
       "notes": "North End Cottage",
       "external": ""
     },
+    "1888f_": {
+      "latlng": {
+        "lat": 51.42979,
+        "lng": -0.50799
+      },
+      "notes": "Katrine",
+      "external": ""
+    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -864,6 +1016,30 @@ const data = {
         "lng": -0.0717
       },
       "notes": "[?] Terrace [Date unclear]",
+      "external": ""
+    },
+    "1889i_": {
+      "latlng": {
+        "lat": 51.43795,
+        "lng": -0.49958
+      },
+      "notes": "Fern Cottages",
+      "external": "308358236"
+    },
+    "1889j_": {
+      "latlng": {
+        "lat": 51.43735,
+        "lng": -0.4982
+      },
+      "notes": "[?] Cottages",
+      "external": ""
+    },
+    "1889k_": {
+      "latlng": {
+        "lat": 51.4294,
+        "lng": -0.50568
+      },
+      "notes": "J.A.E",
       "external": ""
     },
     "1890": {
@@ -961,6 +1137,14 @@ const data = {
       },
       "notes": "Peascod Villas",
       "external": ""
+    },
+    "1891h_": {
+      "latlng": {
+        "lat": 51.43519,
+        "lng": -0.50233
+      },
+      "notes": "Kimpton House",
+      "external": "566113416"
     },
     "1892": {
       "latlng": {
@@ -1194,6 +1378,14 @@ const data = {
       "notes": "[On drainpipe]",
       "external": "208127182"
     },
+    "1894i_": {
+      "latlng": {
+        "lat": 51.43851,
+        "lng": -0.49955
+      },
+      "notes": "The Oaks",
+      "external": ""
+    },
     "1895": {
       "latlng": {
         "lat": 51.4835022,
@@ -1296,6 +1488,14 @@ const data = {
         "lng": -0.3578947
       },
       "notes": "TODO:Malborough Villas",
+      "external": ""
+    },
+    "1896e_": {
+      "latlng": {
+        "lat": 51.42883,
+        "lng": -0.50473
+      },
+      "notes": "for use as an Infants School A.D.",
       "external": ""
     },
     "1897": {
@@ -1418,6 +1618,14 @@ const data = {
       "notes": "",
       "external": "205697238"
     },
+    "1898g_": {
+      "latlng": {
+        "lat": 51.43836,
+        "lng": -0.49958
+      },
+      "notes": "Myrtle Cottages",
+      "external": "308358271"
+    },
     "1899": {
       "latlng": {
         "lat": 51.511983,
@@ -1530,6 +1738,14 @@ const data = {
       "notes": "[?] Villas [Date unclear]",
       "external": ""
     },
+    "1899n_": {
+      "latlng": {
+        "lat": 51.43415,
+        "lng": -0.51118
+      },
+      "notes": "J A A.D.",
+      "external": "345710955"
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -1625,6 +1841,14 @@ const data = {
       },
       "notes": "",
       "external": "1057751922"
+    },
+    "1900l_": {
+      "latlng": {
+        "lat": 51.43828,
+        "lng": -0.49765
+      },
+      "notes": "",
+      "external": ""
     },
     "1901": {
       "latlng": {
@@ -1928,6 +2152,30 @@ const data = {
         "lng": -0.05213
       },
       "notes": "Downham",
+      "external": ""
+    },
+    "1904e_": {
+      "latlng": {
+        "lat": 51.4293,
+        "lng": -0.50642
+      },
+      "notes": "Pever Villas",
+      "external": ""
+    },
+    "1904f_": {
+      "latlng": {
+        "lat": 51.42935,
+        "lng": -0.5063
+      },
+      "notes": "Cambo Villas",
+      "external": ""
+    },
+    "1904g_": {
+      "latlng": {
+        "lat": 51.42941,
+        "lng": -0.50618
+      },
+      "notes": "East Neuk Villas",
       "external": ""
     },
     "1905": {
@@ -2314,6 +2562,30 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1914c_": {
+      "latlng": {
+        "lat": 51.43989,
+        "lng": -0.49762
+      },
+      "notes": "Carson Villas",
+      "external": ""
+    },
+    "1914d_": {
+      "latlng": {
+        "lat": 51.43995,
+        "lng": -0.49761
+      },
+      "notes": "Primrose Villas",
+      "external": ""
+    },
+    "1914e_": {
+      "latlng": {
+        "lat": 51.42922,
+        "lng": -0.50667
+      },
+      "notes": "",
+      "external": "558833863"
+    },
     "1919": {
       "latlng": {
         "lat": 51.5115,
@@ -2562,6 +2834,14 @@ const data = {
       "notes": "TODO",
       "external": ""
     },
+    "1934a_": {
+      "latlng": {
+        "lat": 51.4395,
+        "lng": -0.49768
+      },
+      "notes": "W.S.F.",
+      "external": ""
+    },
     "1935": {
       "latlng": {
         "lat": 51.58994,
@@ -2569,6 +2849,14 @@ const data = {
       },
       "notes": "GR V",
       "external": "130537060"
+    },
+    "1935a_": {
+      "latlng": {
+        "lat": 51.42777,
+        "lng": -0.4914
+      },
+      "notes": "",
+      "external": ""
     },
     "1936": {
       "latlng": {
@@ -2585,6 +2873,22 @@ const data = {
       },
       "notes": "GR VI",
       "external": ""
+    },
+    "1963_": {
+      "latlng": {
+        "lat": 51.6305,
+        "lng": -0.12803
+      },
+      "notes": "ER II",
+      "external": "188837393"
+    },
+    "1971_": {
+      "latlng": {
+        "lat": 51.42971,
+        "lng": -0.49877
+      },
+      "notes": "[On drainpipe]",
+      "external": "162411474"
     },
     "1982": {
       "latlng": {
@@ -2625,6 +2929,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "2001a_": {
+      "latlng": {
+        "lat": 51.43396,
+        "lng": -0.51202
+      },
+      "notes": "",
+      "external": "345709446"
     },
     "2002": {
       "latlng": {
@@ -2690,6 +3002,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "2014_": {
+      "latlng": {
+        "lat": 51.43429,
+        "lng": -0.49501
+      },
+      "notes": "",
+      "external": ""
+    },
     "2018_": {
       "latlng": {
         "lat": 51.51689,
@@ -2697,6 +3017,14 @@ const data = {
       },
       "notes": "TODO",
       "external": ""
+    },
+    "2020_": {
+      "latlng": {
+        "lat": 51.43393,
+        "lng": -0.49558
+      },
+      "notes": "Violet House",
+      "external": "558823698"
     }
   }
 }

@@ -30,6 +30,17 @@
       }
     }
   },
+  "Wolverhampton": {
+    "config": {
+      "country": "UK",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+      "boundary": true,
+      "external": {
+        "label": "See building details on OpenStreetMap",
+        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+      }
+    }
+  },
   "Replacements": {
     "config": {
       "zoom": 12,
