@@ -3,7 +3,7 @@ const data = {
     "country": "UK",
     "boundary": true,
     "external": {
-      "label": "Check out Historic England",
+      "label": "Historic England",
       "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
     },
     "useInternalMap": true,

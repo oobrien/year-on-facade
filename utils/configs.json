@@ -24,7 +24,7 @@
       "country": "UK",
       "boundary": true,
       "external": {
-        "label": "Check out Historic England",
+        "label": "Historic England",
         "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
       }
     }
@@ -35,7 +35,7 @@
       "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
       "boundary": true,
       "external": {
-        "label": "See building details on OpenStreetMap",
+        "label": "OpenStreetMap",
         "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
       }
     }
@@ -65,7 +65,7 @@
         "east": 0.323770
       },
       "external": {
-        "label": "Check out Historic England",
+        "label": "Historic England",
         "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
       }
     }
@@ -101,7 +101,7 @@
         "east": 12.6514573
       },
       "external": {
-        "label": "Check out Fredede og Bevaringsværdige Bygninger",
+        "label": "Fredede og Bevaringsværdige Bygninger",
         "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
       }
     }
