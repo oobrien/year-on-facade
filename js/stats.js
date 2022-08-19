@@ -28,7 +28,6 @@ function updateTable() {
   console.log(years);
   const min = Math.floor(Math.min(...years) / yearsInLine) * yearsInLine
   let max = Math.ceil((Math.max(...years) + 1) / yearsInLine) * yearsInLine
-
   const parent = document.querySelector('#table')
   
   let lastisdotrow = false;
@@ -45,6 +44,7 @@ function updateTable() {
       const year = document.createElement('div')
       year.classList.add('year')
       const currentYear = r * yearsInLine + c
+      let countText = "&nbsp;"
       if (years.includes(currentYear)) {
         if (data.points[currentYear + "_"])
         {
@@ -63,10 +63,16 @@ function updateTable() {
 			  year.classList.add('external')
 			}		
 		}
+		thecount = years.filter(x => x===currentYear).length
+		if (thecount > 1) {
+		    countText = thecount
+		}
       }
+      let currentYearText = "&nbsp";
       if (c == 0 || c % 5 == 0) {
-        year.innerText = currentYear
-      }
+      		currentYearText = currentYear
+      }      
+	  year.innerHTML +=  '<div class="count">&nbsp;</div>' + currentYearText + '<div class="count">' + countText + '</div>'      
       year.title = currentYear
       row.appendChild(year)
     }
@@ -79,8 +85,13 @@ function updateTotal() {
   const years = Object.keys(data.points).map(y => parseInt(y))
   const min = Math.min(...years)
   const max = Math.max(...years)
-  const coverage = Math.floor((years.length * 100) / (max - min + 1))
-  document.querySelector('#total .value').innerHTML = `${years.length} (${coverage}%)`
+  
+  const todo = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
+  const visited = Object.keys(data.points).filter(p => p.length == 4).length
+  const total = visited + todo
+  const coverage = Math.floor((total * 100) / (max - min + 1))
+    
+  document.querySelector('#total .value').innerHTML = `${total} (${coverage}%)`
 }
 
 function updateLongestSequence() {
@@ -103,6 +114,13 @@ function updateLongestSequence() {
 }
 
 function updateHeritageRegistry () {
+
+  const externalConfig = data.config.external || (data.citiesConfig && data.citiesConfig[city].config.external)
+  if (externalConfig) {
+    const label = document.querySelector('#registryName')
+    label.innerHTML = externalConfig.label
+  }
+
   const inRegistry = Object.values(data.points).filter(p => p.external).length
   if (inRegistry > 0) {
     const percentage = Math.floor(inRegistry * 100 / Object.keys(data.points).length)
@@ -113,10 +131,10 @@ function updateHeritageRegistry () {
 }
 
 function updateVisited () {
-  const todo = Object.values(data.points).filter(p => p.notes.includes("TODO")).length
+  const todo = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
   if (todo > 0) {
-    const total = Object.keys(data.points).length
-    const visited = total - todo
+    const visited = Object.keys(data.points).filter(p => p.length == 4).length
+	const total = visited + todo
     const percentage = Math.floor(visited * 100 / total)
     document.querySelector('#visited .value').innerHTML = `${visited} (${percentage}%)`
   } else {

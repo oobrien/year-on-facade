@@ -27,10 +27,14 @@ h1 {
   height: 34px;
   background-color: #cccccc;
   border: 0.5px solid white;
-  line-height: 34px;
   text-align: center;
   font-size: 13px;
   color: #37383a
+}
+
+.year .count
+{
+  font-size: 8px;
 }
 
 .todo {
