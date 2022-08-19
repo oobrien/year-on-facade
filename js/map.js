@@ -1,39 +1,108 @@
 let map
 var layerData;
-var layerTODOOnly;
-
-function todo()
-{
-	layerTODOOnly.setVisible(!layerTODOOnly.getVisible());
-	layerData.setVisible(!layerData.getVisible());
-}
 
 function pointStyle(feature, resolution)
 {
 	return [ 
 		new ol.style.Style({
 			image: new ol.style.Circle({			
-				radius: 12,
+				radius: resolution > 100 ? (resolution > 200 ? 3 : 5) : 12,
 				fill: new ol.style.Fill({ color: feature.get('fillColor') }),
 				stroke: new ol.style.Stroke({ 
 					color: 'rgba(0,0,0,0.7)', 
-					width: 1})
+					width: 0.4})
 			}),
-			text: new ol.style.Text({
+			text: resolution > 100 ? null : new ol.style.Text({
 				text: feature.get('label'),
-				font: '9px Ubuntu, Gill Sans, Helvetica, Arial, sans-serif',
-				fill: new ol.style.Fill({ color: 'rgba(0,0,0,1)' }),
-				stroke: new ol.style.Stroke({ color: 'rgba(255,255,255,1)', width: 2 })
+				font: '9px/0.7 Ubuntu, Gill Sans, Helvetica, Arial, sans-serif',
+				fill: new ol.style.Fill({ color: 'rgba(255,255,255,1)' }),
+				stroke: new ol.style.Stroke({ color: 'rgba(0,0,0,1)', width: 2 })
 			})
 		})
 	]
 }
 
-function todoStyle(feature, resolution)
+const keyItems = [
+	["1899", "Visited", "visited"], 
+	["1900_", "TODO", "todo"], 
+	["1899a", "Supplementary", "additional"], 
+	["1900a_", "Supp. TODO", "additionaltodo"], 
+	["1899R_", "Replacement", "replacement"]
+];
+
+function createMarker(year, pointGeom)
 {
-	if (!feature.get('todo')) return null
-	else return pointStyle(feature, resolution);
+		var marker = new ol.Feature({ geometry: pointGeom });
+		marker.setId(year);
+		var cat = "visited";
+		marker.set('fillColor', 'rgba(0,255,255,1)');	
+
+		if (year.indexOf("_") > -1)
+		{
+			if (year.length > 5)
+			{
+				if (year.indexOf("R") > -1) 
+				{
+					cat = "replacement"
+					marker.set('fillColor', 'rgba(255,128,0,1)');	
+				}
+				else
+				{
+					cat = "additionaltodo"
+					marker.set('fillColor', 'rgba(255,255,0,0.5)');				
+				}
+			}
+			else
+			{
+				cat = "todo"
+				marker.set('fillColor', 'rgba(255,0,0,1)'); 
+			}
+		}
+		else
+		{
+			if (year.length > 4)
+			{
+				cat = "additional"	
+				marker.set('fillColor', 'rgba(64,128,255,0.5)'); 	
+			}
+		}
+		marker.set('category', cat);
+		let yearText = year.replaceAll("_", "");
+		marker.set('label', yearText);
+		if (yearText.length > 4)
+		{
+			marker.set('label', '\n' + yearText.substring(0, 4) + '\n' + yearText.substring(4))
+		}
+		return marker;
 }
+
+var keyMaps = [];
+function handleZoom()
+{
+	for (var i in keyMaps)
+	{
+	    keyMaps[i].getView().setZoom(map.getView().getZoom());	
+	}
+}
+
+function filterData(category)
+{
+	layerData.getSource().forEachFeature((feature) => {
+		// your filter logic
+		if (feature.get('category') == category)
+		{
+		 if (feature.getStyle() == null)
+		 {
+			 feature.setStyle(new ol.style.Style({})); // hide feature             
+		 }
+		 else
+		 {
+			feature.setStyle(null); // show feature             
+		 }
+		}
+	});
+}
+
 
 function initMap() 
 {
@@ -47,54 +116,28 @@ function initMap()
 
   	var dataSource = new ol.source.Vector({});
   
+	var markers = [];
 	for (const year in points){
 		var pointGeom =  new ol.geom.Point(ol.proj.transform([points[year].latlng.lng, points[year].latlng.lat], "EPSG:4326", "EPSG:3857"));
-		var marker = new ol.Feature({ geometry: pointGeom });
-		marker.setId(year);
-		marker.set('label', year);
-		if (year.indexOf("_") > -1)
-		//if (points[year].notes.length > 3 && points[year].notes.substring(0, 4) == "TODO")
-		{
-			if (year.length > 5)
-			{
-				marker.set('fillColor', 'rgba(255,220,96,0.3)');	
-			}
-			else
-			{
-				marker.set('fillColor', 'rgba(255,96,96,0.5)');			
-			}
-			marker.set('todo', true);	
-		}
-		else
-		{
-			if (year.length > 4)
-			{
-				marker.set('fillColor', 'rgba(64,255,192,0.4)');			
-			}
-			else
-			{
-				marker.set('fillColor', 'rgba(64,192,255,0.7)');	
-			}		
-			marker.set('todo', false);	
-		}
-		dataSource.addFeature(marker);
+		var marker = createMarker(year, pointGeom)
+		markers.push(marker);
 	}
 
+	markers.sort((a, b) => a.get('cat') > b.get('cat'));
+
+	for (const i in markers)
+	{
+		dataSource.addFeature(markers[i]);	
+	}
+	
 	layerData = new ol.layer.Vector({
 		source: dataSource,
 		style: pointStyle
 	});
 
-	layerTODOOnly = new ol.layer.Vector({
-		source: dataSource,
-		style: todoStyle
-	});
-
-    layerTODOOnly.setVisible(false);
-	
 	var layerBoundary = new ol.layer.Vector({
 		style: new ol.style.Style({ 
-			fill: new ol.style.Fill({color: 'rgba(255,255,255,0.3' }),
+		fill: new ol.style.Fill({color: 'rgba(255,255,255,0.3' }),
 			stroke: new ol.style.Stroke({color: 'rgba(0,255,255,0.7)', width: 3}),
 		})
 	});
@@ -115,9 +158,23 @@ function initMap()
         label: "🌎"
       });
       
+	const sourceLocation = new ol.source.Vector();
+	const layerLocation = new ol.layer.Vector({
+	  source: sourceLocation,
+	  style: new ol.style.Style({
+			image: new ol.style.Circle({			
+				radius: 7,
+				fill: new ol.style.Fill({ color: 'rgba(255,255,255,0.5)' }),
+				stroke: new ol.style.Stroke({ 
+					color: 'rgba(0,128,255,0.7)', 
+					width: 5})
+			})
+		})
+	});      
+      
 	map = new ol.Map({
 		target: "map",
-		layers: [ layerOSM, layerBoundary, layerData, layerTODOOnly ],
+		layers: [ layerOSM, layerBoundary, layerData, layerLocation ],
 		controls: ol.control.defaults({}).extend([
 			//new ol.control.ZoomSlider({}),
 			new ol.control.ScaleLine({geodesic: true, units: 'metric' }),
@@ -155,7 +212,7 @@ function initMap()
 	{
 		map.forEachFeatureAtPixel(e.pixel, function (f, layer) 
 		{
-			if (layer != layerData && later != layerTODOOnly)
+			if (layer != layerData)
 			{
 				return;
 			}
@@ -164,4 +221,94 @@ function initMap()
 			window.location.href = '../item/?city=' + data.config.city + '&year=' + f.getId();
 		});
 	});
+	
+	map.getView().on("change:resolution", handleZoom);    
+ 
+	var keyCount = 0;
+	const parent = document.querySelector('#key')
+	for (const i in keyItems)
+	{
+        const keyRow = document.createElement('tr')
+		keyRow.classList.add('keyRow')
+		
+		const keyMapContainer = document.createElement('td')
+		keyMapContainer.classList.add('keyMap')
+		keyMapContainer.id = "keyMap" + keyCount;
+		keyRow.appendChild(keyMapContainer)
+
+		const keyLabel = document.createElement('td')
+		keyLabel.classList.add('keyLabel')
+		keyLabel.innerHTML = keyItems[i][1];
+		keyRow.appendChild(keyLabel)
+		keyRow.addEventListener('click', function() { filterData(keyItems[i][2]) });
+
+		parent.appendChild(keyRow);
+
+		var pointGeom = new ol.geom.Point([0, 0]);
+		var marker = createMarker(keyItems[i][0], pointGeom);
+		var keySource = new ol.source.Vector({});
+		keySource.addFeature(marker);		
+
+		var layerKey = new ol.layer.Vector({
+			source: keySource,
+			style: pointStyle
+		});
+
+		var keyMap = new ol.Map({ target: "keyMap" + keyCount,
+			layers: [ layerKey ],
+			controls: [], view: new ol.View({ center: [0, 0], zoom: map.getView().getZoom() }) 
+		});		
+		keyMaps.push(keyMap);
+		keyCount++;	
+	}	
+	
+	//0 = off
+	//1 = starting
+	//2 = operating and zoomed
+	
+	let geolocation = 0;
+	let geolocationHandlerId = 0
+	function switchOnGeolocation()
+	{
+	   geolocation = 1;
+		geolocationHandlerId = navigator.geolocation.watchPosition(function(pos) {
+		  sourceLocation.clear(true);
+		  sourceLocation.addFeature(
+			new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([pos.coords.longitude, pos.coords.latitude]))));
+		  if (geolocation == 1)
+		  {
+		  	geolocation = 2;
+			map.getView().fit(sourceLocation.getExtent(), {
+			  maxZoom: 18,
+			  duration: 500
+			});
+		  }
+		}, function(error) {
+		  alert(`ERROR: ${error.message}`);
+		}, {
+		  enableHighAccuracy: true
+		});	
+	}
+
+
+	const locate = document.createElement('div');
+	locate.className = 'ol-control ol-unselectable locate';
+	locate.innerHTML = '<button title="Locate me">◎</button>';
+	locate.addEventListener('click', function() {
+	  if (geolocation == 0)
+	  {
+	  	switchOnGeolocation();
+	  }
+	  if (geolocation == 2)
+	  {
+	  	navigator.geolocation.clearWatch(geolocationHandlerId);
+		sourceLocation.clear(true);
+	  	geolocation = 0;
+	  }
+	});
+	map.addControl(new ol.control.Control({
+	  element: locate
+	}));	
+	
+	
 }

@@ -43,3 +43,34 @@ button
 {
 	padding: 5px 10px;
 }
+
+.locate
+{
+	top: 8em;
+	left: 0.5em;
+}
+
+#key
+{
+	position: absolute;
+	right: 0;
+	top: 10px;
+  	background-color: #fff;
+  	border: 2px solid #fff;
+}
+
+.keyRow
+{
+	cursor: pointer;
+}
+
+.keyMap
+{
+	width: 30px;
+	height: 30px;
+}
+
+.keyLabel
+{
+	font-size: 12px;
+}
