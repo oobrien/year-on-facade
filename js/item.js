@@ -32,7 +32,7 @@ function updateExternalLink(city, year) {
   const externalConfig = data.config.external || (data.citiesConfig && data.citiesConfig[city].config.external)
   if (externalConfig && externalId) {
     const link = document.querySelector('#external a')
-    link.innerHTML = externalConfig.label
+    link.innerHTML = "See details on " + externalConfig.label
     const template = externalConfig.template
     link.href = template.replace('EXTERNAL_ID', externalId)
   }
@@ -40,9 +40,13 @@ function updateExternalLink(city, year) {
 
 function updateNotes(year) {
   const notes = data.points[year].notes
+  const notesContainer = document.querySelector('#notes')
   if (notes) {
-    const notesContainer = document.querySelector('#notes')
-    notesContainer.innerHTML = data.points[year].notes
+    notesContainer.innerHTML = data.points[year].notes + "<br />" + year.substring(0, 4)  
+  }
+  else
+  {
+    notesContainer.innerHTML = year.substring(0, 4)  
   }
 }
 
@@ -102,7 +106,7 @@ function updateItem() {
   updateLinks(city, year)
   updateExternalLink(city, year)
   updateNotes(year)
-  if (!data.points[year].notes.startsWith('TODO')) {
+  if (year.indexOf("_") == -1) {
     addPhotos(city, year)
   }
 }
