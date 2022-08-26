@@ -59,10 +59,6 @@ EOF
 jq -s --sort-keys '{"World": {"points": [.[] | ..? | .config.city as $city | .points // empty | with_entries(.value += {"city": $city})] | add }}' $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
 generateFakeCity "World"
 
-#generate todo.js
-jq -s --sort-keys '{"TODO": {"points": [.[] | ..? | .config.city as $city | .points // empty | with_entries(.value += {"city": $city}) | with_entries(select(.value.notes | contains("TODO")))] | add }}' $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
-generateFakeCity "TODO"
-
 # generate list.js
 list_js="./js/_generated/list.js"
 echo "const data = {" >$list_js

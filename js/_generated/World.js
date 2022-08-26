@@ -19,23 +19,23 @@ const data = {
       },
       "notes": "Tummies est. 1988"
     },
-    "1607": {
+    "1607_": {
       "city": "London",
       "external": "1218593",
       "latlng": {
         "lat": 51.48068758027714,
         "lng": 0.037021553277171264
       },
-      "notes": "TODO"
+      "notes": ""
     },
-    "1629": {
+    "1629_": {
       "city": "London",
       "external": "1080160",
       "latlng": {
         "lat": 51.535080908278466,
         "lng": -0.46018471798074584
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1658": {
       "city": "London",
@@ -46,32 +46,41 @@ const data = {
       },
       "notes": ""
     },
-    "1665": {
+    "1665_": {
       "city": "London",
       "external": "1064411",
       "latlng": {
         "lat": 51.54012913767072,
         "lng": 0.16254019586796453
       },
-      "notes": "TODO"
+      "notes": ""
     },
-    "1669": {
+    "1669_": {
       "city": "London",
       "external": "1184479",
       "latlng": {
         "lat": 51.366376853500455,
         "lng": -0.30684944046646584
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1675": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.48795,
+        "lng": -0.47839
+      },
+      "notes": ""
+    },
+    "1675_": {
       "city": "London",
       "external": "1358413",
       "latlng": {
         "lat": 51.48795,
         "lng": -0.47839
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1702": {
       "city": "London",
@@ -83,13 +92,22 @@ const data = {
       "notes": "Retake photo once construction is complete"
     },
     "1705": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5943,
+        "lng": -0.38072
+      },
+      "notes": "Queens Head [recently painted on post]"
+    },
+    "1705_": {
       "city": "London",
       "external": "1359298",
       "latlng": {
         "lat": 51.353924798649906,
         "lng": 0.1379032927353277
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1709": {
       "city": "London",
@@ -190,14 +208,14 @@ const data = {
       },
       "notes": "HW"
     },
-    "1731": {
+    "1731_": {
       "city": "London",
       "external": "1055773",
       "latlng": {
         "lat": 51.33643988903099,
         "lng": 0.03103325066986683
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1732": {
       "city": "London",
@@ -253,14 +271,14 @@ const data = {
       },
       "notes": "Retake photo once construction is complete"
     },
-    "1755": {
+    "1755_": {
       "city": "London",
       "external": "1064243",
       "latlng": {
         "lat": 51.44160860852726,
         "lng": 0.1477712680269168
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1756": {
       "city": "Copenhagen",
@@ -279,15 +297,6 @@ const data = {
         "lng": -0.06128506922640199
       },
       "notes": ""
-    },
-    "1761": {
-      "city": "London",
-      "external": "1263075",
-      "latlng": {
-        "lat": 51.48321650208327,
-        "lng": -0.2932745539360185
-      },
-      "notes": "TODO"
     },
     "1761_": {
       "city": "Wolverhampton",
@@ -424,41 +433,41 @@ const data = {
       },
       "notes": ""
     },
-    "1797": {
+    "1797_": {
       "city": "London",
       "external": "1358048",
       "latlng": {
         "lat": 51.45907964982244,
         "lng": -0.3036895054983236
       },
-      "notes": "TODO"
+      "notes": ""
     },
-    "1798": {
+    "1798_": {
       "city": "London",
       "external": "1066156",
       "latlng": {
         "lat": 51.51081852855117,
         "lng": -0.13179918042208724
       },
-      "notes": "TODO: year is not related to the built date"
+      "notes": "Year is not related to the built date"
     },
-    "1799": {
+    "1799_": {
       "city": "London",
       "external": "1184520",
       "latlng": {
         "lat": 51.584475106114326,
         "lng": 0.1736602090991156
       },
-      "notes": "TODO"
+      "notes": ""
     },
-    "1802": {
+    "1802_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.52937316843962,
         "lng": -0.0836608177654305
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1806": {
       "city": "London",
@@ -469,23 +478,14 @@ const data = {
       },
       "notes": ""
     },
-    "1811": {
+    "1811_": {
       "city": "London",
       "external": "1079189",
       "latlng": {
         "lat": 51.57852913655827,
         "lng": -0.15386294828823677
       },
-      "notes": "TODO: Take photo when wisteria has no leafs"
-    },
-    "1811_": {
-      "city": "Middlesex",
-      "external": "211819761",
-      "latlng": {
-        "lat": 51.50959,
-        "lng": -0.25997
-      },
-      "notes": "Erected by the Worshipful Company of Goldsmiths A.D."
+      "notes": "Take photo when wisteria has no leafs"
     },
     "1812": {
       "city": "London",
@@ -604,14 +604,14 @@ const data = {
       },
       "notes": "What does PD mean?"
     },
-    "1829": {
+    "1829_": {
       "city": "London",
       "external": "1079080",
       "latlng": {
         "lat": 51.49135484522112,
         "lng": 0.06955560536950561
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1830": {
       "city": "London",
@@ -685,14 +685,14 @@ const data = {
       },
       "notes": ""
     },
-    "1842": {
+    "1842_": {
       "city": "London",
       "external": "1079064",
       "latlng": {
         "lat": 51.490713568647855,
         "lng": 0.06430737577769526
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1844": {
       "city": "London",
@@ -820,14 +820,14 @@ const data = {
       },
       "notes": "Alderwick Terrace"
     },
-    "1854": {
+    "1854_": {
       "city": "London",
       "external": "1376229",
       "latlng": {
         "lat": 51.499055934136145,
         "lng": 0.06335156553439077
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1855": {
       "city": "London",
@@ -937,14 +937,32 @@ const data = {
       },
       "notes": ""
     },
+    "1862a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51685,
+        "lng": -0.30078
+      },
+      "notes": "Prospect Place"
+    },
     "1863": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.51991313977862,
+        "lng": -0.15189308940352775
+      },
+      "notes": ""
+    },
+    "1863R_": {
+      "city": "London",
       "external": "1393325",
       "latlng": {
         "lat": 51.533889128530646,
         "lng": -0.08002735315358976
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1863a_": {
       "city": "Middlesex",
@@ -972,15 +990,6 @@ const data = {
         "lng": -0.30021478961622816
       },
       "notes": ""
-    },
-    "1864_": {
-      "city": "Middlesex",
-      "external": "183351551",
-      "latlng": {
-        "lat": 51.57361,
-        "lng": -0.34134
-      },
-      "notes": "Trafalgar [Terrace?]"
     },
     "1865": {
       "city": "London",
@@ -1017,6 +1026,15 @@ const data = {
         "lng": -0.15204346507493086
       },
       "notes": ""
+    },
+    "1866a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61175,
+        "lng": -0.33554
+      },
+      "notes": "called home Dec' 13"
     },
     "1868": {
       "city": "London",
@@ -1134,6 +1152,15 @@ const data = {
         "lng": -0.17855375439158266
       },
       "notes": ""
+    },
+    "1873_": {
+      "city": "Middlesex",
+      "external": "984971830",
+      "latlng": {
+        "lat": 51.51716,
+        "lng": -0.29972
+      },
+      "notes": "Avenue Cottages"
     },
     "1874": {
       "city": "London",
@@ -1289,12 +1316,12 @@ const data = {
     },
     "1879_": {
       "city": "Middlesex",
-      "external": "",
+      "external": "787287273",
       "latlng": {
-        "lat": 51.59993,
-        "lng": -0.07125
+        "lat": 51.49916,
+        "lng": -0.25601
       },
-      "notes": "Landermere Villa"
+      "notes": "JN A.D."
     },
     "1879a_": {
       "city": "Middlesex",
@@ -1303,6 +1330,15 @@ const data = {
         "lng": -0.07123
       },
       "notes": "[?]"
+    },
+    "1879b_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59993,
+        "lng": -0.07125
+      },
+      "notes": "Landermere Villa"
     },
     "1880": {
       "city": "London",
@@ -1367,6 +1403,24 @@ const data = {
       },
       "notes": "AD"
     },
+    "1880f_": {
+      "city": "Middlesex",
+      "external": "786032262",
+      "latlng": {
+        "lat": 51.49608,
+        "lng": -0.25392
+      },
+      "notes": "Priory Gardens"
+    },
+    "1880g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49631,
+        "lng": -0.25175
+      },
+      "notes": "TC"
+    },
     "1881": {
       "city": "London",
       "external": "1286182",
@@ -1394,7 +1448,7 @@ const data = {
       },
       "notes": "AD"
     },
-    "1881c_": {
+    "1881c": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -1483,6 +1537,15 @@ const data = {
         "lng": -0.49854
       },
       "notes": "South View Cottages"
+    },
+    "1882e_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.48734,
+        "lng": -0.30255
+      },
+      "notes": "Invercauld Terrace"
     },
     "1883": {
       "city": "London",
@@ -1853,6 +1916,33 @@ const data = {
       },
       "notes": "Downton Villas"
     },
+    "1887e_": {
+      "city": "Middlesex",
+      "external": "975755938",
+      "latlng": {
+        "lat": 51.51609,
+        "lng": -0.29967
+      },
+      "notes": ""
+    },
+    "1887f_": {
+      "city": "Middlesex",
+      "external": "984971824",
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.29998
+      },
+      "notes": "Alpha Cottages"
+    },
+    "1887g_": {
+      "city": "Middlesex",
+      "external": "627997846",
+      "latlng": {
+        "lat": 51.53408,
+        "lng": -0.24792
+      },
+      "notes": "VR"
+    },
     "1888": {
       "city": "London",
       "external": "1297947",
@@ -1933,6 +2023,33 @@ const data = {
         "lng": -0.48175
       },
       "notes": "Hope Cottages"
+    },
+    "1888i_": {
+      "city": "Middlesex",
+      "external": "975755939",
+      "latlng": {
+        "lat": 51.51611,
+        "lng": -0.29943
+      },
+      "notes": ""
+    },
+    "1888j_": {
+      "city": "Middlesex",
+      "external": "975755940\t",
+      "latlng": {
+        "lat": 51.51612,
+        "lng": -0.29928
+      },
+      "notes": ""
+    },
+    "1888k_": {
+      "city": "Middlesex",
+      "external": "975755941",
+      "latlng": {
+        "lat": 51.51614,
+        "lng": -0.29909
+      },
+      "notes": ""
     },
     "1889": {
       "city": "London",
@@ -2628,13 +2745,22 @@ const data = {
       "notes": "Fern Cottage"
     },
     "1896": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.499315909348844,
+        "lng": -0.16558587585727838
+      },
+      "notes": ""
+    },
+    "1896R_": {
+      "city": "London",
       "external": "1213950",
       "latlng": {
         "lat": 51.4646337076582,
         "lng": 0.009301754363103189
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1896a_": {
       "city": "Middlesex",
@@ -2780,6 +2906,24 @@ const data = {
       },
       "notes": "This foundation stone of the Church of S.Matthew was laid September 24 AD"
     },
+    "1897i_": {
+      "city": "Middlesex",
+      "external": "163085077",
+      "latlng": {
+        "lat": 51.58413,
+        "lng": -0.06883
+      },
+      "notes": "A.D."
+    },
+    "1897j_": {
+      "city": "Middlesex",
+      "external": "787287285",
+      "latlng": {
+        "lat": 51.49975,
+        "lng": -0.25597
+      },
+      "notes": ""
+    },
     "1898": {
       "city": "London",
       "external": "1357448",
@@ -2869,6 +3013,24 @@ const data = {
         "lng": -0.49958
       },
       "notes": "Myrtle Cottages"
+    },
+    "1898h_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49991,
+        "lng": -0.25597
+      },
+      "notes": ""
+    },
+    "1898i_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50041,
+        "lng": -0.25461
+      },
+      "notes": "CR"
     },
     "1899": {
       "city": "Copenhagen",
@@ -3274,6 +3436,15 @@ const data = {
       },
       "notes": "Edward Nelson Cottages"
     },
+    "1901k_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59155,
+        "lng": -0.0697
+      },
+      "notes": "AI"
+    },
     "1902": {
       "city": "London",
       "external": "1342074",
@@ -3355,14 +3526,32 @@ const data = {
       },
       "notes": "Perivale Villas"
     },
+    "1902i_": {
+      "city": "Middlesex",
+      "external": "229417040",
+      "latlng": {
+        "lat": 51.58422,
+        "lng": -0.07185
+      },
+      "notes": ""
+    },
     "1903": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.50241134635818,
+        "lng": -0.22589630662998486
+      },
+      "notes": ""
+    },
+    "1903R_": {
+      "city": "London",
       "external": "1430680",
       "latlng": {
         "lat": 51.4864943335234,
         "lng": 0.09639768502470046
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1903_": {
       "city": "Wolverhampton",
@@ -3517,14 +3706,32 @@ const data = {
       },
       "notes": ""
     },
+    "1903q_": {
+      "city": "Middlesex",
+      "external": "753195764",
+      "latlng": {
+        "lat": 51.59161,
+        "lng": -0.07012
+      },
+      "notes": ""
+    },
     "1904": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.49962117850561,
+        "lng": -0.16637723166738133
+      },
+      "notes": ""
+    },
+    "1904R_": {
+      "city": "London",
       "external": "1392379",
       "latlng": {
         "lat": 51.45876931464815,
         "lng": 0.05432071021885597
       },
-      "notes": "TODO: Hardly a facade"
+      "notes": "Hardly a facade"
     },
     "1904_": {
       "city": "Wolverhampton",
@@ -3689,13 +3896,13 @@ const data = {
       "notes": ""
     },
     "1906R_": {
-      "city": "Middlesex",
-      "external": "93982284",
+      "city": "London",
+      "external": "1389537",
       "latlng": {
-        "lat": 51.65299,
-        "lng": -0.07269
+        "lat": 51.652988999068505,
+        "lng": -0.0726415888113681
       },
-      "notes": "Enfield Electricity Works"
+      "notes": ""
     },
     "1906a_": {
       "city": "Middlesex",
@@ -3785,7 +3992,7 @@ const data = {
         "lat": 51.59488,
         "lng": -0.06906
       },
-      "notes": ""
+      "notes": "I.S.L.V."
     },
     "1907b_": {
       "city": "Middlesex",
@@ -3822,6 +4029,24 @@ const data = {
         "lng": -0.30128
       },
       "notes": "A D"
+    },
+    "1907f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5951,
+        "lng": -0.06891
+      },
+      "notes": "Windsor Parade"
+    },
+    "1907g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59401,
+        "lng": -0.06927
+      },
+      "notes": ""
     },
     "1908": {
       "city": "London",
@@ -3867,6 +4092,24 @@ const data = {
         "lng": -0.4708
       },
       "notes": "The Parade"
+    },
+    "1908d_": {
+      "city": "Middlesex",
+      "external": "138165979",
+      "latlng": {
+        "lat": 51.59097,
+        "lng": -0.07031
+      },
+      "notes": ""
+    },
+    "1908e_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59367,
+        "lng": -0.0694
+      },
+      "notes": ""
     },
     "1909": {
       "city": "London",
@@ -3935,8 +4178,8 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.6140427,
-        "lng": -0.2488684
+        "lat": 51.614,
+        "lng": -0.24876
       },
       "notes": ""
     },
@@ -4066,6 +4309,15 @@ const data = {
       },
       "notes": ""
     },
+    "1913d_": {
+      "city": "Middlesex",
+      "external": "51065794",
+      "latlng": {
+        "lat": 51.58797,
+        "lng": -0.07248
+      },
+      "notes": "Tottenham County School A.D."
+    },
     "1914": {
       "city": "London",
       "external": "",
@@ -4174,6 +4426,15 @@ const data = {
       },
       "notes": ""
     },
+    "1921_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59457,
+        "lng": -0.0702
+      },
+      "notes": ""
+    },
     "1922": {
       "city": "London",
       "external": "",
@@ -4216,6 +4477,15 @@ const data = {
       "latlng": {
         "lat": 51.6145659,
         "lng": -0.2474035
+      },
+      "notes": ""
+    },
+    "1923b_": {
+      "city": "Middlesex",
+      "external": "987795750",
+      "latlng": {
+        "lat": 51.59511,
+        "lng": -0.07079
       },
       "notes": ""
     },
@@ -4267,8 +4537,8 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.6150139,
-        "lng": -0.2461455
+        "lat": 51.61495,
+        "lng": -0.24608
       },
       "notes": ""
     },
@@ -4281,23 +4551,32 @@ const data = {
       },
       "notes": ""
     },
-    "1926R_": {
+    "1926a": {
       "city": "Middlesex",
-      "external": "198992577",
+      "external": "29294316",
       "latlng": {
-        "lat": 51.61568,
-        "lng": -0.27533
+        "lat": 51.57364,
+        "lng": -0.33695
       },
       "notes": ""
     },
     "1927": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.39153,
+        "lng": -0.44961
+      },
+      "notes": "Lordsbridge House"
+    },
+    "1927_": {
       "city": "London",
       "external": "1186830",
       "latlng": {
         "lat": 51.40564335790167,
         "lng": 0.013973970382273842
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1927a": {
       "city": "Middlesex",
@@ -4534,13 +4813,22 @@ const data = {
       "notes": "W.S.F."
     },
     "1935": {
+      "city": "Middlesex",
+      "external": "130537060",
+      "latlng": {
+        "lat": 51.58994,
+        "lng": -0.33565
+      },
+      "notes": "GR V"
+    },
+    "1935_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.58650822483798,
         "lng": -0.21503353456319424
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1935a_": {
       "city": "Middlesex",
@@ -4569,6 +4857,33 @@ const data = {
       },
       "notes": "Rebuilt"
     },
+    "1935d_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53447,
+        "lng": -0.24764
+      },
+      "notes": "GR V Telephone Exchange"
+    },
+    "1935e_": {
+      "city": "Middlesex",
+      "external": "236473521",
+      "latlng": {
+        "lat": 51.6414,
+        "lng": -0.04742
+      },
+      "notes": "GR V"
+    },
+    "1935f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52668,
+        "lng": -0.35232
+      },
+      "notes": "GR V"
+    },
     "1936": {
       "city": "London",
       "external": "",
@@ -4596,6 +4911,24 @@ const data = {
       },
       "notes": "GR VI"
     },
+    "1937b_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51782,
+        "lng": -0.28021
+      },
+      "notes": ""
+    },
+    "1948": {
+      "city": "Middlesex",
+      "external": "247904227",
+      "latlng": {
+        "lat": 51.55257,
+        "lng": -0.29466
+      },
+      "notes": "GR VI Telephone Exchange"
+    },
     "1951": {
       "city": "London",
       "external": "1352668",
@@ -4605,6 +4938,15 @@ const data = {
       },
       "notes": ""
     },
+    "1953": {
+      "city": "Middlesex",
+      "external": "873092922",
+      "latlng": {
+        "lat": 51.6215,
+        "lng": -0.27639
+      },
+      "notes": "ER II"
+    },
     "1955": {
       "city": "London",
       "external": "1195534",
@@ -4613,6 +4955,15 @@ const data = {
         "lng": -0.08810312220234778
       },
       "notes": ""
+    },
+    "1957_": {
+      "city": "Middlesex",
+      "external": "99806373",
+      "latlng": {
+        "lat": 51.53445,
+        "lng": -0.38893
+      },
+      "notes": "ER II Telephone Exchange"
     },
     "1960": {
       "city": "London",
@@ -4687,13 +5038,22 @@ const data = {
       "notes": ""
     },
     "1982": {
+      "city": "Middlesex",
+      "external": "135704911",
+      "latlng": {
+        "lat": 51.57752,
+        "lng": -0.33367
+      },
+      "notes": "Rebuilt"
+    },
+    "1982_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.5775457,
         "lng": -0.3336037
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1985": {
       "city": "London",
@@ -4705,13 +5065,22 @@ const data = {
       "notes": ""
     },
     "1987": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.519602372879305,
+        "lng": -0.11473055411593223
+      },
+      "notes": ""
+    },
+    "1987R_": {
+      "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.533040650381615,
         "lng": -0.10630392881939463
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1988": {
       "city": "London",
@@ -4741,13 +5110,22 @@ const data = {
       "notes": ""
     },
     "1994": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5815,
+        "lng": -0.33497
+      },
+      "notes": ""
+    },
+    "1994_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.5813749,
         "lng": -0.3349292
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "1997": {
       "city": "London",
@@ -4759,13 +5137,22 @@ const data = {
       "notes": "Not ideal just a metal plaque attached to the building"
     },
     "1999": {
-      "city": "Replacements",
+      "city": "London",
+      "external": "",
+      "latlng": {
+        "lat": 51.49285967213844,
+        "lng": -0.2335728686373021
+      },
+      "notes": ""
+    },
+    "1999R_": {
+      "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.33331970197817,
         "lng": -0.26813525094536617
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "2000": {
       "city": "London",
@@ -4803,14 +5190,32 @@ const data = {
       },
       "notes": ""
     },
+    "2001b": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61525,
+        "lng": -0.32371
+      },
+      "notes": ""
+    },
     "2002": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.3928,
+        "lng": -0.4471
+      },
+      "notes": ""
+    },
+    "2002_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.658522612449595,
         "lng": -0.08817388107804792
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "2002a": {
       "city": "Middlesex",
@@ -4830,7 +5235,7 @@ const data = {
       },
       "notes": ""
     },
-    "2003_": {
+    "2003": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -4867,13 +5272,13 @@ const data = {
       "notes": ""
     },
     "2009": {
-      "city": "London",
+      "city": "Middlesex",
       "external": "",
       "latlng": {
         "lat": 51.5796091,
         "lng": -0.2418664
       },
-      "notes": "TODO"
+      "notes": ""
     },
     "2009_": {
       "city": "Wolverhampton",
@@ -4910,23 +5315,14 @@ const data = {
       },
       "notes": ""
     },
-    "2018": {
+    "2018_": {
       "city": "London",
       "external": "",
       "latlng": {
         "lat": 51.51689,
         "lng": -0.302682
       },
-      "notes": "TODO"
-    },
-    "2018_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.51689,
-        "lng": -0.302682
-      },
-      "notes": "ARM"
+      "notes": ""
     },
     "2020": {
       "city": "Middlesex",
@@ -4942,9 +5338,6 @@ const data = {
     "World": {
       "config": {}
     },
-    "TODO": {
-      "config": {}
-    },
     "London": {
       "config": {
         "country": "UK",
@@ -4958,7 +5351,7 @@ const data = {
     "Middlesex": {
       "config": {
         "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
         "boundary": true,
         "external": {
           "label": "OpenStreetMap",
@@ -4969,19 +5362,11 @@ const data = {
     "Wolverhampton": {
       "config": {
         "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
         "boundary": true,
         "external": {
           "label": "See building details on OpenStreetMap",
           "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
-      }
-    },
-    "Replacements": {
-      "config": {
-        "external": {
-          "label": "Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
     },

@@ -1,7 +1,7 @@
 const data = {
   "config": {
     "country": "UK",
-    "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+    "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
     "boundary": true,
     "external": {
       "label": "OpenStreetMap",
@@ -276,6 +276,14 @@ const data = {
       "notes": "Established.",
       "external": "718831170"
     },
+    "1862a_": {
+      "latlng": {
+        "lat": 51.51685,
+        "lng": -0.30078
+      },
+      "notes": "Prospect Place",
+      "external": ""
+    },
     "1863": {
       "latlng": {
         "lat": 51.57481,
@@ -300,7 +308,7 @@ const data = {
       "notes": "Hampton Wick U.D.C.",
       "external": ""
     },
-    "1864_": {
+    "1864": {
       "latlng": {
         "lat": 51.57361,
         "lng": -0.34134
@@ -339,6 +347,14 @@ const data = {
       },
       "notes": "",
       "external": "229688648"
+    },
+    "1866a": {
+      "latlng": {
+        "lat": 51.61175,
+        "lng": -0.33554
+      },
+      "notes": "called home Dec' 13",
+      "external": ""
     },
     "1868": {
       "latlng": {
@@ -411,6 +427,14 @@ const data = {
       },
       "notes": "[?] Cottages",
       "external": ""
+    },
+    "1873_": {
+      "latlng": {
+        "lat": 51.51716,
+        "lng": -0.29972
+      },
+      "notes": "Avenue Cottages",
+      "external": "984971830"
     },
     "1876": {
       "latlng": {
@@ -493,11 +517,11 @@ const data = {
     },
     "1879_": {
       "latlng": {
-        "lat": 51.59993,
-        "lng": -0.07125
+        "lat": 51.49916,
+        "lng": -0.25601
       },
-      "notes": "Landermere Villa",
-      "external": ""
+      "notes": "JN A.D.",
+      "external": "787287273"
     },
     "1879a_": {
       "latlng": {
@@ -505,6 +529,14 @@ const data = {
         "lng": -0.07123
       },
       "notes": "[?]"
+    },
+    "1879b_": {
+      "latlng": {
+        "lat": 51.59993,
+        "lng": -0.07125
+      },
+      "notes": "Landermere Villa",
+      "external": ""
     },
     "1880": {
       "latlng": {
@@ -554,6 +586,22 @@ const data = {
       "notes": "AD",
       "external": "557988559"
     },
+    "1880f_": {
+      "latlng": {
+        "lat": 51.49608,
+        "lng": -0.25392
+      },
+      "notes": "Priory Gardens",
+      "external": "786032262"
+    },
+    "1880g_": {
+      "latlng": {
+        "lat": 51.49631,
+        "lng": -0.25175
+      },
+      "notes": "TC",
+      "external": ""
+    },
     "1881_": {
       "latlng": {
         "lat": 51.6621064,
@@ -570,7 +618,7 @@ const data = {
       "notes": "AD",
       "external": ""
     },
-    "1881c_": {
+    "1881c": {
       "latlng": {
         "lat": 51.6166904,
         "lng": -0.316065
@@ -602,12 +650,12 @@ const data = {
       "notes": "[?]",
       "external": ""
     },
-    "1882_": {
+    "1882": {
       "latlng": {
-        "lat": 51.48734,
-        "lng": -0.30255
+        "lat": 51.61371,
+        "lng": -0.33155
       },
-      "notes": "Invercauld Terrace",
+      "notes": "",
       "external": ""
     },
     "1882aX": {
@@ -641,6 +689,14 @@ const data = {
       },
       "notes": "South View Cottages",
       "external": "308358245"
+    },
+    "1882e_": {
+      "latlng": {
+        "lat": 51.48734,
+        "lng": -0.30255
+      },
+      "notes": "Invercauld Terrace",
+      "external": ""
     },
     "1883_": {
       "latlng": {
@@ -946,6 +1002,30 @@ const data = {
       "notes": "Downton Villas",
       "external": ""
     },
+    "1887e_": {
+      "latlng": {
+        "lat": 51.51609,
+        "lng": -0.29967
+      },
+      "notes": "",
+      "external": "975755938"
+    },
+    "1887f_": {
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.29998
+      },
+      "notes": "Alpha Cottages",
+      "external": "984971824"
+    },
+    "1887g_": {
+      "latlng": {
+        "lat": 51.53408,
+        "lng": -0.24792
+      },
+      "notes": "VR",
+      "external": "627997846"
+    },
     "1888": {
       "latlng": {
         "lat": 51.46627,
@@ -1017,6 +1097,30 @@ const data = {
       },
       "notes": "Hope Cottages",
       "external": ""
+    },
+    "1888i_": {
+      "latlng": {
+        "lat": 51.51611,
+        "lng": -0.29943
+      },
+      "notes": "",
+      "external": "975755939"
+    },
+    "1888j_": {
+      "latlng": {
+        "lat": 51.51612,
+        "lng": -0.29928
+      },
+      "notes": "",
+      "external": "975755940\t"
+    },
+    "1888k_": {
+      "latlng": {
+        "lat": 51.51614,
+        "lng": -0.29909
+      },
+      "notes": "",
+      "external": "975755941"
     },
     "1889": {
       "latlng": {
@@ -1674,6 +1778,22 @@ const data = {
       "notes": "This foundation stone of the Church of S.Matthew was laid September 24 AD",
       "external": "96882518"
     },
+    "1897i_": {
+      "latlng": {
+        "lat": 51.58413,
+        "lng": -0.06883
+      },
+      "notes": "A.D.",
+      "external": "163085077"
+    },
+    "1897j_": {
+      "latlng": {
+        "lat": 51.49975,
+        "lng": -0.25597
+      },
+      "notes": "",
+      "external": "787287285"
+    },
     "1898": {
       "latlng": {
         "lat": 51.54711,
@@ -1737,6 +1857,22 @@ const data = {
       },
       "notes": "Myrtle Cottages",
       "external": "308358271"
+    },
+    "1898h_": {
+      "latlng": {
+        "lat": 51.49991,
+        "lng": -0.25597
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1898i_": {
+      "latlng": {
+        "lat": 51.50041,
+        "lng": -0.25461
+      },
+      "notes": "CR",
+      "external": ""
     },
     "1899": {
       "latlng": {
@@ -2074,6 +2210,14 @@ const data = {
       "notes": "Edward Nelson Cottages",
       "external": ""
     },
+    "1901k_": {
+      "latlng": {
+        "lat": 51.59155,
+        "lng": -0.0697
+      },
+      "notes": "AI",
+      "external": ""
+    },
     "1902": {
       "latlng": {
         "lat": 51.57495,
@@ -2145,6 +2289,14 @@ const data = {
       },
       "notes": "Perivale Villas",
       "external": ""
+    },
+    "1902i_": {
+      "latlng": {
+        "lat": 51.58422,
+        "lng": -0.07185
+      },
+      "notes": "",
+      "external": "229417040"
     },
     "1903": {
       "latlng": {
@@ -2281,6 +2433,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1903q_": {
+      "latlng": {
+        "lat": 51.59161,
+        "lng": -0.07012
+      },
+      "notes": "",
+      "external": "753195764"
     },
     "1904": {
       "latlng": {
@@ -2503,7 +2663,7 @@ const data = {
         "lat": 51.59488,
         "lng": -0.06906
       },
-      "notes": "",
+      "notes": "I.S.L.V.",
       "external": ""
     },
     "1907b_": {
@@ -2538,6 +2698,22 @@ const data = {
       "notes": "A D",
       "external": "1058208403"
     },
+    "1907f_": {
+      "latlng": {
+        "lat": 51.5951,
+        "lng": -0.06891
+      },
+      "notes": "Windsor Parade",
+      "external": ""
+    },
+    "1907g_": {
+      "latlng": {
+        "lat": 51.59401,
+        "lng": -0.06927
+      },
+      "notes": "",
+      "external": ""
+    },
     "1908": {
       "latlng": {
         "lat": 51.61496,
@@ -2568,6 +2744,22 @@ const data = {
         "lng": -0.4708
       },
       "notes": "The Parade",
+      "external": ""
+    },
+    "1908d_": {
+      "latlng": {
+        "lat": 51.59097,
+        "lng": -0.07031
+      },
+      "notes": "",
+      "external": "138165979"
+    },
+    "1908e_": {
+      "latlng": {
+        "lat": 51.59367,
+        "lng": -0.0694
+      },
+      "notes": "",
       "external": ""
     },
     "1909": {
@@ -2620,8 +2812,8 @@ const data = {
     },
     "1910a_": {
       "latlng": {
-        "lat": 51.6140427,
-        "lng": -0.2488684
+        "lat": 51.614,
+        "lng": -0.24876
       },
       "notes": "",
       "external": ""
@@ -2730,6 +2922,14 @@ const data = {
       "notes": "",
       "external": "816597740"
     },
+    "1913d_": {
+      "latlng": {
+        "lat": 51.58797,
+        "lng": -0.07248
+      },
+      "notes": "Tottenham County School A.D.",
+      "external": "51065794"
+    },
     "1914": {
       "latlng": {
         "lat": 51.58121,
@@ -2786,6 +2986,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1921_": {
+      "latlng": {
+        "lat": 51.59457,
+        "lng": -0.0702
+      },
+      "notes": "",
+      "external": ""
+    },
     "1922": {
       "latlng": {
         "lat": 51.57344,
@@ -2809,6 +3017,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1923b_": {
+      "latlng": {
+        "lat": 51.59511,
+        "lng": -0.07079
+      },
+      "notes": "",
+      "external": "987795750"
     },
     "1924": {
       "latlng": {
@@ -2844,27 +3060,27 @@ const data = {
     },
     "1925a_": {
       "latlng": {
-        "lat": 51.6150139,
-        "lng": -0.2461455
+        "lat": 51.61495,
+        "lng": -0.24608
       },
       "notes": "",
       "external": ""
     },
     "1926": {
       "latlng": {
-        "lat": 51.57364,
-        "lng": -0.33695
-      },
-      "notes": "",
-      "external": "29294316"
-    },
-    "1926R_": {
-      "latlng": {
         "lat": 51.61568,
         "lng": -0.27533
       },
       "notes": "",
       "external": "198992577"
+    },
+    "1926a": {
+      "latlng": {
+        "lat": 51.57364,
+        "lng": -0.33695
+      },
+      "notes": "",
+      "external": "29294316"
     },
     "1927": {
       "latlng": {
@@ -3090,6 +3306,30 @@ const data = {
       "notes": "Rebuilt",
       "external": "42986356"
     },
+    "1935d_": {
+      "latlng": {
+        "lat": 51.53447,
+        "lng": -0.24764
+      },
+      "notes": "GR V Telephone Exchange",
+      "external": ""
+    },
+    "1935e_": {
+      "latlng": {
+        "lat": 51.6414,
+        "lng": -0.04742
+      },
+      "notes": "GR V",
+      "external": "236473521"
+    },
+    "1935f_": {
+      "latlng": {
+        "lat": 51.52668,
+        "lng": -0.35232
+      },
+      "notes": "GR V",
+      "external": ""
+    },
     "1936": {
       "latlng": {
         "lat": 51.589062,
@@ -3114,6 +3354,22 @@ const data = {
       "notes": "GR VI",
       "external": ""
     },
+    "1937b_": {
+      "latlng": {
+        "lat": 51.51782,
+        "lng": -0.28021
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1948": {
+      "latlng": {
+        "lat": 51.55257,
+        "lng": -0.29466
+      },
+      "notes": "GR VI Telephone Exchange",
+      "external": "247904227"
+    },
     "1951": {
       "latlng": {
         "lat": 51.58966,
@@ -3121,6 +3377,22 @@ const data = {
       },
       "notes": "GR VI",
       "external": ""
+    },
+    "1953": {
+      "latlng": {
+        "lat": 51.6215,
+        "lng": -0.27639
+      },
+      "notes": "ER II",
+      "external": "873092922"
+    },
+    "1957_": {
+      "latlng": {
+        "lat": 51.53445,
+        "lng": -0.38893
+      },
+      "notes": "ER II Telephone Exchange",
+      "external": "99806373"
     },
     "1963_": {
       "latlng": {
@@ -3186,6 +3458,14 @@ const data = {
       "notes": "",
       "external": "345709446"
     },
+    "2001b": {
+      "latlng": {
+        "lat": 51.61525,
+        "lng": -0.32371
+      },
+      "notes": "",
+      "external": ""
+    },
     "2002": {
       "latlng": {
         "lat": 51.3928,
@@ -3210,7 +3490,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "2003_": {
+    "2003": {
       "latlng": {
         "lat": 51.6171569,
         "lng": -0.3159878
@@ -3242,7 +3522,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "2009_": {
+    "2009": {
       "latlng": {
         "lat": 51.5796091,
         "lng": -0.2418664

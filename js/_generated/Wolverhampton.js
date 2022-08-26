@@ -1,7 +1,7 @@
 const data = {
   "config": {
     "country": "UK",
-    "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+    "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
     "boundary": true,
     "external": {
       "label": "See building details on OpenStreetMap",

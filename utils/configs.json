@@ -9,16 +9,6 @@
       "borders": null
     }
   },
-  "TODO": {
-    "config": {
-      "zoom": 12,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
-      },
-      "borders": null
-    }
-  },
   "London": {
     "config": {
       "country": "UK",
@@ -32,7 +22,7 @@
   "Middlesex": {
     "config": {
       "country": "UK",
-      "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
       "boundary": true,
       "external": {
         "label": "OpenStreetMap",
@@ -43,30 +33,11 @@
   "Wolverhampton": {
     "config": {
       "country": "UK",
-      "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
       "boundary": true,
       "external": {
-        "label": "See building details on OpenStreetMap",
+        "label": "OpenStreetMap",
         "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-      }
-    }
-  },
-  "Replacements": {
-    "config": {
-      "zoom": 12,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
-      },
-      "borders": {
-        "south": 51.279860,
-        "north": 51.692042,
-        "west": -0.524924,
-        "east": 0.323770
-      },
-      "external": {
-        "label": "Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
       }
     }
   },
