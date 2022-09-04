@@ -8,7 +8,7 @@ year,latitude,longitude,notes,external
 1767_,51.4955386,-0.3656802,A Free School Erected by E.B.,
 1782,51.48565,-0.30727,Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.,166585101
 1791,51.54732,-0.48029,Old Bank A.D.,990490557
-1811_,51.50959,-0.25997,Erected by the Worshipful Company of Goldsmiths A.D.,211819761
+1811,51.50959,-0.25997,Erected by the Worshipful Company of Goldsmiths A.D.,211819761
 1817_,51.59965,-0.06769,S B [on drainpipe],
 1828,51.44339,-0.52287,J.P.W,
 1834,51.47918,-0.49285,W R IV,43798084
@@ -51,7 +51,7 @@ year,latitude,longitude,notes,external
 1872a,51.59436,-0.38305,Bridge Place T.E,
 1872b_,51.42914,-0.50462,Dane More Cottages,
 1872c_,51.52945,-0.48239,[?] Cottages,
-1873_,51.51716,-0.29972,Avenue Cottages,984971830
+1873,51.51716,-0.29972,Avenue Cottages,984971830
 1876,51.53926,-0.25214,,86840426
 1876a_,51.4105562,-0.4868538,,
 1876b,51.40758,-0.48857,,
@@ -62,7 +62,7 @@ year,latitude,longitude,notes,external
 1878c_,51.6643489,-0.1825184,,
 1878d_,51.60077,-0.07135,Derby Terrace,
 1878e_,51.60071,-0.07090,[?]
-1879_,51.49916,-0.25601,JN A.D.,787287273
+1879,51.49916,-0.25601,NJ A.D.,787287273
 1879a_,51.60007,-0.07123,[?]
 1879b_,51.59993,-0.07125,Landermere Villa,
 1880,51.59427,-0.32991,Poet Cottages,
@@ -71,8 +71,8 @@ year,latitude,longitude,notes,external
 1880c_,51.59951,-0.07152,Castle Terrace,
 1880d_,51.60083,-0.07090,St John's Villa,
 1880e_,51.43296,-0.51430,AD,557988559
-1880f_,51.49608,-0.25392,Priory Gardens,786032262
-1880g_,51.49631,-0.25175,TC,,
+1880f,51.49608,-0.25392,Priory Gardens,786032262
+1880g,51.49631,-0.25175,TC,,
 1881_,51.6621064,-0.0890721,Glencall Villas,
 1881a_,51.4905561,-0.2734897,AD,
 1881c,51.6166904,-0.316065,Erected in loving memory of Robert Hollond by Ellen Julia his widow,
@@ -85,7 +85,7 @@ year,latitude,longitude,notes,external
 1882c_,51.43777,-0.49804,East View Cottages,308358247
 1882d_,51.43781,-0.49854,South View Cottages,308358245
 1882e_,51.48734,-0.30255,Invercauld Terrace,
-1883_,51.48754,-0.30196,Wolverton Cottages,
+1883,51.51381,-0.30245,89702343,
 1883a_,51.48345,-0.30256,Brentford Sewage Pumping Station Erected AD 1883,880566108
 1883b_,51.48732,-0.30279,Linden Cottages,
 1883c_,51.467596,-0.358369,Sunbeam Villas,
@@ -97,6 +97,7 @@ year,latitude,longitude,notes,external
 1883i_,51.43767,-0.49846,North View Cottages,
 1883j_,51.43770,-0.49894,North View Cottages,
 1883k_,51.43772,-0.49919,Stanley Cottages,
+1883l_,51.48754,-0.30196,Wolverton Cottages,
 1884,51.572413,-0.3411424,,
 1884a_,51.48742,-0.3023,Inverness Terrace,
 1884b_,51.4670146,-0.3592203,[?] Villas,
@@ -118,13 +119,13 @@ year,latitude,longitude,notes,external
 1886e_,51.43831,-0.49899,Lincoln Villas,308358262
 1886f_,51.43849,-0.49902,Wellow Villas,
 1886g_,51.54932,-0.47794,Hastings Terrace,
-1887_,51.6612687,-0.0860591,Raleigh Buildings.,
+1887,51.51689,-0.29998,Alpha Cottages,984971824
 1887a_,51.6616157,-0.0858438,Henrietta Cottages,
 1887b_,51.6609585,-0.0855164,Ashby Terrace,
 1887c_,51.55341,-0.47785,Belle.Vue Villas,
 1887d_,51.55325,-0.47797,Downton Villas,
 1887e_,51.51609,-0.29967,,975755938
-1887f_,51.51689,-0.29998,Alpha Cottages,984971824
+1887f_,51.6612687,-0.0860591,Raleigh Buildings.,
 1887g_,51.53408,-0.24792,VR,627997846
 1888,51.46627,-0.36759,,
 1888a_,51.6618918,-0.0885904,Witham Villa,
@@ -195,6 +196,7 @@ year,latitude,longitude,notes,external
 1894g_,51.46644,-0.35890,Wolesey Villas,
 1894h_,51.57671,-0.33477,[on drainpipe],208127182
 1894i_,51.43851,-0.49955,The Oaks,
+1894j,51.49639,-0.25147,,
 1895,51.4835022,-0.3704674,Heston Fire Station,
 1895a_,51.6638547,-0.0930174,Hazelwood Villas,
 1895b_,51.4260453,-0.3380455,,
@@ -234,6 +236,7 @@ year,latitude,longitude,notes,external
 1898g_,51.43836,-0.49958,Myrtle Cottages,308358271
 1898h_,51.49991,-0.25597,,
 1898i_,51.50041,-0.25461,CR,
+1898j,51.51664,-0.30730,,315307848
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -331,6 +334,7 @@ year,latitude,longitude,notes,external
 1906g_,51.64024,-0.30141,,1058208398
 1906h_,51.50384,-0.42190,South View,966954179
 1906i_,51.51241,-0.47407,Ano. Di,901345121
+1906j,51.51376,-0.30316,AD,
 1907,51.60418,-0.19016,,
 1907a_,51.59488,-0.06906,I.S.L.V.,
 1907b_,51.58907,-0.16416,,
@@ -350,6 +354,7 @@ year,latitude,longitude,notes,external
 1909b_,51.65894,-0.04723,U.D.C.E. Carnegie Library,102028970
 1909c_,51.50412,-0.41463,,711066161
 1909d_,51.4348,-0.4725,,
+1909e,51.50512,-0.25594,[on drainpipes],
 1910,51.5964513,-0.3343658,,
 1910a_,51.61400,-0.24876,,
 1910b_,51.61226,-0.17552,Woodhouse Parade,
@@ -360,6 +365,7 @@ year,latitude,longitude,notes,external
 1911c_,51.47482,-0.34588,A.D.,818250610
 1911d_,51.56142,-0.35620,Welldon Park Council School MCC A.D.,230376774
 1911e,51.61182,-0.42518,A.D,
+1911f,51.52518,-0.31966,A.D,
 1912_,51.6234141,-0.1225127,,
 1913,51.58867,-0.16392,,
 1913a,51.57025,-0.33993,On drainpipe,
@@ -409,13 +415,14 @@ year,latitude,longitude,notes,external
 1933b,51.43522,-0.50705,,558826983
 1934,51.4819433,-0.474766,,
 1934a_,51.43950,-0.49768,W.S.F.,
-1935,51.58994,-0.33565,GR V,130537060
+1935,51.49704,-0.24846,B & C Corporation,
 1935a_,51.42777,-0.49140,,
 1935b_,51.50174,-0.46693,DS,967799633
 1935c,51.54787,-0.46456,Rebuilt,42986356
 1935d_,51.53447,-0.24764,GR V Telephone Exchange,
 1935e_,51.64140,-0.04742,GR V,236473521
-1935f_,51.52668,-0.35232,GR V,
+1935f,51.58994,-0.33565,GR V,130537060
+1935g,51.52668,-0.35232,GR V,
 1936,51.589062,-0.2533524,Wakemans Hill Parade,
 1937,51.50852,-0.47325,Broadway Parade,
 1937a,51.50764,-0.47335,GR VI,
@@ -423,7 +430,8 @@ year,latitude,longitude,notes,external
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
 1951,51.58966,-0.21855,GR VI,
 1953,51.62150,-0.27639,ER II,873092922
-1957_,51.53445,-0.38893,ER II Telephone Exchange,99806373
+1955,51.53130,-0.36449,Greenford Free Church (Baptist),1932 Destroyed 1940 Rebuilt,222351190
+1957,51.53445,-0.38893,ER II Telephone Exchange,99806373
 1963_,51.63050,-0.12803,ER II,188837393
 1971,51.42971,-0.49877,[on drainpipe],162411474
 1982,51.57752,-0.33367,Rebuilt,135704911
@@ -437,11 +445,13 @@ year,latitude,longitude,notes,external
 2002a,51.61214,-0.42819,MSH,
 2002b_,51.658522,-0.088173,,
 2003,51.6171569,-0.3159878,White Gates,
+2006_,51.53229,-0.37394,,220475699
 2007,51.60720,-0.43567,,
+2007a,51.55015,-0.40119,Howarth Homes,
 2008_,51.47918,-0.34172,Linden Homes,996297025
 2008a_,51.59685,-0.38898,,
 2009,51.5796091,-0.2418664,,
 2012,51.61182,-0.43490,,
 2014,51.43429,-0.49501,,
-2018_,51.51689,-0.302682,ARM,
+2018,51.51689,-0.302682,ARM,
 2020,51.43393,-0.49558,Violet House,558823698
