@@ -4,7 +4,7 @@ const data = {
     "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
     "boundary": true,
     "external": {
-      "label": "See building details on OpenStreetMap",
+      "label": "OpenStreetMap",
       "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
     },
     "useInternalMap": true,

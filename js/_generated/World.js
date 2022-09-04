@@ -478,6 +478,15 @@ const data = {
       },
       "notes": ""
     },
+    "1811": {
+      "city": "Middlesex",
+      "external": "211819761",
+      "latlng": {
+        "lat": 51.50959,
+        "lng": -0.25997
+      },
+      "notes": "Erected by the Worshipful Company of Goldsmiths A.D."
+    },
     "1811_": {
       "city": "London",
       "external": "1079189",
@@ -1153,15 +1162,6 @@ const data = {
       },
       "notes": ""
     },
-    "1873_": {
-      "city": "Middlesex",
-      "external": "984971830",
-      "latlng": {
-        "lat": 51.51716,
-        "lng": -0.29972
-      },
-      "notes": "Avenue Cottages"
-    },
     "1874": {
       "city": "London",
       "external": "",
@@ -1314,15 +1314,6 @@ const data = {
       },
       "notes": ""
     },
-    "1879_": {
-      "city": "Middlesex",
-      "external": "787287273",
-      "latlng": {
-        "lat": 51.49916,
-        "lng": -0.25601
-      },
-      "notes": "JN A.D."
-    },
     "1879a_": {
       "city": "Middlesex",
       "latlng": {
@@ -1403,7 +1394,7 @@ const data = {
       },
       "notes": "AD"
     },
-    "1880f_": {
+    "1880f": {
       "city": "Middlesex",
       "external": "786032262",
       "latlng": {
@@ -1412,7 +1403,7 @@ const data = {
       },
       "notes": "Priory Gardens"
     },
-    "1880g_": {
+    "1880g": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -1556,15 +1547,6 @@ const data = {
       },
       "notes": ""
     },
-    "1883_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.48754,
-        "lng": -0.30196
-      },
-      "notes": "Wolverton Cottages"
-    },
     "1883a_": {
       "city": "Middlesex",
       "external": "880566108",
@@ -1663,6 +1645,15 @@ const data = {
         "lng": -0.49919
       },
       "notes": "Stanley Cottages"
+    },
+    "1883l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.48754,
+        "lng": -0.30196
+      },
+      "notes": "Wolverton Cottages"
     },
     "1884": {
       "city": "London",
@@ -1871,15 +1862,6 @@ const data = {
       },
       "notes": ""
     },
-    "1887_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.6612687,
-        "lng": -0.0860591
-      },
-      "notes": "Raleigh Buildings."
-    },
     "1887a_": {
       "city": "Middlesex",
       "external": "",
@@ -1927,12 +1909,12 @@ const data = {
     },
     "1887f_": {
       "city": "Middlesex",
-      "external": "984971824",
+      "external": "",
       "latlng": {
-        "lat": 51.51689,
-        "lng": -0.29998
+        "lat": 51.6612687,
+        "lng": -0.0860591
       },
-      "notes": "Alpha Cottages"
+      "notes": "Raleigh Buildings."
     },
     "1887g_": {
       "city": "Middlesex",
@@ -2645,6 +2627,15 @@ const data = {
       },
       "notes": "The Oaks"
     },
+    "1894j": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49639,
+        "lng": -0.25147
+      },
+      "notes": ""
+    },
     "1895": {
       "city": "London",
       "external": "1262632",
@@ -3031,6 +3022,15 @@ const data = {
         "lng": -0.25461
       },
       "notes": "CR"
+    },
+    "1898j": {
+      "city": "Middlesex",
+      "external": "315307848",
+      "latlng": {
+        "lat": 51.51664,
+        "lng": -0.3073
+      },
+      "notes": ""
     },
     "1899": {
       "city": "Copenhagen",
@@ -3976,6 +3976,15 @@ const data = {
       },
       "notes": "Ano. Di"
     },
+    "1906j": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51376,
+        "lng": -0.30316
+      },
+      "notes": "AD"
+    },
     "1907": {
       "city": "London",
       "external": "1393589",
@@ -4165,6 +4174,15 @@ const data = {
       },
       "notes": ""
     },
+    "1909e": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50512,
+        "lng": -0.25594
+      },
+      "notes": "[on drainpipes]"
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -4252,6 +4270,15 @@ const data = {
       "latlng": {
         "lat": 51.61182,
         "lng": -0.42518
+      },
+      "notes": "A.D"
+    },
+    "1911f": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52518,
+        "lng": -0.31966
       },
       "notes": "A.D"
     },
@@ -4814,12 +4841,12 @@ const data = {
     },
     "1935": {
       "city": "Middlesex",
-      "external": "130537060",
+      "external": "",
       "latlng": {
-        "lat": 51.58994,
-        "lng": -0.33565
+        "lat": 51.49704,
+        "lng": -0.24846
       },
-      "notes": "GR V"
+      "notes": "B & C Corporation"
     },
     "1935_": {
       "city": "London",
@@ -4875,7 +4902,16 @@ const data = {
       },
       "notes": "GR V"
     },
-    "1935f_": {
+    "1935f": {
+      "city": "Middlesex",
+      "external": "130537060",
+      "latlng": {
+        "lat": 51.58994,
+        "lng": -0.33565
+      },
+      "notes": "GR V"
+    },
+    "1935g": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -4956,7 +4992,7 @@ const data = {
       },
       "notes": ""
     },
-    "1957_": {
+    "1957": {
       "city": "Middlesex",
       "external": "99806373",
       "latlng": {
@@ -5244,6 +5280,15 @@ const data = {
       },
       "notes": "White Gates"
     },
+    "2006_": {
+      "city": "Middlesex",
+      "external": "220475699",
+      "latlng": {
+        "lat": 51.53229,
+        "lng": -0.37394
+      },
+      "notes": ""
+    },
     "2007": {
       "city": "Middlesex",
       "external": "",
@@ -5252,6 +5297,15 @@ const data = {
         "lng": -0.43567
       },
       "notes": ""
+    },
+    "2007a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.55015,
+        "lng": -0.40119
+      },
+      "notes": "Howarth Homes"
     },
     "2008_": {
       "city": "Middlesex",
@@ -5315,6 +5369,15 @@ const data = {
       },
       "notes": ""
     },
+    "2018": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.302682
+      },
+      "notes": "ARM"
+    },
     "2018_": {
       "city": "London",
       "external": "",
@@ -5365,7 +5428,7 @@ const data = {
         "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
         "boundary": true,
         "external": {
-          "label": "See building details on OpenStreetMap",
+          "label": "OpenStreetMap",
           "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }

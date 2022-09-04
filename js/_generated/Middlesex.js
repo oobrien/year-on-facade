@@ -84,7 +84,7 @@ const data = {
       "notes": "Old Bank A.D.",
       "external": "990490557"
     },
-    "1811_": {
+    "1811": {
       "latlng": {
         "lat": 51.50959,
         "lng": -0.25997
@@ -428,7 +428,7 @@ const data = {
       "notes": "[?] Cottages",
       "external": ""
     },
-    "1873_": {
+    "1873": {
       "latlng": {
         "lat": 51.51716,
         "lng": -0.29972
@@ -515,12 +515,12 @@ const data = {
       },
       "notes": "[?]"
     },
-    "1879_": {
+    "1879": {
       "latlng": {
         "lat": 51.49916,
         "lng": -0.25601
       },
-      "notes": "JN A.D.",
+      "notes": "NJ A.D.",
       "external": "787287273"
     },
     "1879a_": {
@@ -586,7 +586,7 @@ const data = {
       "notes": "AD",
       "external": "557988559"
     },
-    "1880f_": {
+    "1880f": {
       "latlng": {
         "lat": 51.49608,
         "lng": -0.25392
@@ -594,7 +594,7 @@ const data = {
       "notes": "Priory Gardens",
       "external": "786032262"
     },
-    "1880g_": {
+    "1880g": {
       "latlng": {
         "lat": 51.49631,
         "lng": -0.25175
@@ -698,12 +698,12 @@ const data = {
       "notes": "Invercauld Terrace",
       "external": ""
     },
-    "1883_": {
+    "1883": {
       "latlng": {
-        "lat": 51.48754,
-        "lng": -0.30196
+        "lat": 51.51381,
+        "lng": -0.30245
       },
-      "notes": "Wolverton Cottages",
+      "notes": "89702343",
       "external": ""
     },
     "1883a_": {
@@ -792,6 +792,14 @@ const data = {
         "lng": -0.49919
       },
       "notes": "Stanley Cottages",
+      "external": ""
+    },
+    "1883l_": {
+      "latlng": {
+        "lat": 51.48754,
+        "lng": -0.30196
+      },
+      "notes": "Wolverton Cottages",
       "external": ""
     },
     "1884": {
@@ -962,13 +970,13 @@ const data = {
       "notes": "Hastings Terrace",
       "external": ""
     },
-    "1887_": {
+    "1887": {
       "latlng": {
-        "lat": 51.6612687,
-        "lng": -0.0860591
+        "lat": 51.51689,
+        "lng": -0.29998
       },
-      "notes": "Raleigh Buildings.",
-      "external": ""
+      "notes": "Alpha Cottages",
+      "external": "984971824"
     },
     "1887a_": {
       "latlng": {
@@ -1012,11 +1020,11 @@ const data = {
     },
     "1887f_": {
       "latlng": {
-        "lat": 51.51689,
-        "lng": -0.29998
+        "lat": 51.6612687,
+        "lng": -0.0860591
       },
-      "notes": "Alpha Cottages",
-      "external": "984971824"
+      "notes": "Raleigh Buildings.",
+      "external": ""
     },
     "1887g_": {
       "latlng": {
@@ -1570,6 +1578,14 @@ const data = {
       "notes": "The Oaks",
       "external": ""
     },
+    "1894j": {
+      "latlng": {
+        "lat": 51.49639,
+        "lng": -0.25147
+      },
+      "notes": "",
+      "external": ""
+    },
     "1895": {
       "latlng": {
         "lat": 51.4835022,
@@ -1873,6 +1889,14 @@ const data = {
       },
       "notes": "CR",
       "external": ""
+    },
+    "1898j": {
+      "latlng": {
+        "lat": 51.51664,
+        "lng": -0.3073
+      },
+      "notes": "",
+      "external": "315307848"
     },
     "1899": {
       "latlng": {
@@ -2650,6 +2674,14 @@ const data = {
       "notes": "Ano. Di",
       "external": "901345121"
     },
+    "1906j": {
+      "latlng": {
+        "lat": 51.51376,
+        "lng": -0.30316
+      },
+      "notes": "AD",
+      "external": ""
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -2802,6 +2834,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1909e": {
+      "latlng": {
+        "lat": 51.50512,
+        "lng": -0.25594
+      },
+      "notes": "[on drainpipes]",
+      "external": ""
+    },
     "1910": {
       "latlng": {
         "lat": 51.5964513,
@@ -2878,6 +2918,14 @@ const data = {
       "latlng": {
         "lat": 51.61182,
         "lng": -0.42518
+      },
+      "notes": "A.D",
+      "external": ""
+    },
+    "1911f": {
+      "latlng": {
+        "lat": 51.52518,
+        "lng": -0.31966
       },
       "notes": "A.D",
       "external": ""
@@ -3276,11 +3324,11 @@ const data = {
     },
     "1935": {
       "latlng": {
-        "lat": 51.58994,
-        "lng": -0.33565
+        "lat": 51.49704,
+        "lng": -0.24846
       },
-      "notes": "GR V",
-      "external": "130537060"
+      "notes": "B & C Corporation",
+      "external": ""
     },
     "1935a_": {
       "latlng": {
@@ -3322,7 +3370,15 @@ const data = {
       "notes": "GR V",
       "external": "236473521"
     },
-    "1935f_": {
+    "1935f": {
+      "latlng": {
+        "lat": 51.58994,
+        "lng": -0.33565
+      },
+      "notes": "GR V",
+      "external": "130537060"
+    },
+    "1935g": {
       "latlng": {
         "lat": 51.52668,
         "lng": -0.35232
@@ -3386,7 +3442,15 @@ const data = {
       "notes": "ER II",
       "external": "873092922"
     },
-    "1957_": {
+    "1955": {
+      "latlng": {
+        "lat": 51.5313,
+        "lng": -0.36449
+      },
+      "notes": "Greenford Free Church (Baptist)",
+      "external": "1932 Destroyed 1940 Rebuilt"
+    },
+    "1957": {
       "latlng": {
         "lat": 51.53445,
         "lng": -0.38893
@@ -3498,12 +3562,28 @@ const data = {
       "notes": "White Gates",
       "external": ""
     },
+    "2006_": {
+      "latlng": {
+        "lat": 51.53229,
+        "lng": -0.37394
+      },
+      "notes": "",
+      "external": "220475699"
+    },
     "2007": {
       "latlng": {
         "lat": 51.6072,
         "lng": -0.43567
       },
       "notes": "",
+      "external": ""
+    },
+    "2007a": {
+      "latlng": {
+        "lat": 51.55015,
+        "lng": -0.40119
+      },
+      "notes": "Howarth Homes",
       "external": ""
     },
     "2008_": {
@@ -3546,7 +3626,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "2018_": {
+    "2018": {
       "latlng": {
         "lat": 51.51689,
         "lng": -0.302682
