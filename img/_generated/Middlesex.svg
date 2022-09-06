@@ -1,6 +1,7 @@
 <svg viewBox="0 0 442 35" shape-rendering="crispEdges" xmlns="http://www.w3.org/2000/svg">
   <rect y="0" x="0" width="441" height="35" fill="#cccccc" />
   <rect y="0" x="0" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="49" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="95" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="125" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="141" width="1" height="35" fill="#eecccc" />
@@ -267,6 +268,7 @@
   <rect y="0" x="320" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="320" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="320" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="320" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="321" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="321" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="321" width="1" height="35" fill="#eecccc" />
@@ -289,6 +291,7 @@
   <rect y="0" x="322" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="322" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="322" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="323" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="323" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="323" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="323" width="1" height="35" fill="#eecccc" />
@@ -315,6 +318,7 @@
   <rect y="0" x="324" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="324" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="324" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="324" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
@@ -323,6 +327,8 @@
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="325" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="326" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="326" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="326" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="326" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="326" width="1" height="35" fill="#eecccc" />
@@ -388,6 +394,8 @@
   <rect y="0" x="344" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="345" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="345" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="345" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="345" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="346" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="346" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="347" width="1" height="35" fill="#eecccc" />
@@ -409,6 +417,7 @@
   <rect y="0" x="351" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="352" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="352" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="353" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="353" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="353" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="353" width="1" height="35" fill="#eecccc" />
@@ -449,6 +458,7 @@
   <rect y="0" x="427" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="428" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="428" width="1" height="35" fill="#eecccc" />
+  <rect y="0" x="429" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="429" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="432" width="1" height="35" fill="#eecccc" />
   <rect y="0" x="434" width="1" height="35" fill="#eecccc" />
@@ -510,6 +520,7 @@
 	   <rect y="0" x="311" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="311" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="312" width="1" height="35" fill="#a3bff4" />
+	   <rect y="0" x="312" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="313" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="314" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="314" width="1" height="35" fill="#a3bff4" />
@@ -554,6 +565,8 @@
 	   <rect y="0" x="325" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="326" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="326" width="1" height="35" fill="#a3bff4" />
+	   <rect y="0" x="326" width="1" height="35" fill="#a3bff4" />
+	   <rect y="0" x="326" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="327" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="328" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="329" width="1" height="35" fill="#a3bff4" />
@@ -574,6 +587,7 @@
 	   <rect y="0" x="344" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="344" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="344" width="1" height="35" fill="#a3bff4" />
+	   <rect y="0" x="345" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="345" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="346" width="1" height="35" fill="#a3bff4" />
 	   <rect y="0" x="346" width="1" height="35" fill="#a3bff4" />

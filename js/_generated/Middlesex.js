@@ -20,6 +20,14 @@ const data = {
       "notes": "Tummies est. 1988",
       "external": ""
     },
+    "1629_": {
+      "latlng": {
+        "lat": 51.53503,
+        "lng": -0.46021
+      },
+      "notes": "Io. Atlee Io. Robince",
+      "external": " Church Wa."
+    },
     "1675": {
       "latlng": {
         "lat": 51.48795,
@@ -703,8 +711,8 @@ const data = {
         "lat": 51.51381,
         "lng": -0.30245
       },
-      "notes": "89702343",
-      "external": ""
+      "notes": "",
+      "external": "89702343"
     },
     "1883a_": {
       "latlng": {
@@ -1378,7 +1386,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1892e_": {
+    "1892e": {
       "latlng": {
         "lat": 51.53626,
         "lng": -0.24501
@@ -2146,6 +2154,14 @@ const data = {
       "notes": "Gerret [?]",
       "external": ""
     },
+    "1900n_": {
+      "latlng": {
+        "lat": 51.51461,
+        "lng": -0.47021
+      },
+      "notes": "Edith Villas",
+      "external": ""
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -2466,6 +2482,14 @@ const data = {
       "notes": "",
       "external": "753195764"
     },
+    "1903r_": {
+      "latlng": {
+        "lat": 51.5258,
+        "lng": -0.30778
+      },
+      "notes": "ETF",
+      "external": "863529586"
+    },
     "1904": {
       "latlng": {
         "lat": 51.48443,
@@ -2529,6 +2553,14 @@ const data = {
       },
       "notes": "East Neuk Villas",
       "external": ""
+    },
+    "1904h_": {
+      "latlng": {
+        "lat": 51.52579,
+        "lng": -0.30748
+      },
+      "notes": "ETF",
+      "external": "863529608"
     },
     "1905": {
       "latlng": {
@@ -2681,6 +2713,22 @@ const data = {
       },
       "notes": "AD",
       "external": ""
+    },
+    "1906k": {
+      "latlng": {
+        "lat": 51.56935,
+        "lng": -0.34589
+      },
+      "notes": "This stone was laid to the Glory of God on behalf of the Women's Social Work October 13th",
+      "external": ""
+    },
+    "1906l": {
+      "latlng": {
+        "lat": 51.56832,
+        "lng": -0.3416
+      },
+      "notes": "",
+      "external": "230149804"
     },
     "1907": {
       "latlng": {
@@ -2951,7 +2999,7 @@ const data = {
         "lat": 51.57025,
         "lng": -0.33993
       },
-      "notes": "On drainpipe",
+      "notes": "[on drainpipe]",
       "external": ""
     },
     "1913b_": {
@@ -3114,6 +3162,22 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1925b_": {
+      "latlng": {
+        "lat": 51.58159,
+        "lng": -0.16888
+      },
+      "notes": "[on gates]",
+      "external": "383594002"
+    },
+    "1925c": {
+      "latlng": {
+        "lat": 51.55832,
+        "lng": -0.32412
+      },
+      "notes": "This stone was laid by the Rt Hon Sir John E. Bankes on April 4th",
+      "external": "80227564"
+    },
     "1926": {
       "latlng": {
         "lat": 51.61568,
@@ -3199,7 +3263,7 @@ const data = {
         "lat": 51.5986015,
         "lng": -0.0679257
       },
-      "notes": "[reconstructed later]",
+      "notes": "[was rebuilt later]",
       "external": ""
     },
     "1930b_": {
@@ -3306,6 +3370,14 @@ const data = {
       "notes": "",
       "external": "558826983"
     },
+    "1933c_": {
+      "latlng": {
+        "lat": 51.53558,
+        "lng": -0.45992
+      },
+      "notes": "The Vine Inn",
+      "external": "841803217"
+    },
     "1934": {
       "latlng": {
         "lat": 51.4819433,
@@ -3327,7 +3399,7 @@ const data = {
         "lat": 51.49704,
         "lng": -0.24846
       },
-      "notes": "B & C Corporation",
+      "notes": "B & C Corpn.",
       "external": ""
     },
     "1935a_": {
@@ -3609,6 +3681,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "2009a_": {
+      "latlng": {
+        "lat": 51.57884,
+        "lng": -0.40956
+      },
+      "notes": "Bishop Ramsey [on gate]",
+      "external": "166164838"
     },
     "2012": {
       "latlng": {

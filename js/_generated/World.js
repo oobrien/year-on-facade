@@ -2339,7 +2339,7 @@ const data = {
       },
       "notes": ""
     },
-    "1892e_": {
+    "1892e": {
       "city": "Middlesex",
       "external": "256915441",
       "latlng": {
@@ -3337,6 +3337,15 @@ const data = {
       },
       "notes": "Gerret [?]"
     },
+    "1900n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51461,
+        "lng": -0.47021
+      },
+      "notes": "Edith Villas"
+    },
     "1901": {
       "city": "London",
       "external": "1379177",
@@ -3715,6 +3724,15 @@ const data = {
       },
       "notes": ""
     },
+    "1903r_": {
+      "city": "Middlesex",
+      "external": "863529586",
+      "latlng": {
+        "lat": 51.5258,
+        "lng": -0.30778
+      },
+      "notes": "ETF"
+    },
     "1904": {
       "city": "London",
       "external": "",
@@ -3804,6 +3822,15 @@ const data = {
         "lng": -0.50618
       },
       "notes": "East Neuk Villas"
+    },
+    "1904h_": {
+      "city": "Middlesex",
+      "external": "863529608",
+      "latlng": {
+        "lat": 51.52579,
+        "lng": -0.30748
+      },
+      "notes": "ETF"
     },
     "1905": {
       "city": "London",
@@ -3984,6 +4011,24 @@ const data = {
         "lng": -0.30316
       },
       "notes": "AD"
+    },
+    "1906k": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56935,
+        "lng": -0.34589
+      },
+      "notes": "This stone was laid to the Glory of God on behalf of the Women's Social Work October 13th"
+    },
+    "1906l": {
+      "city": "Middlesex",
+      "external": "230149804",
+      "latlng": {
+        "lat": 51.56832,
+        "lng": -0.3416
+      },
+      "notes": ""
     },
     "1907": {
       "city": "London",
@@ -4316,7 +4361,7 @@ const data = {
         "lat": 51.57025,
         "lng": -0.33993
       },
-      "notes": "On drainpipe"
+      "notes": "[on drainpipe]"
     },
     "1913b_": {
       "city": "Middlesex",
@@ -4569,6 +4614,24 @@ const data = {
       },
       "notes": ""
     },
+    "1925b_": {
+      "city": "Middlesex",
+      "external": "383594002",
+      "latlng": {
+        "lat": 51.58159,
+        "lng": -0.16888
+      },
+      "notes": "[on gates]"
+    },
+    "1925c": {
+      "city": "Middlesex",
+      "external": "80227564",
+      "latlng": {
+        "lat": 51.55832,
+        "lng": -0.32412
+      },
+      "notes": "This stone was laid by the Rt Hon Sir John E. Bankes on April 4th"
+    },
     "1926": {
       "city": "London",
       "external": "",
@@ -4684,7 +4747,7 @@ const data = {
         "lat": 51.5986015,
         "lng": -0.0679257
       },
-      "notes": "[reconstructed later]"
+      "notes": "[was rebuilt later]"
     },
     "1930b_": {
       "city": "Middlesex",
@@ -4821,6 +4884,15 @@ const data = {
       },
       "notes": ""
     },
+    "1933c_": {
+      "city": "Middlesex",
+      "external": "841803217",
+      "latlng": {
+        "lat": 51.53558,
+        "lng": -0.45992
+      },
+      "notes": "The Vine Inn"
+    },
     "1934": {
       "city": "London",
       "external": "1418380",
@@ -4846,7 +4918,7 @@ const data = {
         "lat": 51.49704,
         "lng": -0.24846
       },
-      "notes": "B & C Corporation"
+      "notes": "B & C Corpn."
     },
     "1935_": {
       "city": "London",
@@ -5342,6 +5414,15 @@ const data = {
         "lng": -2.08827
       },
       "notes": ""
+    },
+    "2009a_": {
+      "city": "Middlesex",
+      "external": "166164838",
+      "latlng": {
+        "lat": 51.57884,
+        "lng": -0.40956
+      },
+      "notes": "Bishop Ramsey [on gate]"
     },
     "2010": {
       "city": "Perm",
