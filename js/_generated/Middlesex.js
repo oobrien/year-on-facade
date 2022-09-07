@@ -52,6 +52,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1722_": {
+      "latlng": {
+        "lat": 51.57261,
+        "lng": -0.14895
+      },
+      "notes": "Anno The Six Almes-Houses founded by Sr. John Woolaston Kn.",
+      "external": "912188782"
+    },
     "1729": {
       "latlng": {
         "lat": 51.5899919,
@@ -99,6 +107,14 @@ const data = {
       },
       "notes": "Erected by the Worshipful Company of Goldsmiths A.D.",
       "external": "211819761"
+    },
+    "1811a_": {
+      "latlng": {
+        "lat": 51.5785,
+        "lng": -0.15389
+      },
+      "notes": "Prospect Place",
+      "external": ""
     },
     "1817_": {
       "latlng": {
@@ -444,6 +460,14 @@ const data = {
       "notes": "Avenue Cottages",
       "external": "984971830"
     },
+    "1875_": {
+      "latlng": {
+        "lat": 51.59835,
+        "lng": -0.11982
+      },
+      "notes": "",
+      "external": "138428151"
+    },
     "1876": {
       "latlng": {
         "lat": 51.53926,
@@ -475,6 +499,14 @@ const data = {
       },
       "notes": "Myrtle Villa",
       "external": ""
+    },
+    "1877a_": {
+      "latlng": {
+        "lat": 51.57977,
+        "lng": -0.15483
+      },
+      "notes": "Springfield Cottages",
+      "external": "817951789"
     },
     "1878": {
       "latlng": {
@@ -914,6 +946,14 @@ const data = {
       "notes": "This stone was laid by Mrs. J.D. Allcroft March 10th",
       "external": ""
     },
+    "1885i_": {
+      "latlng": {
+        "lat": 51.60285,
+        "lng": -0.12019
+      },
+      "notes": "George's Villas",
+      "external": "838009289"
+    },
     "1886_": {
       "latlng": {
         "lat": 51.661142,
@@ -1042,6 +1082,14 @@ const data = {
       "notes": "VR",
       "external": "627997846"
     },
+    "1887h_": {
+      "latlng": {
+        "lat": 51.58713,
+        "lng": -0.09743
+      },
+      "notes": "Built in the [?]",
+      "external": "891209395"
+    },
     "1888": {
       "latlng": {
         "lat": 51.46627,
@@ -1137,6 +1185,14 @@ const data = {
       },
       "notes": "",
       "external": "975755941"
+    },
+    "1888l_": {
+      "latlng": {
+        "lat": 51.56048,
+        "lng": -0.43993
+      },
+      "notes": "Manor View Villas [date unclear]",
+      "external": ""
     },
     "1889": {
       "latlng": {
@@ -1503,8 +1559,24 @@ const data = {
         "lat": 51.46664,
         "lng": -0.36002
       },
-      "notes": "[? date unclear]",
+      "notes": "[date unclear]",
       "external": ""
+    },
+    "1893k_": {
+      "latlng": {
+        "lat": 51.56057,
+        "lng": -0.44
+      },
+      "notes": "Glebe View Villas [? date unclear]",
+      "external": ""
+    },
+    "1893l_": {
+      "latlng": {
+        "lat": 51.54718,
+        "lng": -0.22936
+      },
+      "notes": "",
+      "external": "123372214"
     },
     "1894": {
       "latlng": {
@@ -1730,6 +1802,14 @@ const data = {
       "notes": "May Cottages",
       "external": ""
     },
+    "1896g_": {
+      "latlng": {
+        "lat": 51.55164,
+        "lng": -0.24168
+      },
+      "notes": "WSB",
+      "external": ""
+    },
     "1897": {
       "latlng": {
         "lat": 51.58292,
@@ -1817,6 +1897,14 @@ const data = {
       },
       "notes": "",
       "external": "787287285"
+    },
+    "1897k_": {
+      "latlng": {
+        "lat": 51.57063,
+        "lng": -0.13832
+      },
+      "notes": "",
+      "external": "4368279"
     },
     "1898": {
       "latlng": {
@@ -2042,6 +2130,22 @@ const data = {
       "notes": "Fern Cottages",
       "external": "308358236"
     },
+    "1899q_": {
+      "latlng": {
+        "lat": 51.56974,
+        "lng": -0.14303
+      },
+      "notes": "",
+      "external": "131929966"
+    },
+    "1899r_": {
+      "latlng": {
+        "lat": 51.58685,
+        "lng": -0.08757
+      },
+      "notes": "TSB",
+      "external": "78311287"
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -2256,6 +2360,14 @@ const data = {
         "lng": -0.0697
       },
       "notes": "AI",
+      "external": ""
+    },
+    "1901l_": {
+      "latlng": {
+        "lat": 51.55065,
+        "lng": -0.24089
+      },
+      "notes": "",
       "external": ""
     },
     "1902": {
@@ -2626,6 +2738,14 @@ const data = {
       "notes": "The Old Pack Horse",
       "external": "175629798"
     },
+    "1905h_": {
+      "latlng": {
+        "lat": 51.57634,
+        "lng": -0.06948
+      },
+      "notes": "[foundation stone?]",
+      "external": ""
+    },
     "1906": {
       "latlng": {
         "lat": 51.5775976,
@@ -2890,6 +3010,14 @@ const data = {
       "notes": "[on drainpipes]",
       "external": ""
     },
+    "1909f_": {
+      "latlng": {
+        "lat": 51.5719,
+        "lng": -0.19679
+      },
+      "notes": "",
+      "external": ""
+    },
     "1910": {
       "latlng": {
         "lat": 51.5964513,
@@ -2978,10 +3106,34 @@ const data = {
       "notes": "A.D",
       "external": ""
     },
+    "1911g_": {
+      "latlng": {
+        "lat": 51.58147,
+        "lng": -0.19036
+      },
+      "notes": "D.G.R. April 8",
+      "external": "48920485"
+    },
+    "1911h_": {
+      "latlng": {
+        "lat": 51.59321,
+        "lng": -0.10673
+      },
+      "notes": "Cheap Side E & D",
+      "external": "191473076"
+    },
     "1912_": {
       "latlng": {
         "lat": 51.6234141,
         "lng": -0.1225127
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1912a_": {
+      "latlng": {
+        "lat": 51.57775,
+        "lng": -0.20736
       },
       "notes": "",
       "external": ""
@@ -3080,6 +3232,14 @@ const data = {
         "lng": -0.31508
       },
       "notes": "",
+      "external": ""
+    },
+    "1920_": {
+      "latlng": {
+        "lat": 51.5817,
+        "lng": -0.19111
+      },
+      "notes": "Let others tell of stormy showers - I'll only count your sunny hours",
       "external": ""
     },
     "1921_": {
@@ -3193,6 +3353,14 @@ const data = {
       },
       "notes": "",
       "external": "29294316"
+    },
+    "1926b_": {
+      "latlng": {
+        "lat": 51.54301,
+        "lng": -0.22451
+      },
+      "notes": "",
+      "external": "474481940"
     },
     "1927": {
       "latlng": {
@@ -3505,6 +3673,14 @@ const data = {
       },
       "notes": "GR VI",
       "external": ""
+    },
+    "1952_": {
+      "latlng": {
+        "lat": 51.59856,
+        "lng": -0.11995
+      },
+      "notes": "ER II",
+      "external": "368597795"
     },
     "1953": {
       "latlng": {

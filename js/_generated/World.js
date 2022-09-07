@@ -163,6 +163,15 @@ const data = {
       },
       "notes": ""
     },
+    "1722_": {
+      "city": "Middlesex",
+      "external": "912188782",
+      "latlng": {
+        "lat": 51.57261,
+        "lng": -0.14895
+      },
+      "notes": "Anno The Six Almes-Houses founded by Sr. John Woolaston Kn."
+    },
     "1723": {
       "city": "London",
       "external": "1183550",
@@ -495,6 +504,15 @@ const data = {
         "lng": -0.15386294828823677
       },
       "notes": "Take photo when wisteria has no leafs"
+    },
+    "1811a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5785,
+        "lng": -0.15389
+      },
+      "notes": "Prospect Place"
     },
     "1812": {
       "city": "London",
@@ -1252,6 +1270,15 @@ const data = {
       },
       "notes": "Myrtle Villa"
     },
+    "1877a_": {
+      "city": "Middlesex",
+      "external": "817951789",
+      "latlng": {
+        "lat": 51.57977,
+        "lng": -0.15483
+      },
+      "notes": "Springfield Cottages"
+    },
     "1878": {
       "city": "London",
       "external": "1385916",
@@ -1772,6 +1799,15 @@ const data = {
       },
       "notes": "This stone was laid by Mrs. J.D. Allcroft March 10th"
     },
+    "1885i_": {
+      "city": "Middlesex",
+      "external": "838009289",
+      "latlng": {
+        "lat": 51.60285,
+        "lng": -0.12019
+      },
+      "notes": "George's Villas"
+    },
     "1886": {
       "city": "London",
       "external": "1358109",
@@ -1925,6 +1961,15 @@ const data = {
       },
       "notes": "VR"
     },
+    "1887h_": {
+      "city": "Middlesex",
+      "external": "891209395",
+      "latlng": {
+        "lat": 51.58713,
+        "lng": -0.09743
+      },
+      "notes": "Built in the [?]"
+    },
     "1888": {
       "city": "London",
       "external": "1297947",
@@ -2032,6 +2077,15 @@ const data = {
         "lng": -0.29909
       },
       "notes": ""
+    },
+    "1888l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56048,
+        "lng": -0.43993
+      },
+      "notes": "Manor View Villas [date unclear]"
     },
     "1889": {
       "city": "London",
@@ -2481,7 +2535,25 @@ const data = {
         "lat": 51.46664,
         "lng": -0.36002
       },
-      "notes": "[? date unclear]"
+      "notes": "[date unclear]"
+    },
+    "1893k_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56057,
+        "lng": -0.44
+      },
+      "notes": "Glebe View Villas [? date unclear]"
+    },
+    "1893l_": {
+      "city": "Middlesex",
+      "external": "123372214",
+      "latlng": {
+        "lat": 51.54718,
+        "lng": -0.22936
+      },
+      "notes": ""
     },
     "1894": {
       "city": "London",
@@ -2807,6 +2879,15 @@ const data = {
       },
       "notes": "May Cottages"
     },
+    "1896g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.55164,
+        "lng": -0.24168
+      },
+      "notes": "WSB"
+    },
     "1897": {
       "city": "London",
       "external": "1226629",
@@ -2912,6 +2993,15 @@ const data = {
       "latlng": {
         "lat": 51.49975,
         "lng": -0.25597
+      },
+      "notes": ""
+    },
+    "1897k_": {
+      "city": "Middlesex",
+      "external": "4368279",
+      "latlng": {
+        "lat": 51.57063,
+        "lng": -0.13832
       },
       "notes": ""
     },
@@ -3202,6 +3292,24 @@ const data = {
       },
       "notes": "Fern Cottages"
     },
+    "1899q_": {
+      "city": "Middlesex",
+      "external": "131929966",
+      "latlng": {
+        "lat": 51.56974,
+        "lng": -0.14303
+      },
+      "notes": ""
+    },
+    "1899r_": {
+      "city": "Middlesex",
+      "external": "78311287",
+      "latlng": {
+        "lat": 51.58685,
+        "lng": -0.08757
+      },
+      "notes": "TSB"
+    },
     "1900": {
       "city": "London",
       "external": "1260615",
@@ -3453,6 +3561,15 @@ const data = {
         "lng": -0.0697
       },
       "notes": "AI"
+    },
+    "1901l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.55065,
+        "lng": -0.24089
+      },
+      "notes": ""
     },
     "1902": {
       "city": "London",
@@ -3913,6 +4030,15 @@ const data = {
       },
       "notes": "The Old Pack Horse"
     },
+    "1905h_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57634,
+        "lng": -0.06948
+      },
+      "notes": "[foundation stone?]"
+    },
     "1906": {
       "city": "Copenhagen",
       "external": "3163917",
@@ -4228,6 +4354,15 @@ const data = {
       },
       "notes": "[on drainpipes]"
     },
+    "1909f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5719,
+        "lng": -0.19679
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -4327,6 +4462,24 @@ const data = {
       },
       "notes": "A.D"
     },
+    "1911g_": {
+      "city": "Middlesex",
+      "external": "48920485",
+      "latlng": {
+        "lat": 51.58147,
+        "lng": -0.19036
+      },
+      "notes": "D.G.R. April 8"
+    },
+    "1911h_": {
+      "city": "Middlesex",
+      "external": "191473076",
+      "latlng": {
+        "lat": 51.59321,
+        "lng": -0.10673
+      },
+      "notes": "Cheap Side E & D"
+    },
     "1912": {
       "city": "London",
       "external": "1031506",
@@ -4342,6 +4495,15 @@ const data = {
       "latlng": {
         "lat": 51.6234141,
         "lng": -0.1225127
+      },
+      "notes": ""
+    },
+    "1912a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57775,
+        "lng": -0.20736
       },
       "notes": ""
     },
@@ -4488,6 +4650,15 @@ const data = {
         "lng": -0.1504398358152587
       },
       "notes": ""
+    },
+    "1920_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5817,
+        "lng": -0.19111
+      },
+      "notes": "Let others tell of stormy showers - I'll only count your sunny hours"
     },
     "1921": {
       "city": "London",
@@ -4647,6 +4818,15 @@ const data = {
       "latlng": {
         "lat": 51.57364,
         "lng": -0.33695
+      },
+      "notes": ""
+    },
+    "1926b_": {
+      "city": "Middlesex",
+      "external": "474481940",
+      "latlng": {
+        "lat": 51.54301,
+        "lng": -0.22451
       },
       "notes": ""
     },
@@ -5045,6 +5225,15 @@ const data = {
         "lng": -0.1401986986250597
       },
       "notes": ""
+    },
+    "1952_": {
+      "city": "Middlesex",
+      "external": "368597795",
+      "latlng": {
+        "lat": 51.59856,
+        "lng": -0.11995
+      },
+      "notes": "ER II"
     },
     "1953": {
       "city": "Middlesex",

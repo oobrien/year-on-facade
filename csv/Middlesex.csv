@@ -4,12 +4,14 @@ year,latitude,longitude,notes,external
 1675,51.48795,-0.47839,,
 1705,51.59430,-0.38072,Queens Head [recently painted on post],
 1721,51.59400,-0.38179,,
+1722_,51.57261,-0.14895,Anno The Six Almes-Houses founded by Sr. John Woolaston Kn.,912188782
 1729,51.5899919,-0.2266909,Alms Houses,
 1730,51.4087002,-0.4898291,HW,
 1767_,51.4955386,-0.3656802,A Free School Erected by E.B.,
 1782,51.48565,-0.30727,Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.,166585101
 1791,51.54732,-0.48029,Old Bank A.D.,990490557
 1811,51.50959,-0.25997,Erected by the Worshipful Company of Goldsmiths A.D.,211819761
+1811a_,51.57850,-0.15389,Prospect Place,
 1817_,51.59965,-0.06769,S B [on drainpipe],
 1828,51.44339,-0.52287,J.P.W,
 1834,51.47918,-0.49285,W R IV,43798084
@@ -53,10 +55,12 @@ year,latitude,longitude,notes,external
 1872b_,51.42914,-0.50462,Dane More Cottages,
 1872c_,51.52945,-0.48239,[?] Cottages,
 1873,51.51716,-0.29972,Avenue Cottages,984971830
+1875_,51.59835,-0.11982,,138428151
 1876,51.53926,-0.25214,,86840426
 1876a_,51.4105562,-0.4868538,,
 1876b,51.40758,-0.48857,,
 1877_,51.648313,-0.0836626,Myrtle Villa,
+1877a_,51.57977,-0.15483,Springfield Cottages,817951789
 1878,51.60861,-0.36372,A.D.,
 1878a_,51.648311,-0.0837495,Clyde Villa,
 1878b_,51.648311,-0.0839,Ayr Villa,
@@ -112,6 +116,7 @@ year,latitude,longitude,notes,external
 1885f_,51.43829,-0.49884,Warwick Villas,308358260
 1885g_,51.57710,-0.42892,Home Cottages,
 1885h,51.48894,-0.47769,This stone was laid by Mrs. J.D. Allcroft March 10th,
+1885i_,51.60285,-0.12019,George's Villas,838009289
 1886_,51.661142,-0.0861842,Raleigh Place,
 1886a_,51.4671991,-0.3584619,Brodmore Villas,
 1886b_,51.67729,-0.03507,Claremont Villas,99491552
@@ -128,6 +133,7 @@ year,latitude,longitude,notes,external
 1887e_,51.51609,-0.29967,,975755938
 1887f_,51.6612687,-0.0860591,Raleigh Buildings.,
 1887g_,51.53408,-0.24792,VR,627997846
+1887h_,51.58713,-0.09743,Built in the [?],891209395
 1888,51.46627,-0.36759,,
 1888a_,51.6618918,-0.0885904,Witham Villa,
 1888b_,51.6608851,-0.0852505,Percy Villa,
@@ -141,6 +147,7 @@ year,latitude,longitude,notes,external
 1888i_,51.51611,-0.29943,,975755939
 1888j_,51.51612,-0.29928,,975755940	
 1888k_,51.51614,-0.29909,,975755941
+1888l_,51.56048,-0.43993,Manor View Villas [date unclear],
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.5835295,-0.1167874,Millman Terrace,
@@ -186,7 +193,9 @@ year,latitude,longitude,notes,external
 1893g_,51.4686,-0.3763445,Saltwood Cottage,
 1893h_,51.64366,-0.04756,,326821909
 1893i_,51.4668392,-0.3598827,[?] Villas,
-1893j_,51.46664,-0.36002,[? date unclear],
+1893j_,51.46664,-0.36002,[date unclear],
+1893k_,51.56057,-0.44000,Glebe View Villas [? date unclear],
+1893l_,51.54718,-0.22936,,123372214
 1894,51.46839,-0.37838,Warwick Villas,
 1894a_,51.583254,-0.3423877,[date unclear],
 1894b_,51.6327568,-0.1286842,[date unclear],
@@ -216,6 +225,7 @@ year,latitude,longitude,notes,external
 1896d_,51.4693555,-0.3578947,Malborough Villas,
 1896e_,51.42883,-0.50473,for use as an Infants School A.D.,
 1896f_,51.51211,-0.47082,May Cottages,
+1896g_,51.55164,-0.24168,WSB,
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,,
 1897b_,51.4132,-0.3642206,,
@@ -227,6 +237,7 @@ year,latitude,longitude,notes,external
 1897h,51.51304,-0.47293,This foundation stone of the Church of S.Matthew was laid September 24 AD,96882518
 1897i_,51.58413,-0.06883,A.D.,163085077
 1897j_,51.49975,-0.25597,,787287285
+1897k_,51.57063,-0.13832,,4368279,
 1898,51.54711,-0.23218,,
 1898a_,51.5792179,-0.0990928,Ducketts Terrace,
 1898b_,51.6634352,-0.0920675,Cedar Villa,
@@ -255,6 +266,8 @@ year,latitude,longitude,notes,external
 1899n_,51.43415,-0.51118,J A A.D.,345710955
 1899o_,51.3988,-0.4475,Ivy Dene,
 1899p_,51.43795,-0.49958,Fern Cottages,308358236
+1899q_,51.56974,-0.14303,,131929966
+1899r_,51.58685,-0.08757,TSB,78311287
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a_,51.6603104,-0.0831012,Porthkerry C.M.J.,
 1900b_,51.6610081,-0.0791394,,
@@ -282,6 +295,7 @@ year,latitude,longitude,notes,external
 1901i_,51.50443,-0.42183,Claremont Terrace,
 1901j,51.53010,-0.48179,Edward Nelson Cottages,
 1901k_,51.59155,-0.06970,AI,
+1901l_,51.55065,-0.24089,,
 1902,51.57495,-0.10451,,
 1902a_,51.6125075,-0.1808578,Thornton Villa,
 1902b_,51.5397381,-0.2086757,,
@@ -328,6 +342,7 @@ year,latitude,longitude,notes,external
 1905e,51.47161,-0.36393,Edward Villas,
 1905f_,51.5098205,-0.3359217,Hanwell Urban District Council,
 1905g,51.49281,-0.26672,The Old Pack Horse,175629798
+1905h_,51.57634,-0.06948,[foundation stone?],
 1906,51.5775976,-0.239595,,
 1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906a_,51.6529456,-0.0805599,Town Parade,
@@ -361,6 +376,7 @@ year,latitude,longitude,notes,external
 1909c_,51.50412,-0.41463,,711066161
 1909d_,51.4348,-0.4725,,
 1909e,51.50512,-0.25594,[on drainpipes],
+1909f_,51.57190,-0.19679,,
 1910,51.5964513,-0.3343658,,
 1910a_,51.61400,-0.24876,,
 1910b_,51.61226,-0.17552,Woodhouse Parade,
@@ -372,7 +388,10 @@ year,latitude,longitude,notes,external
 1911d_,51.56142,-0.35620,Welldon Park Council School MCC A.D.,230376774
 1911e,51.61182,-0.42518,A.D,
 1911f,51.52518,-0.31966,A.D,
+1911g_,51.58147,-0.19036,D.G.R. April 8,48920485
+1911h_,51.59321,-0.10673,Cheap Side E & D,191473076
 1912_,51.6234141,-0.1225127,,
+1912a_,51.57775,-0.20736,,
 1913,51.58867,-0.16392,,
 1913a,51.57025,-0.33993,[on drainpipe],
 1913b_,51.4653606,-0.3777292,,
@@ -385,6 +404,7 @@ year,latitude,longitude,notes,external
 1914d_,51.43995,-0.49761,Primrose Villas,
 1914e_,51.42922,-0.50667,,558833863
 1919,51.5115,-0.31508,,
+1920_,51.58170,-0.19111,Let others tell of stormy showers - I'll only count your sunny hours,
 1921_,51.59457,-0.07020,,
 1922,51.57344,-0.33705,,29294316
 1923,51.6149468,-0.2756908,,
@@ -399,6 +419,7 @@ year,latitude,longitude,notes,external
 1925c,51.55832,-0.32412,This stone was laid by the Rt Hon Sir John E. Bankes on April 4th,80227564
 1926,51.61568,-0.27533,,198992577
 1926a,51.57364,-0.33695,,29294316
+1926b_,51.54301,-0.22451,,474481940
 1927,51.39153,-0.44961,Lordsbridge House,
 1927a,51.57974,-0.41321,,
 1928,51.61265,-0.2773,Built by Cowen & Cross,
@@ -438,6 +459,7 @@ year,latitude,longitude,notes,external
 1937b_,51.51782,-0.28021,,
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
 1951,51.58966,-0.21855,GR VI,
+1952_,51.59856,-0.11995,ER II,368597795
 1953,51.62150,-0.27639,ER II,873092922
 1955,51.53130,-0.36449,Greenford Free Church (Baptist),1932 Destroyed 1940 Rebuilt,222351190
 1957,51.53445,-0.38893,ER II Telephone Exchange,99806373
