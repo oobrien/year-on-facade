@@ -36,6 +36,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1696": {
+      "latlng": {
+        "lat": 51.6174,
+        "lng": -0.22718
+      },
+      "notes": "T N",
+      "external": "544200461"
+    },
     "1705": {
       "latlng": {
         "lat": 51.5943,
@@ -116,7 +124,7 @@ const data = {
       "notes": "Prospect Place",
       "external": ""
     },
-    "1817_": {
+    "1817": {
       "latlng": {
         "lat": 51.59965,
         "lng": -0.06769
@@ -187,6 +195,14 @@ const data = {
       },
       "notes": "",
       "external": "229395601"
+    },
+    "1849a_": {
+      "latlng": {
+        "lat": 51.61453,
+        "lng": -0.14899
+      },
+      "notes": "[date indistinct]",
+      "external": "187886650"
     },
     "1850": {
       "latlng": {
@@ -306,6 +322,14 @@ const data = {
         "lng": -0.30078
       },
       "notes": "Prospect Place",
+      "external": ""
+    },
+    "1862b_": {
+      "latlng": {
+        "lat": 51.6048,
+        "lng": -0.39821
+      },
+      "notes": "AD [part damaged - missing the A and 2?]",
       "external": ""
     },
     "1863": {
@@ -460,7 +484,7 @@ const data = {
       "notes": "Avenue Cottages",
       "external": "984971830"
     },
-    "1875_": {
+    "1875": {
       "latlng": {
         "lat": 51.59835,
         "lng": -0.11982
@@ -1282,6 +1306,14 @@ const data = {
       "notes": "J.A.E",
       "external": ""
     },
+    "1889k": {
+      "latlng": {
+        "lat": 51.61438,
+        "lng": -0.15084
+      },
+      "notes": "A.D",
+      "external": "187942947"
+    },
     "1890": {
       "latlng": {
         "lat": 51.6061853,
@@ -1906,6 +1938,14 @@ const data = {
       "notes": "",
       "external": "4368279"
     },
+    "1897l": {
+      "latlng": {
+        "lat": 51.61829,
+        "lng": -0.23512
+      },
+      "notes": "[Photo © Jim Osley CC-By-SA]",
+      "external": ""
+    },
     "1898": {
       "latlng": {
         "lat": 51.54711,
@@ -1993,6 +2033,14 @@ const data = {
       },
       "notes": "",
       "external": "315307848"
+    },
+    "1898k": {
+      "latlng": {
+        "lat": 51.59881,
+        "lng": -0.12239
+      },
+      "notes": "",
+      "external": "808169097"
     },
     "1899": {
       "latlng": {
@@ -2266,6 +2314,22 @@ const data = {
       "notes": "Edith Villas",
       "external": ""
     },
+    "1900o_": {
+      "latlng": {
+        "lat": 51.58825,
+        "lng": -0.22906
+      },
+      "notes": "This foundation stone was laid by... 6th December",
+      "external": "27646396"
+    },
+    "1900p": {
+      "latlng": {
+        "lat": 51.59944,
+        "lng": -0.12482
+      },
+      "notes": "",
+      "external": ""
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -2378,7 +2442,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1902a_": {
+    "1902a": {
       "latlng": {
         "lat": 51.6125075,
         "lng": -0.1808578
@@ -2442,7 +2506,7 @@ const data = {
       "notes": "Perivale Villas",
       "external": ""
     },
-    "1902i_": {
+    "1902i": {
       "latlng": {
         "lat": 51.58422,
         "lng": -0.07185
@@ -2578,7 +2642,7 @@ const data = {
       "notes": "Norfolk",
       "external": "236509956"
     },
-    "1903p_": {
+    "1903p": {
       "latlng": {
         "lat": 51.59835,
         "lng": -0.07589
@@ -2601,6 +2665,14 @@ const data = {
       },
       "notes": "ETF",
       "external": "863529586"
+    },
+    "1903s": {
+      "latlng": {
+        "lat": 51.61196,
+        "lng": -0.17952
+      },
+      "notes": "",
+      "external": "484383503"
     },
     "1904": {
       "latlng": {
@@ -2674,6 +2746,14 @@ const data = {
       "notes": "ETF",
       "external": "863529608"
     },
+    "1904i": {
+      "latlng": {
+        "lat": 51.61307,
+        "lng": -0.21269
+      },
+      "notes": "ER",
+      "external": "389280574"
+    },
     "1905": {
       "latlng": {
         "lat": 51.5584532,
@@ -2745,6 +2825,14 @@ const data = {
       },
       "notes": "[foundation stone?]",
       "external": ""
+    },
+    "1905i": {
+      "latlng": {
+        "lat": 51.59701,
+        "lng": -0.11085
+      },
+      "notes": "The Jolly Anglers",
+      "external": "826319994"
     },
     "1906": {
       "latlng": {
@@ -2946,10 +3034,10 @@ const data = {
       "notes": "The Parade",
       "external": ""
     },
-    "1908d_": {
+    "1908d": {
       "latlng": {
-        "lat": 51.59097,
-        "lng": -0.07031
+        "lat": 51.59124,
+        "lng": -0.07033
       },
       "notes": "",
       "external": "138165979"
@@ -3026,7 +3114,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1910a_": {
+    "1910a": {
       "latlng": {
         "lat": 51.614,
         "lng": -0.24876
@@ -3034,7 +3122,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1910b_": {
+    "1910b": {
       "latlng": {
         "lat": 51.61226,
         "lng": -0.17552
@@ -3049,6 +3137,14 @@ const data = {
       },
       "notes": "Park View",
       "external": ""
+    },
+    "1910d": {
+      "latlng": {
+        "lat": 51.61282,
+        "lng": -0.15839
+      },
+      "notes": "Queen's Parade",
+      "external": "187885829"
     },
     "1911": {
       "latlng": {
@@ -3122,7 +3218,7 @@ const data = {
       "notes": "Cheap Side E & D",
       "external": "191473076"
     },
-    "1912_": {
+    "1912": {
       "latlng": {
         "lat": 51.6234141,
         "lng": -0.1225127
@@ -3186,10 +3282,10 @@ const data = {
       "notes": "",
       "external": "241798742"
     },
-    "1914a_": {
+    "1914a": {
       "latlng": {
-        "lat": 51.5989031,
-        "lng": -0.0679869
+        "lat": 51.59895,
+        "lng": -0.06824
       },
       "notes": "",
       "external": ""
@@ -3242,7 +3338,7 @@ const data = {
       "notes": "Let others tell of stormy showers - I'll only count your sunny hours",
       "external": ""
     },
-    "1921_": {
+    "1921": {
       "latlng": {
         "lat": 51.59457,
         "lng": -0.0702
@@ -3266,7 +3362,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1923a_": {
+    "1923a": {
       "latlng": {
         "lat": 51.6145659,
         "lng": -0.2474035
@@ -3281,6 +3377,22 @@ const data = {
       },
       "notes": "",
       "external": "987795750"
+    },
+    "1923c_": {
+      "latlng": {
+        "lat": 51.56318,
+        "lng": -0.27919
+      },
+      "notes": "MR",
+      "external": "287131758"
+    },
+    "1923d": {
+      "latlng": {
+        "lat": 51.61283,
+        "lng": -0.15915
+      },
+      "notes": "Grand Parade",
+      "external": "1079087529"
     },
     "1924": {
       "latlng": {
@@ -3314,7 +3426,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1925a_": {
+    "1925a": {
       "latlng": {
         "lat": 51.61495,
         "lng": -0.24608
@@ -3337,6 +3449,14 @@ const data = {
       },
       "notes": "This stone was laid by the Rt Hon Sir John E. Bankes on April 4th",
       "external": "80227564"
+    },
+    "1925d_": {
+      "latlng": {
+        "lat": 51.56194,
+        "lng": -0.28369
+      },
+      "notes": "",
+      "external": ""
     },
     "1926": {
       "latlng": {
@@ -3426,13 +3546,13 @@ const data = {
       "notes": "Rebuilt",
       "external": ""
     },
-    "1930a_": {
+    "1930a": {
       "latlng": {
-        "lat": 51.5986015,
-        "lng": -0.0679257
+        "lat": 51.59867,
+        "lng": -0.06782
       },
-      "notes": "[was rebuilt later]",
-      "external": ""
+      "notes": "LCS [was rebuilt later]",
+      "external": "178814685"
     },
     "1930b_": {
       "latlng": {
@@ -3674,7 +3794,7 @@ const data = {
       "notes": "GR VI",
       "external": ""
     },
-    "1952_": {
+    "1952": {
       "latlng": {
         "lat": 51.59856,
         "lng": -0.11995
@@ -3706,7 +3826,7 @@ const data = {
       "notes": "ER II Telephone Exchange",
       "external": "99806373"
     },
-    "1963_": {
+    "1963": {
       "latlng": {
         "lat": 51.6305,
         "lng": -0.12803
@@ -3746,7 +3866,15 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "2000_": {
+    "1997": {
+      "latlng": {
+        "lat": 51.60784,
+        "lng": -0.23345
+      },
+      "notes": "Laing Homes",
+      "external": ""
+    },
+    "2000": {
       "latlng": {
         "lat": 51.6124546,
         "lng": -0.180737
@@ -3810,6 +3938,14 @@ const data = {
       "notes": "White Gates",
       "external": ""
     },
+    "2003a": {
+      "latlng": {
+        "lat": 51.61723,
+        "lng": -0.24436
+      },
+      "notes": "Lowlands Court",
+      "external": ""
+    },
     "2006_": {
       "latlng": {
         "lat": 51.53229,
@@ -3865,6 +4001,14 @@ const data = {
       },
       "notes": "Bishop Ramsey [on gate]",
       "external": "166164838"
+    },
+    "2010_": {
+      "latlng": {
+        "lat": 51.55699,
+        "lng": -0.28572
+      },
+      "notes": "Tesco Express Wembley Quadrant est.",
+      "external": "261115439"
     },
     "2012": {
       "latlng": {
