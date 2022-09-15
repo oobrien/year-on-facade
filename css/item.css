@@ -31,3 +31,34 @@ h1 {
 	width: 100px;
 	text-align: center;
 }
+
+
+.additionalPhotos
+{
+	width: 612px;
+}
+
+.additionalPhotos a 
+{
+  display: inline-block;
+	width: 153px;
+	font-size: 10px;
+	text-align: left;
+	text-decoration: none;
+}
+
+.additionalPhotos a div
+{
+  display: inline-block;
+	margin-bottom: 13px;
+
+}
+
+.additionalPhotos a object
+{
+  display: inline;
+  width: 140px;
+  height: 140px;
+	margin: 0 13px 0 0;
+	object-fit: cover;
+}

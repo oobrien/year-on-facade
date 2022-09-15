@@ -3,6 +3,13 @@ function updateHeader(city, year) {
   document.querySelector('h1').innerHTML = title
 }
 
+var photosBaseUrl = data.config.photosBaseUrl;
+if (data.config.photosBaseUrlLocal)
+{
+	photosBaseUrl = data.config.photosBaseUrlLocal;
+}		
+
+
 function updateLinks(city, year) {
   const currentLocation = window.location
 
@@ -17,6 +24,80 @@ function updateLinks(city, year) {
   const more = document.querySelector('#more a')
   const statsUrl = `${currentLocation.origin}${currentLocation.pathname.replace('/item', '/stats')}`
   more.href = `${statsUrl}?city=${city}`
+
+  const yearitems = Object.keys(data.points).filter(p => p.substring(0, 4) == year.substring(0, 4) && p.indexOf("_") == -1);
+  for (var i in yearitems)
+  {
+    var thisyear = yearitems[i];
+    if (thisyear == year) { continue; }
+
+    const yearitem = document.createElement('a');
+    yearitem.href = `${currentLocation.origin}${currentLocation.pathname}?city=${city}&year=${thisyear}`
+	addPhoto(yearitem, `${photosBaseUrl}/${city}/${thisyear}_close.jpg`)
+    document.querySelector('#yearitems').append(yearitem);
+  }
+  
+  const lastnext = Object.keys(data.points).filter(p => p.length == 4);
+  lastnext.sort();
+  for (var i in lastnext)
+  {
+    var thisyear = lastnext[i];
+    if (thisyear == year.substring(0, 4))
+    {
+		if (i > 0) 
+		{
+			var lastyear = lastnext[i-1];
+			const yearitem = document.createElement('a');
+			yearitem.href = `${currentLocation.origin}${currentLocation.pathname}?city=${city}&year=${lastyear}`
+			addPhoto(yearitem, `${photosBaseUrl}/${city}/${lastyear}_close.jpg`)
+			const caption = document.createElement('div');
+			caption.innerHTML = lastyear.substring(0, 4);
+			yearitem.appendChild(caption);
+			document.querySelector('#lastnextitems').append(yearitem);
+		}
+		if (i < lastnext.length-1)
+		{
+			var nextyear = lastnext[parseInt(i)+1];
+			const yearitem = document.createElement('a');
+			yearitem.href = `${currentLocation.origin}${currentLocation.pathname}?city=${city}&year=${nextyear}`
+			addPhoto(yearitem, `${photosBaseUrl}/${city}/${nextyear}_close.jpg`)
+			const caption = document.createElement('div');
+			caption.innerHTML = nextyear.substring(0, 4);
+			yearitem.appendChild(caption);
+			document.querySelector('#lastnextitems').append(yearitem);
+		}
+		break;
+    }
+  }
+  
+  var nearbyitems = Object.keys(data.points).filter(p => p.indexOf("_") == -1);
+  nearbyitems.sort(
+  	function(a, b) 
+  	{ 
+  		return ol.sphere.getDistance(
+  			[data.points[a].latlng.lng, data.points[a].latlng.lat], 
+  			[data.points[year].latlng.lng, data.points[year].latlng.lat]) -  
+  			ol.sphere.getDistance([data.points[b].latlng.lng, data.points[b].latlng.lat], 
+  			[data.points[year].latlng.lng, data.points[year].latlng.lat]) 
+  	}
+  );
+  
+  for (var i = 1; i < 5; i++)
+  {
+    var thisyear = nearbyitems[i];
+    
+    const nearbyitem = document.createElement('a');
+    nearbyitem.href = `${currentLocation.origin}${currentLocation.pathname}?city=${city}&year=${thisyear}`
+	addPhoto(nearbyitem, `${photosBaseUrl}/${city}/${thisyear}_close.jpg`)
+
+	var distanceAway = ol.sphere.getDistance(
+  			[data.points[thisyear].latlng.lng, data.points[thisyear].latlng.lat], 
+  			[data.points[year].latlng.lng, data.points[year].latlng.lat]);
+	const caption = document.createElement('div');
+	caption.innerHTML = thisyear.substring(0, 4) + ": " + Math.round(distanceAway, 0) + "m";
+	nearbyitem.appendChild(caption);
+    document.querySelector('#nearbyitems').append(nearbyitem);
+  }
 
   // handle Back to World view link
   const url = new URL(currentLocation.href)
@@ -59,11 +140,6 @@ function addPhoto(container, url) {
 
 function addPhotos(city, year) {
   if (data.config.photosBaseUrl && city != 'Replacements') {
-    var photosBaseUrl = data.config.photosBaseUrl;
-  	if (data.config.photosBaseUrlLocal)
-  	{
-  		photosBaseUrl = data.config.photosBaseUrlLocal;
-  	}
     const photoContainer = document.querySelector('#photoContainer')
     addPhoto(photoContainer, `${photosBaseUrl}/${city}/${year}_close.jpg`)
     addPhoto(photoContainer, `${photosBaseUrl}/${city}/${year}.jpg`)

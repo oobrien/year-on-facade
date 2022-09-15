@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Year on Facade</title>
+  <title>Year on Facade | Map</title>
   <link rel="stylesheet" type="text/css" href="../css/map.css" />
   <link rel="stylesheet" type="text/css" href="https://lib.oomap.co.uk/openlayers/v6.15.1-dist/ol.css" />
   <meta name="viewport" content="width=device-width" />
@@ -18,18 +18,18 @@
     dataScript.async = false;
     document.head.appendChild(dataScript);
 
-    const mainScript = document.createElement('script');
-    mainScript.src = '../js/map.js'
-    mainScript.defer = false;
-    mainScript.async = false;
-    document.head.appendChild(mainScript);
-
     const mapScript = document.createElement('script');
     mapScript.src = 'https://lib.oomap.co.uk/openlayers/v6.15.1-dist/ol.js'
     mapScript.defer = false;
     mapScript.async = false;
     document.head.appendChild(mapScript);
     
+    const mainScript = document.createElement('script');
+    mainScript.src = '../js/map.js'
+    mainScript.defer = false;
+    mainScript.async = false;
+    document.head.appendChild(mainScript);
+
     function stats()
     {
     	window.location.href = '../stats/?city=' + city;

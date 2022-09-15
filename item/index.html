@@ -17,6 +17,12 @@
     dataScript.async = false;
     document.head.appendChild(dataScript);
 
+    const mapScript = document.createElement('script');
+    mapScript.src = 'https://lib.oomap.co.uk/openlayers/v6.15.1-dist/ol.js'
+    mapScript.defer = false;
+    mapScript.async = false;
+    document.head.appendChild(mapScript);
+
     const itemScript = document.createElement('script');
     itemScript.src = '../js/item.js'
     itemScript.defer = false;
@@ -44,7 +50,7 @@
   </div>
 
   <div class="line" id="more">
-    <a href="#">More items in this city</a>
+    <a href="#">Year grid for this city</a>
   </div>
 
   <div class="line" id="external">
@@ -52,6 +58,23 @@
   </div>
 
   <div id="photoContainer"></div>
+
+  <div class="line" id="year">
+    Same year:
+    <div class="items additionalPhotos" id="yearitems"></div>
+  </div>
+
+  <div class="line" id="lastnext">
+    Previous and following year:
+    <div class="items additionalPhotos" id="lastnextitems"></div>
+  </div>
+
+
+  <div class="line" id="nearby">
+    Nearby:
+    <div class="items additionalPhotos" id="nearbyitems"></div>
+  </div>
+
 
 </body>
 
