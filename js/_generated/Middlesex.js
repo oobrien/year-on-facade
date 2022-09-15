@@ -172,6 +172,14 @@ const data = {
       "notes": "These almshouses were erected and endowed by Mr Charles Wright of Enfield Highway for the support of six poor women. A.D.",
       "external": "101434135"
     },
+    "1847a_": {
+      "latlng": {
+        "lat": 51.69828,
+        "lng": -0.23458
+      },
+      "notes": "",
+      "external": "990096643"
+    },
     "1848": {
       "latlng": {
         "lat": 51.54704,
@@ -276,6 +284,14 @@ const data = {
       "notes": "Alma Villas",
       "external": ""
     },
+    "1856_": {
+      "latlng": {
+        "lat": 51.69637,
+        "lng": -0.23318
+      },
+      "notes": "",
+      "external": "760124726"
+    },
     "1858_": {
       "latlng": {
         "lat": 51.4744528,
@@ -324,12 +340,12 @@ const data = {
       "notes": "Prospect Place",
       "external": ""
     },
-    "1862b_": {
+    "1862b": {
       "latlng": {
         "lat": 51.6048,
         "lng": -0.39821
       },
-      "notes": "AD [part damaged - missing the A and 2?]",
+      "notes": "AD [part damaged - missing the A and 2]",
       "external": ""
     },
     "1863": {
@@ -363,6 +379,14 @@ const data = {
       },
       "notes": "Trafalgar [Terrace?]",
       "external": "183351551"
+    },
+    "1864a": {
+      "latlng": {
+        "lat": 51.53028,
+        "lng": -0.2286
+      },
+      "notes": "",
+      "external": "911226077"
     },
     "1865": {
       "latlng": {
@@ -484,6 +508,14 @@ const data = {
       "notes": "Avenue Cottages",
       "external": "984971830"
     },
+    "1873a_": {
+      "latlng": {
+        "lat": 51.67323,
+        "lng": -0.20416
+      },
+      "notes": "S",
+      "external": ""
+    },
     "1875": {
       "latlng": {
         "lat": 51.59835,
@@ -531,6 +563,14 @@ const data = {
       },
       "notes": "Springfield Cottages",
       "external": "817951789"
+    },
+    "1877b_": {
+      "latlng": {
+        "lat": 51.63525,
+        "lng": -0.09536
+      },
+      "notes": "Pritchett Terrace",
+      "external": "677746494"
     },
     "1878": {
       "latlng": {
@@ -666,6 +706,14 @@ const data = {
       "notes": "TC",
       "external": ""
     },
+    "1880h": {
+      "latlng": {
+        "lat": 51.5351,
+        "lng": -0.2481
+      },
+      "notes": "A.D",
+      "external": ""
+    },
     "1881_": {
       "latlng": {
         "lat": 51.6621064,
@@ -681,6 +729,14 @@ const data = {
       },
       "notes": "AD",
       "external": ""
+    },
+    "1881b_": {
+      "latlng": {
+        "lat": 51.69507,
+        "lng": -0.23315
+      },
+      "notes": "St Giles. South Myms Parish Room",
+      "external": "787643233"
     },
     "1881c": {
       "latlng": {
@@ -1098,7 +1154,7 @@ const data = {
       "notes": "Raleigh Buildings.",
       "external": ""
     },
-    "1887g_": {
+    "1887g": {
       "latlng": {
         "lat": 51.53408,
         "lng": -0.24792
@@ -2074,14 +2130,6 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1899d_": {
-      "latlng": {
-        "lat": 51.6698749,
-        "lng": -0.0411519
-      },
-      "notes": "",
-      "external": ""
-    },
     "1899e": {
       "latlng": {
         "lat": 51.50907,
@@ -2193,6 +2241,14 @@ const data = {
       },
       "notes": "TSB",
       "external": "78311287"
+    },
+    "1899s_": {
+      "latlng": {
+        "lat": 51.63595,
+        "lng": -0.10287
+      },
+      "notes": "Burleigh Terrace",
+      "external": "629801010"
     },
     "1900": {
       "latlng": {
@@ -2522,28 +2578,12 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1903a_": {
-      "latlng": {
-        "lat": 51.6217525,
-        "lng": -0.1056482
-      },
-      "notes": "",
-      "external": ""
-    },
     "1903b_": {
       "latlng": {
         "lat": 51.621481,
         "lng": -0.0617196
       },
       "notes": "",
-      "external": ""
-    },
-    "1903c_": {
-      "latlng": {
-        "lat": 51.6354372,
-        "lng": -0.052086
-      },
-      "notes": "Ringwood",
       "external": ""
     },
     "1903d_": {
@@ -2684,8 +2724,8 @@ const data = {
     },
     "1904a_": {
       "latlng": {
-        "lat": 51.6356099,
-        "lng": -0.0519908
+        "lat": 51.63561,
+        "lng": -0.05213
       },
       "notes": "Downham",
       "external": ""
@@ -2700,19 +2740,11 @@ const data = {
     },
     "1904c_": {
       "latlng": {
-        "lat": 51.6176994,
-        "lng": -0.1092371
+        "lat": 51.61768,
+        "lng": -0.10942
       },
-      "notes": "",
-      "external": "236509956"
-    },
-    "1904d_": {
-      "latlng": {
-        "lat": 51.63561,
-        "lng": -0.05213
-      },
-      "notes": "Downham",
-      "external": ""
+      "notes": "LBS",
+      "external": "1087328346"
     },
     "1904e_": {
       "latlng": {
@@ -2753,6 +2785,22 @@ const data = {
       },
       "notes": "ER",
       "external": "389280574"
+    },
+    "1904j_": {
+      "latlng": {
+        "lat": 51.63283,
+        "lng": -0.09891
+      },
+      "notes": "",
+      "external": "672061802"
+    },
+    "1904k_": {
+      "latlng": {
+        "lat": 51.62051,
+        "lng": -0.1065
+      },
+      "notes": "The Fox [currently hidden as being converted]",
+      "external": "449555765"
     },
     "1905": {
       "latlng": {
@@ -2938,6 +2986,22 @@ const data = {
       "notes": "",
       "external": "230149804"
     },
+    "1906m_": {
+      "latlng": {
+        "lat": 51.69408,
+        "lng": -0.23324
+      },
+      "notes": "VBT AD",
+      "external": "787643220"
+    },
+    "1906n_": {
+      "latlng": {
+        "lat": 51.63414,
+        "lng": -0.09393
+      },
+      "notes": "",
+      "external": "93203216"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -3002,6 +3066,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1907h_": {
+      "latlng": {
+        "lat": 51.6311,
+        "lng": -0.09712
+      },
+      "notes": "This stone was laid by Rev John Bradford in memory of his father July 24th",
+      "external": "339709113"
+    },
     "1908": {
       "latlng": {
         "lat": 51.61496,
@@ -3049,6 +3121,22 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1908f_": {
+      "latlng": {
+        "lat": 51.69795,
+        "lng": -0.23524
+      },
+      "notes": "MP",
+      "external": "990096640"
+    },
+    "1908g_": {
+      "latlng": {
+        "lat": 51.62171,
+        "lng": -0.105522
+      },
+      "notes": "",
+      "external": "449551516"
     },
     "1909": {
       "latlng": {
@@ -3218,6 +3306,22 @@ const data = {
       "notes": "Cheap Side E & D",
       "external": "191473076"
     },
+    "1911i_": {
+      "latlng": {
+        "lat": 51.6317,
+        "lng": -0.09511
+      },
+      "notes": "",
+      "external": "672061626"
+    },
+    "1911j_": {
+      "latlng": {
+        "lat": 51.63113,
+        "lng": -0.09534
+      },
+      "notes": "",
+      "external": ""
+    },
     "1912": {
       "latlng": {
         "lat": 51.6234141,
@@ -3321,6 +3425,14 @@ const data = {
       },
       "notes": "",
       "external": "558833863"
+    },
+    "1915_": {
+      "latlng": {
+        "lat": 51.63012,
+        "lng": -0.09717
+      },
+      "notes": "[on drainipipe]",
+      "external": "671600555"
     },
     "1919": {
       "latlng": {
@@ -3497,6 +3609,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1927b_": {
+      "latlng": {
+        "lat": 51.63453,
+        "lng": -0.09415
+      },
+      "notes": "",
+      "external": "677746496"
     },
     "1928": {
       "latlng": {
@@ -3714,14 +3834,6 @@ const data = {
       "notes": "Rebuilt",
       "external": "42986356"
     },
-    "1935d_": {
-      "latlng": {
-        "lat": 51.53447,
-        "lng": -0.24764
-      },
-      "notes": "GR V Telephone Exchange",
-      "external": ""
-    },
     "1935e_": {
       "latlng": {
         "lat": 51.6414,
@@ -3776,6 +3888,14 @@ const data = {
         "lng": -0.28021
       },
       "notes": "",
+      "external": ""
+    },
+    "1938": {
+      "latlng": {
+        "lat": 51.53487,
+        "lng": -0.24792
+      },
+      "notes": "GR VI Telephone Exchange",
       "external": ""
     },
     "1948": {
@@ -3858,6 +3978,14 @@ const data = {
       "notes": "Haydon House [on plaque]",
       "external": "317387812"
     },
+    "1990_": {
+      "latlng": {
+        "lat": 51.63575,
+        "lng": -0.10293
+      },
+      "notes": "",
+      "external": "318024056"
+    },
     "1994": {
       "latlng": {
         "lat": 51.5815,
@@ -3881,6 +4009,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "2000a_": {
+      "latlng": {
+        "lat": 51.64574,
+        "lng": -0.10978
+      },
+      "notes": "",
+      "external": "496919844"
     },
     "2001": {
       "latlng": {
