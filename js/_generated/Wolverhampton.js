@@ -44,14 +44,6 @@ const data = {
       "notes": "",
       "external": "118575707"
     },
-    "1875?a_": {
-      "latlng": {
-        "lat": 52.56911,
-        "lng": -2.12734
-      },
-      "notes": "[?] Terrace",
-      "external": "355114238"
-    },
     "1875_": {
       "latlng": {
         "lat": 52.56912,
@@ -59,6 +51,14 @@ const data = {
       },
       "notes": "Ventnor Place",
       "external": "355114305"
+    },
+    "1875a_": {
+      "latlng": {
+        "lat": 52.56911,
+        "lng": -2.12734
+      },
+      "notes": "[?] Terrace",
+      "external": "355114238"
     },
     "1880_": {
       "latlng": {
@@ -100,14 +100,6 @@ const data = {
       "notes": "",
       "external": "878022594"
     },
-    "1890?a_": {
-      "latlng": {
-        "lat": 52.57169,
-        "lng": -2.12479
-      },
-      "notes": "[?] Villas",
-      "external": "296293104"
-    },
     "1890_": {
       "latlng": {
         "lat": 52.57177,
@@ -115,6 +107,14 @@ const data = {
       },
       "notes": "Lysmoor House",
       "external": "296293096"
+    },
+    "1890a_": {
+      "latlng": {
+        "lat": 52.57169,
+        "lng": -2.12479
+      },
+      "notes": "[?] Villas",
+      "external": "296293104"
     },
     "1893_": {
       "latlng": {
@@ -132,7 +132,7 @@ const data = {
       "notes": "Hawthorn Cottage",
       "external": "357490188"
     },
-    "1894?_": {
+    "1894_": {
       "latlng": {
         "lat": 52.56975,
         "lng": -2.12623
@@ -140,7 +140,7 @@ const data = {
       "notes": "[?] House",
       "external": "355114307"
     },
-    "1894?a_": {
+    "1894a_": {
       "latlng": {
         "lat": 52.56973,
         "lng": -2.12629
@@ -148,7 +148,7 @@ const data = {
       "notes": "Ventnor House",
       "external": "355114307"
     },
-    "1894?b_": {
+    "1894b_": {
       "latlng": {
         "lat": 52.56979,
         "lng": -2.12608
@@ -156,7 +156,7 @@ const data = {
       "notes": "[?] House",
       "external": "355114307"
     },
-    "1894?c_": {
+    "1894c_": {
       "latlng": {
         "lat": 52.56998,
         "lng": -2.12534
@@ -164,7 +164,7 @@ const data = {
       "notes": "[?] House",
       "external": "355114307"
     },
-    "1894?d_": {
+    "1894d_": {
       "latlng": {
         "lat": 52.57001,
         "lng": -2.12523
@@ -172,7 +172,7 @@ const data = {
       "notes": "[?] House",
       "external": "355114307"
     },
-    "1894?e_": {
+    "1894e_": {
       "latlng": {
         "lat": 52.56847,
         "lng": -2.12475

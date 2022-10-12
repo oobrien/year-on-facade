@@ -104,6 +104,15 @@ const data = {
       },
       "notes": "Retake photo once construction is complete"
     },
+    "1705": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5943,
+        "lng": -0.38072
+      },
+      "notes": "Queens Head [recently painted on post]"
+    },
     "1709": {
       "city": "London",
       "external": "1210081",
@@ -193,6 +202,15 @@ const data = {
         "lng": -0.22671664035448216
       },
       "notes": ""
+    },
+    "1730": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4087002,
+        "lng": -0.4898291
+      },
+      "notes": "HW"
     },
     "1731": {
       "city": "London",
@@ -1373,6 +1391,15 @@ const data = {
       },
       "notes": ""
     },
+    "1927": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.39153,
+        "lng": -0.44961
+      },
+      "notes": "Lordsbridge House"
+    },
     "1928": {
       "city": "London",
       "external": "",
@@ -1607,6 +1634,15 @@ const data = {
       },
       "notes": ""
     },
+    "1971": {
+      "city": "Middlesex",
+      "external": "162411474",
+      "latlng": {
+        "lat": 51.42971,
+        "lng": -0.49877
+      },
+      "notes": "[on drainpipe]"
+    },
     "1979": {
       "city": "London",
       "external": "1224373",
@@ -1804,6 +1840,33 @@ const data = {
         "lng": -0.4350614757921235
       },
       "notes": ""
+    },
+    "2014": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43429,
+        "lng": -0.49501
+      },
+      "notes": ""
+    },
+    "2018": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51689,
+        "lng": -0.302682
+      },
+      "notes": "ARM"
+    },
+    "2020": {
+      "city": "Middlesex",
+      "external": "558823698",
+      "latlng": {
+        "lat": 51.43393,
+        "lng": -0.49558
+      },
+      "notes": "Violet House"
     }
   },
   "citiesConfig": {
