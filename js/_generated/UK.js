@@ -104,15 +104,6 @@ const data = {
       },
       "notes": "Retake photo once construction is complete"
     },
-    "1705": {
-      "city": "London",
-      "external": "1359298",
-      "latlng": {
-        "lat": 51.353924798649906,
-        "lng": 0.1379032927353277
-      },
-      "notes": "TODO"
-    },
     "1709": {
       "city": "London",
       "external": "1210081",
@@ -1382,15 +1373,6 @@ const data = {
       },
       "notes": ""
     },
-    "1927": {
-      "city": "London",
-      "external": "1186830",
-      "latlng": {
-        "lat": 51.40564335790167,
-        "lng": 0.013973970382273842
-      },
-      "notes": "TODO"
-    },
     "1928": {
       "city": "London",
       "external": "",
@@ -1842,12 +1824,25 @@ const data = {
         }
       }
     },
-    "London": {
+    "Middlesex": {
       "config": {
         "country": "UK",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+        "boundary": true,
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+        }
+      }
+    },
+    "Wolverhampton": {
+      "config": {
+        "country": "UK",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+        "boundary": true,
+        "external": {
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
@@ -1855,8 +1850,8 @@ const data = {
       "config": {
         "country": "UK",
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
@@ -1869,7 +1864,7 @@ const data = {
       "config": {
         "country": "Denmark",
         "external": {
-          "label": "Check out Fredede og Bevaringsværdige Bygninger",
+          "label": "Fredede og Bevaringsværdige Bygninger",
           "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
         }
       }

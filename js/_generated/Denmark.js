@@ -64,12 +64,25 @@ const data = {
         }
       }
     },
-    "London": {
+    "Middlesex": {
       "config": {
         "country": "UK",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+        "boundary": true,
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+        }
+      }
+    },
+    "Wolverhampton": {
+      "config": {
+        "country": "UK",
+        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+        "boundary": true,
+        "external": {
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
@@ -77,8 +90,8 @@ const data = {
       "config": {
         "country": "UK",
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
@@ -91,7 +104,7 @@ const data = {
       "config": {
         "country": "Denmark",
         "external": {
-          "label": "Check out Fredede og Bevaringsværdige Bygninger",
+          "label": "Fredede og Bevaringsværdige Bygninger",
           "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
         }
       }
