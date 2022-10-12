@@ -37,6 +37,16 @@ const data = {
         }
       }
     },
+    "London": {
+      "config": {
+        "country": "UK",
+        "boundary": true,
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
     "Middlesex": {
       "config": {
         "country": "UK",

@@ -1,4 +1,15 @@
 const data = {
+  "config": {
+    "country": "UK",
+    "boundary": true,
+    "external": {
+      "label": "Check out Historic England",
+      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+    },
+    "useInternalMap": true,
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "city": "London"
+  },
   "points": {
     "1580": {
       "latlng": {
@@ -1600,10 +1611,5 @@ const data = {
       "notes": "",
       "external": ""
     }
-  },
-  "config": {
-    "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
-    "city": "London"
   }
 }
