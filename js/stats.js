@@ -1,14 +1,21 @@
+// Ignore replacements in stats
+points = structuredClone(data.points)
+for (let k of Object.keys(points)) {
+  if (k.length != 4) delete points[k]
+}
+
+const years = Object.keys(points).map(y => parseInt(y))
+
 function updateHeader() {
   const url = new URL(window.location.href)
   const city = url.searchParams.get('city')
-  const title = [city, data.config.country].filter(n => n).join(', ')
+  const title = [city.replaceAll('_', ' '), data.config.country].filter(n => n).join(', ')
   document.querySelector('h1').innerHTML = title
 }
 
 const maybePluralize = (count, noun = 'year', suffix = 's') => `${count} ${noun}${count !== 1 ? suffix : ''}`
 
 function updateRange() {
-  const years = Object.keys(data.points).map(y => parseInt(y))
   const min = Math.min(...years)
   const max = Math.max(...years)
   document.querySelector('#range .value').innerHTML = `${min} &mdash; ${max} (${maybePluralize(max - min + 1)})`
@@ -24,13 +31,11 @@ function redirectToExactPoint(year) {
 function updateTable() {
   const yearsInLine = 10
 
-  const years = Object.keys(data.points).map(y => parseInt(y.substring(0,4)))
-  console.log(years);
   const min = Math.floor(Math.min(...years) / yearsInLine) * yearsInLine
   let max = Math.ceil((Math.max(...years) + 1) / yearsInLine) * yearsInLine
   const parent = document.querySelector('#table')
   
-  let lastisdotrow = false;
+  let lastIsDotRow = false
 
   for (let r = min / yearsInLine; r < max / yearsInLine; r++) {
     let isdotrow = true;
@@ -76,13 +81,22 @@ function updateTable() {
       year.title = currentYear
       row.appendChild(year)
     }
-    if (isdotrow) { if (!lastisdotrow) { parent.appendChild(dotrow); lastisdotrow = true; } }
-    else { parent.appendChild(row); lastisdotrow = false; } 
+    if (isdotrow) {
+      if (!lastIsDotRow) {
+        const dotRow = document.createElement('div')
+        dotRow.classList.add('row')
+        dotRow.innerText = '...'
+        parent.appendChild(dotRow)
+        lastIsDotRow = true
+      }
+    } else {
+      parent.appendChild(row)
+      lastIsDotRow = false
+    }
   }
 }
 
 function updateTotal() {
-  const years = Object.keys(data.points).map(y => parseInt(y))
   const min = Math.min(...years)
   const max = Math.max(...years)
   
@@ -95,7 +109,6 @@ function updateTotal() {
 }
 
 function updateLongestSequence() {
-  const years = Object.keys(data.points).map(y => parseInt(y))
   const sequence = years.reduce(
     ([max, current, sequenceStart], year, i) => {
       const partOfSequence = (year - years[i - 1] || 0) == 1
@@ -113,17 +126,10 @@ function updateLongestSequence() {
   )})`
 }
 
-function updateHeritageRegistry () {
-
-  const externalConfig = data.config.external || (data.citiesConfig && data.citiesConfig[city].config.external)
-  if (externalConfig) {
-    const label = document.querySelector('#registryName')
-    label.innerHTML = externalConfig.label
-  }
-
-  const inRegistry = Object.values(data.points).filter(p => p.external).length
+function updateHeritageRegistry() {
+  const inRegistry = Object.values(points).filter(p => p.external).length
   if (inRegistry > 0) {
-    const percentage = Math.floor(inRegistry * 100 / Object.keys(data.points).length)
+    const percentage = Math.floor((inRegistry * 100) / Object.keys(points).length)
     document.querySelector('#registry .value').innerHTML = `${inRegistry} (${percentage}%)`
   } else {
     document.querySelector('#registry').remove()
@@ -143,7 +149,9 @@ function updateVisited () {
 }
 
 function updateLinks() {
-  document.querySelector('#compare a').href = window.location.href.replace('stats/', '').replace(/\?.+/, '')
+  document.querySelector('#compare a').href = `${window.location.href.replace('stats/', '').replace(/\?.+/, '')}${
+    data.config.country ? `?country=${data.config.country}` : ''
+  }`
   const map = document.querySelector('#map a')
   if (data.config.useInternalMap) {
     map.href = window.location.href.replace('stats/', 'map/')

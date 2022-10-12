@@ -1,20 +1,44 @@
 {
   "World": {
     "config": {
+      "zoom": 2,
+      "center": {
+        "lat": 0,
+        "lng": 0
+      },
+      "borders": null
+    }
+  },
+  "Denmark": {
+    "config": {
+      "zoom": 7,
+      "center": {
+        "lat": 56.0076,
+        "lng": 10.5197
+      },
+      "borders": null
+    }
+  },
+  "Russia": {
+    "config": {
+      "zoom": 3,
+      "center": {
+        "lat": 63.8708,
+        "lng": 96.0191
+      },
+      "borders": null
+    }
+  },
+  "UK": {
+    "config": {
       "zoom": 5,
       "center": {
         "lat": 51.5072,
         "lng": -0.1276
       },
-      "borders": null
-    }
-  },
-  "London": {
-    "config": {
-      "country": "UK",
-      "boundary": true,
+      "borders": null,
       "external": {
-        "label": "Historic England",
+        "label": "Check out Historic England",
         "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
       }
     }
@@ -35,6 +59,26 @@
       "country": "UK",
       "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
       "boundary": true,
+      "external": {
+        "label": "OpenStreetMap",
+        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+      }
+    }
+  },
+  "Brighton_and_Hove": {
+    "config": {
+      "country": "UK",
+      "zoom": 10,
+      "center": {
+        "lat": 50.8396,
+        "lng": -0.134
+      },
+      "borders": {
+        "south": 50.797214,
+        "north": 50.892159,
+        "west": -0.240598,
+        "east": -0.017147
+      },
       "external": {
         "label": "OpenStreetMap",
         "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"

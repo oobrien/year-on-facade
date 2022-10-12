@@ -1,5 +1,5 @@
 function updateHeader(city, year) {
-  const title = [year, city, data.config.country].filter(n => n).join(', ')
+  const title = [year, city.replaceAll('_', ' '), data.config.country].filter(n => n).join(', ')
   document.querySelector('h1').innerHTML = title
 }
 
@@ -13,10 +13,14 @@ if (data.config.photosBaseUrlLocal)
 function updateLinks(city, year) {
   const currentLocation = window.location
 
+  const coordinates = `${data.points[year].latlng.lat},${data.points[year].latlng.lng}`
   const map = document.querySelector('#map a')
   map.href = data.config.useInternalMap
     ? currentLocation.href.replace('/item', '/map')
-    : `https://www.google.com/maps/search/${data.points[year].latlng.lat},${data.points[year].latlng.lng}`
+    : `https://www.google.com/maps/search/${coordinates}`
+
+  const streetview = document.querySelector('#streetview a')
+  streetview.href = `https://www.google.com/maps?q=&layer=c&cbll=${coordinates}&cbp=12,0,0,0,-15`
 
   const streetview = document.querySelector('#streetview a')
   streetview.href = `https://www.google.com/maps?q=&layer=c&cbll=${data.points[year].latlng.lat},${data.points[year].latlng.lng}&cbp=11,0,0,0,0`

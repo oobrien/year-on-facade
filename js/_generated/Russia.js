@@ -1,58 +1,56 @@
 const data = {
   "config": {
-    "zoom": 12,
+    "zoom": 3,
     "center": {
-      "lat": 51.5072,
-      "lng": -0.1276
+      "lat": 63.8708,
+      "lng": 96.0191
     },
     "borders": null,
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
   },
-  "points": {},
+  "points": {
+    "2010": {
+      "city": "Perm",
+      "latlng": {
+        "lat": 58.004339030274615,
+        "lng": 56.26782744824511
+      },
+      "notes": ""
+    }
+  },
   "citiesConfig": {
     "World": {
       "config": {}
     },
-    "TODO": {
+    "Denmark": {
       "config": {}
     },
-    "London": {
+    "Russia": {
+      "config": {}
+    },
+    "UK": {
       "config": {
-        "country": "UK",
-        "boundary": true,
         "external": {
-          "label": "Historic England",
+          "label": "Check out Historic England",
           "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
     },
-    "Middlesex": {
+    "London": {
       "config": {
         "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
-        "boundary": true,
         "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
     },
-    "Wolverhampton": {
+    "Brighton_and_Hove": {
       "config": {
         "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/misc/year-on-facade-photos/web",
-        "boundary": true,
         "external": {
-          "label": "See building details on OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
-      }
-    },
-    "Replacements": {
-      "config": {
-        "external": {
-          "label": "Historic England",
+          "label": "Check out Historic England",
           "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
@@ -66,7 +64,7 @@ const data = {
       "config": {
         "country": "Denmark",
         "external": {
-          "label": "Fredede og Bevaringsværdige Bygninger",
+          "label": "Check out Fredede og Bevaringsværdige Bygninger",
           "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
         }
       }

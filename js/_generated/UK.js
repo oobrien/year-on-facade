@@ -1,11 +1,15 @@
 const data = {
   "config": {
-    "zoom": 2,
+    "zoom": 5,
     "center": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.5072,
+      "lng": -0.1276
     },
     "borders": null,
+    "external": {
+      "label": "Check out Historic England",
+      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+    },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
   },
@@ -99,6 +103,15 @@ const data = {
         "lng": -0.10088095828089627
       },
       "notes": "Retake photo once construction is complete"
+    },
+    "1705": {
+      "city": "London",
+      "external": "1359298",
+      "latlng": {
+        "lat": 51.353924798649906,
+        "lng": 0.1379032927353277
+      },
+      "notes": "TODO"
     },
     "1709": {
       "city": "London",
@@ -259,15 +272,6 @@ const data = {
       "latlng": {
         "lat": 51.44160860852726,
         "lng": 0.1477712680269168
-      },
-      "notes": ""
-    },
-    "1756": {
-      "city": "Copenhagen",
-      "external": "3177920",
-      "latlng": {
-        "lat": 55.679587967436206,
-        "lng": 12.59258735833644
       },
       "notes": ""
     },
@@ -1145,11 +1149,11 @@ const data = {
       "notes": ""
     },
     "1899": {
-      "city": "Copenhagen",
-      "external": "3343222",
+      "city": "London",
+      "external": "1195738",
       "latlng": {
-        "lat": 55.67751919534578,
-        "lng": 12.536597484595521
+        "lat": 51.531484148676086,
+        "lng": -0.10602869408009678
       },
       "notes": ""
     },
@@ -1208,11 +1212,11 @@ const data = {
       "notes": ""
     },
     "1906": {
-      "city": "Copenhagen",
-      "external": "3163917",
+      "city": "London",
+      "external": "1389537",
       "latlng": {
-        "lat": 55.69863940860437,
-        "lng": 12.540628344999996
+        "lat": 51.652988999068505,
+        "lng": -0.0726415888113681
       },
       "notes": ""
     },
@@ -1352,10 +1356,11 @@ const data = {
       "notes": ""
     },
     "1924": {
-      "city": "Billund",
+      "city": "London",
+      "external": "",
       "latlng": {
-        "lat": 55.73171536145109,
-        "lng": 9.113889380972617
+        "lat": 51.51613997834704,
+        "lng": -0.2052375194195213
       },
       "notes": ""
     },
@@ -1376,6 +1381,15 @@ const data = {
         "lng": -0.26677317202584194
       },
       "notes": ""
+    },
+    "1927": {
+      "city": "London",
+      "external": "1186830",
+      "latlng": {
+        "lat": 51.40564335790167,
+        "lng": 0.013973970382273842
+      },
+      "notes": "TODO"
     },
     "1928": {
       "city": "London",
@@ -1792,10 +1806,11 @@ const data = {
       "notes": ""
     },
     "2010": {
-      "city": "Perm",
+      "city": "London",
+      "external": "",
       "latlng": {
-        "lat": 58.004339030274615,
-        "lng": 56.26782744824511
+        "lat": 51.65160711218057,
+        "lng": -0.08636709386581888
       },
       "notes": ""
     },
@@ -1827,25 +1842,12 @@ const data = {
         }
       }
     },
-    "Middlesex": {
+    "London": {
       "config": {
         "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-        "boundary": true,
         "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
-      }
-    },
-    "Wolverhampton": {
-      "config": {
-        "country": "UK",
-        "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-        "boundary": true,
-        "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
     },
@@ -1853,8 +1855,8 @@ const data = {
       "config": {
         "country": "UK",
         "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
         }
       }
     },
@@ -1867,7 +1869,7 @@ const data = {
       "config": {
         "country": "Denmark",
         "external": {
-          "label": "Fredede og Bevaringsværdige Bygninger",
+          "label": "Check out Fredede og Bevaringsværdige Bygninger",
           "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
         }
       }
