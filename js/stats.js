@@ -1,7 +1,7 @@
 // Ignore replacements in stats
 points = structuredClone(data.points)
 for (let k of Object.keys(points)) {
-  if (k.length != 4) delete points[k]
+//  if (k.length != 4) delete points[k]
 }
 
 const years = Object.keys(points).map(y => parseInt(y))
