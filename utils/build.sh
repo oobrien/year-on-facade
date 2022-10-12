@@ -45,7 +45,7 @@ function generateFakeCity {
   .[1] * .[2] | {\"$city\": .[\"$city\"]} |
   .[\"$city\"].config += \$globalConfigs |
   .[\"$city\"].citiesConfig = \$citiesConfigs |
-  .[\"$city\"].points |= with_entries(select(.key | length == 4))" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
+  .[\"$city\"].points |= with_entries(select(.key))" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
 
   cat >"./js/_generated/$city.js" <<EOF
 const data = $(cat ./utils/$city.json.tmp | jq ".[\"$city\"]")
@@ -71,7 +71,7 @@ for filename in $(ls -A1 utils/*tmp | grep -v temp.json.tmp); do
 
   country=$(jq -r ".$name.config.country" $filename)
   min_year=$(jq -r ".$name.points | keys | map(.[0:4]) | sort | first" $filename)
-  count=$(jq -r ".$name.points | keys | map(select(. | length == 4)) | length" $filename)
+  count=$(jq -r ".$name.points | keys | map(select(.)) | length" $filename)
 
   echo "  {name: \"$name\", country: \"$country\", count: $count, minYear: $min_year}," >>$list_js
 done
@@ -109,7 +109,7 @@ EOF
   <rect y="0" x="$background_start" width="$background_width" height="$height" fill="#cccccc" />
 EOF
 
-  for year in $(jq -r ".$city.points | keys | .[] | select(. | length == 4)" $filename); do
+  for year in $(jq -r ".$city.points | keys | .[] | .[0:4] | select(.)" $filename); do
     rect_start=$(($year - $min_year))
     cat >>$svg_file <<EOF
   <rect y="0" x="$rect_start" width="1" height="$height" fill="#eecccc" />
