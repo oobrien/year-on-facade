@@ -2431,10 +2431,10 @@ const data = {
     },
     "1889d_": {
       "city": "Middlesex",
-      "external": "",
+      "external": "188836642",
       "latlng": {
-        "lat": 51.632802,
-        "lng": -0.1289542
+        "lat": 51.63271,
+        "lng": -0.12891
       },
       "notes": ""
     },
@@ -2518,6 +2518,15 @@ const data = {
         "lng": -0.29892
       },
       "notes": ""
+    },
+    "1889o": {
+      "city": "Middlesex",
+      "external": "469004944",
+      "latlng": {
+        "lat": 51.58035,
+        "lng": -0.23777
+      },
+      "notes": "Midland Hotel"
     },
     "1890": {
       "city": "London",
@@ -3679,6 +3688,24 @@ const data = {
       },
       "notes": "Kintbury"
     },
+    "1899w_": {
+      "city": "Middlesex",
+      "external": "672938041",
+      "latlng": {
+        "lat": 51.62532,
+        "lng": -0.10492
+      },
+      "notes": "Arkley Terrace"
+    },
+    "1899x_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.63351,
+        "lng": -0.06571
+      },
+      "notes": "AD"
+    },
     "1900": {
       "city": "London",
       "external": "1260615",
@@ -4705,6 +4732,15 @@ const data = {
       },
       "notes": "A.D ER"
     },
+    "1906p_": {
+      "city": "Middlesex",
+      "external": "236510122",
+      "latlng": {
+        "lat": 51.63151,
+        "lng": -0.05536
+      },
+      "notes": "ECS"
+    },
     "1907": {
       "city": "London",
       "external": "1393589",
@@ -4966,7 +5002,7 @@ const data = {
       },
       "notes": "[on drainpipes]"
     },
-    "1909f_": {
+    "1909f": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -5251,6 +5287,24 @@ const data = {
       "latlng": {
         "lat": 51.42922,
         "lng": -0.50667
+      },
+      "notes": ""
+    },
+    "1914f": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57384,
+        "lng": -0.20111
+      },
+      "notes": "A.D."
+    },
+    "1914g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57951,
+        "lng": -0.3523
       },
       "notes": ""
     },
@@ -5595,6 +5649,15 @@ const data = {
       },
       "notes": "Churchill Parade A.D."
     },
+    "1929c_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.58819,
+        "lng": -0.35016
+      },
+      "notes": "St George's Hall [sign added after 2018]"
+    },
     "1930": {
       "city": "London",
       "external": "",
@@ -5849,19 +5912,19 @@ const data = {
     },
     "1935f": {
       "city": "Middlesex",
-      "external": "130537060",
+      "external": "",
       "latlng": {
-        "lat": 51.58994,
-        "lng": -0.33565
+        "lat": 51.52668,
+        "lng": -0.35232
       },
       "notes": "GR V"
     },
     "1935g": {
       "city": "Middlesex",
-      "external": "",
+      "external": "130537060",
       "latlng": {
-        "lat": 51.52668,
-        "lng": -0.35232
+        "lat": 51.58994,
+        "lng": -0.33565
       },
       "notes": "GR V"
     },
@@ -5925,6 +5988,15 @@ const data = {
       "latlng": {
         "lat": 51.51228438747331,
         "lng": -0.3831833246582766
+      },
+      "notes": ""
+    },
+    "1938a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51229,
+        "lng": -0.38318
       },
       "notes": ""
     },
@@ -6189,6 +6261,15 @@ const data = {
       },
       "notes": ""
     },
+    "1996_": {
+      "city": "Middlesex",
+      "external": "237225024",
+      "latlng": {
+        "lat": 51.57712,
+        "lng": -0.29206
+      },
+      "notes": "Birchwood Grange Care Home"
+    },
     "1997": {
       "city": "London",
       "external": "",
@@ -6197,6 +6278,15 @@ const data = {
         "lng": -0.23332661836532445
       },
       "notes": ""
+    },
+    "1997a_": {
+      "city": "Middlesex",
+      "external": "235205448",
+      "latlng": {
+        "lat": 51.58783,
+        "lng": -0.30176
+      },
+      "notes": "Opening"
     },
     "1999": {
       "city": "London",
@@ -6437,6 +6527,15 @@ const data = {
       "latlng": {
         "lat": 51.65247,
         "lng": -0.08262
+      },
+      "notes": ""
+    },
+    "2013_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.57928,
+        "lng": -0.35249
       },
       "notes": ""
     },

@@ -1468,11 +1468,11 @@ const data = {
     },
     "1889d_": {
       "latlng": {
-        "lat": 51.632802,
-        "lng": -0.1289542
+        "lat": 51.63271,
+        "lng": -0.12891
       },
       "notes": "",
-      "external": ""
+      "external": "188836642"
     },
     "1889e_": {
       "latlng": {
@@ -1545,6 +1545,14 @@ const data = {
       },
       "notes": "",
       "external": "975755942"
+    },
+    "1889o": {
+      "latlng": {
+        "lat": 51.58035,
+        "lng": -0.23777
+      },
+      "notes": "Midland Hotel",
+      "external": "469004944"
     },
     "1890": {
       "latlng": {
@@ -2506,6 +2514,22 @@ const data = {
       "notes": "Kintbury",
       "external": ""
     },
+    "1899w_": {
+      "latlng": {
+        "lat": 51.62532,
+        "lng": -0.10492
+      },
+      "notes": "Arkley Terrace",
+      "external": "672938041"
+    },
+    "1899x_": {
+      "latlng": {
+        "lat": 51.63351,
+        "lng": -0.06571
+      },
+      "notes": "AD",
+      "external": ""
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -3370,6 +3394,14 @@ const data = {
       "notes": "A.D ER",
       "external": "30501493"
     },
+    "1906p_": {
+      "latlng": {
+        "lat": 51.63151,
+        "lng": -0.05536
+      },
+      "notes": "ECS",
+      "external": "236510122"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -3586,7 +3618,7 @@ const data = {
       "notes": "[on drainpipes]",
       "external": ""
     },
-    "1909f_": {
+    "1909f": {
       "latlng": {
         "lat": 51.5719,
         "lng": -0.19679
@@ -3834,6 +3866,22 @@ const data = {
       "notes": "",
       "external": "558833863"
     },
+    "1914f": {
+      "latlng": {
+        "lat": 51.57384,
+        "lng": -0.20111
+      },
+      "notes": "A.D.",
+      "external": ""
+    },
+    "1914g_": {
+      "latlng": {
+        "lat": 51.57951,
+        "lng": -0.3523
+      },
+      "notes": "",
+      "external": ""
+    },
     "1915_": {
       "latlng": {
         "lat": 51.63012,
@@ -4074,6 +4122,14 @@ const data = {
       "notes": "Churchill Parade A.D.",
       "external": "244764993"
     },
+    "1929c_": {
+      "latlng": {
+        "lat": 51.58819,
+        "lng": -0.35016
+      },
+      "notes": "St George's Hall [sign added after 2018]",
+      "external": ""
+    },
     "1930": {
       "latlng": {
         "lat": 51.50871,
@@ -4284,19 +4340,19 @@ const data = {
     },
     "1935f": {
       "latlng": {
-        "lat": 51.58994,
-        "lng": -0.33565
-      },
-      "notes": "GR V",
-      "external": "130537060"
-    },
-    "1935g": {
-      "latlng": {
         "lat": 51.52668,
         "lng": -0.35232
       },
       "notes": "GR V",
       "external": ""
+    },
+    "1935g": {
+      "latlng": {
+        "lat": 51.58994,
+        "lng": -0.33565
+      },
+      "notes": "GR V",
+      "external": "130537060"
     },
     "1935h_": {
       "latlng": {
@@ -4352,6 +4408,14 @@ const data = {
         "lng": -0.24792
       },
       "notes": "GR VI Telephone Exchange",
+      "external": ""
+    },
+    "1938a_": {
+      "latlng": {
+        "lat": 51.51229,
+        "lng": -0.38318
+      },
+      "notes": "",
       "external": ""
     },
     "1948": {
@@ -4458,6 +4522,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1996_": {
+      "latlng": {
+        "lat": 51.57712,
+        "lng": -0.29206
+      },
+      "notes": "Birchwood Grange Care Home",
+      "external": "237225024"
+    },
     "1997": {
       "latlng": {
         "lat": 51.60784,
@@ -4465,6 +4537,14 @@ const data = {
       },
       "notes": "Laing Homes",
       "external": ""
+    },
+    "1997a_": {
+      "latlng": {
+        "lat": 51.58783,
+        "lng": -0.30176
+      },
+      "notes": "Opening",
+      "external": "235205448"
     },
     "2000": {
       "latlng": {
@@ -4649,6 +4729,14 @@ const data = {
       },
       "notes": "",
       "external": "91060455"
+    },
+    "2013_": {
+      "latlng": {
+        "lat": 51.57928,
+        "lng": -0.35249
+      },
+      "notes": "",
+      "external": ""
     },
     "2014": {
       "latlng": {
