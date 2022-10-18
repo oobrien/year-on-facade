@@ -2042,6 +2042,15 @@ const data = {
       },
       "notes": "George's Villas"
     },
+    "1885j_": {
+      "city": "Middlesex",
+      "external": "308614057",
+      "latlng": {
+        "lat": 51.48409,
+        "lng": -0.34833
+      },
+      "notes": "AD"
+    },
     "1886": {
       "city": "London",
       "external": "1358109",
@@ -2528,6 +2537,15 @@ const data = {
       },
       "notes": "Midland Hotel"
     },
+    "1889p": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.46694,
+        "lng": -0.38058
+      },
+      "notes": "[?]"
+    },
     "1890": {
       "city": "London",
       "external": "",
@@ -2671,6 +2689,15 @@ const data = {
         "lng": -0.4474
       },
       "notes": "The Laurels +"
+    },
+    "1891k_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4665,
+        "lng": -0.38312
+      },
+      "notes": "Warwick Terrace"
     },
     "1892": {
       "city": "London",
@@ -4174,6 +4201,24 @@ const data = {
       },
       "notes": "Coronation Cottages"
     },
+    "1902m_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49676,
+        "lng": -0.38564
+      },
+      "notes": "[name and date obscured]"
+    },
+    "1902n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.49726,
+        "lng": -0.38524
+      },
+      "notes": "Amble Terrace"
+    },
     "1903": {
       "city": "London",
       "external": "1430680",
@@ -4266,10 +4311,10 @@ const data = {
     },
     "1903i_": {
       "city": "Middlesex",
-      "external": "",
+      "external": "324577976",
       "latlng": {
-        "lat": 51.4992969,
-        "lng": -0.3833283
+        "lat": 51.49928,
+        "lng": -0.38342
       },
       "notes": ""
     },
@@ -4371,6 +4416,15 @@ const data = {
         "lng": -0.48247
       },
       "notes": ""
+    },
+    "1903u_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.46647,
+        "lng": -0.38347
+      },
+      "notes": "Morshead Villas"
     },
     "1904": {
       "city": "London",
@@ -4488,6 +4542,15 @@ const data = {
         "lng": -0.30645
       },
       "notes": "Ealing Tenants Limited"
+    },
+    "1904m_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4717,
+        "lng": -0.38439
+      },
+      "notes": "[?] Villas"
     },
     "1905": {
       "city": "London",
@@ -4741,6 +4804,15 @@ const data = {
       },
       "notes": "ECS"
     },
+    "1906q": {
+      "city": "Middlesex",
+      "external": "314831709",
+      "latlng": {
+        "lat": 51.55284,
+        "lng": -0.3574
+      },
+      "notes": "Wood End Cottages"
+    },
     "1907": {
       "city": "London",
       "external": "1393589",
@@ -4839,6 +4911,15 @@ const data = {
         "lng": -0.08069
       },
       "notes": "St Aldhelm's Vicarage"
+    },
+    "1907k_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.46663,
+        "lng": -0.38259
+      },
+      "notes": ""
     },
     "1908": {
       "city": "London",
@@ -5164,6 +5245,15 @@ const data = {
       },
       "notes": "Beraghah Villas"
     },
+    "1911l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.48055,
+        "lng": -0.38235
+      },
+      "notes": "[Date and name unclear]"
+    },
     "1912": {
       "city": "London",
       "external": "1031506",
@@ -5179,6 +5269,15 @@ const data = {
       "latlng": {
         "lat": 51.57775,
         "lng": -0.20736
+      },
+      "notes": ""
+    },
+    "1912b": {
+      "city": "Middlesex",
+      "external": "816597740",
+      "latlng": {
+        "lat": 51.56194,
+        "lng": -0.35321
       },
       "notes": ""
     },
@@ -5204,17 +5303,8 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.4653606,
-        "lng": -0.3777292
-      },
-      "notes": ""
-    },
-    "1913c_": {
-      "city": "Middlesex",
-      "external": "816597740",
-      "latlng": {
-        "lat": 51.56194,
-        "lng": -0.35321
+        "lat": 51.46549,
+        "lng": -0.37774
       },
       "notes": ""
     },
@@ -5299,7 +5389,7 @@ const data = {
       },
       "notes": "A.D."
     },
-    "1914g_": {
+    "1914g": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -5324,7 +5414,7 @@ const data = {
         "lat": 51.63012,
         "lng": -0.09717
       },
-      "notes": "[on drainipipe]"
+      "notes": "[on drainpipe]"
     },
     "1916": {
       "city": "London",
@@ -5334,6 +5424,15 @@ const data = {
         "lng": -0.1044392448218371
       },
       "notes": ""
+    },
+    "1916_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4813,
+        "lng": -0.38219
+      },
+      "notes": "[Date and name unclear] Cottages"
     },
     "1919": {
       "city": "London",
@@ -5468,6 +5567,15 @@ const data = {
         "lng": -0.3078365
       },
       "notes": "AMDG Taylor House A.D."
+    },
+    "1924c": {
+      "city": "Middlesex",
+      "external": "This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March",
+      "latlng": {
+        "lat": 51.55247,
+        "lng": -0.31425
+      },
+      "notes": ""
     },
     "1925": {
       "city": "London",
@@ -5604,7 +5712,7 @@ const data = {
       },
       "notes": ""
     },
-    "1928a_": {
+    "1928a": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -5712,6 +5820,15 @@ const data = {
       },
       "notes": "Howards Chambers"
     },
+    "1930f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.47449,
+        "lng": -0.35807
+      },
+      "notes": "A.Cowen A.D."
+    },
     "1931": {
       "city": "London",
       "external": "",
@@ -5748,12 +5865,21 @@ const data = {
       },
       "notes": "M. Cowan"
     },
-    "1931d_": {
+    "1931d": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
         "lat": 51.55697,
         "lng": -0.35902
+      },
+      "notes": ""
+    },
+    "1931e_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.46384,
+        "lng": -0.35642
       },
       "notes": ""
     },
@@ -5766,7 +5892,7 @@ const data = {
       },
       "notes": ""
     },
-    "1932a_": {
+    "1932a": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -5776,6 +5902,15 @@ const data = {
       "notes": "Roxeth Grove Parade A.D."
     },
     "1932b_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56053,
+        "lng": -0.35804
+      },
+      "notes": "Roxeth Grove Parade A.D."
+    },
+    "1932c_": {
       "city": "Middlesex",
       "external": "92342857",
       "latlng": {
@@ -6530,7 +6665,7 @@ const data = {
       },
       "notes": ""
     },
-    "2013_": {
+    "2013": {
       "city": "Middlesex",
       "external": "",
       "latlng": {

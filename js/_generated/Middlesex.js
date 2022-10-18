@@ -1138,6 +1138,14 @@ const data = {
       "notes": "George's Villas",
       "external": "838009289"
     },
+    "1885j_": {
+      "latlng": {
+        "lat": 51.48409,
+        "lng": -0.34833
+      },
+      "notes": "AD",
+      "external": "308614057"
+    },
     "1886_": {
       "latlng": {
         "lat": 51.661142,
@@ -1554,6 +1562,14 @@ const data = {
       "notes": "Midland Hotel",
       "external": "469004944"
     },
+    "1889p": {
+      "latlng": {
+        "lat": 51.46694,
+        "lng": -0.38058
+      },
+      "notes": "[?]",
+      "external": ""
+    },
     "1890": {
       "latlng": {
         "lat": 51.6061853,
@@ -1672,6 +1688,14 @@ const data = {
         "lng": -0.4474
       },
       "notes": "The Laurels +",
+      "external": ""
+    },
+    "1891k_": {
+      "latlng": {
+        "lat": 51.4665,
+        "lng": -0.38312
+      },
+      "notes": "Warwick Terrace",
       "external": ""
     },
     "1892": {
@@ -2938,6 +2962,22 @@ const data = {
       "notes": "Coronation Cottages",
       "external": ""
     },
+    "1902m_": {
+      "latlng": {
+        "lat": 51.49676,
+        "lng": -0.38564
+      },
+      "notes": "[name and date obscured]",
+      "external": ""
+    },
+    "1902n_": {
+      "latlng": {
+        "lat": 51.49726,
+        "lng": -0.38524
+      },
+      "notes": "Amble Terrace",
+      "external": ""
+    },
     "1903": {
       "latlng": {
         "lat": 51.5884,
@@ -2996,11 +3036,11 @@ const data = {
     },
     "1903i_": {
       "latlng": {
-        "lat": 51.4992969,
-        "lng": -0.3833283
+        "lat": 51.49928,
+        "lng": -0.38342
       },
       "notes": "",
-      "external": ""
+      "external": "324577976"
     },
     "1903j": {
       "latlng": {
@@ -3089,6 +3129,14 @@ const data = {
       },
       "notes": "",
       "external": "982145879"
+    },
+    "1903u_": {
+      "latlng": {
+        "lat": 51.46647,
+        "lng": -0.38347
+      },
+      "notes": "Morshead Villas",
+      "external": ""
     },
     "1904": {
       "latlng": {
@@ -3185,6 +3233,14 @@ const data = {
       },
       "notes": "Ealing Tenants Limited",
       "external": "863580478"
+    },
+    "1904m_": {
+      "latlng": {
+        "lat": 51.4717,
+        "lng": -0.38439
+      },
+      "notes": "[?] Villas",
+      "external": ""
     },
     "1905": {
       "latlng": {
@@ -3402,6 +3458,14 @@ const data = {
       "notes": "ECS",
       "external": "236510122"
     },
+    "1906q": {
+      "latlng": {
+        "lat": 51.55284,
+        "lng": -0.3574
+      },
+      "notes": "Wood End Cottages",
+      "external": "314831709"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -3488,6 +3552,14 @@ const data = {
         "lng": -0.08069
       },
       "notes": "St Aldhelm's Vicarage",
+      "external": ""
+    },
+    "1907k_": {
+      "latlng": {
+        "lat": 51.46663,
+        "lng": -0.38259
+      },
+      "notes": "",
       "external": ""
     },
     "1908": {
@@ -3762,6 +3834,14 @@ const data = {
       "notes": "Beraghah Villas",
       "external": ""
     },
+    "1911l_": {
+      "latlng": {
+        "lat": 51.48055,
+        "lng": -0.38235
+      },
+      "notes": "[Date and name unclear]",
+      "external": ""
+    },
     "1912": {
       "latlng": {
         "lat": 51.6234141,
@@ -3777,6 +3857,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1912b": {
+      "latlng": {
+        "lat": 51.56194,
+        "lng": -0.35321
+      },
+      "notes": "",
+      "external": "816597740"
     },
     "1913": {
       "latlng": {
@@ -3796,19 +3884,11 @@ const data = {
     },
     "1913b_": {
       "latlng": {
-        "lat": 51.4653606,
-        "lng": -0.3777292
+        "lat": 51.46549,
+        "lng": -0.37774
       },
       "notes": "",
       "external": ""
-    },
-    "1913c_": {
-      "latlng": {
-        "lat": 51.56194,
-        "lng": -0.35321
-      },
-      "notes": "",
-      "external": "816597740"
     },
     "1913d_": {
       "latlng": {
@@ -3874,7 +3954,7 @@ const data = {
       "notes": "A.D.",
       "external": ""
     },
-    "1914g_": {
+    "1914g": {
       "latlng": {
         "lat": 51.57951,
         "lng": -0.3523
@@ -3887,8 +3967,16 @@ const data = {
         "lat": 51.63012,
         "lng": -0.09717
       },
-      "notes": "[on drainipipe]",
+      "notes": "[on drainpipe]",
       "external": "671600555"
+    },
+    "1916_": {
+      "latlng": {
+        "lat": 51.4813,
+        "lng": -0.38219
+      },
+      "notes": "[Date and name unclear] Cottages",
+      "external": ""
     },
     "1919": {
       "latlng": {
@@ -3985,6 +4073,14 @@ const data = {
       },
       "notes": "AMDG Taylor House A.D.",
       "external": ""
+    },
+    "1924c": {
+      "latlng": {
+        "lat": 51.55247,
+        "lng": -0.31425
+      },
+      "notes": "",
+      "external": "This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March"
     },
     "1925": {
       "latlng": {
@@ -4090,7 +4186,7 @@ const data = {
       "notes": "Built by Cowen & Cross",
       "external": ""
     },
-    "1928a_": {
+    "1928a": {
       "latlng": {
         "lat": 51.56438,
         "lng": -0.35358
@@ -4178,6 +4274,14 @@ const data = {
       "notes": "Howards Chambers",
       "external": "91060480"
     },
+    "1930f_": {
+      "latlng": {
+        "lat": 51.47449,
+        "lng": -0.35807
+      },
+      "notes": "A.Cowen A.D.",
+      "external": ""
+    },
     "1931": {
       "latlng": {
         "lat": 51.5882482,
@@ -4210,10 +4314,18 @@ const data = {
       "notes": "M. Cowan",
       "external": ""
     },
-    "1931d_": {
+    "1931d": {
       "latlng": {
         "lat": 51.55697,
         "lng": -0.35902
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1931e_": {
+      "latlng": {
+        "lat": 51.46384,
+        "lng": -0.35642
       },
       "notes": "",
       "external": ""
@@ -4226,7 +4338,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1932a_": {
+    "1932a": {
       "latlng": {
         "lat": 51.56075,
         "lng": -0.35784
@@ -4235,6 +4347,14 @@ const data = {
       "external": ""
     },
     "1932b_": {
+      "latlng": {
+        "lat": 51.56053,
+        "lng": -0.35804
+      },
+      "notes": "Roxeth Grove Parade A.D.",
+      "external": ""
+    },
+    "1932c_": {
       "latlng": {
         "lat": 51.65225,
         "lng": -0.07987
@@ -4730,7 +4850,7 @@ const data = {
       "notes": "",
       "external": "91060455"
     },
-    "2013_": {
+    "2013": {
       "latlng": {
         "lat": 51.57928,
         "lng": -0.35249
