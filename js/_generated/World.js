@@ -2249,6 +2249,15 @@ const data = {
       },
       "notes": "Church Cottages H.B"
     },
+    "1884f": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.58324,
+        "lng": -0.34226
+      },
+      "notes": "Werrington Villas"
+    },
     "1885": {
       "city": "London",
       "external": "1064750",
@@ -2879,6 +2888,15 @@ const data = {
       },
       "notes": "Clarke's Buildings [sign painted in 2009]"
     },
+    "1889r": {
+      "city": "Middlesex",
+      "external": "148895102",
+      "latlng": {
+        "lat": 51.54094,
+        "lng": -0.20429
+      },
+      "notes": "Christ Church Brondesbury Infant School and Mission Room"
+    },
     "1890": {
       "city": "London",
       "external": "",
@@ -2951,21 +2969,21 @@ const data = {
       },
       "notes": "Gladstone Villas"
     },
-    "1891b_": {
+    "1891b": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.5820257,
-        "lng": -0.3358314
+        "lat": 51.58207,
+        "lng": -0.33573
       },
       "notes": "Nelson Villas"
     },
-    "1891c_": {
+    "1891c": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.5818652,
-        "lng": -0.3358344
+        "lat": 51.58195,
+        "lng": -0.33573
       },
       "notes": "Angel Villas"
     },
@@ -3176,12 +3194,12 @@ const data = {
       },
       "notes": "Duke of York Villas"
     },
-    "1893d_": {
+    "1893d": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.5827909,
-        "lng": -0.3359115
+        "lat": 51.58278,
+        "lng": -0.33576
       },
       "notes": "Victoria Villas"
     },
@@ -3248,7 +3266,7 @@ const data = {
       },
       "notes": "Glebe View Villas [? date unclear]"
     },
-    "1893l_": {
+    "1893l": {
       "city": "Middlesex",
       "external": "123372214",
       "latlng": {
@@ -3256,6 +3274,15 @@ const data = {
         "lng": -0.22936
       },
       "notes": ""
+    },
+    "1893m": {
+      "city": "Middlesex",
+      "external": "148895102",
+      "latlng": {
+        "lat": 51.54113,
+        "lng": -0.20477
+      },
+      "notes": "Christ Church Schools. A.D."
     },
     "1894": {
       "city": "London",
@@ -3527,12 +3554,12 @@ const data = {
       },
       "notes": ""
     },
-    "1896c_": {
+    "1896c": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.5822487,
-        "lng": -0.3421676
+        "lat": 51.58221,
+        "lng": -0.34205
       },
       "notes": ""
     },
@@ -3563,15 +3590,6 @@ const data = {
       },
       "notes": "May Cottages"
     },
-    "1896g_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.55164,
-        "lng": -0.24168
-      },
-      "notes": "WSB"
-    },
     "1896h_": {
       "city": "Middlesex",
       "external": "",
@@ -3598,6 +3616,15 @@ const data = {
         "lng": -0.11694
       },
       "notes": "The Pavement"
+    },
+    "1896k_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4690069,
+        "lng": -0.3581276
+      },
+      "notes": "Lewisham Villas"
     },
     "1897": {
       "city": "London",
@@ -3761,6 +3788,15 @@ const data = {
       },
       "notes": "The Kings Arms"
     },
+    "1897q": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.55155,
+        "lng": -0.24137
+      },
+      "notes": "Commenced AD 1896 Completed AD"
+    },
     "1898": {
       "city": "London",
       "external": "1357448",
@@ -3913,6 +3949,15 @@ const data = {
         "lng": -0.17884
       },
       "notes": "A D"
+    },
+    "1898o": {
+      "city": "Middlesex",
+      "external": "75531902",
+      "latlng": {
+        "lat": 51.54058,
+        "lng": -0.20917
+      },
+      "notes": ""
     },
     "1899": {
       "city": "Copenhagen",
@@ -4146,6 +4191,15 @@ const data = {
         "lng": -0.06571
       },
       "notes": "AD"
+    },
+    "1899y": {
+      "city": "Middlesex",
+      "external": "121897859",
+      "latlng": {
+        "lat": 51.5409,
+        "lng": -0.20475
+      },
+      "notes": "The Prince of Wales"
     },
     "1900": {
       "city": "London",
@@ -4381,6 +4435,15 @@ const data = {
       },
       "notes": "EC"
     },
+    "1900y": {
+      "city": "Middlesex",
+      "external": "465203421",
+      "latlng": {
+        "lat": 51.54041,
+        "lng": -0.20893
+      },
+      "notes": "College Mansions"
+    },
     "1901": {
       "city": "London",
       "external": "1379177",
@@ -4489,7 +4552,7 @@ const data = {
       },
       "notes": "AI"
     },
-    "1901l_": {
+    "1901l": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -4534,14 +4597,14 @@ const data = {
       },
       "notes": "Thornton Villa"
     },
-    "1902b_": {
+    "1902b": {
       "city": "Middlesex",
-      "external": "",
+      "external": "97060663",
       "latlng": {
-        "lat": 51.5397381,
-        "lng": -0.2086757
+        "lat": 51.5398,
+        "lng": -0.20858
       },
-      "notes": ""
+      "notes": "WDC"
     },
     "1902c_": {
       "city": "Middlesex",
@@ -6181,7 +6244,7 @@ const data = {
       },
       "notes": ""
     },
-    "1923c_": {
+    "1923c": {
       "city": "Middlesex",
       "external": "287131758",
       "latlng": {
@@ -6279,7 +6342,7 @@ const data = {
       },
       "notes": "This stone was laid by the Rt Hon Sir John E. Bankes on April 4th"
     },
-    "1925d_": {
+    "1925d": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -6315,7 +6378,7 @@ const data = {
       },
       "notes": ""
     },
-    "1926b_": {
+    "1926b": {
       "city": "Middlesex",
       "external": "474481940",
       "latlng": {
@@ -6414,12 +6477,12 @@ const data = {
       },
       "notes": "The Feathers Restaurant"
     },
-    "1929b_": {
+    "1929b": {
       "city": "Middlesex",
-      "external": "244764993",
+      "external": "244894174",
       "latlng": {
-        "lat": 51.5811,
-        "lng": -0.31841
+        "lat": 51.58098,
+        "lng": -0.31861
       },
       "notes": "Churchill Parade A.D."
     },

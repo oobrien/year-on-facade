@@ -164,6 +164,7 @@ year,latitude,longitude,notes,external
 1884c_,51.43828,-0.49869,Gloucester Villas,308358258
 1884d_,51.44732,-0.40743,,755628350
 1884e_,51.54037,-0.48973,Church Cottages H.B,
+1884f,51.58324,-0.34226,Werrington Villas,
 1885,51.58609,-0.44068,Hope Cottages,
 1885a_,51.4717719,-0.363735,[?] Cottages,
 1885b_,51.4143864,-0.366607,Avenue Villa,
@@ -233,6 +234,7 @@ year,latitude,longitude,notes,external
 1889o,51.58035,-0.23777,Midland Hotel,469004944
 1889p_,51.46694,-0.38058,[?],
 1889q_,51.58236,-0.11892,Clarke's Buildings [sign painted in 2009],1068167543
+1889r,51.54094,-0.20429,Christ Church Brondesbury Infant School and Mission Room,148895102
 1890,51.6061853,-0.4168552,Industry Cottage,
 1890a_,51.63144,-0.17508,Rebuilt - The Green Man,
 1890b,51.49601,-0.37372,Metropolitan Police,324588931
@@ -240,8 +242,8 @@ year,latitude,longitude,notes,external
 1890d_,51.40312,-0.46344,[date unclear],
 1891,51.57591,-0.34293,,
 1891a_,51.5821486,-0.3358485,Gladstone Villas,
-1891b_,51.5820257,-0.3358314,Nelson Villas,
-1891c_,51.5818652,-0.3358344,Angel Villas,
+1891b,51.58207,-0.33573,Nelson Villas,
+1891c,51.58195,-0.33573,Angel Villas,
 1891d_,51.4701743,-0.3651014,Albert Villas,
 1891e_,51.60632,-0.41875,Sunnyside Villas,
 1891f,51.46644,-0.36016,Myrtle Villas,
@@ -264,7 +266,7 @@ year,latitude,longitude,notes,external
 1893a_,51.49189,-0.26197,,
 1893b_,51.5825051,-0.335844,Prince Albert Villas,
 1893c_,51.5826142,-0.3358394,Duke of York Villas,
-1893d_,51.5827909,-0.3359115,Victoria Villas,
+1893d,51.58278,-0.33576,Victoria Villas,
 1893e_,51.5826779,-0.3358354,Princess May Villas,
 1893f_,51.468403,-0.3763176,Cromore Villas,
 1893g_,51.4686,-0.3763445,Saltwood Cottage,
@@ -272,9 +274,9 @@ year,latitude,longitude,notes,external
 1893i_,51.4668392,-0.3598827,[?] Villas,
 1893j_,51.46664,-0.36002,[date unclear],
 1893k_,51.56057,-0.44000,Glebe View Villas [? date unclear],
-1893l_,51.54718,-0.22936,,123372214
+1893l,51.54718,-0.22936,,123372214
+1893m,51.54113,-0.20477,Christ Church Schools. A.D.,148895102
 1894,51.46839,-0.37838,Warwick Villas,
-1894a_,51.583254,-0.3423877,[date unclear],
 1894b_,51.6327568,-0.1286842,[date unclear],
 1894c_,51.4692693,-0.364253,[?] Terrace,
 1894d_,51.67131,-0.02976,Sussex House,104050735
@@ -301,15 +303,14 @@ year,latitude,longitude,notes,external
 1896,51.57971,-0.24223,,
 1896a_,51.58768,-0.11671,A.D.,533651125
 1896b_,51.58767,-0.11706,,533896122
-1896c_,51.4690069,-0.3581276,Lewisham Villas,
-1896c_,51.5822487,-0.3421676,,
+1896c,51.58221,-0.34205,,
 1896d_,51.4693555,-0.3578947,Malborough Villas,
 1896e_,51.42883,-0.50473,for use as an Infants School A.D.,
 1896f_,51.51211,-0.47082,May Cottages,
-1896g_,51.55164,-0.24168,WSB,
 1896h_,51.60523,-0.12248,,
 1896i_,51.53832,-0.47361,Daisy Villas,
 1896j_,51.58766,-0.11694,The Pavement,533896121
+1896k_,51.4690069,-0.3581276,Lewisham Villas,
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,,
 1897b_,51.4132,-0.3642206,,
@@ -327,6 +328,7 @@ year,latitude,longitude,notes,external
 1897n_,51.65226,-0.08205,,549621182
 1897o_,51.45584,-0.41798,Dunoon Cottages,757035203
 1897p_,51.51099,-0.30210,The Kings Arms,91294046
+1897q,51.55155,-0.24137,Commenced AD 1896 Completed AD,
 1898,51.54711,-0.23218,,
 1898a_,51.5792179,-0.0990928,Ducketts Terrace,
 1898b_,51.6634352,-0.0920675,Cedar Villa,
@@ -342,6 +344,7 @@ year,latitude,longitude,notes,external
 1898l_,51.45588,-0.41778,Argyll Cottages,757035204
 1898m_,51.45579,-0.41830,Troon Cottages,757035201
 1898n_,51.59647,-0.17884,A D,187125890
+1898o,51.54058,-0.20917,,75531902
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -366,6 +369,7 @@ year,latitude,longitude,notes,external
 1899v_,51.44765,-0.40449,Kintbury,
 1899w_,51.62532,-0.10492,Arkley Terrace,672938041
 1899x_,51.63351,-0.06571,AD,
+1899y,51.54090,-0.20475,The Prince of Wales,121897859
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a_,51.6603104,-0.0831012,Porthkerry C.M.J.,
 1900b_,51.6610081,-0.0791394,,
@@ -392,6 +396,7 @@ year,latitude,longitude,notes,external
 1900v_,51.60302,-0.11212,MP [on drainpipe],683679686
 1900w_,51.53824,-0.48397,Mandy Villas,
 1900x_,51.51149,-0.30503,EC,91444323
+1900y,51.54041,-0.20893,College Mansions,465203421
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -404,12 +409,12 @@ year,latitude,longitude,notes,external
 1901i_,51.50443,-0.42183,Claremont Terrace,
 1901j,51.53010,-0.48179,Edward Nelson Cottages,
 1901k_,51.59155,-0.06970,AI,
-1901l_,51.55065,-0.24089,,
+1901l,51.55065,-0.24089,,
 1901m_,51.61393,-0.12570,Opened,60105810
 1901n_,51.58037,-0.11730,Ferme Park Mansions,150928464
 1902,51.57495,-0.10451,,
 1902a,51.6125075,-0.1808578,Thornton Villa,
-1902b_,51.5397381,-0.2086757,,
+1902b,51.53980,-0.20858,WDC,97060663
 1902c_,51.66031,-0.04642,Lincoln House,112244204
 1902d_,51.50466,-0.42272,Myrtle Villas,
 1902e_,51.50470,-0.42297,[Mex?] Villas,
@@ -580,7 +585,7 @@ year,latitude,longitude,notes,external
 1923,51.6149468,-0.2756908,,
 1923a,51.6145659,-0.2474035,,
 1923b_,51.59511,-0.07079,,987795750
-1923c_,51.56318,-0.27919,MR,287131758
+1923c,51.56318,-0.27919,MR,287131758
 1923d,51.61283,-0.15915,Grand Parade,1079087529
 1924,51.50988,-0.28633,,
 1924aX,51.4993,-0.38305,[removed (painted over) - Google Street View image © Google],324577975
@@ -590,11 +595,11 @@ year,latitude,longitude,notes,external
 1925a,51.61495,-0.24608,,
 1925b_,51.58159,-0.16888,[on gates],383594002
 1925c,51.55832,-0.32412,This stone was laid by the Rt Hon Sir John E. Bankes on April 4th,80227564
-1925d_,51.56194,-0.28369,,
+1925d,51.56194,-0.28369,,
 1925e_,51.63540,-0.07815,,666354063
 1926,51.61568,-0.27533,,198992577
 1926a,51.57364,-0.33695,,29294316
-1926b_,51.54301,-0.22451,,474481940
+1926b,51.54301,-0.22451,,474481940
 1927,51.39153,-0.44961,Lordsbridge House,
 1927a,51.57974,-0.41321,,
 1927b_,51.63453,-0.09415,,677746496
@@ -603,7 +608,7 @@ year,latitude,longitude,notes,external
 1928b_,51.58075,-0.12157,Earl Haig Memorial,475243813
 1929,51.51227,-0.38419,M.Cowen A.D.,
 1929a,51.5141824,-0.3018914,The Feathers Restaurant,
-1929b_,51.58110,-0.31841,Churchill Parade A.D.,244764993
+1929b,51.58098,-0.31861,Churchill Parade A.D.,244894174
 1929c,51.58819,-0.35016,St George's Hall [sign added after 2018],
 1930,51.50871,-0.33722,Rebuilt,
 1930a,51.59867,-0.06782,LCS [was rebuilt later],178814685

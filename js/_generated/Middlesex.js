@@ -1330,6 +1330,14 @@ const data = {
       "notes": "Church Cottages H.B",
       "external": ""
     },
+    "1884f": {
+      "latlng": {
+        "lat": 51.58324,
+        "lng": -0.34226
+      },
+      "notes": "Werrington Villas",
+      "external": ""
+    },
     "1885": {
       "latlng": {
         "lat": 51.58609,
@@ -1874,6 +1882,14 @@ const data = {
       "notes": "Clarke's Buildings [sign painted in 2009]",
       "external": "1068167543"
     },
+    "1889r": {
+      "latlng": {
+        "lat": 51.54094,
+        "lng": -0.20429
+      },
+      "notes": "Christ Church Brondesbury Infant School and Mission Room",
+      "external": "148895102"
+    },
     "1890": {
       "latlng": {
         "lat": 51.6061853,
@@ -1930,18 +1946,18 @@ const data = {
       "notes": "Gladstone Villas",
       "external": ""
     },
-    "1891b_": {
+    "1891b": {
       "latlng": {
-        "lat": 51.5820257,
-        "lng": -0.3358314
+        "lat": 51.58207,
+        "lng": -0.33573
       },
       "notes": "Nelson Villas",
       "external": ""
     },
-    "1891c_": {
+    "1891c": {
       "latlng": {
-        "lat": 51.5818652,
-        "lng": -0.3358344
+        "lat": 51.58195,
+        "lng": -0.33573
       },
       "notes": "Angel Villas",
       "external": ""
@@ -2122,10 +2138,10 @@ const data = {
       "notes": "Duke of York Villas",
       "external": ""
     },
-    "1893d_": {
+    "1893d": {
       "latlng": {
-        "lat": 51.5827909,
-        "lng": -0.3359115
+        "lat": 51.58278,
+        "lng": -0.33576
       },
       "notes": "Victoria Villas",
       "external": ""
@@ -2186,7 +2202,7 @@ const data = {
       "notes": "Glebe View Villas [? date unclear]",
       "external": ""
     },
-    "1893l_": {
+    "1893l": {
       "latlng": {
         "lat": 51.54718,
         "lng": -0.22936
@@ -2194,20 +2210,20 @@ const data = {
       "notes": "",
       "external": "123372214"
     },
+    "1893m": {
+      "latlng": {
+        "lat": 51.54113,
+        "lng": -0.20477
+      },
+      "notes": "Christ Church Schools. A.D.",
+      "external": "148895102"
+    },
     "1894": {
       "latlng": {
         "lat": 51.46839,
         "lng": -0.37838
       },
       "notes": "Warwick Villas",
-      "external": ""
-    },
-    "1894a_": {
-      "latlng": {
-        "lat": 51.583254,
-        "lng": -0.3423877
-      },
-      "notes": "[date unclear]",
       "external": ""
     },
     "1894b_": {
@@ -2418,10 +2434,10 @@ const data = {
       "notes": "",
       "external": "533896122"
     },
-    "1896c_": {
+    "1896c": {
       "latlng": {
-        "lat": 51.5822487,
-        "lng": -0.3421676
+        "lat": 51.58221,
+        "lng": -0.34205
       },
       "notes": "",
       "external": ""
@@ -2450,14 +2466,6 @@ const data = {
       "notes": "May Cottages",
       "external": ""
     },
-    "1896g_": {
-      "latlng": {
-        "lat": 51.55164,
-        "lng": -0.24168
-      },
-      "notes": "WSB",
-      "external": ""
-    },
     "1896h_": {
       "latlng": {
         "lat": 51.60523,
@@ -2481,6 +2489,14 @@ const data = {
       },
       "notes": "The Pavement",
       "external": "533896121"
+    },
+    "1896k_": {
+      "latlng": {
+        "lat": 51.4690069,
+        "lng": -0.3581276
+      },
+      "notes": "Lewisham Villas",
+      "external": ""
     },
     "1897": {
       "latlng": {
@@ -2618,6 +2634,14 @@ const data = {
       "notes": "The Kings Arms",
       "external": "91294046"
     },
+    "1897q": {
+      "latlng": {
+        "lat": 51.55155,
+        "lng": -0.24137
+      },
+      "notes": "Commenced AD 1896 Completed AD",
+      "external": ""
+    },
     "1898": {
       "latlng": {
         "lat": 51.54711,
@@ -2737,6 +2761,14 @@ const data = {
       },
       "notes": "A D",
       "external": "187125890"
+    },
+    "1898o": {
+      "latlng": {
+        "lat": 51.54058,
+        "lng": -0.20917
+      },
+      "notes": "",
+      "external": "75531902"
     },
     "1899": {
       "latlng": {
@@ -2929,6 +2961,14 @@ const data = {
       },
       "notes": "AD",
       "external": ""
+    },
+    "1899y": {
+      "latlng": {
+        "lat": 51.5409,
+        "lng": -0.20475
+      },
+      "notes": "The Prince of Wales",
+      "external": "121897859"
     },
     "1900": {
       "latlng": {
@@ -3130,6 +3170,14 @@ const data = {
       "notes": "EC",
       "external": "91444323"
     },
+    "1900y": {
+      "latlng": {
+        "lat": 51.54041,
+        "lng": -0.20893
+      },
+      "notes": "College Mansions",
+      "external": "465203421"
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -3226,7 +3274,7 @@ const data = {
       "notes": "AI",
       "external": ""
     },
-    "1901l_": {
+    "1901l": {
       "latlng": {
         "lat": 51.55065,
         "lng": -0.24089
@@ -3266,13 +3314,13 @@ const data = {
       "notes": "Thornton Villa",
       "external": ""
     },
-    "1902b_": {
+    "1902b": {
       "latlng": {
-        "lat": 51.5397381,
-        "lng": -0.2086757
+        "lat": 51.5398,
+        "lng": -0.20858
       },
-      "notes": "",
-      "external": ""
+      "notes": "WDC",
+      "external": "97060663"
     },
     "1902c_": {
       "latlng": {
@@ -4634,7 +4682,7 @@ const data = {
       "notes": "",
       "external": "987795750"
     },
-    "1923c_": {
+    "1923c": {
       "latlng": {
         "lat": 51.56318,
         "lng": -0.27919
@@ -4714,7 +4762,7 @@ const data = {
       "notes": "This stone was laid by the Rt Hon Sir John E. Bankes on April 4th",
       "external": "80227564"
     },
-    "1925d_": {
+    "1925d": {
       "latlng": {
         "lat": 51.56194,
         "lng": -0.28369
@@ -4746,7 +4794,7 @@ const data = {
       "notes": "",
       "external": "29294316"
     },
-    "1926b_": {
+    "1926b": {
       "latlng": {
         "lat": 51.54301,
         "lng": -0.22451
@@ -4818,13 +4866,13 @@ const data = {
       "notes": "The Feathers Restaurant",
       "external": ""
     },
-    "1929b_": {
+    "1929b": {
       "latlng": {
-        "lat": 51.5811,
-        "lng": -0.31841
+        "lat": 51.58098,
+        "lng": -0.31861
       },
       "notes": "Churchill Parade A.D.",
-      "external": "244764993"
+      "external": "244894174"
     },
     "1929c": {
       "latlng": {
