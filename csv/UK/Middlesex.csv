@@ -72,9 +72,10 @@ year,latitude,longitude,notes,external
 1865b_,51.42970,-0.50811,Musgrove,
 1866,51.57246,-0.33739,,229688648
 1866a_,51.61175,-0.33554,called home Dec' 13,
+1866b,51.59701,-0.38519,Manchester Villas,
 1867_,51.48476,-0.30612,This Stone Was Laid By Her Royal Highness Princess Margaret Duchess of Teck 31st December,882870880
 1868,51.46805,-0.37835,Magdala Cottages,
-1868a_,51.59701,-0.38519,Manchester Villas,
+1868a_,51.49146,-0.30846,Nelson Row,459194156
 1868b_,51.53832,-0.47361,Park Terrace,
 1868c_,51.48565,-0.25595,Whittington Cottages,
 1868d_,51.48727,-0.25647,Hogarth Terrace,
@@ -90,7 +91,8 @@ year,latitude,longitude,notes,external
 1872c_,51.52945,-0.48239,[?] Cottages,
 1873,51.51716,-0.29972,Avenue Cottages,984971830
 1873a_,51.67323,-0.20416,S,
-1874_,51.59677,-0.38510,[?] Cottage,
+1874,51.59677,-0.38510,Oak Cottage T.E.,
+1874a_,51.49091,-0.30803,Alberto Villa,
 1875,51.59835,-0.11982,,138428151
 1876,51.53926,-0.25214,,86840426
 1876a_,51.4105562,-0.4868538,,
@@ -98,7 +100,7 @@ year,latitude,longitude,notes,external
 1877_,51.648313,-0.0836626,Myrtle Villa,
 1877a_,51.57977,-0.15483,Springfield Cottages,817951789
 1877b_,51.63525,-0.09536,Pritchett Terrace,677746494
-1877c_,51.59768,-0.39570,Caroline Cottages,
+1877c,51.59768,-0.39570,Caroline Cottages,
 1878,51.60861,-0.36372,A.D.,
 1878a_,51.648311,-0.0837495,Clyde Villa,
 1878b_,51.648311,-0.0839,Ayr Villa,
@@ -110,6 +112,8 @@ year,latitude,longitude,notes,external
 1879a_,51.60007,-0.07123,[?]
 1879b_,51.59993,-0.07125,Landermere Villa,
 1879c_,51.62647,-0.17496,Portland Terrace RB,188003499
+1879d_,51.49177,-0.30817,Enfield Cottages,
+1879e_,51.49112,-0.30755,Snowdrop Villas,
 1880,51.59427,-0.32991,Poet Cottages,
 1880a_,51.6609284,-0.0853944,Raleigh Cottages,
 1880b_,51.49043,-0.27379,,
@@ -120,7 +124,7 @@ year,latitude,longitude,notes,external
 1880g,51.49631,-0.25175,TC,,
 1880h,51.53510,-0.24810,A.D,
 1880i_,51.66614,-0.07338,JFR,92798510
-1880j_,51.59772,-0.39544,,
+1880j,51.59772,-0.39544,,
 1881_,51.6621064,-0.0890721,Glencall Villas,
 1881a_,51.4905561,-0.2734897,AD,
 1881b_,51.69507,-0.23315,St Giles. South Myms Parish Room,787643233
@@ -129,7 +133,10 @@ year,latitude,longitude,notes,external
 1881e_,51.60002,-0.07077,Bedford Cottages,
 1881f_,51.60049,-0.07126,[?],
 1881g_,51.62838,-0.07538,Cowrie Terrace,
-1881h_,51.59764,-0.39599,,
+1881h,51.59764,-0.39599,,
+1881i_,51.49079,-0.30831,Florence Villas,
+1881j_,51.49083,-0.30822,Park Villa,
+1881k_,51.49112,-0.30755,Olive Villas,
 1882,51.61371,-0.33155,,
 1882aX,51.46891,-0.35827,Salvation Army [removed (painted over) - Google Street View image © Google],1035381950
 1882b_,51.43852,-0.49964,Rose Cottages,
@@ -140,9 +147,8 @@ year,latitude,longitude,notes,external
 1882g_,51.52872,-0.44477,Normax [?],
 1882h_,51.52747,-0.44497,[?],
 1882i_,51.50236,-0.30717,,90861495
-1882j_,51.59757,-0.39655,,
-1882k_,51.59758,-0.39645,[year unclear],
-1882l_,51.59722,-0.38528,East View,
+1882j,51.59757,-0.39655,,
+1882l,51.59722,-0.38528,East View,
 1883,51.51381,-0.30245,,89702343,
 1883a_,51.48345,-0.30256,Brentford Sewage Pumping Station Erected AD 1883,880566108
 1883b_,51.48732,-0.30279,Linden Cottages,
@@ -165,6 +171,7 @@ year,latitude,longitude,notes,external
 1884d_,51.44732,-0.40743,,755628350
 1884e_,51.54037,-0.48973,Church Cottages H.B,
 1884f,51.58324,-0.34226,Werrington Villas,
+1884g_,51.49177,-0.30817,Faringdon Villas,459194147
 1885,51.58609,-0.44068,Hope Cottages,
 1885a_,51.4717719,-0.363735,[?] Cottages,
 1885b_,51.4143864,-0.366607,Avenue Villa,
@@ -185,8 +192,9 @@ year,latitude,longitude,notes,external
 1886f_,51.43849,-0.49902,Wellow Villas,
 1886g_,51.54932,-0.47794,Hastings Terrace,
 1886h_,51.53801,-0.48383,Gladstone Villas,
-1886i_,51.59761,-0.39623,,
+1886i,51.59761,-0.39623,,
 1886j_,51.57944,-0.12110,,
+1886k,51.59758,-0.39645,,
 1887,51.51689,-0.29998,Alpha Cottages,984971824
 1887a_,51.6616157,-0.0858438,Henrietta Cottages,
 1887b_,51.6609585,-0.0855164,Ashby Terrace,
@@ -241,7 +249,7 @@ year,latitude,longitude,notes,external
 1890c_,51.66862,-0.04124,,860483217
 1890d_,51.40312,-0.46344,[date unclear],
 1891,51.57591,-0.34293,,
-1891a_,51.5821486,-0.3358485,Gladstone Villas,
+1891a_,51.5821486,-0.33576,Gladstone Villas,
 1891b,51.58207,-0.33573,Nelson Villas,
 1891c,51.58195,-0.33573,Angel Villas,
 1891d_,51.4701743,-0.3651014,Albert Villas,
@@ -253,9 +261,9 @@ year,latitude,longitude,notes,external
 1891k_,51.46650,-0.38312,Warwick Terrace,
 1892,51.57847,-0.09911,Cavendish Parade,
 1892a_,51.6175664,-0.0637221,The Golden Fleece,
-1892b_,51.582235,-0.3358358,Palmerston Villas,
-1892c_,51.582324,-0.3358353,Peel Villas,
-1892d_,51.5824046,-0.3358406,,
+1892b_,51.582235,-0.33576,Palmerston Villas,
+1892c_,51.582324,-0.33576,Peel Villas,
+1892d_,51.5824046,-0.33576,,
 1892e,51.53626,-0.24501,,256915441
 1892f_,51.4671261,-0.3600035,Herbert Villas,
 1892g_,51.46660,-0.35886,Welham Villas,
@@ -264,10 +272,10 @@ year,latitude,longitude,notes,external
 1892j_,51.58554,-0.11431,Windermere Villas,457737894
 1893,51.60988,-0.42124,Ferndale Villas,
 1893a_,51.49189,-0.26197,,
-1893b_,51.5825051,-0.335844,Prince Albert Villas,
-1893c_,51.5826142,-0.3358394,Duke of York Villas,
+1893b_,51.5825051,-0.33576,Prince Albert Villas,
+1893c,51.5826142,-0.33576,Duke of York Villas,
 1893d,51.58278,-0.33576,Victoria Villas,
-1893e_,51.5826779,-0.3358354,Princess May Villas,
+1893e,51.5826779,-0.33576,Princess May Villas,
 1893f_,51.468403,-0.3763176,Cromore Villas,
 1893g_,51.4686,-0.3763445,Saltwood Cottage,
 1893h_,51.64366,-0.04756,,326821909
@@ -349,6 +357,7 @@ year,latitude,longitude,notes,external
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
 1899c_,51.5804804,-0.0993642,,
+1899d_,51.63351,-0.06571,AD,
 1899e,51.50907,-0.2839,,
 1899f_,51.51525,-0.32258,,
 1899g_,51.51483,-0.32242,,
@@ -368,7 +377,6 @@ year,latitude,longitude,notes,external
 1899u_,51.44775,-0.40444,Fern Villas,
 1899v_,51.44765,-0.40449,Kintbury,
 1899w_,51.62532,-0.10492,Arkley Terrace,672938041
-1899x_,51.63351,-0.06571,AD,
 1899y,51.54090,-0.20475,The Prince of Wales,121897859
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a_,51.6603104,-0.0831012,Porthkerry C.M.J.,
@@ -393,10 +401,10 @@ year,latitude,longitude,notes,external
 1900t_,51.44847,-0.40296,Bank View,
 1900u_,51.44782,-0.40470,Glencoe Villa,
 1900v_,51.55654,-0.21485,AD HCR,820855276
-1900v_,51.60302,-0.11212,MP [on drainpipe],683679686
 1900w_,51.53824,-0.48397,Mandy Villas,
 1900x_,51.51149,-0.30503,EC,91444323
 1900y,51.54041,-0.20893,College Mansions,465203421
+1900z_,51.60302,-0.11212,MP [on drainpipe],683679686
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -432,7 +440,9 @@ year,latitude,longitude,notes,external
 1902q_,51.51390,-0.30113,,128622186
 1902r_,51.51068,-0.30542,A D,88695646
 1903,51.5884,-0.11461,,
+1903a_,51.51474,-0.33034,,
 1903b_,51.621481,-0.0617196,,
+1903c_,51.50026,-0.38826,R. E. Coronation Bakery,
 1903d_,51.6364076,-0.0509775,Hambrook Terrace,
 1903e_,51.6608883,-0.079104,Bell Terrace,
 1903f_,51.4468681,-0.3279992,,
@@ -455,7 +465,6 @@ year,latitude,longitude,notes,external
 1903w_,51.52996,-0.44204,[?] Villas,
 1903x,51.59658,-0.34010,,
 1903y_,51.62072,-0.31688,Chart Cottages,
-1903z_,51.50026,-0.38826,R. E. Coronation Bakery,
 1904,51.48443,-0.37341,,
 1904a_,51.63561,-0.05213,Downham,
 1904b,51.58309,-0.33576,,
@@ -560,6 +569,8 @@ year,latitude,longitude,notes,external
 1911l_,51.48055,-0.38235,[Date and name unclear],
 1911m_,51.50033,-0.38923,,
 1911n_,51.50023,-0.38941,,
+1911o_,51.51542,-0.33103,,
+1911p_,51.51537,-0.33100,,
 1912,51.6234141,-0.1225127,,
 1912a_,51.57775,-0.20736,,
 1912b,51.56194,-0.35321,,816597740
