@@ -1265,6 +1265,15 @@ const data = {
       },
       "notes": "Hampton Wick U.D.C."
     },
+    "1863c_": {
+      "city": "Middlesex",
+      "external": "62230014",
+      "latlng": {
+        "lat": 51.53624,
+        "lng": -0.19244
+      },
+      "notes": "Listed Building"
+    },
     "1864": {
       "city": "London",
       "external": "1184637",
@@ -1282,6 +1291,15 @@ const data = {
         "lng": -0.2286
       },
       "notes": ""
+    },
+    "1864b_": {
+      "city": "Middlesex",
+      "external": "183419468",
+      "latlng": {
+        "lat": 51.57308,
+        "lng": -0.34198
+      },
+      "notes": "Trafalgar Place"
     },
     "1865": {
       "city": "London",
@@ -1616,14 +1634,14 @@ const data = {
       },
       "notes": ""
     },
-    "1877_": {
+    "1877R_": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.648313,
-        "lng": -0.0836626
+        "lat": 51.51647,
+        "lng": -0.4191
       },
-      "notes": "Myrtle Villa"
+      "notes": "JM"
     },
     "1877a_": {
       "city": "Middlesex",
@@ -1643,14 +1661,14 @@ const data = {
       },
       "notes": "Pritchett Terrace"
     },
-    "1877c": {
+    "1877c_": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.59768,
-        "lng": -0.3957
+        "lat": 51.648313,
+        "lng": -0.0836626
       },
-      "notes": "Caroline Cottages"
+      "notes": "Myrtle Villa"
     },
     "1878": {
       "city": "London",
@@ -1992,6 +2010,33 @@ const data = {
       },
       "notes": "Olive Villas"
     },
+    "1881l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5191,
+        "lng": -0.42297
+      },
+      "notes": "[?] Villas"
+    },
+    "1881m_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51904,
+        "lng": -0.42271
+      },
+      "notes": "[?]"
+    },
+    "1881n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51896,
+        "lng": -0.42241
+      },
+      "notes": "Surprising Villas"
+    },
     "1882": {
       "city": "London",
       "external": "1213696",
@@ -2108,6 +2153,24 @@ const data = {
         "lng": -0.38528
       },
       "notes": "East View"
+    },
+    "1882m_": {
+      "city": "Middlesex",
+      "external": "187126596",
+      "latlng": {
+        "lat": 51.59337,
+        "lng": -0.17402
+      },
+      "notes": "Pine Villas"
+    },
+    "1882n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5191,
+        "lng": -0.42309
+      },
+      "notes": "Beulah Villas"
     },
     "1883": {
       "city": "London",
@@ -2531,6 +2594,24 @@ const data = {
         "lng": -0.39645
       },
       "notes": ""
+    },
+    "1886l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53375,
+        "lng": -0.45636
+      },
+      "notes": "Rosebank Cottages"
+    },
+    "1886m_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53352,
+        "lng": -0.45623
+      },
+      "notes": "Sunningdale Cottages"
     },
     "1887": {
       "city": "London",
@@ -4655,6 +4736,15 @@ const data = {
       },
       "notes": "Ferme Park Mansions"
     },
+    "1901o_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50928,
+        "lng": -0.47029
+      },
+      "notes": "Devonshire Villas"
+    },
     "1902": {
       "city": "London",
       "external": "1342074",
@@ -5348,6 +5438,24 @@ const data = {
       },
       "notes": "Mission Hall of the Good Shepherd... 21 October"
     },
+    "1905n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52167,
+        "lng": -0.43282
+      },
+      "notes": "[unreadable]"
+    },
+    "1905o_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51722,
+        "lng": -0.41879
+      },
+      "notes": "Drayton House"
+    },
     "1906": {
       "city": "London",
       "external": "1389537",
@@ -5518,6 +5626,15 @@ const data = {
         "lng": -0.37507
       },
       "notes": ""
+    },
+    "1906s_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50902,
+        "lng": -0.47323
+      },
+      "notes": "Crac Cottages"
     },
     "1907": {
       "city": "London",
@@ -5852,6 +5969,15 @@ const data = {
       },
       "notes": ""
     },
+    "1909h_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5553,
+        "lng": -0.31609
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -5905,6 +6031,42 @@ const data = {
         "lng": -0.34961
       },
       "notes": "To the glory of God this stone was laid by Adeline Duchess of Bedford on the 22nd October"
+    },
+    "1910f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52147,
+        "lng": -0.43263
+      },
+      "notes": "Roselie Villas"
+    },
+    "1910g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52415,
+        "lng": -0.43335
+      },
+      "notes": "[unreadable]"
+    },
+    "1910h_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52427,
+        "lng": -0.43323
+      },
+      "notes": "[unreadable]"
+    },
+    "1910i_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52234,
+        "lng": -0.43244
+      },
+      "notes": "[unreadable] Cottages"
     },
     "1911": {
       "city": "London",
@@ -6059,6 +6221,15 @@ const data = {
       },
       "notes": ""
     },
+    "1911q_": {
+      "city": "Middlesex",
+      "external": "199918359",
+      "latlng": {
+        "lat": 51.59232,
+        "lng": -0.25684
+      },
+      "notes": "Colindale House"
+    },
     "1912": {
       "city": "London",
       "external": "1031506",
@@ -6085,6 +6256,24 @@ const data = {
         "lng": -0.35321
       },
       "notes": ""
+    },
+    "1912c_": {
+      "city": "Middlesex",
+      "external": "199918359",
+      "latlng": {
+        "lat": 51.59237,
+        "lng": -0.25672
+      },
+      "notes": "Chosen Villas"
+    },
+    "1912d_": {
+      "city": "Middlesex",
+      "external": "199918359",
+      "latlng": {
+        "lat": 51.59269,
+        "lng": -0.25598
+      },
+      "notes": "Chosen Villas"
     },
     "1913": {
       "city": "London",
@@ -6121,6 +6310,24 @@ const data = {
         "lng": -0.07248
       },
       "notes": "Tottenham County School A.D."
+    },
+    "1913e_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52299,
+        "lng": -0.43077
+      },
+      "notes": "Hayes U.D.C."
+    },
+    "1913f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52306,
+        "lng": -0.4311
+      },
+      "notes": "Hayes U.D.C."
     },
     "1914": {
       "city": "Brighton_and_Hove",
@@ -6213,6 +6420,15 @@ const data = {
       "notes": ""
     },
     "1915_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51675,
+        "lng": -0.41885
+      },
+      "notes": "WM"
+    },
+    "1915a_": {
       "city": "Middlesex",
       "external": "671600555",
       "latlng": {
@@ -6473,6 +6689,15 @@ const data = {
       },
       "notes": ""
     },
+    "1926c_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.54858,
+        "lng": -0.22205
+      },
+      "notes": "[the 9 is missing]"
+    },
     "1927": {
       "city": "Middlesex",
       "external": "",
@@ -6542,6 +6767,15 @@ const data = {
       "latlng": {
         "lat": 51.53161440573577,
         "lng": -0.13452690989194183
+      },
+      "notes": ""
+    },
+    "1929R_": {
+      "city": "Middlesex",
+      "external": "199925585",
+      "latlng": {
+        "lat": 51.59301,
+        "lng": -0.25574
       },
       "notes": ""
     },
@@ -6652,6 +6886,15 @@ const data = {
         "lng": -0.33662
       },
       "notes": ""
+    },
+    "1930h_": {
+      "city": "Middlesex",
+      "external": "200220346",
+      "latlng": {
+        "lat": 51.60851,
+        "lng": -0.25267
+      },
+      "notes": "H.E.C."
     },
     "1931": {
       "city": "London",
@@ -6833,6 +7076,15 @@ const data = {
       },
       "notes": "1879"
     },
+    "1933f_": {
+      "city": "Middlesex",
+      "external": "228867313",
+      "latlng": {
+        "lat": 51.5561,
+        "lng": -0.31811
+      },
+      "notes": "[?]"
+    },
     "1934": {
       "city": "London",
       "external": "1418380",
@@ -7012,6 +7264,15 @@ const data = {
         "lng": -0.29464052044987477
       },
       "notes": ""
+    },
+    "1948a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51769,
+        "lng": -0.43308
+      },
+      "notes": "Hayes Amateur Boxing Club Est"
     },
     "1951": {
       "city": "London",

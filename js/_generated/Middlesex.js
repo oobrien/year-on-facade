@@ -540,6 +540,14 @@ const data = {
       "notes": "Hampton Wick U.D.C.",
       "external": ""
     },
+    "1863c_": {
+      "latlng": {
+        "lat": 51.53624,
+        "lng": -0.19244
+      },
+      "notes": "Listed Building",
+      "external": "62230014"
+    },
     "1864": {
       "latlng": {
         "lat": 51.57361,
@@ -555,6 +563,14 @@ const data = {
       },
       "notes": "",
       "external": "911226077"
+    },
+    "1864b_": {
+      "latlng": {
+        "lat": 51.57308,
+        "lng": -0.34198
+      },
+      "notes": "Trafalgar Place",
+      "external": "183419468"
     },
     "1865": {
       "latlng": {
@@ -796,12 +812,20 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1877_": {
+    "1877": {
       "latlng": {
-        "lat": 51.648313,
-        "lng": -0.0836626
+        "lat": 51.59768,
+        "lng": -0.3957
       },
-      "notes": "Myrtle Villa",
+      "notes": "Caroline Cottages",
+      "external": ""
+    },
+    "1877R_": {
+      "latlng": {
+        "lat": 51.51647,
+        "lng": -0.4191
+      },
+      "notes": "JM",
       "external": ""
     },
     "1877a_": {
@@ -820,12 +844,12 @@ const data = {
       "notes": "Pritchett Terrace",
       "external": "677746494"
     },
-    "1877c": {
+    "1877c_": {
       "latlng": {
-        "lat": 51.59768,
-        "lng": -0.3957
+        "lat": 51.648313,
+        "lng": -0.0836626
       },
-      "notes": "Caroline Cottages",
+      "notes": "Myrtle Villa",
       "external": ""
     },
     "1878": {
@@ -1114,6 +1138,30 @@ const data = {
       "notes": "Olive Villas",
       "external": ""
     },
+    "1881l_": {
+      "latlng": {
+        "lat": 51.5191,
+        "lng": -0.42297
+      },
+      "notes": "[?] Villas",
+      "external": ""
+    },
+    "1881m_": {
+      "latlng": {
+        "lat": 51.51904,
+        "lng": -0.42271
+      },
+      "notes": "[?]",
+      "external": ""
+    },
+    "1881n_": {
+      "latlng": {
+        "lat": 51.51896,
+        "lng": -0.42241
+      },
+      "notes": "Surprising Villas",
+      "external": ""
+    },
     "1882": {
       "latlng": {
         "lat": 51.61371,
@@ -1208,6 +1256,22 @@ const data = {
         "lng": -0.38528
       },
       "notes": "East View",
+      "external": ""
+    },
+    "1882m_": {
+      "latlng": {
+        "lat": 51.59337,
+        "lng": -0.17402
+      },
+      "notes": "Pine Villas",
+      "external": "187126596"
+    },
+    "1882n_": {
+      "latlng": {
+        "lat": 51.5191,
+        "lng": -0.42309
+      },
+      "notes": "Beulah Villas",
       "external": ""
     },
     "1883": {
@@ -1576,6 +1640,22 @@ const data = {
         "lng": -0.39645
       },
       "notes": "",
+      "external": ""
+    },
+    "1886l_": {
+      "latlng": {
+        "lat": 51.53375,
+        "lng": -0.45636
+      },
+      "notes": "Rosebank Cottages",
+      "external": ""
+    },
+    "1886m_": {
+      "latlng": {
+        "lat": 51.53352,
+        "lng": -0.45623
+      },
+      "notes": "Sunningdale Cottages",
       "external": ""
     },
     "1887": {
@@ -3370,6 +3450,14 @@ const data = {
       "notes": "Ferme Park Mansions",
       "external": "150928464"
     },
+    "1901o_": {
+      "latlng": {
+        "lat": 51.50928,
+        "lng": -0.47029
+      },
+      "notes": "Devonshire Villas",
+      "external": ""
+    },
     "1902": {
       "latlng": {
         "lat": 51.57495,
@@ -3962,6 +4050,22 @@ const data = {
       "notes": "Mission Hall of the Good Shepherd... 21 October",
       "external": "92705665"
     },
+    "1905n_": {
+      "latlng": {
+        "lat": 51.52167,
+        "lng": -0.43282
+      },
+      "notes": "[unreadable]",
+      "external": ""
+    },
+    "1905o_": {
+      "latlng": {
+        "lat": 51.51722,
+        "lng": -0.41879
+      },
+      "notes": "Drayton House",
+      "external": ""
+    },
     "1906": {
       "latlng": {
         "lat": 51.5775976,
@@ -4112,6 +4216,14 @@ const data = {
         "lng": -0.37507
       },
       "notes": "",
+      "external": ""
+    },
+    "1906s_": {
+      "latlng": {
+        "lat": 51.50902,
+        "lng": -0.47323
+      },
+      "notes": "Crac Cottages",
       "external": ""
     },
     "1907": {
@@ -4394,6 +4506,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1909h_": {
+      "latlng": {
+        "lat": 51.5553,
+        "lng": -0.31609
+      },
+      "notes": "",
+      "external": ""
+    },
     "1910": {
       "latlng": {
         "lat": 51.5964513,
@@ -4441,6 +4561,38 @@ const data = {
       },
       "notes": "To the glory of God this stone was laid by Adeline Duchess of Bedford on the 22nd October",
       "external": "866404180"
+    },
+    "1910f_": {
+      "latlng": {
+        "lat": 51.52147,
+        "lng": -0.43263
+      },
+      "notes": "Roselie Villas",
+      "external": ""
+    },
+    "1910g_": {
+      "latlng": {
+        "lat": 51.52415,
+        "lng": -0.43335
+      },
+      "notes": "[unreadable]",
+      "external": ""
+    },
+    "1910h_": {
+      "latlng": {
+        "lat": 51.52427,
+        "lng": -0.43323
+      },
+      "notes": "[unreadable]",
+      "external": ""
+    },
+    "1910i_": {
+      "latlng": {
+        "lat": 51.52234,
+        "lng": -0.43244
+      },
+      "notes": "[unreadable] Cottages",
+      "external": ""
     },
     "1911": {
       "latlng": {
@@ -4578,6 +4730,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1911q_": {
+      "latlng": {
+        "lat": 51.59232,
+        "lng": -0.25684
+      },
+      "notes": "Colindale House",
+      "external": "199918359"
+    },
     "1912": {
       "latlng": {
         "lat": 51.6234141,
@@ -4601,6 +4761,22 @@ const data = {
       },
       "notes": "",
       "external": "816597740"
+    },
+    "1912c_": {
+      "latlng": {
+        "lat": 51.59237,
+        "lng": -0.25672
+      },
+      "notes": "Chosen Villas",
+      "external": "199918359"
+    },
+    "1912d_": {
+      "latlng": {
+        "lat": 51.59269,
+        "lng": -0.25598
+      },
+      "notes": "Chosen Villas",
+      "external": "199918359"
     },
     "1913": {
       "latlng": {
@@ -4633,6 +4809,22 @@ const data = {
       },
       "notes": "Tottenham County School A.D.",
       "external": "51065794"
+    },
+    "1913e_": {
+      "latlng": {
+        "lat": 51.52299,
+        "lng": -0.43077
+      },
+      "notes": "Hayes U.D.C.",
+      "external": ""
+    },
+    "1913f_": {
+      "latlng": {
+        "lat": 51.52306,
+        "lng": -0.4311
+      },
+      "notes": "Hayes U.D.C.",
+      "external": ""
     },
     "1914": {
       "latlng": {
@@ -4699,6 +4891,14 @@ const data = {
       "external": ""
     },
     "1915_": {
+      "latlng": {
+        "lat": 51.51675,
+        "lng": -0.41885
+      },
+      "notes": "WM",
+      "external": ""
+    },
+    "1915a_": {
       "latlng": {
         "lat": 51.63012,
         "lng": -0.09717
@@ -4898,6 +5098,14 @@ const data = {
       "notes": "",
       "external": "474481940"
     },
+    "1926c_": {
+      "latlng": {
+        "lat": 51.54858,
+        "lng": -0.22205
+      },
+      "notes": "[the 9 is missing]",
+      "external": ""
+    },
     "1927": {
       "latlng": {
         "lat": 51.39153,
@@ -4953,6 +5161,14 @@ const data = {
       },
       "notes": "M.Cowen A.D.",
       "external": ""
+    },
+    "1929R_": {
+      "latlng": {
+        "lat": 51.59301,
+        "lng": -0.25574
+      },
+      "notes": "",
+      "external": "199925585"
     },
     "1929a": {
       "latlng": {
@@ -5041,6 +5257,14 @@ const data = {
       },
       "notes": "",
       "external": "1056290545"
+    },
+    "1930h_": {
+      "latlng": {
+        "lat": 51.60851,
+        "lng": -0.25267
+      },
+      "notes": "H.E.C.",
+      "external": "200220346"
     },
     "1931": {
       "latlng": {
@@ -5185,6 +5409,14 @@ const data = {
       },
       "notes": "1879",
       "external": "641951238"
+    },
+    "1933f_": {
+      "latlng": {
+        "lat": 51.5561,
+        "lng": -0.31811
+      },
+      "notes": "[?]",
+      "external": "228867313"
     },
     "1934": {
       "latlng": {
@@ -5337,6 +5569,14 @@ const data = {
       },
       "notes": "GR VI Telephone Exchange",
       "external": "247904227"
+    },
+    "1948a_": {
+      "latlng": {
+        "lat": 51.51769,
+        "lng": -0.43308
+      },
+      "notes": "Hayes Amateur Boxing Club Est",
+      "external": ""
     },
     "1951": {
       "latlng": {
