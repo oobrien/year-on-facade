@@ -4,10 +4,10 @@ const data = [
   {name: "Copenhagen", country: "Denmark", count: 3, minYear: 1756},
   {name: "Denmark", country: "null", count: 4, minYear: 1756},
   {name: "London", country: "UK", count: 200, minYear: 1580},
-  {name: "Middlesex", country: "UK", count: 738, minYear: 1580},
+  {name: "Middlesex", country: "UK", count: 780, minYear: 1565},
   {name: "Perm", country: "Russia", count: 1, minYear: 2010},
   {name: "Russia", country: "null", count: 1, minYear: 2010},
-  {name: "UK", country: "null", count: 867, minYear: 1580},
+  {name: "UK", country: "null", count: 905, minYear: 1565},
   {name: "Wolverhampton", country: "UK", count: 56, minYear: 1761},
-  {name: "World", country: "null", count: 868, minYear: 1580},
+  {name: "World", country: "null", count: 906, minYear: 1565},
 ]

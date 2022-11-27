@@ -1,7 +1,8 @@
 year,latitude,longitude,notes,external
+1565,51.61774,-0.30885,Cottrell Cottages Built [modern sign],
 1580,51.59385,-0.38172,Tummies est. 1988,
 1625_,51.63367,-0.07464,Salisbury House [recently painted on sign],331374324
-1629_,51.53503,-0.46021,Io. Atlee Io. Robince, Church Wa.,360739067
+1629,51.53503,-0.46021,Io. Atlee Io. Robince, Church Wa.,360739067
 1675,51.48795,-0.47839,,
 1696,51.61740,-0.22718,T N,544200461
 1705,51.59430,-0.38072,Queens Head [recently painted on post],
@@ -13,20 +14,21 @@ year,latitude,longitude,notes,external
 1782,51.48565,-0.30727,Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.,166585101
 1784_,51.62523,-0.06246,Institute of [?],56651227
 1791,51.54732,-0.48029,Old Bank A.D.,990490557
-1809_,51.54360,-0.48744,Swimbridge Terrace,
 1811,51.50959,-0.25997,Erected by the Worshipful Company of Goldsmiths A.D.,211819761
 1811a_,51.57850,-0.15389,Prospect Place,
 1817,51.59965,-0.06769,S B [on drainpipe],
-1826_,51.65261,-0.08072,Established,91063116
+1826_,51.53713,-0.47144,Pleasant Place,
+1826a_,51.65261,-0.08072,Established,91063116
 1828,51.44339,-0.52287,J.P.W,
 1833_,51.66701,-0.07082,College Place,92768580
 1834,51.47918,-0.49285,W R IV,43798084
 1834a_,51.50822,-0.30487,LV [?],96714381
 1835,51.46778,-0.36143,Independent Chapel; Rebuilt;,1035381961
 1836_,51.62618,-0.06509,TOI,436673739
-1839_,51.62111,-0.31624,The Cot [modern sign],
+1839,51.62111,-0.31624,The Cot [modern sign],
 1846,51.46452,-0.37752,Wellington Cottages,
-1847_,51.69828,-0.23458,,990096643
+1847,51.54483,-0.48322,Newland House Converted 1996,1001368831
+1847R_,51.69828,-0.23458,,990096643
 1847a_,51.66216,-0.04594,These almshouses were erected and endowed by Mr Charles Wright of Enfield Highway for the support of six poor women. A.D.,101434135
 1847b_,51.45834,-0.43254,,
 1848,51.54704,-0.47205,Victoria Cottages,
@@ -54,10 +56,11 @@ year,latitude,longitude,notes,external
 1858_,51.4744528,-0.3355657,Milton Place,
 1859_,51.4703525,-0.3284286,Silver Hall Place,
 1859a_,51.6488334,-0.0830927,Rose Cottages,
-1860_,51.54019,-0.49048,G. L. Cherry Cottages,
-1861_,51.4241958,-0.3347466,Adelaide Villas,
+1860,51.54019,-0.49048,G. L. Cherry Cottages,
+1861,51.61386,-0.43700,,
 1861a_,51.59293,-0.17546,Prospect Villas,
 1861b_,51.50952,-0.30589,Girls School,91426376
+1861c_,51.4241958,-0.3347466,Adelaide Villas,
 1862,51.50755,-0.27218,Established.,718831170
 1862a,51.51685,-0.30078,Prospect Place,
 1862b,51.60480,-0.39821,AD [part damaged - missing the A and 2],
@@ -65,7 +68,7 @@ year,latitude,longitude,notes,external
 1863,51.57481,-0.33386,,229466309
 1863a_,51.49105,-0.26893,Fromow & Sons Estd 1829 Erected,549228726
 1863b_,51.4131663,-0.3113954,Hampton Wick U.D.C.,
-1863c_,51.53624,-0.19244,Listed Building,62230014
+1863c,51.53624,-0.19244,Listed Building,62230014
 1864,51.57361,-0.34134,Trafalgar [Terrace?],183351551
 1864a,51.53028,-0.22860,,911226077
 1864b_,51.57308,-0.34198,Trafalgar Place,183419468
@@ -73,7 +76,7 @@ year,latitude,longitude,notes,external
 1865a_,51.57289,-0.34199,Hope Cottage,183420745
 1865b_,51.42970,-0.50811,Musgrove,
 1866,51.57246,-0.33739,,229688648
-1866a_,51.61175,-0.33554,called home Dec' 13,
+1866a,51.61175,-0.33554,called home Dec' 13,
 1866b,51.59701,-0.38519,Manchester Villas,
 1867_,51.48476,-0.30612,This Stone Was Laid By Her Royal Highness Princess Margaret Duchess of Teck 31st December,882870880
 1868,51.46805,-0.37835,Magdala Cottages,
@@ -117,6 +120,7 @@ year,latitude,longitude,notes,external
 1879c_,51.62647,-0.17496,Portland Terrace RB,188003499
 1879d_,51.49177,-0.30817,Enfield Cottages,
 1879e_,51.49112,-0.30755,Snowdrop Villas,
+1879f_,51.52624,-0.43986,Rose Terrace,
 1880,51.59427,-0.32991,Poet Cottages,
 1880a_,51.6609284,-0.0853944,Raleigh Cottages,
 1880b_,51.49043,-0.27379,,
@@ -132,7 +136,7 @@ year,latitude,longitude,notes,external
 1881a_,51.4905561,-0.2734897,AD,
 1881b_,51.69507,-0.23315,St Giles. South Myms Parish Room,787643233
 1881c,51.6166904,-0.316065,Erected in loving memory of Robert Hollond by Ellen Julia his widow,
-1881d_,51.61295,-0.33132,Roxwell Cottages,
+1881d_,51.51896,-0.42241,Surprising Villas,
 1881e_,51.60002,-0.07077,Bedford Cottages,
 1881f_,51.60049,-0.07126,[?],
 1881g_,51.62838,-0.07538,Cowrie Terrace,
@@ -142,7 +146,8 @@ year,latitude,longitude,notes,external
 1881k_,51.49112,-0.30755,Olive Villas,
 1881l_,51.51910,-0.42297,[?] Villas,
 1881m_,51.51904,-0.42271,[?],
-1881n_,51.51896,-0.42241,Surprising Villas,
+1881n_,51.67055,-0.08217,,90513254
+1881o_,51.66411,-0.08372,Rolph Villas,88083750
 1882,51.61371,-0.33155,,
 1882aX,51.46891,-0.35827,Salvation Army [removed (painted over) - Google Street View image © Google],1035381950
 1882b_,51.43852,-0.49964,Rose Cottages,
@@ -157,6 +162,8 @@ year,latitude,longitude,notes,external
 1882l,51.59722,-0.38528,East View,
 1882m_,51.59337,-0.17402,Pine Villas,187126596
 1882n_,51.51910,-0.42309,Beulah Villas,
+1882o_,51.57715,-0.11528,,
+1882p_,51.57685,-0.11505,,
 1883,51.51381,-0.30245,,89702343,
 1883a_,51.48345,-0.30256,Brentford Sewage Pumping Station Erected AD 1883,880566108
 1883b_,51.48732,-0.30279,Linden Cottages,
@@ -171,13 +178,13 @@ year,latitude,longitude,notes,external
 1883k_,51.43772,-0.49919,Stanley Cottages,
 1883l_,51.48754,-0.30196,Wolverton Cottages,
 1883m_,51.52842,-0.44510,Beaconsfield Cottages,
-1883n_,51.52592,-0.44194,Hope Cottages,
+1883n,51.52592,-0.44194,Hope Cottages,
 1884,51.572413,-0.3411424,,
 1884a_,51.48742,-0.3023,Inverness Terrace,
 1884b_,51.4670146,-0.3592203,[?] Villas,
 1884c_,51.43828,-0.49869,Gloucester Villas,308358258
 1884d_,51.44732,-0.40743,,755628350
-1884e_,51.54037,-0.48973,Church Cottages H.B,
+1884e,51.54037,-0.48973,Church Cottages H.B,
 1884f,51.58324,-0.34226,Werrington Villas,
 1884g_,51.49177,-0.30817,Faringdon Villas,459194147
 1885,51.58609,-0.44068,Hope Cottages,
@@ -187,10 +194,12 @@ year,latitude,longitude,notes,external
 1885d_,51.414297,-0.366609,Melrose Villa,
 1885e,51.57363,-0.33527,AD,229557975
 1885f_,51.43829,-0.49884,Warwick Villas,308358260
-1885g_,51.57710,-0.42892,Home Cottages,
+1885g,51.57710,-0.42892,Home Cottages,
 1885h,51.48894,-0.47769,This stone was laid by Mrs. J.D. Allcroft March 10th,
 1885i_,51.60285,-0.12019,George's Villas,838009289
 1885j_,51.48409,-0.34833,AD,308614057
+1885k_,51.57689,-0.11468,Branksome,284332755
+1885l_,51.66661,-0.08634,Percival Villas,87963819
 1886_,51.661142,-0.0861842,Raleigh Place,
 1886a_,51.4671991,-0.3584619,Brodmore Villas,
 1886b_,51.67729,-0.03507,Claremont Villas,99491552
@@ -204,7 +213,7 @@ year,latitude,longitude,notes,external
 1886j_,51.57944,-0.12110,,
 1886k,51.59758,-0.39645,,
 1886l_,51.53375,-0.45636,Rosebank Cottages,
-1886m_,51.53352,-0.45623,Sunningdale Cottages,
+1886m,51.53352,-0.45623,Sunningdale Cottages,
 1887,51.51689,-0.29998,Alpha Cottages,984971824
 1887a_,51.6616157,-0.0858438,Henrietta Cottages,
 1887b_,51.6609585,-0.0855164,Ashby Terrace,
@@ -215,12 +224,11 @@ year,latitude,longitude,notes,external
 1887g,51.53408,-0.24792,VR,627997846
 1887h_,51.58713,-0.09743,Built in the [?],891209395
 1887i_,51.53802,-0.48364,Home Cottage,
-1887j_,51.53825,-0.48398,Bentley Villas,
+1887j_,51.53827,-0.48418,Bentley Villas,
 1888,51.46627,-0.36759,,
 1888a_,51.6618918,-0.0885904,Witham Villa,
 1888b_,51.6608851,-0.0852505,Percy Villa,
 1888c_,51.58786,-0.11750,,338351270
-1888d_,51.4141317,-0.3655692,[?] Villas,
 1888d_,51.67782,-0.03475,Vernum Cottages,99491561
 1888e,51.59624,-0.38629,North End Cottage,
 1888f_,51.42979,-0.50799,Katrine,
@@ -229,12 +237,16 @@ year,latitude,longitude,notes,external
 1888i,51.51611,-0.29943,,975755939
 1888j,51.51612,-0.29928,,975755940	
 1888k,51.51614,-0.29909,,975755941
-1888l_,51.56048,-0.43993,Manor View Villas [date unclear],
-1888m_,51.65279,-0.08464,The Hollies,91063138
-1888n_,51.54072,-0.48300,River View,
-1888o_,51.53836,-0.48333,Pleasant Place,
-1888p_,51.54485,-0.48300,[?] Cottages,
-1888r_,51.52091,-0.31461,[on drainpipe],238868600
+1888l_,51.65279,-0.08464,The Hollies,91063138
+1888m,51.54072,-0.48300,River View,
+1888n,51.53836,-0.48333,Pleasant Place,
+1888o,51.54485,-0.48300,Providence Cottages,
+1888p_,51.52091,-0.31461,[on drainpipe],238868600
+1888q_,51.4141317,-0.3655692,[?] Villas,
+1888r_,51.66639,-0.06715,Eton Cottages,92768560
+1888s,51.51063,-0.37216,Prospect Place,
+1888t_,51.53971,-0.48318,[?],
+1888u_,51.53990,-0.48314,[?],
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.58347,-0.11669,Millman Terrace,457491928
@@ -269,6 +281,8 @@ year,latitude,longitude,notes,external
 1891h_,51.43519,-0.50233,Kimpton House,566113416
 1891j_,51.3990,-0.4474,The Laurels +,
 1891k_,51.46650,-0.38312,Warwick Terrace,
+1891l,51.61295,-0.33132,Roxwell Cottages,
+1891m_,51.66569,-0.08193,Lancester Cottage [modern sign],90831025
 1892,51.57847,-0.09911,Cavendish Parade,
 1892a_,51.6175664,-0.0637221,The Golden Fleece,
 1892b_,51.582235,-0.33576,Palmerston Villas,
@@ -280,6 +294,9 @@ year,latitude,longitude,notes,external
 1892h_,51.57538,-0.33449,,162542512
 1892i_,51.57828,-0.12416,,264852322
 1892j_,51.58554,-0.11431,Windermere Villas,457737894
+1892k_,51.59243,-0.32981,Smith Cottage,
+1892l_,51.66706,-0.08664,,87963813
+1892m,51.51163,-0.37163,Thorn Cottages,
 1893,51.60988,-0.42124,Ferndale Villas,
 1893a_,51.49189,-0.26197,,
 1893b_,51.5825051,-0.33576,Prince Albert Villas,
@@ -291,9 +308,9 @@ year,latitude,longitude,notes,external
 1893h_,51.64366,-0.04756,,326821909
 1893i_,51.4668392,-0.3598827,[?] Villas,
 1893j_,51.46664,-0.36002,[date unclear],
-1893k_,51.56057,-0.44000,Glebe View Villas [? date unclear],
 1893l,51.54718,-0.22936,,123372214
 1893m,51.54113,-0.20477,Christ Church Schools. A.D.,148895102
+1893n_,51.66731,-0.08665,Florence Villas,87803753
 1894,51.46839,-0.37838,Warwick Villas,
 1894b_,51.6327568,-0.1286842,[date unclear],
 1894c_,51.4692693,-0.364253,[?] Terrace,
@@ -325,10 +342,13 @@ year,latitude,longitude,notes,external
 1896d_,51.4693555,-0.3578947,Malborough Villas,
 1896e_,51.42883,-0.50473,for use as an Infants School A.D.,
 1896f_,51.51211,-0.47082,May Cottages,
+1896g_,51.66439,-0.06739,Primrose Cottages,92785040
 1896h_,51.60523,-0.12248,,
-1896i_,51.53832,-0.47361,Daisy Villas,
+1896i_,51.50329,-0.47566,Daisy Villas,
 1896j_,51.58766,-0.11694,The Pavement,533896121
 1896k_,51.4690069,-0.3581276,Lewisham Villas,
+1896l_,51.66588,-0.08159,Clay Hill Church Institute A.D.,90692448
+1896m_,51.66748,-0.08668,Pilgrim Villas,87803636
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,,
 1897b_,51.4132,-0.3642206,,
@@ -363,6 +383,8 @@ year,latitude,longitude,notes,external
 1898m_,51.45579,-0.41830,Troon Cottages,757035201
 1898n_,51.59647,-0.17884,A D,187125890
 1898o,51.54058,-0.20917,,75531902
+1898p,51.56057,-0.44000,Glebe View Villas,
+1898q_,51.68181,-0.09498,New River Company,1028761118
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -388,8 +410,9 @@ year,latitude,longitude,notes,external
 1899v_,51.44765,-0.40449,Kintbury,
 1899w_,51.62532,-0.10492,Arkley Terrace,672938041
 1899y,51.54090,-0.20475,The Prince of Wales,121897859
+1899z,51.53796,-0.47913,Primrose Villas,
 1900,51.606,-0.41879,Woodbine Terrace,823995712
-1900a_,51.6603104,-0.0831012,Porthkerry C.M.J.,
+1900a,51.56048,-0.43993,Manor View Villas,
 1900b_,51.6610081,-0.0791394,,
 1900c_,51.426286,-0.3352232,,
 1900d,51.50799,-0.38596,Pretoria Terrace,253733021
@@ -410,11 +433,14 @@ year,latitude,longitude,notes,external
 1900s_,51.65890,-0.08907,[on weathervane],59429989
 1900t_,51.44847,-0.40296,Bank View,
 1900u_,51.44782,-0.40470,Glencoe Villa,
-1900v_,51.55654,-0.21485,AD HCR,820855276
+1900v_,51.55654,-0.21485,AD HCR [currently obscured by scaffolding],820855276
 1900w_,51.53824,-0.48397,Mandy Villas,
 1900x_,51.51149,-0.30503,EC,91444323
 1900y,51.54041,-0.20893,College Mansions,465203421
 1900z_,51.60302,-0.11212,MP [on drainpipe],683679686
+1900za_,51.6603104,-0.0831012,Porthkerry C.M.J.,
+1900zb_,51.55657,-0.21455,AD,
+1900zc_,51.66679,-0.08319,Mill Bank,90526126
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -443,7 +469,7 @@ year,latitude,longitude,notes,external
 1902i,51.58422,-0.07185,,229417040
 1902j_,51.44766,-0.40288,Malvern Villas,
 1902k_,51.44762,-0.40295,Sutton Villa,
-1902l_,51.54087,-0.49127,Coronation Cottages,
+1902l,51.54087,-0.49127,Coronation Cottages,
 1902m_,51.49676,-0.38564,[name and date obscured],
 1902n_,51.49726,-0.38524,Amble Terrace,
 1902o_,51.52641,-0.44234,[?] Terrace,
@@ -475,7 +501,7 @@ year,latitude,longitude,notes,external
 1903v_,51.52979,-0.44219,Boston Villas,
 1903w_,51.52996,-0.44204,[?] Villas,
 1903x,51.59658,-0.34010,,
-1903y_,51.62072,-0.31688,Chart Cottages,
+1903y,51.62072,-0.31688,Chart Cottages,
 1904,51.48443,-0.37341,,
 1904a_,51.63561,-0.05213,Downham,
 1904b,51.58309,-0.33576,,
@@ -491,6 +517,7 @@ year,latitude,longitude,notes,external
 1904m_,51.47170,-0.38439,[?] Villas,
 1904n_,51.52951,-0.44252,[?] Villas,
 1904o_,51.50224,-0.31632,AD,527137311
+1904p_,51.66484,-0.06741,Ramsey Villa,92785048
 1905,51.5584532,-0.2174762,,
 1905a,51.51115,-0.37577,A.D.,192928593
 1905b_,51.6061519,-0.0681858,,
@@ -501,12 +528,11 @@ year,latitude,longitude,notes,external
 1905g,51.49281,-0.26672,The Old Pack Horse,175629798
 1905h_,51.57634,-0.06948,[foundation stone?],
 1905i,51.59701,-0.11085,The Jolly Anglers,826319994
-1905j_,51.52619,-0.44023,Hillcroft Villas,
-1905k_,51.52624,-0.43986,[?] Terrace,
+1905j,51.52619,-0.44023,Hillcroft Villas,
+1905k_,51.51722,-0.41879,Drayton House,
 1905l_,51.52932,-0.44273,[?] Villas,
 1905m_,51.49868,-0.30615,Mission Hall of the Good Shepherd... 21 October,92705665
 1905n_,51.52167,-0.43282,[unreadable],
-1905o_,51.51722,-0.41879,Drayton House,
 1906,51.5775976,-0.239595,,
 1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906a_,51.6529456,-0.0805599,Town Parade,
@@ -527,6 +553,9 @@ year,latitude,longitude,notes,external
 1906q,51.55284,-0.35740,Wood End Cottages,314831709
 1906r,51.59076,-0.37507,,
 1906s_,51.50902,-0.47323,Crac Cottages,
+1906t_,51.49798,-0.43703,[unreadable],
+1906u,51.54360,-0.48744,Swimbridge Terrace,
+1906v_,51.54010,-0.48267,[?],
 1907,51.60418,-0.19016,,
 1907a_,51.59488,-0.06906,I.S.L.V.,
 1907b_,51.58907,-0.16416,,
@@ -554,6 +583,8 @@ year,latitude,longitude,notes,external
 1908k_,51.50920,-0.30617,AD [?],91438777
 1908l,51.59605,-0.32999,,
 1908m,51.55478,-0.28654,Station Parade,329908073
+1908n_,51.66555,-0.06525,Percival Villas,1015913273
+1908o_,51.52425,-0.25281,JK,
 1909,51.49601,-0.37419,Bridge View,
 1909a_,51.6630342,-0.0772972,,
 1909b_,51.65894,-0.04723,U.D.C.E. Carnegie Library,102028970
@@ -562,7 +593,9 @@ year,latitude,longitude,notes,external
 1909e,51.50512,-0.25594,[on drainpipes],
 1909f,51.57190,-0.19679,,
 1909g_,51.48654,-0.30005,,
-1909h_,51.55530,-0.31609,,
+1909h,51.55522,-0.31605,,
+1909i_,51.58328,-0.20051,Yew Tree Court,1111756149
+1909j,51.55498,-0.31579,,
 1910,51.5964513,-0.3343658,,
 1910a,51.61400,-0.24876,,
 1910b,51.61226,-0.17552,Woodhouse Parade,
@@ -573,8 +606,9 @@ year,latitude,longitude,notes,external
 1910g_,51.52415,-0.43335,[unreadable],
 1910h_,51.52427,-0.43323,[unreadable],
 1910i_,51.52234,-0.43244,[unreadable] Cottages,
+1910j_,51.66751,-0.08393,Dane Villas,87803766
 1911,51.6092539,-0.3689304,,
-1911a_,51.6077094,-0.340214,,
+1911a,51.6077094,-0.340214,,
 1911b,51.48584,-0.3419,Oaklands,
 1911c_,51.47482,-0.34588,A.D.,818250610
 1911d_,51.56142,-0.35620,Welldon Park Council School MCC A.D.,230376774
@@ -591,11 +625,13 @@ year,latitude,longitude,notes,external
 1911o_,51.51542,-0.33103,,
 1911p_,51.51537,-0.33100,,
 1911q_,51.59232,-0.25684,Colindale House,199918359
+1911r,51.55530,-0.31609,,
 1912,51.6234141,-0.1225127,,
 1912a_,51.57775,-0.20736,,
 1912b,51.56194,-0.35321,,816597740
-1912c_,51.59237,-0.25672,Chosen Villas,199918359
-1912d_,51.59269,-0.25598,Chosen Villas,199918359
+1912c,51.59237,-0.25672,Chosen Villas,199918359
+1912d,51.59269,-0.25598,Chosen Villas,199918359
+1912e,51.59254,-0.25634,Chosen Villas,199918359
 1913,51.58867,-0.16392,,
 1913a,51.57025,-0.33993,[on drainpipe],
 1913b_,51.46549,-0.37774,,
@@ -637,17 +673,18 @@ year,latitude,longitude,notes,external
 1926a,51.57364,-0.33695,,29294316
 1926b,51.54301,-0.22451,,474481940
 1926c_,51.54858,-0.22205,[the 9 is missing],
+1926d,51.61131,-0.42346,[on drainpipe],824657938
 1927,51.39153,-0.44961,Lordsbridge House,
 1927a,51.57974,-0.41321,,
 1927b_,51.63453,-0.09415,,677746496
 1928,51.61265,-0.2773,Built by Cowen & Cross,
 1928a,51.56438,-0.35358,Parkfield Parade A.D.,
 1928b_,51.58075,-0.12157,Earl Haig Memorial,475243813
-1929,51.51227,-0.38419,M.Cowen A.D.,
-1929R_,51.59301,-0.25574,,199925585
+1929,51.59301,-0.25574,,199925585
 1929a,51.5141824,-0.3018914,The Feathers Restaurant,
 1929b,51.58098,-0.31861,Churchill Parade A.D.,244894174
 1929c,51.58819,-0.35016,St George's Hall [sign added after 2018],
+1929d,51.51227,-0.38419,M.Cowen A.D.,
 1930,51.50871,-0.33722,Rebuilt,
 1930a,51.59867,-0.06782,LCS [was rebuilt later],178814685
 1930b_,51.5025,-0.30562,,913143859
@@ -670,13 +707,15 @@ year,latitude,longitude,notes,external
 1932b_,51.56053,-0.35804,Roxeth Grove Parade A.D.,
 1932c_,51.65225,-0.07987,St. Once Parade,92342857
 1932d,51.58635,-0.30693,,
+1932e,51.52303,-0.42165,Ye Olde Crowne. Proper Pub. Garden. Live Music.,
 1933,51.59415,-0.37973,Grange Court,
 1933a,51.5941,-0.38243,,
 1933b,51.43522,-0.50705,,558826983
-1933c_,51.53558,-0.45992,The Vine Inn,841803217
+1933c,51.53558,-0.45992,The Vine Inn,841803217
 1933d_,51.46315,-0.38795,Rebuilt,
 1933e_,51.48721,-0.25607,1879,641951238
-1933f_,51.55610,-0.31811,[?],228867313
+1933f,51.55610,-0.31811,[?],228867313
+1933g,51.60771,-0.37469,The Broadway A.D.,628144625
 1934,51.4819433,-0.474766,,
 1934a_,51.43950,-0.49768,W.S.F.,
 1935,51.49704,-0.24846,B & C Corpn.,
@@ -687,14 +726,16 @@ year,latitude,longitude,notes,external
 1935f,51.52668,-0.35232,GR V,
 1935g,51.58994,-0.33565,GR V,130537060
 1935h_,51.62573,-0.17623,,74866840
+1935i_,51.58581,-0.19944,,963653014
 1936,51.589062,-0.2533524,Wakemans Hill Parade,
 1936a_,51.63544,-0.09175,ER VIII,449549027
+1936b,51.60812,-0.37235,S,609808899
 1937,51.50852,-0.47325,Broadway Parade,
 1937a,51.50764,-0.47335,GR VI,
 1937b_,51.51782,-0.28021,,
 1937c,51.59075,-0.36636,Harrow Fire Station,975647618
 1938,51.53487,-0.24792,GR VI Telephone Exchange,
-1938a_,51.51229,-0.38318,,
+1938a,51.51229,-0.38318,,
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
 1948a_,51.51769,-0.43308,Hayes Amateur Boxing Club Est,
 1951,51.58966,-0.21855,GR VI,
@@ -724,14 +765,14 @@ year,latitude,longitude,notes,external
 2003,51.6171569,-0.3159878,White Gates,
 2003a,51.61723,-0.24436,Lowlands Court,
 2003b_,51.65375,-0.09775,Bellway Homes,309890586
-2004_,51.52716,-0.44223,,
+2004,51.52716,-0.44223,Linden Homes,
 2005,51.53229,-0.37394,,220475699
 2007,51.60720,-0.43567,,
 2007a,51.55015,-0.40119,Howarth Homes,
 2008,51.59685,-0.38898,,
 2008R_,51.47918,-0.34172,Linden Homes,996297025
 2009,51.5796091,-0.2418664,,
-2009a_,51.57884,-0.40956,Bishop Ramsey [on gate],166164838
+2009a,51.57884,-0.40956,Bishop Ramsey [on gate],166164838
 2010_,51.65160,-0.08641,1912 Enfield Town Library,15219318
 2012,51.61182,-0.43490,,
 2012a_,51.65247,-0.08262,,91060455
