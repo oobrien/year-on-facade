@@ -1514,6 +1514,14 @@ const data = {
       "notes": "Faringdon Villas",
       "external": "459194147"
     },
+    "1884h_": {
+      "latlng": {
+        "lat": 51.50378,
+        "lng": -0.37877
+      },
+      "notes": "Spinner Cottages",
+      "external": ""
+    },
     "1885": {
       "latlng": {
         "lat": 51.58609,
@@ -1617,6 +1625,14 @@ const data = {
       },
       "notes": "Percival Villas",
       "external": "87963819"
+    },
+    "1885m_": {
+      "latlng": {
+        "lat": 51.50379,
+        "lng": -0.3789
+      },
+      "notes": "Gordon Cottages",
+      "external": ""
     },
     "1886_": {
       "latlng": {
@@ -1816,6 +1832,14 @@ const data = {
         "lng": -0.48418
       },
       "notes": "Bentley Villas",
+      "external": ""
+    },
+    "1887k_": {
+      "latlng": {
+        "lat": 51.50378,
+        "lng": -0.37906
+      },
+      "notes": "Jubilee Cottages",
       "external": ""
     },
     "1888": {
@@ -2178,6 +2202,14 @@ const data = {
       "notes": "[date unclear]",
       "external": ""
     },
+    "1890e_": {
+      "latlng": {
+        "lat": 51.50119,
+        "lng": -0.38697
+      },
+      "notes": "HD",
+      "external": "327315538"
+    },
     "1891": {
       "latlng": {
         "lat": 51.57591,
@@ -2298,7 +2330,7 @@ const data = {
       "notes": "The Golden Fleece",
       "external": ""
     },
-    "1892b_": {
+    "1892b": {
       "latlng": {
         "lat": 51.582235,
         "lng": -0.33576
@@ -2506,6 +2538,14 @@ const data = {
       "notes": "Florence Villas",
       "external": "87803753"
     },
+    "1893o_": {
+      "latlng": {
+        "lat": 51.50151,
+        "lng": -0.38424
+      },
+      "notes": "AD",
+      "external": ""
+    },
     "1894": {
       "latlng": {
         "lat": 51.46839,
@@ -2593,6 +2633,14 @@ const data = {
       },
       "notes": "",
       "external": "91254680"
+    },
+    "1894l_": {
+      "latlng": {
+        "lat": 51.50201,
+        "lng": -0.38484
+      },
+      "notes": "Daisy Villas F V",
+      "external": ""
     },
     "1895": {
       "latlng": {
@@ -2697,6 +2745,22 @@ const data = {
       },
       "notes": "",
       "external": "457486121"
+    },
+    "1895m_": {
+      "latlng": {
+        "lat": 51.50287,
+        "lng": -0.38702
+      },
+      "notes": "Roseband Villas",
+      "external": ""
+    },
+    "1895n_": {
+      "latlng": {
+        "lat": 51.50355,
+        "lng": -0.38985
+      },
+      "notes": "Ivy Villas",
+      "external": ""
     },
     "1896": {
       "latlng": {
@@ -2809,6 +2873,30 @@ const data = {
       },
       "notes": "Pilgrim Villas",
       "external": "87803636"
+    },
+    "1896n_": {
+      "latlng": {
+        "lat": 51.50301,
+        "lng": -0.38572
+      },
+      "notes": "Lacy Cottages",
+      "external": ""
+    },
+    "1896o_": {
+      "latlng": {
+        "lat": 51.50367,
+        "lng": -0.38688
+      },
+      "notes": "Rose Villas",
+      "external": ""
+    },
+    "1896p_": {
+      "latlng": {
+        "lat": 51.50364,
+        "lng": -0.38716
+      },
+      "notes": "Hawarden Villas",
+      "external": ""
     },
     "1897": {
       "latlng": {
@@ -2954,6 +3042,14 @@ const data = {
       "notes": "Commenced AD 1896 Completed AD",
       "external": ""
     },
+    "1897r_": {
+      "latlng": {
+        "lat": 51.5036,
+        "lng": -0.38744
+      },
+      "notes": "Pembroke Cottages",
+      "external": ""
+    },
     "1898": {
       "latlng": {
         "lat": 51.54711,
@@ -3097,6 +3193,22 @@ const data = {
       },
       "notes": "New River Company",
       "external": "1028761118"
+    },
+    "1898r_": {
+      "latlng": {
+        "lat": 51.50353,
+        "lng": -0.38971
+      },
+      "notes": "Holly Villas",
+      "external": ""
+    },
+    "1898s_": {
+      "latlng": {
+        "lat": 51.50357,
+        "lng": -0.3918
+      },
+      "notes": "Drayton Villas",
+      "external": ""
     },
     "1899": {
       "latlng": {
@@ -4034,6 +4146,14 @@ const data = {
       "notes": "Chart Cottages",
       "external": ""
     },
+    "1903z": {
+      "latlng": {
+        "lat": 51.49655,
+        "lng": -0.38435
+      },
+      "notes": "Keswick Terrace",
+      "external": ""
+    },
     "1904": {
       "latlng": {
         "lat": 51.48443,
@@ -4162,6 +4282,14 @@ const data = {
       "notes": "Ramsey Villa",
       "external": "92785048"
     },
+    "1904q_": {
+      "latlng": {
+        "lat": 51.49619,
+        "lng": -0.38466
+      },
+      "notes": "Avenue Terrace",
+      "external": ""
+    },
     "1905": {
       "latlng": {
         "lat": 51.5584532,
@@ -4280,6 +4408,14 @@ const data = {
         "lng": -0.43282
       },
       "notes": "[unreadable]",
+      "external": ""
+    },
+    "1905o_": {
+      "latlng": {
+        "lat": 51.49607,
+        "lng": -0.38435
+      },
+      "notes": "Victor Terrace",
       "external": ""
     },
     "1906": {
@@ -4570,6 +4706,14 @@ const data = {
       "notes": "AD",
       "external": "527137321"
     },
+    "1907m_": {
+      "latlng": {
+        "lat": 51.49914,
+        "lng": -0.39103
+      },
+      "notes": "S",
+      "external": ""
+    },
     "1908": {
       "latlng": {
         "lat": 51.61496,
@@ -4698,6 +4842,14 @@ const data = {
       "notes": "JK",
       "external": ""
     },
+    "1908p_": {
+      "latlng": {
+        "lat": 51.49777,
+        "lng": -0.38333
+      },
+      "notes": "Minerva Terrace",
+      "external": ""
+    },
     "1909": {
       "latlng": {
         "lat": 51.49601,
@@ -4784,6 +4936,14 @@ const data = {
         "lng": -0.31579
       },
       "notes": "",
+      "external": ""
+    },
+    "1909k_": {
+      "latlng": {
+        "lat": 51.49825,
+        "lng": -0.37988
+      },
+      "notes": "A.D.",
       "external": ""
     },
     "1910": {
@@ -4873,6 +5033,14 @@ const data = {
       },
       "notes": "Dane Villas",
       "external": "87803766"
+    },
+    "1910k_": {
+      "latlng": {
+        "lat": 51.50088,
+        "lng": -0.3887
+      },
+      "notes": "",
+      "external": ""
     },
     "1911": {
       "latlng": {
@@ -5203,6 +5371,14 @@ const data = {
       "external": "671600555"
     },
     "1916_": {
+      "latlng": {
+        "lat": 51.50078,
+        "lng": -0.38744
+      },
+      "notes": "Home Villas",
+      "external": "327315844"
+    },
+    "1916a_": {
       "latlng": {
         "lat": 51.4813,
         "lng": -0.38219
@@ -5985,6 +6161,14 @@ const data = {
       },
       "notes": "Haydon House [on plaque]",
       "external": "317387812"
+    },
+    "1989_": {
+      "latlng": {
+        "lat": 51.51387,
+        "lng": -0.38081
+      },
+      "notes": "",
+      "external": ""
     },
     "1990_": {
       "latlng": {
