@@ -109,6 +109,15 @@ const data = {
       },
       "notes": ""
     },
+    "1700_": {
+      "city": "Middlesex",
+      "external": "729735977",
+      "latlng": {
+        "lat": 51.41438,
+        "lng": -0.36002
+      },
+      "notes": "The Old Saddlery Circa"
+    },
     "1702": {
       "city": "London",
       "external": "1079115",
@@ -324,6 +333,15 @@ const data = {
         "lng": 12.59258735833644
       },
       "notes": ""
+    },
+    "1759_": {
+      "city": "Middlesex",
+      "external": "708005546",
+      "latlng": {
+        "lat": 51.42788,
+        "lng": -0.32583
+      },
+      "notes": "Peg Woffington Cottage"
     },
     "1760": {
       "city": "London",
@@ -658,15 +676,6 @@ const data = {
       },
       "notes": ""
     },
-    "1826_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.53713,
-        "lng": -0.47144
-      },
-      "notes": "Pleasant Place"
-    },
     "1826a_": {
       "city": "Middlesex",
       "external": "91063116",
@@ -811,6 +820,15 @@ const data = {
       },
       "notes": ""
     },
+    "1840_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43566,
+        "lng": -0.34821
+      },
+      "notes": "Valentine Cottages E.D.C."
+    },
     "1841": {
       "city": "Brighton_and_Hove",
       "external": "1379976",
@@ -846,6 +864,15 @@ const data = {
         "lng": -0.11749110475440262
       },
       "notes": ""
+    },
+    "1846a_": {
+      "city": "Middlesex",
+      "external": "311913765",
+      "latlng": {
+        "lat": 51.44089,
+        "lng": -0.34956
+      },
+      "notes": "The Cottage of Content. Thou shalt not bear false witness against thy neighbour. E.I.F."
     },
     "1847": {
       "city": "London",
@@ -954,6 +981,24 @@ const data = {
         "lng": -0.31021
       },
       "notes": "Rose Cottages"
+    },
+    "1851b_": {
+      "city": "Middlesex",
+      "external": "950043896",
+      "latlng": {
+        "lat": 51.42419,
+        "lng": -0.33466
+      },
+      "notes": "1 Adelaide Villas"
+    },
+    "1851c_": {
+      "city": "Middlesex",
+      "external": "950043893",
+      "latlng": {
+        "lat": 51.42434,
+        "lng": -0.33465
+      },
+      "notes": "[?]"
     },
     "1852": {
       "city": "London",
@@ -1090,6 +1135,15 @@ const data = {
       },
       "notes": ""
     },
+    "1856a_": {
+      "city": "Middlesex",
+      "external": "950043894",
+      "latlng": {
+        "lat": 51.42429,
+        "lng": -0.33465
+      },
+      "notes": "Park Cottage"
+    },
     "1857": {
       "city": "London",
       "external": "1079168",
@@ -1128,12 +1182,12 @@ const data = {
     },
     "1859_": {
       "city": "Middlesex",
-      "external": "",
+      "external": "951204997",
       "latlng": {
-        "lat": 51.4703525,
-        "lng": -0.3284286
+        "lat": 51.42311,
+        "lng": -0.33345
       },
-      "notes": "Silver Hall Place"
+      "notes": ""
     },
     "1859a_": {
       "city": "Middlesex",
@@ -1143,6 +1197,15 @@ const data = {
         "lng": -0.0830927
       },
       "notes": "Rose Cottages"
+    },
+    "1859b_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4703525,
+        "lng": -0.3284286
+      },
+      "notes": "Silver Hall Place"
     },
     "1860": {
       "city": "London",
@@ -1189,6 +1252,15 @@ const data = {
       },
       "notes": "Adelaide Villas"
     },
+    "1861d_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.41392,
+        "lng": -0.36057
+      },
+      "notes": "AD:"
+    },
     "1862": {
       "city": "London",
       "external": "1225397",
@@ -1224,6 +1296,15 @@ const data = {
         "lng": -0.17261
       },
       "notes": ""
+    },
+    "1862d_": {
+      "city": "Middlesex",
+      "external": "708005555",
+      "latlng": {
+        "lat": 51.42767,
+        "lng": -0.32723
+      },
+      "notes": "Oxford Villas"
     },
     "1863": {
       "city": "London",
@@ -1288,6 +1369,24 @@ const data = {
       },
       "notes": "Trafalgar Place"
     },
+    "1864c_": {
+      "city": "Middlesex",
+      "external": "708005553",
+      "latlng": {
+        "lat": 51.42773,
+        "lng": -0.32681
+      },
+      "notes": "Harrow Villas"
+    },
+    "1864d_": {
+      "city": "Middlesex",
+      "external": "708005552",
+      "latlng": {
+        "lat": 51.42776,
+        "lng": -0.3266
+      },
+      "notes": "Eton Villas"
+    },
     "1865": {
       "city": "London",
       "external": "1358631",
@@ -1344,12 +1443,30 @@ const data = {
     },
     "1867_": {
       "city": "Middlesex",
+      "external": "986663453",
+      "latlng": {
+        "lat": 51.42987,
+        "lng": -0.33835
+      },
+      "notes": "Clarence Terrace"
+    },
+    "1867a_": {
+      "city": "Middlesex",
       "external": "882870880",
       "latlng": {
         "lat": 51.48476,
         "lng": -0.30612
       },
       "notes": "This Stone Was Laid By Her Royal Highness Princess Margaret Duchess of Teck 31st December"
+    },
+    "1867b_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42887,
+        "lng": -0.33705
+      },
+      "notes": "Hyde Cottage"
     },
     "1868": {
       "city": "Brighton_and_Hove",
@@ -1369,7 +1486,7 @@ const data = {
       },
       "notes": "Nelson Row"
     },
-    "1868b_": {
+    "1868b": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -1395,6 +1512,24 @@ const data = {
         "lng": -0.25647
       },
       "notes": "Hogarth Terrace"
+    },
+    "1868e_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43073,
+        "lng": -0.33912
+      },
+      "notes": "Devonshire Place"
+    },
+    "1868f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4309,
+        "lng": -0.33925
+      },
+      "notes": "Ada Cottages"
     },
     "1869": {
       "city": "London",
@@ -1441,6 +1576,15 @@ const data = {
       },
       "notes": ""
     },
+    "1870_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4269,
+        "lng": -0.361
+      },
+      "notes": "Rose Cottage"
+    },
     "1871": {
       "city": "London",
       "external": "1391501",
@@ -1467,6 +1611,15 @@ const data = {
         "lng": -0.01831
       },
       "notes": "Leamington Cottage"
+    },
+    "1871c_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43167,
+        "lng": -0.33969
+      },
+      "notes": "Stafford Place"
     },
     "1872": {
       "city": "London",
@@ -1508,10 +1661,10 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.52945,
-        "lng": -0.48239
+        "lat": 51.42885,
+        "lng": -0.33714
       },
-      "notes": "[?] Cottages"
+      "notes": "Laburnum Cottage"
     },
     "1873": {
       "city": "London",
@@ -1557,6 +1710,15 @@ const data = {
         "lng": -0.30803
       },
       "notes": "Alberto Villa"
+    },
+    "1874b_": {
+      "city": "Middlesex",
+      "external": "986663458",
+      "latlng": {
+        "lat": 51.43,
+        "lng": -0.33847
+      },
+      "notes": "Edith Cottages"
     },
     "1875": {
       "city": "London",
@@ -1621,15 +1783,6 @@ const data = {
       },
       "notes": ""
     },
-    "1877R_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.51647,
-        "lng": -0.4191
-      },
-      "notes": "JM"
-    },
     "1877a_": {
       "city": "Middlesex",
       "external": "817951789",
@@ -1656,6 +1809,15 @@ const data = {
         "lng": -0.0836626
       },
       "notes": "Myrtle Villa"
+    },
+    "1877d": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59768,
+        "lng": -0.3957
+      },
+      "notes": "Caroline Cottages"
     },
     "1878": {
       "city": "London",
@@ -1719,6 +1881,15 @@ const data = {
       },
       "notes": "Cleopatra Terrace"
     },
+    "1878g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42639,
+        "lng": -0.3585
+      },
+      "notes": "Devonshire Villas"
+    },
     "1879": {
       "city": "London",
       "external": "1066393",
@@ -1774,12 +1945,21 @@ const data = {
     },
     "1879f_": {
       "city": "Middlesex",
-      "external": "",
+      "external": "960076659",
       "latlng": {
-        "lat": 51.52624,
-        "lng": -0.43986
+        "lat": 51.42944,
+        "lng": -0.32351
       },
-      "notes": "Rose Terrace"
+      "notes": ""
+    },
+    "1879g_": {
+      "city": "Middlesex",
+      "external": "717894014",
+      "latlng": {
+        "lat": 51.42628,
+        "lng": -0.35651
+      },
+      "notes": "E.J.F."
     },
     "1880": {
       "city": "London",
@@ -1889,6 +2069,15 @@ const data = {
       },
       "notes": ""
     },
+    "1880k_": {
+      "city": "Middlesex",
+      "external": "961008759",
+      "latlng": {
+        "lat": 51.4321,
+        "lng": -0.34668
+      },
+      "notes": "Fullwell Terrace"
+    },
     "1881": {
       "city": "London",
       "external": "1286182",
@@ -1938,10 +2127,10 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.51896,
-        "lng": -0.42241
+        "lat": 51.6621064,
+        "lng": -0.0890721
       },
-      "notes": "Surprising Villas"
+      "notes": "Glencall Villas"
     },
     "1881e_": {
       "city": "Middlesex",
@@ -1974,10 +2163,10 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.59764,
-        "lng": -0.39599
+        "lat": 51.51896,
+        "lng": -0.42241
       },
-      "notes": ""
+      "notes": "Surprising Villas"
     },
     "1881i_": {
       "city": "Middlesex",
@@ -2006,7 +2195,7 @@ const data = {
       },
       "notes": "Olive Villas"
     },
-    "1881l_": {
+    "1881l": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2041,6 +2230,42 @@ const data = {
         "lng": -0.08372
       },
       "notes": "Rolph Villas"
+    },
+    "1881p_": {
+      "city": "Middlesex",
+      "external": "893075111",
+      "latlng": {
+        "lat": 51.4281,
+        "lng": -0.33738
+      },
+      "notes": "Albert Terrace"
+    },
+    "1881q_": {
+      "city": "Middlesex",
+      "external": "961008795",
+      "latlng": {
+        "lat": 51.43225,
+        "lng": -0.3482
+      },
+      "notes": "Garfield Terrace"
+    },
+    "1881r_": {
+      "city": "Middlesex",
+      "external": "972851567",
+      "latlng": {
+        "lat": 51.43242,
+        "lng": -0.3483
+      },
+      "notes": "Woburn Terrace"
+    },
+    "1881s_": {
+      "city": "Middlesex",
+      "external": "966391556",
+      "latlng": {
+        "lat": 51.43022,
+        "lng": -0.34918
+      },
+      "notes": "Portland Villas"
     },
     "1882": {
       "city": "London",
@@ -2330,6 +2555,24 @@ const data = {
       },
       "notes": "Hope Cottages"
     },
+    "1883o_": {
+      "city": "Middlesex",
+      "external": "708049989",
+      "latlng": {
+        "lat": 51.42599,
+        "lng": -0.33618
+      },
+      "notes": ""
+    },
+    "1883p_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42833,
+        "lng": -0.37398
+      },
+      "notes": "Rose Cottage"
+    },
     "1884": {
       "city": "London",
       "external": "1266119",
@@ -2410,6 +2653,60 @@ const data = {
         "lng": -0.37877
       },
       "notes": "Spinner Cottages"
+    },
+    "1884i_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42705,
+        "lng": -0.33799
+      },
+      "notes": "Marden Cottage"
+    },
+    "1884j_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42696,
+        "lng": -0.33827
+      },
+      "notes": "Woodbury Villas"
+    },
+    "1884k_": {
+      "city": "Middlesex",
+      "external": "961008762",
+      "latlng": {
+        "lat": 51.43208,
+        "lng": -0.34643
+      },
+      "notes": "Perry Cottages"
+    },
+    "1884l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4263,
+        "lng": -0.3613
+      },
+      "notes": "Ferndale"
+    },
+    "1884m_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43237,
+        "lng": -0.38265
+      },
+      "notes": "Bloomfield"
+    },
+    "1884n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43281,
+        "lng": -0.38305
+      },
+      "notes": "Thornton Villas"
     },
     "1885": {
       "city": "London",
@@ -2618,7 +2915,7 @@ const data = {
       },
       "notes": "Hastings Terrace"
     },
-    "1886h_": {
+    "1886h": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2654,7 +2951,7 @@ const data = {
       },
       "notes": ""
     },
-    "1886l_": {
+    "1886l": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2663,14 +2960,41 @@ const data = {
       },
       "notes": "Rosebank Cottages"
     },
-    "1886m": {
+    "1886m_": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.53352,
-        "lng": -0.45623
+        "lat": 51.661142,
+        "lng": -0.0861842
       },
-      "notes": "Sunningdale Cottages"
+      "notes": "Raleigh Place"
+    },
+    "1886n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42652,
+        "lng": -0.3352
+      },
+      "notes": "Laburnum Cottages"
+    },
+    "1886o_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4262,
+        "lng": -0.3618
+      },
+      "notes": "Longford Cottages"
+    },
+    "1886p_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42842,
+        "lng": -0.37425
+      },
+      "notes": "Beach Cottage"
     },
     "1887": {
       "city": "London",
@@ -2753,7 +3077,7 @@ const data = {
       },
       "notes": "Built in the [?]"
     },
-    "1887i_": {
+    "1887i": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2761,15 +3085,6 @@ const data = {
         "lng": -0.48364
       },
       "notes": "Home Cottage"
-    },
-    "1887j_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.53827,
-        "lng": -0.48418
-      },
-      "notes": "Bentley Villas"
     },
     "1887k_": {
       "city": "Middlesex",
@@ -2779,6 +3094,51 @@ const data = {
         "lng": -0.37906
       },
       "notes": "Jubilee Cottages"
+    },
+    "1887l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42882,
+        "lng": -0.33722
+      },
+      "notes": "Ivy Cottage"
+    },
+    "1887m_": {
+      "city": "Middlesex",
+      "external": "893078615",
+      "latlng": {
+        "lat": 51.42799,
+        "lng": -0.3373
+      },
+      "notes": "Nemour Cottages"
+    },
+    "1887n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43298,
+        "lng": -0.38346
+      },
+      "notes": "St James's Villas"
+    },
+    "1887o_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43346,
+        "lng": -0.38486
+      },
+      "notes": "Fulmer Cottages"
+    },
+    "1887p_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53956,
+        "lng": -0.48314
+      },
+      "notes": "Demston Cottage"
     },
     "1888": {
       "city": "London",
@@ -2843,7 +3203,7 @@ const data = {
       },
       "notes": "Katrine"
     },
-    "1888g_": {
+    "1888g": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2852,7 +3212,7 @@ const data = {
       },
       "notes": "Anchor Cottages"
     },
-    "1888h_": {
+    "1888h": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -2964,19 +3324,37 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.53971,
-        "lng": -0.48318
+        "lat": 51.53919,
+        "lng": -0.48323
       },
       "notes": "[?]"
     },
-    "1888u_": {
+    "1888u": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
         "lat": 51.5399,
         "lng": -0.48314
       },
-      "notes": "[?]"
+      "notes": "Eversholt Place"
+    },
+    "1888v_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4271,
+        "lng": -0.33877
+      },
+      "notes": "Albany Terrace"
+    },
+    "1888w": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53823,
+        "lng": -0.48336
+      },
+      "notes": "Industry"
     },
     "1889": {
       "city": "London",
@@ -3148,6 +3526,33 @@ const data = {
         "lng": -0.20429
       },
       "notes": "Christ Church Brondesbury Infant School and Mission Room"
+    },
+    "1889s_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42701,
+        "lng": -0.33805
+      },
+      "notes": "Eversley Villa"
+    },
+    "1889t_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42745,
+        "lng": -0.37147
+      },
+      "notes": "Essex House Built"
+    },
+    "1889u_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42984,
+        "lng": -0.38728
+      },
+      "notes": "Portland Cottages"
     },
     "1890": {
       "city": "London",
@@ -3455,6 +3860,24 @@ const data = {
       },
       "notes": "Thorn Cottages"
     },
+    "1892n_": {
+      "city": "Middlesex",
+      "external": "311913755",
+      "latlng": {
+        "lat": 51.4404,
+        "lng": -0.34907
+      },
+      "notes": "Wycombe Cottages"
+    },
+    "1892o": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52945,
+        "lng": -0.48239
+      },
+      "notes": "Cedar Cottages H. B"
+    },
     "1893": {
       "city": "London",
       "external": "",
@@ -3725,6 +4148,15 @@ const data = {
       },
       "notes": "Daisy Villas F V"
     },
+    "1894m_": {
+      "city": "Middlesex",
+      "external": "311908902",
+      "latlng": {
+        "lat": 51.44168,
+        "lng": -0.35049
+      },
+      "notes": "Fairview Cottages"
+    },
     "1895": {
       "city": "London",
       "external": "1262632",
@@ -3868,6 +4300,24 @@ const data = {
         "lng": -0.38985
       },
       "notes": "Ivy Villas"
+    },
+    "1895o_": {
+      "city": "Middlesex",
+      "external": "311971041",
+      "latlng": {
+        "lat": 51.42913,
+        "lng": -0.3541
+      },
+      "notes": "Matthews Stores"
+    },
+    "1895p": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53903,
+        "lng": -0.48373
+      },
+      "notes": "Sunnyside [number damaged]"
     },
     "1896": {
       "city": "Brighton_and_Hove",
@@ -4022,6 +4472,15 @@ const data = {
       },
       "notes": "Hawarden Villas"
     },
+    "1896q_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.42694,
+        "lng": -0.33803
+      },
+      "notes": "Dene Cottage"
+    },
     "1897": {
       "city": "London",
       "external": "1226629",
@@ -4053,8 +4512,8 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.4132,
-        "lng": -0.3642206
+        "lat": 51.41329,
+        "lng": -0.36418
       },
       "notes": ""
     },
@@ -4062,8 +4521,8 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.4130485,
-        "lng": -0.3653108
+        "lat": 51.41286,
+        "lng": -0.36532
       },
       "notes": ""
     },
@@ -4400,6 +4859,15 @@ const data = {
       },
       "notes": "Drayton Villas"
     },
+    "1898t_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.44159,
+        "lng": -0.35182
+      },
+      "notes": "Sussex Arms Cottages"
+    },
     "1899": {
       "city": "Copenhagen",
       "external": "3343222",
@@ -4471,14 +4939,14 @@ const data = {
       },
       "notes": ""
     },
-    "1899f_": {
+    "1899f": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.51525,
-        "lng": -0.32258
+        "lat": 51.52624,
+        "lng": -0.43986
       },
-      "notes": ""
+      "notes": "Rose Terrace"
     },
     "1899g_": {
       "city": "Middlesex",
@@ -4650,6 +5118,33 @@ const data = {
         "lng": -0.47913
       },
       "notes": "Primrose Villas"
+    },
+    "1899za_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.44289,
+        "lng": -0.34746
+      },
+      "notes": "Edwin Villas"
+    },
+    "1899zb_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.53827,
+        "lng": -0.48418
+      },
+      "notes": "Bentley Villas [number damaged]"
+    },
+    "1899zc_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51525,
+        "lng": -0.32258
+      },
+      "notes": ""
     },
     "1900": {
       "city": "London",
@@ -4876,7 +5371,7 @@ const data = {
       },
       "notes": "AD HCR [currently obscured by scaffolding]"
     },
-    "1900w_": {
+    "1900w": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -4938,6 +5433,24 @@ const data = {
         "lng": -0.08319
       },
       "notes": "Mill Bank"
+    },
+    "1900zd_": {
+      "city": "Middlesex",
+      "external": "708049988",
+      "latlng": {
+        "lat": 51.42598,
+        "lng": -0.33635
+      },
+      "notes": ""
+    },
+    "1900ze_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.44284,
+        "lng": -0.34741
+      },
+      "notes": "Edwin Villas"
     },
     "1901": {
       "city": "London",
@@ -5253,6 +5766,15 @@ const data = {
         "lng": -0.30542
       },
       "notes": "A D"
+    },
+    "1902s_": {
+      "city": "Middlesex",
+      "external": "311904742",
+      "latlng": {
+        "lat": 51.44364,
+        "lng": -0.34789
+      },
+      "notes": "Brodie Terrace"
     },
     "1903": {
       "city": "London",
@@ -5668,6 +6190,24 @@ const data = {
       },
       "notes": "Avenue Terrace"
     },
+    "1904r_": {
+      "city": "Middlesex",
+      "external": "60141304",
+      "latlng": {
+        "lat": 51.41941,
+        "lng": -0.37053
+      },
+      "notes": "Myosotis Villa"
+    },
+    "1904s_": {
+      "city": "Middlesex",
+      "external": "60141322",
+      "latlng": {
+        "lat": 51.41991,
+        "lng": -0.37076
+      },
+      "notes": "Pro[?] Villas"
+    },
     "1905": {
       "city": "London",
       "external": "1079754",
@@ -5776,7 +6316,7 @@ const data = {
       },
       "notes": "Hillcroft Villas"
     },
-    "1905k_": {
+    "1905k": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -5820,6 +6360,15 @@ const data = {
         "lng": -0.38435
       },
       "notes": "Victor Terrace"
+    },
+    "1905p_": {
+      "city": "Middlesex",
+      "external": "469029192",
+      "latlng": {
+        "lat": 51.42764,
+        "lng": -0.33445
+      },
+      "notes": "TLDC"
     },
     "1906": {
       "city": "Copenhagen",
@@ -6027,6 +6576,33 @@ const data = {
         "lng": -0.48267
       },
       "notes": "[?]"
+    },
+    "1906w_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.4262,
+        "lng": -0.35835
+      },
+      "notes": "Hampton Urban District Council Erected A.D."
+    },
+    "1906x_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52415,
+        "lng": -0.43335
+      },
+      "notes": "[unreadable]"
+    },
+    "1906y_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.52427,
+        "lng": -0.43323
+      },
+      "notes": "[unreadable]"
     },
     "1907": {
       "city": "London",
@@ -6316,6 +6892,33 @@ const data = {
       },
       "notes": "Minerva Terrace"
     },
+    "1908r_": {
+      "city": "Middlesex",
+      "external": "91648660",
+      "latlng": {
+        "lat": 51.42133,
+        "lng": -0.36943
+      },
+      "notes": ""
+    },
+    "1908s_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.41475,
+        "lng": -0.37293
+      },
+      "notes": ""
+    },
+    "1908t_": {
+      "city": "Middlesex",
+      "external": "469218841",
+      "latlng": {
+        "lat": 51.41348,
+        "lng": -0.36252
+      },
+      "notes": ""
+    },
     "1909": {
       "city": "London",
       "external": "1184764",
@@ -6352,7 +6955,7 @@ const data = {
       },
       "notes": "U.D.C.E. Carnegie Library"
     },
-    "1909c_": {
+    "1909c": {
       "city": "Middlesex",
       "external": "711066161",
       "latlng": {
@@ -6433,6 +7036,15 @@ const data = {
       },
       "notes": "A.D."
     },
+    "1909l_": {
+      "city": "Middlesex",
+      "external": "707077032",
+      "latlng": {
+        "lat": 51.42736,
+        "lng": -0.32774
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -6500,30 +7112,12 @@ const data = {
       "city": "Middlesex",
       "external": "",
       "latlng": {
-        "lat": 51.52415,
-        "lng": -0.43335
-      },
-      "notes": "[unreadable]"
-    },
-    "1910h_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.52427,
-        "lng": -0.43323
-      },
-      "notes": "[unreadable]"
-    },
-    "1910i_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
         "lat": 51.52234,
         "lng": -0.43244
       },
       "notes": "[unreadable] Cottages"
     },
-    "1910j_": {
+    "1910h_": {
       "city": "Middlesex",
       "external": "87803766",
       "latlng": {
@@ -6532,12 +7126,21 @@ const data = {
       },
       "notes": "Dane Villas"
     },
-    "1910k_": {
+    "1910i_": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
         "lat": 51.50088,
         "lng": -0.3887
+      },
+      "notes": ""
+    },
+    "1910j_": {
+      "city": "Middlesex",
+      "external": "710474612",
+      "latlng": {
+        "lat": 51.42756,
+        "lng": -0.32641
       },
       "notes": ""
     },
@@ -6766,6 +7369,15 @@ const data = {
       },
       "notes": "Chosen Villas"
     },
+    "1912f_": {
+      "city": "Middlesex",
+      "external": "781337436",
+      "latlng": {
+        "lat": 51.43234,
+        "lng": -0.3385
+      },
+      "notes": "[on drainpipe]"
+    },
     "1913": {
       "city": "London",
       "external": "1079844",
@@ -6802,7 +7414,7 @@ const data = {
       },
       "notes": "Tottenham County School A.D."
     },
-    "1913e_": {
+    "1913e": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -6811,7 +7423,7 @@ const data = {
       },
       "notes": "Hayes U.D.C."
     },
-    "1913f_": {
+    "1913f": {
       "city": "Middlesex",
       "external": "",
       "latlng": {
@@ -6901,6 +7513,15 @@ const data = {
       },
       "notes": ""
     },
+    "1914h_": {
+      "city": "Middlesex",
+      "external": "312006373",
+      "latlng": {
+        "lat": 51.42286,
+        "lng": -0.35881
+      },
+      "notes": ""
+    },
     "1915": {
       "city": "London",
       "external": "1267275",
@@ -6909,15 +7530,6 @@ const data = {
         "lng": -0.13991853542653138
       },
       "notes": ""
-    },
-    "1915_": {
-      "city": "Middlesex",
-      "external": "",
-      "latlng": {
-        "lat": 51.51675,
-        "lng": -0.41885
-      },
-      "notes": "WM"
     },
     "1915a_": {
       "city": "Middlesex",
@@ -7521,6 +8133,15 @@ const data = {
       },
       "notes": "Ye Olde Crowne. Proper Pub. Garden. Live Music."
     },
+    "1932f_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.43611,
+        "lng": -0.35049
+      },
+      "notes": "Rebuilt"
+    },
     "1933": {
       "city": "London",
       "external": "1418431",
@@ -8070,6 +8691,15 @@ const data = {
       },
       "notes": ""
     },
+    "1996a_": {
+      "city": "Middlesex",
+      "external": "347997284",
+      "latlng": {
+        "lat": 51.44265,
+        "lng": -0.34324
+      },
+      "notes": ""
+    },
     "1997": {
       "city": "London",
       "external": "",
@@ -8087,6 +8717,15 @@ const data = {
         "lng": -0.30176
       },
       "notes": "Opening"
+    },
+    "1997b_": {
+      "city": "Middlesex",
+      "external": "958805239",
+      "latlng": {
+        "lat": 51.41315,
+        "lng": -0.36361
+      },
+      "notes": ""
     },
     "1999": {
       "city": "London",
@@ -8175,6 +8814,15 @@ const data = {
       "latlng": {
         "lat": 51.64763,
         "lng": -0.13559
+      },
+      "notes": ""
+    },
+    "2002d_": {
+      "city": "Middlesex",
+      "external": "708005541",
+      "latlng": {
+        "lat": 51.42759,
+        "lng": -0.3261
       },
       "notes": ""
     },
