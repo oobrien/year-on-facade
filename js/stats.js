@@ -139,10 +139,23 @@ function updateHeritageRegistry() {
 function updateVisited () {
   const todo = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
   if (todo > 0) {
-    const visited = Object.keys(data.points).filter(p => p.length == 4).length
+	const visited = Object.keys(data.points).filter(p => p.length == 4).length
 	const total = visited + todo
-    const percentage = Math.floor(visited * 100 / total)
-    document.querySelector('#visited .value').innerHTML = `${visited} (${percentage}%)`
+	const percentage = Math.floor(visited * 100 / total)
+
+	//document.querySelector('#visited .value').innerHTML = `${visited} (${percentage}%)`
+	document.querySelector('#yearsvisited').innerHTML = `${visited} (${percentage}%)`
+	document.querySelector('#yearstotal').innerHTML = `${total}`
+	document.querySelector('#yearstodo').innerHTML = `${todo}`
+
+    const todoall = Object.keys(data.points).filter(p => p.indexOf("_") > -1).length
+    const totalall = Object.keys(data.points).length
+	const visitedall = totalall - todoall
+	const percentageall = Math.floor(visitedall * 100 / totalall)
+
+	document.querySelector('#facadesvisited').innerHTML = `${visitedall} (${percentageall}%)`
+	document.querySelector('#facadestotal').innerHTML = `${totalall}`
+	document.querySelector('#facadestodo').innerHTML = `${todoall}`        
   } else {
     document.querySelector('#visited').remove()
   }

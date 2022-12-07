@@ -22,6 +22,14 @@ h1 {
   margin-left: 10px;
 }
 
+#numberstable, #numberstable tr, #numberstable th {
+	border: 1px solid #aaa;
+}
+
+#numberstable td {
+	text-align: center;
+}
+
 .year {
   width: 34px;
   height: 34px;
