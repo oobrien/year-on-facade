@@ -1,6 +1,7 @@
 year,latitude,longitude,notes,external
 1565,51.61774,-0.30885,Cottrell Cottages Built [modern sign],
 1580,51.59385,-0.38172,Tummies est. 1988,
+1592_,51.59615,-0.37609,,
 1624_,51.45841,-0.47580,The house and freehouse were founded... by the year,
 1625_,51.63367,-0.07464,Salisbury House [recently painted on sign],331374324
 1629,51.53503,-0.46021,Io. Atlee Io. Robince, Church Wa.,360739067
@@ -102,6 +103,7 @@ year,latitude,longitude,notes,external
 1868d_,51.48727,-0.25647,Hogarth Terrace,
 1868e_,51.43073,-0.33912,Devonshire Place,
 1868f_,51.43090,-0.33925,Ada Cottages,
+1868g_,51.59585,-0.37923,,
 1869_,51.4685512,-0.3293125,Bath Villas,
 1869a_,51.60388,-0.11685,LC,838009273
 1869b_,51.48692,-0.25734,Suffolk Place,
@@ -298,6 +300,7 @@ year,latitude,longitude,notes,external
 1888v_,51.42710,-0.33877,Albany Terrace,
 1888w,51.53823,-0.48336,Industry,
 1888x_,51.43230,-0.47056,George's Villa,
+1888y_,51.50562,-0.33813,[last digit unclear],948549764
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.58347,-0.11669,Millman Terrace,457491928
@@ -319,7 +322,7 @@ year,latitude,longitude,notes,external
 1889s_,51.42701,-0.33805,Eversley Villa,
 1889t_,51.42745,-0.37147,Essex House Built,
 1889u_,51.42984,-0.38728,Portland Cottages,
-1890,51.6061853,-0.4168552,Industry Cottage,
+1890,51.60618,-0.41712,Industry Cottage,
 1890a_,51.63144,-0.17508,Rebuilt - The Green Man,
 1890b,51.49601,-0.37372,Metropolitan Police,324588931
 1890c_,51.66862,-0.04124,,860483217
@@ -419,6 +422,9 @@ year,latitude,longitude,notes,external
 1896o_,51.50367,-0.38688,Rose Villas,
 1896p_,51.50364,-0.38716,Hawarden Villas,
 1896q_,51.42694,-0.33803,Dene Cottage,
+1896r_,51.50794,-0.31252,Broxbury,128881851
+1896s_,51.50749,-0.31250,,864507400
+1896t_,51.50756,-0.31263,,864507399
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,,
 1897b_,51.41329,-0.36418,,
@@ -463,6 +469,8 @@ year,latitude,longitude,notes,external
 1898v_,51.42877,-0.39688,West Bank,
 1898w_,51.42887,-0.39713,Audley Villas,
 1898x_,51.42589,-0.50466,Londsdale Cottages,
+1898y_,51.50577,-0.34091,,967998058
+1898z_,51.50529,-0.31195,,901931585
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -530,6 +538,7 @@ year,latitude,longitude,notes,external
 1900zh_,51.42667,-0.49062,Grove Cottages,
 1900zi_,51.42654,-0.49064,Cymbal Cottages,
 1900zj_,51.43231,-0.47067,Gordon Villa,
+1900zk_,51.50569,-0.34099,,967998060
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -566,6 +575,7 @@ year,latitude,longitude,notes,external
 1902q_,51.51390,-0.30113,,128622186
 1902r_,51.51068,-0.30542,A D,88695646
 1902s_,51.44364,-0.34789,Brodie Terrace,311904742
+1902t_,51.50584,-0.31368,AD,867531095
 1903,51.5884,-0.11461,,
 1903a_,51.51474,-0.33034,,
 1903b_,51.621481,-0.0617196,,
@@ -613,6 +623,8 @@ year,latitude,longitude,notes,external
 1904r_,51.41941,-0.37053,Myosotis Villa,60141304
 1904s_,51.41991,-0.37076,Pro[?] Villas,60141322
 1904t_,51.42596,-0.50428,Deal Villas,
+1904u_,51.50329,-0.31740,,526990716
+1904v_,51.50021,-0.31797,[church founding stone] October,154844621
 1905,51.5584532,-0.2174762,,
 1905a,51.51115,-0.37577,A.D.,192928593
 1905b_,51.6061519,-0.0681858,,
@@ -711,6 +723,7 @@ year,latitude,longitude,notes,external
 1909k,51.49825,-0.37988,A.D.,
 1909l_,51.42736,-0.32774,,707077032
 1909m_,51.43231,-0.47067,Osborne House,
+1909n_,51.50966,-0.32323,,905624522
 1910,51.61400,-0.24876,,
 1910a,51.5964513,-0.3343658,,
 1910b,51.61226,-0.17552,Woodhouse Parade,

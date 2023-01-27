@@ -32,6 +32,15 @@ const data = {
       },
       "notes": ""
     },
+    "1592_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59615,
+        "lng": -0.37609
+      },
+      "notes": ""
+    },
     "1607": {
       "city": "London",
       "external": "1218593",
@@ -1534,6 +1543,15 @@ const data = {
         "lng": -0.33925
       },
       "notes": "Ada Cottages"
+    },
+    "1868g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.59585,
+        "lng": -0.37923
+      },
+      "notes": ""
     },
     "1869": {
       "city": "London",
@@ -3387,6 +3405,15 @@ const data = {
       },
       "notes": "George's Villa"
     },
+    "1888y_": {
+      "city": "Middlesex",
+      "external": "948549764",
+      "latlng": {
+        "lat": 51.50562,
+        "lng": -0.33813
+      },
+      "notes": "[last digit unclear]"
+    },
     "1889": {
       "city": "London",
       "external": "1211009",
@@ -4530,6 +4557,33 @@ const data = {
       },
       "notes": "Dene Cottage"
     },
+    "1896r_": {
+      "city": "Middlesex",
+      "external": "128881851",
+      "latlng": {
+        "lat": 51.50794,
+        "lng": -0.31252
+      },
+      "notes": "Broxbury"
+    },
+    "1896s_": {
+      "city": "Middlesex",
+      "external": "864507400",
+      "latlng": {
+        "lat": 51.50749,
+        "lng": -0.3125
+      },
+      "notes": ""
+    },
+    "1896t_": {
+      "city": "Middlesex",
+      "external": "864507399",
+      "latlng": {
+        "lat": 51.50756,
+        "lng": -0.31263
+      },
+      "notes": ""
+    },
     "1897": {
       "city": "London",
       "external": "1226629",
@@ -4952,6 +5006,24 @@ const data = {
         "lng": -0.50466
       },
       "notes": "Londsdale Cottages"
+    },
+    "1898y_": {
+      "city": "Middlesex",
+      "external": "967998058",
+      "latlng": {
+        "lat": 51.50577,
+        "lng": -0.34091
+      },
+      "notes": ""
+    },
+    "1898z_": {
+      "city": "Middlesex",
+      "external": "901931585",
+      "latlng": {
+        "lat": 51.50529,
+        "lng": -0.31195
+      },
+      "notes": ""
     },
     "1899": {
       "city": "London",
@@ -5591,6 +5663,15 @@ const data = {
       },
       "notes": "Gordon Villa"
     },
+    "1900zk_": {
+      "city": "Middlesex",
+      "external": "967998060",
+      "latlng": {
+        "lat": 51.50569,
+        "lng": -0.34099
+      },
+      "notes": ""
+    },
     "1901": {
       "city": "London",
       "external": "1379177",
@@ -5914,6 +5995,15 @@ const data = {
         "lng": -0.34789
       },
       "notes": "Brodie Terrace"
+    },
+    "1902t_": {
+      "city": "Middlesex",
+      "external": "867531095",
+      "latlng": {
+        "lat": 51.50584,
+        "lng": -0.31368
+      },
+      "notes": "AD"
     },
     "1903": {
       "city": "London",
@@ -6355,6 +6445,24 @@ const data = {
         "lng": -0.50428
       },
       "notes": "Deal Villas"
+    },
+    "1904u_": {
+      "city": "Middlesex",
+      "external": "526990716",
+      "latlng": {
+        "lat": 51.50329,
+        "lng": -0.3174
+      },
+      "notes": ""
+    },
+    "1904v_": {
+      "city": "Middlesex",
+      "external": "154844621",
+      "latlng": {
+        "lat": 51.50021,
+        "lng": -0.31797
+      },
+      "notes": "[church founding stone] October"
     },
     "1905": {
       "city": "London",
@@ -7265,6 +7373,15 @@ const data = {
       },
       "notes": "Osborne House"
     },
+    "1909n_": {
+      "city": "Middlesex",
+      "external": "905624522",
+      "latlng": {
+        "lat": 51.50966,
+        "lng": -0.32323
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -7794,7 +7911,7 @@ const data = {
         "lat": 51.4813,
         "lng": -0.38219
       },
-      "notes": "[Date and name unclear] Cottages"
+      "notes": "Summerhouse Cottages"
     },
     "1919": {
       "city": "London",
