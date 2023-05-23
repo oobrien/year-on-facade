@@ -1,6 +1,7 @@
 year,latitude,longitude,notes,external
 1565,51.61774,-0.30885,Cottrell Cottages Built [modern sign],
 1580,51.59385,-0.38172,Tummies est. 1988,
+1599_,51.59620,-0.37610,,
 1624_,51.45841,-0.47580,The house and freehouse were founded... by the year,
 1625_,51.63367,-0.07464,Salisbury House [recently painted on sign],331374324
 1629,51.53503,-0.46021,Io. Atlee Io. Robince, Church Wa.,360739067
@@ -27,6 +28,7 @@ year,latitude,longitude,notes,external
 1833_,51.66701,-0.07082,College Place,92768580
 1834,51.47918,-0.49285,W R IV,43798084
 1834a_,51.50822,-0.30487,LV [?],96714381
+1834b_,51.60746,-0.48019,Baptist Union Chapel Founded October 10th,292177319
 1835,51.46778,-0.36143,Independent Chapel; Rebuilt;,1035381961
 1836_,51.62618,-0.06509,TOI,436673739
 1839,51.62111,-0.31624,The Cot [modern sign],
@@ -34,9 +36,9 @@ year,latitude,longitude,notes,external
 1846,51.46452,-0.37752,Wellington Cottages,
 1846a_,51.44089,-0.34956,The Cottage of Content. Thou shalt not bear false witness against thy neighbour. E.I.F.,311913765
 1847,51.54483,-0.48322,Newland House Converted 1996,1001368831
-1847R_,51.69828,-0.23458,,990096643
 1847a_,51.66216,-0.04594,These almshouses were erected and endowed by Mr Charles Wright of Enfield Highway for the support of six poor women. A.D.,101434135
 1847b_,51.45834,-0.43254,,
+1847R_,51.69828,-0.23458,,990096643
 1848,51.54704,-0.47205,Victoria Cottages,
 1848a_,51.54751,-0.47262,Victoria Cottages,
 1849,51.55956,-0.33490,,229395601
@@ -102,6 +104,7 @@ year,latitude,longitude,notes,external
 1868d_,51.48727,-0.25647,Hogarth Terrace,
 1868e_,51.43073,-0.33912,Devonshire Place,
 1868f_,51.43090,-0.33925,Ada Cottages,
+1868g_,51.59590,-0.37928,,
 1869_,51.4685512,-0.3293125,Bath Villas,
 1869a_,51.60388,-0.11685,LC,838009273
 1869b_,51.48692,-0.25734,Suffolk Place,
@@ -632,7 +635,6 @@ year,latitude,longitude,notes,external
 1905p_,51.42764,-0.33445,TLDC,469029192
 1905q,51.50026,-0.38826,R. E. Coronation Bakery,
 1906,51.5775976,-0.239595,,
-1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906a_,51.6529456,-0.0805599,Town Parade,
 1906b_,51.61581,-0.17638,,
 1906c_,51.5879369,-0.1197484,This stone was laid by W.C. Parkinson Esq L.C.C. 19th September,
@@ -650,6 +652,7 @@ year,latitude,longitude,notes,external
 1906p_,51.63151,-0.05536,ECS,236510122
 1906q,51.55284,-0.35740,Wood End Cottages,314831709
 1906r,51.59076,-0.37507,,
+1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906s_,51.50902,-0.47323,Crac Cottages,
 1906t_,51.49798,-0.43703,[unreadable],
 1906u,51.54360,-0.48744,Swimbridge Terrace,
@@ -788,6 +791,7 @@ year,latitude,longitude,notes,external
 1925c,51.55832,-0.32412,This stone was laid by the Rt Hon Sir John E. Bankes on April 4th,80227564
 1925d,51.56194,-0.28369,,
 1925e_,51.63540,-0.07815,,666354063
+1925f,51.54661,-0.27400,,
 1926,51.61568,-0.27533,,198992577
 1926a,51.57364,-0.33695,,29294316
 1926b,51.54301,-0.22451,,474481940
@@ -821,6 +825,7 @@ year,latitude,longitude,notes,external
 1931d,51.55697,-0.35902,,
 1931e_,51.46384,-0.35642,,
 1931f_,51.50448,-0.30634,A.D. St. Mary's Parade,128870135
+1931g,51.55381,-0.29350,NP,247912778
 1932,51.59464,-0.38351,,
 1932a,51.56075,-0.35784,Roxeth Grove Parade A.D.,
 1932b_,51.56053,-0.35804,Roxeth Grove Parade A.D.,
@@ -863,10 +868,12 @@ year,latitude,longitude,notes,external
 1953,51.62150,-0.27639,ER II,873092922
 1955,51.53130,-0.36449,Greenford Free Church (Baptist),1932 Destroyed 1940 Rebuilt,222351190
 1957,51.53445,-0.38893,ER II Telephone Exchange,99806373
+1959_,51.58042,-0.40046,,1319526001
 1963,51.63050,-0.12803,ER II,188837393
 1971,51.42971,-0.49877,[on drainpipe],162411474
 1982,51.57752,-0.33367,Rebuilt,135704911
 1988,51.50874,-0.33359,Haydon House [on plaque],317387812
+1988a,51.58704,-0.40259,EHWG JM [gate],
 1989,51.51387,-0.38081,,
 1990_,51.63575,-0.10293,,318024056
 1994,51.58150,-0.33497,,
@@ -879,8 +886,11 @@ year,latitude,longitude,notes,external
 1997c_,51.41399,-0.36852,,
 1997d_,51.41398,-0.36889,,
 1997e_,51.41411,-0.36891,,
+1998_,51.54733,-0.20552,,80141478
 2000,51.6124546,-0.180737,,
 2000a_,51.64574,-0.10978,,496919844
+2000b,51.61445,-0.49687,Linden,
+2000c_,51.61422,-0.49623,Linden,
 2001,51.48603,-0.30738,,
 2001a_,51.43396,-0.51202,,345709446
 2001b,51.61525,-0.32371,,
@@ -892,7 +902,8 @@ year,latitude,longitude,notes,external
 2003,51.6171569,-0.3159878,White Gates,
 2003a,51.61723,-0.24436,Lowlands Court,
 2003b_,51.65375,-0.09775,Bellway Homes,309890586
-2004,51.52716,-0.44223,Linden Homes,
+2004,51.52716,-0.44223,Linden,
+2004a_,51.62637,-0.49390,Linden,
 2005,51.53229,-0.37394,,220475699
 2007,51.60720,-0.43567,,
 2007a,51.55015,-0.40119,Howarth Homes,
@@ -904,6 +915,7 @@ year,latitude,longitude,notes,external
 2012,51.61182,-0.43490,,
 2012a_,51.65247,-0.08262,,91060455
 2012b_,51.43241,-0.47374,Rosewood Villa,
+2012c,51.58684,-0.40195,FCHWG [gate],
 2013,51.57928,-0.35249,,
 2014,51.43429,-0.49501,,
 2018,51.51689,-0.302682,ARM,
