@@ -9,6 +9,8 @@ min_year="2000"
 for filename in ./csv/**/*.csv; do
   city=$(basename "$filename" .csv)
 
+  echo "Generating $city.js..."
+
   # sort
   header="year,latitude,longitude,notes"
   if $(jq ".[\"$city\"].config | has(\"external\")" utils/configs.json); then
@@ -53,17 +55,20 @@ EOF
 }
 
 #generate world.js
+echo "Generating world.js..."
 jq -s --sort-keys '{"World": {"points": [.[] | ..? | .config.city as $city | .points // empty | with_entries(.value += {"city": $city})] | add }}' $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
 generateFakeCity "World"
 
 #generate <country>.js
 for d in ./csv/*/; do
   country=$(basename "$d")
+  echo "Generating $country.js..."
   jq -s --sort-keys "{\"$country\": {\"points\": [.[] | ..? | .config.city as \$city | .points // empty | with_entries(.value += {\"city\": \$city})] | add }}" $(ls -SA1 csv/$country/* | sed -e "s/^csv\/$country/utils/" -e 's/csv$/json.tmp/') >$temp
   generateFakeCity "$country"
 done
 
 # generate list.js
+echo "Generating list.js..."
 list_js="./js/_generated/list.js"
 echo "const data = [" >$list_js
 for filename in $(ls -A1 utils/*tmp | grep -v temp.json.tmp); do
@@ -86,6 +91,8 @@ function generateSvg {
 
   [[ "$country" != "null" ]] && key="$country" || key="$city"
   [[ "$2" = true ]] && svg_name=$city && key="World" || svg_name="country_$city"
+
+  echo "Generating $svg_name.svg..."
 
   min_year=$(jq -r ".$key.points | keys | map(.[0:4]) | sort | first" "utils/$key.json.tmp")
   svg_file="./img/_generated/$svg_name.svg"
@@ -137,5 +144,15 @@ for filename in $(ls -A1 utils/*tmp | grep -v temp.json.tmp); do
   generateSvg $filename true  # world view
   generateSvg $filename false # country view
 done
+
+# update api key
+api_key=$(jq -r '.apiKey' config.json)
+cat ./map/index.html | sed -E "s/key=[^&]+/key=$api_key/g" >./utils/index.html.tmp
+mv ./utils/index.html.tmp ./map/index.html
+
+# update "what is this?" link
+wit_link=$(jq -r '.whatIsThisLink' config.json)
+cat ./index.html | sed -E "s,\"wit\" href=\"[^\"]+\",\"wit\" href=\"$wit_link\",g" >./utils/index.html.tmp
+mv ./utils/index.html.tmp ./index.html
 
 rm ./utils/*.tmp

@@ -1,4 +1,26 @@
 const data = {
+  "config": {
+    "country": "UK",
+    "zoom": 12,
+    "center": {
+      "lat": 51.4811,
+      "lng": -0.6828
+    },
+    "borders": {
+      "south": 51.381804,
+      "north": 51.578514,
+      "west": -0.855217,
+      "east": -0.523567
+    },
+    "external": {
+      "label": "Check out Historic England",
+      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+    },
+    "useInternalMap": true,
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
+    "city": "Windsor_and_Maidenhead"
+  },
   "points": {
     "1812": {
       "latlng": {
@@ -168,10 +190,5 @@ const data = {
       "notes": "",
       "external": ""
     }
-  },
-  "config": {
-    "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
-    "city": "Windsor_and_Maidenhead"
   }
 }

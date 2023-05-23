@@ -1,4 +1,26 @@
 const data = {
+  "config": {
+    "country": "UK",
+    "zoom": 10,
+    "center": {
+      "lat": 53.4741,
+      "lng": -2.2114
+    },
+    "borders": {
+      "south": 53.401461,
+      "north": 53.540422,
+      "west": -2.2893825,
+      "east": -2.1472469
+    },
+    "external": {
+      "label": "Check out Historic England",
+      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+    },
+    "useInternalMap": true,
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
+    "city": "Manchester"
+  },
   "points": {
     "1832": {
       "latlng": {
@@ -24,10 +46,5 @@ const data = {
       "notes": "TODO",
       "external": "1282966"
     }
-  },
-  "config": {
-    "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
-    "city": "Manchester"
   }
 }

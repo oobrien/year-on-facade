@@ -1,4 +1,22 @@
 const data = {
+  "config": {
+    "country": "Turkey",
+    "zoom": 11,
+    "center": {
+      "lat": 40.968569,
+      "lng": 29.006633
+    },
+    "borders": {
+      "south": 40.807649,
+      "north": 41.196299,
+      "west": 28.591899,
+      "east": 29.429607
+    },
+    "useInternalMap": true,
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
+    "city": "Istanbul"
+  },
   "points": {
     "1858": {
       "latlng": {
@@ -56,10 +74,5 @@ const data = {
       },
       "notes": ""
     }
-  },
-  "config": {
-    "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
-    "city": "Istanbul"
   }
 }

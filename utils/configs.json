@@ -1,3 +1,5 @@
+
+  
 {
   "World": {
     "config": {
@@ -29,6 +31,16 @@
       "borders": null
     }
   },
+  "Turkey": {
+    "config": {
+      "zoom": 6,
+      "center": {
+        "lat": 39.2365,
+        "lng": 35.2222
+      },
+      "borders": null
+    }
+  },
   "UK": {
     "config": {
       "zoom": 5,
@@ -46,6 +58,17 @@
   "London": {
     "config": {
       "country": "UK",
+      "zoom": 12,
+      "center": {
+        "lat": 51.5072,
+        "lng": -0.1276
+      },
+      "borders": {
+        "south": 51.279860,
+        "north": 51.692042,
+        "west": -0.524924,
+        "east": 0.323770
+      },
       "boundary": true,
       "external": {
         "label": "Check out Historic England",
@@ -53,25 +76,23 @@
       }
     }
   },
-  "Middlesex": {
+  "Bath": {
     "config": {
       "country": "UK",
-      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-      "boundary": true,
+      "zoom": 9,
+      "center": {
+        "lat": 51.3805,
+        "lng": -2.3657
+      },
+      "borders": {
+        "south": 51.351671,
+        "north": 51.411133,
+        "west": -2.4139684,
+        "east": -2.3207563
+      },
       "external": {
-        "label": "OpenStreetMap",
-        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-      }
-    }
-  },
-  "Wolverhampton": {
-    "config": {
-      "country": "UK",
-      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-      "boundary": true,
-      "external": {
-        "label": "OpenStreetMap",
-        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
       }
     }
   },
@@ -89,6 +110,108 @@
         "west": -0.240598,
         "east": -0.017147
       },
+      "external": {
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      }
+    }
+  },
+  "Manchester": {
+    "config": {
+      "country": "UK",
+      "zoom": 10,
+      "center": {
+        "lat": 53.4741,
+        "lng": -2.2114
+      },
+      "borders": {
+        "south": 53.401461,
+        "north": 53.540422,
+        "west": -2.2893825,
+        "east": -2.1472469
+      },
+      "external": {
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      }
+    }
+  },
+  "Middlesex": {
+    "config": {
+      "country": "UK",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+      "boundary": true,
+      "external": {
+        "label": "OpenStreetMap",
+        "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
+      }
+    }
+  },
+  "Slough": {
+    "config": {
+      "country": "UK",
+      "zoom": 12,
+      "center": {
+        "lat": 51.512,
+        "lng": -0.5844
+      },
+      "borders": {
+        "south": 51.467762,
+        "north": 51.5464,
+        "west": -0.661624,
+        "east": -0.489276
+      },
+      "external": {
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      }
+    }
+  },
+  "Spelthorne": {
+    "config": {
+      "country": "UK",
+      "zoom": 12,
+      "center": {
+        "lat": 51.4258,
+        "lng": -0.4719
+      },
+      "borders": {
+        "south": 51.377194,
+        "north": 51.472244,
+        "west": -0.540968,
+        "east": -0.381323
+      },
+      "external": {
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      }
+    }
+  },
+  "Windsor_and_Maidenhead": {
+    "config": {
+      "country": "UK",
+      "zoom": 12,
+      "center": {
+        "lat": 51.4811,
+        "lng": -0.6828
+      },
+      "borders": {
+        "south": 51.381804,
+        "north": 51.578514,
+        "west": -0.855217,
+        "east": -0.523567
+      },
+      "external": {
+        "label": "Check out Historic England",
+        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      }
+    }
+  },
+  "Wolverhampton": {
+    "config": {
+      "country": "UK",
+      "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
+      "boundary": true,
       "external": {
         "label": "OpenStreetMap",
         "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
@@ -126,7 +249,7 @@
         "east": 12.6514573
       },
       "external": {
-        "label": "Fredede og Bevaringsværdige Bygninger",
+        "label": "Check out Fredede og Bevaringsværdige Bygninger",
         "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
       }
     }
@@ -144,6 +267,22 @@
         "north": 58.231352,
         "west": 55.630661,
         "east": 56.901738
+      }
+    }
+  },
+  "Istanbul": {
+    "config": {
+      "country": "Turkey",
+      "zoom": 11,
+      "center": {
+        "lat": 40.968569,
+        "lng": 29.006633
+      },
+      "borders": {
+        "south": 40.807649,
+        "north": 41.196299,
+        "west": 28.591899,
+        "east": 29.429607
       }
     }
   }

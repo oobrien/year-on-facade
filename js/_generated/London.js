@@ -1,6 +1,17 @@
 const data = {
   "config": {
     "country": "UK",
+    "zoom": 12,
+    "center": {
+      "lat": 51.5072,
+      "lng": -0.1276
+    },
+    "borders": {
+      "south": 51.27986,
+      "north": 51.692042,
+      "west": -0.524924,
+      "east": 0.32377
+    },
     "boundary": true,
     "external": {
       "label": "Check out Historic England",
@@ -8,6 +19,7 @@ const data = {
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
     "city": "London"
   },
   "points": {

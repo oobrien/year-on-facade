@@ -1,4 +1,26 @@
 const data = {
+  "config": {
+    "country": "UK",
+    "zoom": 9,
+    "center": {
+      "lat": 51.3805,
+      "lng": -2.3657
+    },
+    "borders": {
+      "south": 51.351671,
+      "north": 51.411133,
+      "west": -2.4139684,
+      "east": -2.3207563
+    },
+    "external": {
+      "label": "Check out Historic England",
+      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+    },
+    "useInternalMap": true,
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
+    "city": "Bath"
+  },
   "points": {
     "1706": {
       "latlng": {
@@ -32,10 +54,5 @@ const data = {
       "notes": "TODO",
       "external": "1395598"
     }
-  },
-  "config": {
-    "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
-    "city": "Bath"
   }
 }

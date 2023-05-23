@@ -11,7 +11,8 @@ const data = {
       "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
     },
     "useInternalMap": true,
-    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com"
+    "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this"
   },
   "points": {
     "1580": {
@@ -2041,6 +2042,9 @@ const data = {
     "Russia": {
       "config": {}
     },
+    "Turkey": {
+      "config": {}
+    },
     "UK": {
       "config": {
         "external": {
@@ -2059,6 +2063,33 @@ const data = {
         }
       }
     },
+    "Bath": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
+    "Brighton_and_Hove": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
+    "Manchester": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
     "Middlesex": {
       "config": {
         "country": "UK",
@@ -2070,20 +2101,38 @@ const data = {
         }
       }
     },
+    "Slough": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
+    "Spelthorne": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
+    "Windsor_and_Maidenhead": {
+      "config": {
+        "country": "UK",
+        "external": {
+          "label": "Check out Historic England",
+          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        }
+      }
+    },
     "Wolverhampton": {
       "config": {
         "country": "UK",
         "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
         "boundary": true,
-        "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
-      }
-    },
-    "Brighton_and_Hove": {
-      "config": {
-        "country": "UK",
         "external": {
           "label": "OpenStreetMap",
           "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
@@ -2099,7 +2148,7 @@ const data = {
       "config": {
         "country": "Denmark",
         "external": {
-          "label": "Fredede og Bevaringsværdige Bygninger",
+          "label": "Check out Fredede og Bevaringsværdige Bygninger",
           "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
         }
       }
@@ -2107,6 +2156,11 @@ const data = {
     "Perm": {
       "config": {
         "country": "Russia"
+      }
+    },
+    "Istanbul": {
+      "config": {
+        "country": "Turkey"
       }
     }
   }
