@@ -100,8 +100,12 @@ function updateTotal() {
   const min = Math.min(...years)
   const max = Math.max(...years)
   
-  const todo = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
-  const visited = Object.keys(data.points).filter(p => p.length == 4).length
+  const todo1 = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
+  const todo2 = Object.values(data.points).filter(p => p.notes.includes('TODO')).length || 0
+  
+  const todo = todo1 + todo2
+  const visitedORtodo2 = Object.keys(data.points).filter(p => p.length == 4).length
+  const visited = visitedORtodo2 - todo2
   const total = visited + todo
   const coverage = Math.floor((total * 100) / (max - min + 1))
     
@@ -137,9 +141,13 @@ function updateHeritageRegistry() {
 }
 
 function updateVisited () {
-  const todo = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
-  if (todo > 0) {
-	const visited = Object.keys(data.points).filter(p => p.length == 4).length
+  const todo1 = Object.keys(data.points).filter(p => p.length == 5 && p.indexOf("_") > -1).length
+  const todo2 = Object.values(data.points).filter(p => p.notes.includes('TODO')).length || 0
+  
+  const todo = todo1 + todo2
+  if (todo > -1) {
+	const visitedORtodo2 = Object.keys(data.points).filter(p => p.length == 4).length
+	const visited = visitedORtodo2 - todo2
 	const total = visited + todo
 	const percentage = Math.floor(visited * 100 / total)
 
@@ -148,7 +156,9 @@ function updateVisited () {
 	document.querySelector('#yearstotal').innerHTML = `${total}`
 	document.querySelector('#yearstodo').innerHTML = `${todo}`
 
-    const todoall = Object.keys(data.points).filter(p => p.indexOf("_") > -1).length
+    const todoall1 = Object.keys(data.points).filter(p => p.indexOf("_") > -1).length
+    const todoall2 = Object.values(data.points).filter(p => p.notes.includes('TODO')).length || 0
+    const todoall = todoall1 + todoall2
     const totalall = Object.keys(data.points).length
 	const visitedall = totalall - todoall
 	const percentageall = Math.floor(visitedall * 100 / totalall)
@@ -157,7 +167,7 @@ function updateVisited () {
 	document.querySelector('#facadestotal').innerHTML = `${totalall}`
 	document.querySelector('#facadestodo').innerHTML = `${todoall}`        
   } else {
-    document.querySelector('#visited').remove()
+    //document.querySelector('#visited').remove()
   }
 }
 
