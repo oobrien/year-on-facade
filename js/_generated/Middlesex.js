@@ -9,6 +9,7 @@ const data = {
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com",
+    "whatIsThisLink": "./what-is-this",
     "city": "Middlesex"
   },
   "points": {
@@ -26,14 +27,6 @@ const data = {
         "lng": -0.38172
       },
       "notes": "Tummies est. 1988",
-      "external": ""
-    },
-    "1592_": {
-      "latlng": {
-        "lat": 51.59615,
-        "lng": -0.37609
-      },
-      "notes": "",
       "external": ""
     },
     "1624_": {
@@ -842,14 +835,6 @@ const data = {
         "lng": -0.33925
       },
       "notes": "Ada Cottages",
-      "external": ""
-    },
-    "1868g_": {
-      "latlng": {
-        "lat": 51.59585,
-        "lng": -0.37923
-      },
-      "notes": "",
       "external": ""
     },
     "1869_": {
@@ -2418,14 +2403,6 @@ const data = {
       "notes": "George's Villa",
       "external": ""
     },
-    "1888y_": {
-      "latlng": {
-        "lat": 51.50562,
-        "lng": -0.33813
-      },
-      "notes": "[last digit unclear]",
-      "external": "948549764"
-    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -3394,30 +3371,6 @@ const data = {
       "notes": "Dene Cottage",
       "external": ""
     },
-    "1896r_": {
-      "latlng": {
-        "lat": 51.50794,
-        "lng": -0.31252
-      },
-      "notes": "Broxbury",
-      "external": "128881851"
-    },
-    "1896s_": {
-      "latlng": {
-        "lat": 51.50749,
-        "lng": -0.3125
-      },
-      "notes": "",
-      "external": "864507400"
-    },
-    "1896t_": {
-      "latlng": {
-        "lat": 51.50756,
-        "lng": -0.31263
-      },
-      "notes": "",
-      "external": "864507399"
-    },
     "1897": {
       "latlng": {
         "lat": 51.58292,
@@ -3769,22 +3722,6 @@ const data = {
       },
       "notes": "Londsdale Cottages",
       "external": ""
-    },
-    "1898y_": {
-      "latlng": {
-        "lat": 51.50577,
-        "lng": -0.34091
-      },
-      "notes": "",
-      "external": "967998058"
-    },
-    "1898z_": {
-      "latlng": {
-        "lat": 51.50529,
-        "lng": -0.31195
-      },
-      "notes": "",
-      "external": "901931585"
     },
     "1899": {
       "latlng": {
@@ -4322,14 +4259,6 @@ const data = {
       "notes": "Gordon Villa",
       "external": ""
     },
-    "1900zk_": {
-      "latlng": {
-        "lat": 51.50569,
-        "lng": -0.34099
-      },
-      "notes": "",
-      "external": "967998060"
-    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -4617,14 +4546,6 @@ const data = {
       },
       "notes": "Brodie Terrace",
       "external": "311904742"
-    },
-    "1902t_": {
-      "latlng": {
-        "lat": 51.50584,
-        "lng": -0.31368
-      },
-      "notes": "AD",
-      "external": "867531095"
     },
     "1903": {
       "latlng": {
@@ -5001,22 +4922,6 @@ const data = {
       },
       "notes": "Deal Villas",
       "external": ""
-    },
-    "1904u_": {
-      "latlng": {
-        "lat": 51.50329,
-        "lng": -0.3174
-      },
-      "notes": "",
-      "external": "526990716"
-    },
-    "1904v_": {
-      "latlng": {
-        "lat": 51.50021,
-        "lng": -0.31797
-      },
-      "notes": "[church founding stone] October",
-      "external": "154844621"
     },
     "1905": {
       "latlng": {
@@ -5801,14 +5706,6 @@ const data = {
       },
       "notes": "Osborne House",
       "external": ""
-    },
-    "1909n_": {
-      "latlng": {
-        "lat": 51.50966,
-        "lng": -0.32323
-      },
-      "notes": "",
-      "external": "905624522"
     },
     "1910": {
       "latlng": {
