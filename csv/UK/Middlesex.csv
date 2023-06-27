@@ -36,9 +36,9 @@ year,latitude,longitude,notes,external
 1846,51.46452,-0.37752,Wellington Cottages,
 1846a_,51.44089,-0.34956,The Cottage of Content. Thou shalt not bear false witness against thy neighbour. E.I.F.,311913765
 1847,51.54483,-0.48322,Newland House Converted 1996,1001368831
+1847R_,51.69828,-0.23458,,990096643
 1847a_,51.66216,-0.04594,These almshouses were erected and endowed by Mr Charles Wright of Enfield Highway for the support of six poor women. A.D.,101434135
 1847b_,51.45834,-0.43254,,
-1847R_,51.69828,-0.23458,,990096643
 1848,51.54704,-0.47205,Victoria Cottages,
 1848a_,51.54751,-0.47262,Victoria Cottages,
 1849,51.55956,-0.33490,,229395601
@@ -276,6 +276,7 @@ year,latitude,longitude,notes,external
 1887n_,51.43298,-0.38346,St James's Villas,
 1887o_,51.43346,-0.38486,Fulmer Cottages,
 1887p_,51.53956,-0.48314,Demston Cottage,
+1887q_,51.60019,-0.39558,,
 1888,51.46627,-0.36759,,
 1888a_,51.6618918,-0.0885904,Witham Villa,
 1888b_,51.6608851,-0.0852505,Percy Villa,
@@ -533,6 +534,7 @@ year,latitude,longitude,notes,external
 1900zh_,51.42667,-0.49062,Grove Cottages,
 1900zi_,51.42654,-0.49064,Cymbal Cottages,
 1900zj_,51.43231,-0.47067,Gordon Villa,
+1900zk_,51.56124,-0.30145,,
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -635,6 +637,7 @@ year,latitude,longitude,notes,external
 1905p_,51.42764,-0.33445,TLDC,469029192
 1905q,51.50026,-0.38826,R. E. Coronation Bakery,
 1906,51.5775976,-0.239595,,
+1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906a_,51.6529456,-0.0805599,Town Parade,
 1906b_,51.61581,-0.17638,,
 1906c_,51.5879369,-0.1197484,This stone was laid by W.C. Parkinson Esq L.C.C. 19th September,
@@ -652,7 +655,6 @@ year,latitude,longitude,notes,external
 1906p_,51.63151,-0.05536,ECS,236510122
 1906q,51.55284,-0.35740,Wood End Cottages,314831709
 1906r,51.59076,-0.37507,,
-1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906s_,51.50902,-0.47323,Crac Cottages,
 1906t_,51.49798,-0.43703,[unreadable],
 1906u,51.54360,-0.48744,Swimbridge Terrace,
@@ -663,6 +665,7 @@ year,latitude,longitude,notes,external
 1906z_,51.42569,-0.50430,Lime Villas,
 1906za_,51.42568,-0.50446,Oak Villas,
 1906zb_,51.42536,-0.50525,Strawberry Cottages,
+1906zc_,51.56158,-0.30246,CAE,
 1907,51.60418,-0.19016,,
 1907a_,51.59488,-0.06906,I.S.L.V.,
 1907b_,51.58907,-0.16416,,
@@ -677,6 +680,7 @@ year,latitude,longitude,notes,external
 1907k_,51.46663,-0.38259,,
 1907l_,51.50269,-0.31672,AD,527137321
 1907m,51.49914,-0.39103,A H B,
+1907n_,51.56183,-0.30262,,
 1908,51.61496,-0.17696,,
 1908a_,51.63082,-0.17485,,
 1908b,51.59530,-0.33506,M P [on drainpipes],242878990
@@ -700,6 +704,7 @@ year,latitude,longitude,notes,external
 1908u,51.5123,-0.38203,,
 1908v_,51.45573,-0.46390,Baltic Cottages,
 1908w,51.50025,-0.38773,,
+1908x_,51.56251,-0.30270,,
 1909,51.49601,-0.37419,Bridge View,
 1909a_,51.6630342,-0.0772972,,
 1909b_,51.65894,-0.04723,U.D.C.E. Carnegie Library,102028970
@@ -714,6 +719,7 @@ year,latitude,longitude,notes,external
 1909k,51.49825,-0.37988,A.D.,
 1909l_,51.42736,-0.32774,,707077032
 1909m_,51.43231,-0.47067,Osborne House,
+1909n_,51.56131,-0.30148,,
 1910,51.61400,-0.24876,,
 1910a,51.5964513,-0.3343658,,
 1910b,51.61226,-0.17552,Woodhouse Parade,
@@ -726,6 +732,7 @@ year,latitude,longitude,notes,external
 1910i_,51.50088,-0.38870,,
 1910j_,51.42756,-0.32641,,710474612
 1910k_,51.42564,-0.50452,,
+1910l_,51.56218,-0.30127,HH,
 1911,51.6092539,-0.3689304,,
 1911a,51.6077094,-0.340214,,
 1911b,51.48584,-0.3419,Oaklands,
@@ -861,6 +868,7 @@ year,latitude,longitude,notes,external
 1937c,51.59075,-0.36636,Harrow Fire Station,975647618
 1938,51.53487,-0.24792,GR VI Telephone Exchange,
 1938a,51.51229,-0.38318,,
+1939_,51.61676,-0.13875,GR VI,829784318
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
 1948a_,51.51769,-0.43308,Hayes Amateur Boxing Club Est,
 1951,51.58966,-0.21855,GR VI,
@@ -875,6 +883,7 @@ year,latitude,longitude,notes,external
 1988,51.50874,-0.33359,Haydon House [on plaque],317387812
 1988a,51.58704,-0.40259,EHWG JM [gate],
 1989,51.51387,-0.38081,,
+1989a_,51.57882,-0.33823,AD,247334758
 1990_,51.63575,-0.10293,,318024056
 1994,51.58150,-0.33497,,
 1994a_,51.65202,-0.07531,,

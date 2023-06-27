@@ -29,6 +29,14 @@ const data = {
       "notes": "Tummies est. 1988",
       "external": ""
     },
+    "1599_": {
+      "latlng": {
+        "lat": 51.5962,
+        "lng": -0.3761
+      },
+      "notes": "",
+      "external": ""
+    },
     "1624_": {
       "latlng": {
         "lat": 51.45841,
@@ -236,6 +244,14 @@ const data = {
       },
       "notes": "LV [?]",
       "external": "96714381"
+    },
+    "1834b_": {
+      "latlng": {
+        "lat": 51.60746,
+        "lng": -0.48019
+      },
+      "notes": "Baptist Union Chapel Founded October 10th",
+      "external": "292177319"
     },
     "1835": {
       "latlng": {
@@ -835,6 +851,14 @@ const data = {
         "lng": -0.33925
       },
       "notes": "Ada Cottages",
+      "external": ""
+    },
+    "1868g_": {
+      "latlng": {
+        "lat": 51.5959,
+        "lng": -0.37928
+      },
+      "notes": "",
       "external": ""
     },
     "1869_": {
@@ -2201,6 +2225,14 @@ const data = {
         "lng": -0.48314
       },
       "notes": "Demston Cottage",
+      "external": ""
+    },
+    "1887q_": {
+      "latlng": {
+        "lat": 51.60019,
+        "lng": -0.39558
+      },
+      "notes": "",
       "external": ""
     },
     "1888": {
@@ -4259,6 +4291,14 @@ const data = {
       "notes": "Gordon Villa",
       "external": ""
     },
+    "1900zk_": {
+      "latlng": {
+        "lat": 51.56124,
+        "lng": -0.30145
+      },
+      "notes": "",
+      "external": ""
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -5299,6 +5339,14 @@ const data = {
       "notes": "Strawberry Cottages",
       "external": ""
     },
+    "1906zc_": {
+      "latlng": {
+        "lat": 51.56158,
+        "lng": -0.30246
+      },
+      "notes": "CAE",
+      "external": ""
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -5409,6 +5457,14 @@ const data = {
         "lng": -0.39103
       },
       "notes": "A H B",
+      "external": ""
+    },
+    "1907n_": {
+      "latlng": {
+        "lat": 51.56183,
+        "lng": -0.30262
+      },
+      "notes": "",
       "external": ""
     },
     "1908": {
@@ -5595,6 +5651,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1908x_": {
+      "latlng": {
+        "lat": 51.56251,
+        "lng": -0.3027
+      },
+      "notes": "",
+      "external": ""
+    },
     "1909": {
       "latlng": {
         "lat": 51.49601,
@@ -5707,6 +5771,14 @@ const data = {
       "notes": "Osborne House",
       "external": ""
     },
+    "1909n_": {
+      "latlng": {
+        "lat": 51.56131,
+        "lng": -0.30148
+      },
+      "notes": "",
+      "external": ""
+    },
     "1910": {
       "latlng": {
         "lat": 51.614,
@@ -5801,6 +5873,14 @@ const data = {
         "lng": -0.50452
       },
       "notes": "",
+      "external": ""
+    },
+    "1910l_": {
+      "latlng": {
+        "lat": 51.56218,
+        "lng": -0.30127
+      },
+      "notes": "HH",
       "external": ""
     },
     "1911": {
@@ -6323,6 +6403,14 @@ const data = {
       "notes": "",
       "external": "666354063"
     },
+    "1925f": {
+      "latlng": {
+        "lat": 51.54661,
+        "lng": -0.274
+      },
+      "notes": "",
+      "external": ""
+    },
     "1926": {
       "latlng": {
         "lat": 51.61568,
@@ -6578,6 +6666,14 @@ const data = {
       },
       "notes": "A.D. St. Mary's Parade",
       "external": "128870135"
+    },
+    "1931g": {
+      "latlng": {
+        "lat": 51.55381,
+        "lng": -0.2935
+      },
+      "notes": "NP",
+      "external": "247912778"
     },
     "1932": {
       "latlng": {
@@ -6859,6 +6955,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1939_": {
+      "latlng": {
+        "lat": 51.61676,
+        "lng": -0.13875
+      },
+      "notes": "GR VI",
+      "external": "829784318"
+    },
     "1948": {
       "latlng": {
         "lat": 51.55257,
@@ -6915,6 +7019,14 @@ const data = {
       "notes": "ER II Telephone Exchange",
       "external": "99806373"
     },
+    "1959_": {
+      "latlng": {
+        "lat": 51.58042,
+        "lng": -0.40046
+      },
+      "notes": "",
+      "external": "1319526001"
+    },
     "1963": {
       "latlng": {
         "lat": 51.6305,
@@ -6947,6 +7059,14 @@ const data = {
       "notes": "Haydon House [on plaque]",
       "external": "317387812"
     },
+    "1988a": {
+      "latlng": {
+        "lat": 51.58704,
+        "lng": -0.40259
+      },
+      "notes": "EHWG JM [gate]",
+      "external": ""
+    },
     "1989": {
       "latlng": {
         "lat": 51.51387,
@@ -6954,6 +7074,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1989a_": {
+      "latlng": {
+        "lat": 51.57882,
+        "lng": -0.33823
+      },
+      "notes": "AD",
+      "external": "247334758"
     },
     "1990_": {
       "latlng": {
@@ -7043,6 +7171,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1998_": {
+      "latlng": {
+        "lat": 51.54733,
+        "lng": -0.20552
+      },
+      "notes": "",
+      "external": "80141478"
+    },
     "2000": {
       "latlng": {
         "lat": 51.6124546,
@@ -7058,6 +7194,22 @@ const data = {
       },
       "notes": "",
       "external": "496919844"
+    },
+    "2000b": {
+      "latlng": {
+        "lat": 51.61445,
+        "lng": -0.49687
+      },
+      "notes": "Linden",
+      "external": ""
+    },
+    "2000c_": {
+      "latlng": {
+        "lat": 51.61422,
+        "lng": -0.49623
+      },
+      "notes": "Linden",
+      "external": ""
     },
     "2001": {
       "latlng": {
@@ -7152,7 +7304,15 @@ const data = {
         "lat": 51.52716,
         "lng": -0.44223
       },
-      "notes": "Linden Homes",
+      "notes": "Linden",
+      "external": ""
+    },
+    "2004a_": {
+      "latlng": {
+        "lat": 51.62637,
+        "lng": -0.4939
+      },
+      "notes": "Linden",
       "external": ""
     },
     "2005": {
@@ -7241,6 +7401,14 @@ const data = {
         "lng": -0.47374
       },
       "notes": "Rosewood Villa",
+      "external": ""
+    },
+    "2012c": {
+      "latlng": {
+        "lat": 51.58684,
+        "lng": -0.40195
+      },
+      "notes": "FCHWG [gate]",
       "external": ""
     },
     "2013": {

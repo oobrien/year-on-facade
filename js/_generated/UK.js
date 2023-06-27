@@ -33,6 +33,15 @@ const data = {
       },
       "notes": ""
     },
+    "1599_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5962,
+        "lng": -0.3761
+      },
+      "notes": ""
+    },
     "1607": {
       "city": "London",
       "external": "1218593",
@@ -834,6 +843,15 @@ const data = {
       },
       "notes": "LV [?]"
     },
+    "1834b_": {
+      "city": "Middlesex",
+      "external": "292177319",
+      "latlng": {
+        "lat": 51.60746,
+        "lng": -0.48019
+      },
+      "notes": "Baptist Union Chapel Founded October 10th"
+    },
     "1835": {
       "city": "London",
       "external": "1204342",
@@ -1634,6 +1652,15 @@ const data = {
         "lng": -0.33925
       },
       "notes": "Ada Cottages"
+    },
+    "1868g_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.5959,
+        "lng": -0.37928
+      },
+      "notes": ""
     },
     "1869": {
       "city": "London",
@@ -3261,6 +3288,15 @@ const data = {
         "lng": -0.48314
       },
       "notes": "Demston Cottage"
+    },
+    "1887q_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.60019,
+        "lng": -0.39558
+      },
+      "notes": ""
     },
     "1888": {
       "city": "Windsor_and_Maidenhead",
@@ -5691,6 +5727,15 @@ const data = {
       },
       "notes": "Gordon Villa"
     },
+    "1900zk_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56124,
+        "lng": -0.30145
+      },
+      "notes": ""
+    },
     "1901": {
       "city": "London",
       "external": "1379177",
@@ -6888,6 +6933,15 @@ const data = {
       },
       "notes": "Strawberry Cottages"
     },
+    "1906zc_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56158,
+        "lng": -0.30246
+      },
+      "notes": "CAE"
+    },
     "1907": {
       "city": "London",
       "external": "1393589",
@@ -7013,6 +7067,15 @@ const data = {
         "lng": -0.39103
       },
       "notes": "A H B"
+    },
+    "1907n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56183,
+        "lng": -0.30262
+      },
+      "notes": ""
     },
     "1908": {
       "city": "London",
@@ -7230,6 +7293,15 @@ const data = {
       },
       "notes": ""
     },
+    "1908x_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56251,
+        "lng": -0.3027
+      },
+      "notes": ""
+    },
     "1909": {
       "city": "London",
       "external": "1184764",
@@ -7365,6 +7437,15 @@ const data = {
       },
       "notes": "Osborne House"
     },
+    "1909n_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56131,
+        "lng": -0.30148
+      },
+      "notes": ""
+    },
     "1910": {
       "city": "London",
       "external": "1249651",
@@ -7472,6 +7553,15 @@ const data = {
         "lng": -0.50452
       },
       "notes": ""
+    },
+    "1910l_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56218,
+        "lng": -0.30127
+      },
+      "notes": "HH"
     },
     "1911": {
       "city": "London",
@@ -8121,6 +8211,15 @@ const data = {
       },
       "notes": ""
     },
+    "1925f": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.54661,
+        "lng": -0.274
+      },
+      "notes": ""
+    },
     "1926": {
       "city": "London",
       "external": "",
@@ -8417,6 +8516,15 @@ const data = {
         "lng": -0.30634
       },
       "notes": "A.D. St. Mary's Parade"
+    },
+    "1931g": {
+      "city": "Middlesex",
+      "external": "247912778",
+      "latlng": {
+        "lat": 51.55381,
+        "lng": -0.2935
+      },
+      "notes": "NP"
     },
     "1932": {
       "city": "London",
@@ -8760,6 +8868,15 @@ const data = {
       },
       "notes": ""
     },
+    "1939_": {
+      "city": "Middlesex",
+      "external": "829784318",
+      "latlng": {
+        "lat": 51.61676,
+        "lng": -0.13875
+      },
+      "notes": "GR VI"
+    },
     "1947": {
       "city": "London",
       "external": "",
@@ -8847,6 +8964,15 @@ const data = {
       "latlng": {
         "lat": 51.62087230486803,
         "lng": -0.25358332087771424
+      },
+      "notes": ""
+    },
+    "1959_": {
+      "city": "Middlesex",
+      "external": "1319526001",
+      "latlng": {
+        "lat": 51.58042,
+        "lng": -0.40046
       },
       "notes": ""
     },
@@ -8985,6 +9111,15 @@ const data = {
       },
       "notes": "988"
     },
+    "1988a": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.58704,
+        "lng": -0.40259
+      },
+      "notes": "EHWG JM [gate]"
+    },
     "1989": {
       "city": "London",
       "external": "",
@@ -8993,6 +9128,15 @@ const data = {
         "lng": 0.08087278083448099
       },
       "notes": ""
+    },
+    "1989a_": {
+      "city": "Middlesex",
+      "external": "247334758",
+      "latlng": {
+        "lat": 51.57882,
+        "lng": -0.33823
+      },
+      "notes": "AD"
     },
     "1990": {
       "city": "London",
@@ -9120,6 +9264,15 @@ const data = {
       },
       "notes": ""
     },
+    "1998_": {
+      "city": "Middlesex",
+      "external": "80141478",
+      "latlng": {
+        "lat": 51.54733,
+        "lng": -0.20552
+      },
+      "notes": ""
+    },
     "1999": {
       "city": "London",
       "external": "",
@@ -9146,6 +9299,24 @@ const data = {
         "lng": -0.10978
       },
       "notes": ""
+    },
+    "2000b": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61445,
+        "lng": -0.49687
+      },
+      "notes": "Linden"
+    },
+    "2000c_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61422,
+        "lng": -0.49623
+      },
+      "notes": "Linden"
     },
     "2001": {
       "city": "London",
@@ -9254,6 +9425,15 @@ const data = {
         "lng": -0.22669902851382995
       },
       "notes": ""
+    },
+    "2004a_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.62637,
+        "lng": -0.4939
+      },
+      "notes": "Linden"
     },
     "2005": {
       "city": "London",
@@ -9389,6 +9569,15 @@ const data = {
         "lng": -0.47374
       },
       "notes": "Rosewood Villa"
+    },
+    "2012c": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.58684,
+        "lng": -0.40195
+      },
+      "notes": "FCHWG [gate]"
     },
     "2013": {
       "city": "London",
