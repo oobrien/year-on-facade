@@ -7,8 +7,8 @@ const data = {
       "east": 1.7622613
     },
     "external": {
-      "label": "Check out Historic England",
-      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      "label": "OpenStreetMap",
+      "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com/web",
@@ -6366,6 +6366,15 @@ const data = {
       },
       "notes": "? Villas"
     },
+    "1899zf_": {
+      "city": "Middlesex",
+      "external": "237665188",
+      "latlng": {
+        "lat": 51.60093,
+        "lng": -0.19442
+      },
+      "notes": ""
+    },
     "1900": {
       "city": "London",
       "external": "1260615",
@@ -9874,7 +9883,7 @@ const data = {
         "lat": 51.58651,
         "lng": -0.21503
       },
-      "notes": "Vincent House [YOF]"
+      "notes": "Vincent Court [YOF]"
     },
     "1935e_": {
       "city": "Middlesex",
@@ -10161,6 +10170,15 @@ const data = {
       "latlng": {
         "lat": 51.51674530295639,
         "lng": -0.10176218482665145
+      },
+      "notes": ""
+    },
+    "1962_": {
+      "city": "Middlesex",
+      "external": "201854471",
+      "latlng": {
+        "lat": 51.60103,
+        "lng": -0.19386
       },
       "notes": ""
     },
@@ -10851,19 +10869,15 @@ const data = {
     "UK": {
       "config": {
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
     "London": {
       "config": {
         "country": "UK",
-        "boundary": true,
-        "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
-        }
+        "boundary": true
       }
     },
     "Berkshire": {
@@ -10960,11 +10974,7 @@ const data = {
       "config": {
         "country": "UK",
         "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-        "boundary": true,
-        "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
+        "boundary": true
       }
     },
     "Merseyside": {

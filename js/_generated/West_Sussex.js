@@ -8,8 +8,8 @@ const data = {
       "east": 0.039925
     },
     "external": {
-      "label": "Check out Historic England",
-      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      "label": "OpenStreetMap",
+      "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com/web",

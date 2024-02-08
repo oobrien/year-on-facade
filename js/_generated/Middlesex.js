@@ -4,8 +4,8 @@ const data = {
     "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
     "boundary": true,
     "external": {
-      "label": "Check out Historic England",
-      "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+      "label": "OpenStreetMap",
+      "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
     },
     "useInternalMap": true,
     "photosBaseUrl": "https://year-on-facade.s3.eu-west-2.amazonaws.com/web",
@@ -4123,6 +4123,14 @@ const data = {
       "notes": "? Villas",
       "external": "105918030"
     },
+    "1899zf_": {
+      "latlng": {
+        "lat": 51.60093,
+        "lng": -0.19442
+      },
+      "notes": "",
+      "external": "237665188"
+    },
     "1900": {
       "latlng": {
         "lat": 51.606,
@@ -7096,7 +7104,7 @@ const data = {
         "lat": 51.58651,
         "lng": -0.21503
       },
-      "notes": "Vincent House [YOF]",
+      "notes": "Vincent Court [YOF]",
       "external": ""
     },
     "1935e_": {
@@ -7314,6 +7322,14 @@ const data = {
       },
       "notes": "[YOF]",
       "external": ""
+    },
+    "1962_": {
+      "latlng": {
+        "lat": 51.60103,
+        "lng": -0.19386
+      },
+      "notes": "",
+      "external": "201854471"
     },
     "1963": {
       "latlng": {

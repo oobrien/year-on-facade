@@ -105,19 +105,15 @@ const data = {
     "UK": {
       "config": {
         "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+          "label": "OpenStreetMap",
+          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
         }
       }
     },
     "London": {
       "config": {
         "country": "UK",
-        "boundary": true,
-        "external": {
-          "label": "Check out Historic England",
-          "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
-        }
+        "boundary": true
       }
     },
     "Berkshire": {
@@ -214,11 +210,7 @@ const data = {
       "config": {
         "country": "UK",
         "photosBaseUrlLocal": "https://misc.oomap.co.uk/year-on-facade-photos/web",
-        "boundary": true,
-        "external": {
-          "label": "OpenStreetMap",
-          "template": "https://www.openstreetmap.org/way/EXTERNAL_ID"
-        }
+        "boundary": true
       }
     },
     "Merseyside": {
