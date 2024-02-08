@@ -93,6 +93,14 @@ const data = {
       "notes": "Queens Head [recently painted on post]",
       "external": ""
     },
+    "1713_": {
+      "latlng": {
+        "lat": 51.5829,
+        "lng": -0.21531
+      },
+      "notes": "A.D. Penfold House [YOF]",
+      "external": "201313079"
+    },
     "1721": {
       "latlng": {
         "lat": 51.594,
@@ -146,7 +154,7 @@ const data = {
         "lat": 51.45643,
         "lng": -0.47998
       },
-      "notes": "[age of the clock rather than the building]",
+      "notes": "[clock]",
       "external": "866213397"
     },
     "1782": {
@@ -173,6 +181,14 @@ const data = {
       "notes": "Old Bank A.D.",
       "external": "990490557"
     },
+    "1794_": {
+      "latlng": {
+        "lat": 51.65737,
+        "lng": -0.0878
+      },
+      "notes": "Westwood Cottage A..D [YOF]",
+      "external": "91000121  "
+    },
     "1811": {
       "latlng": {
         "lat": 51.50959,
@@ -196,6 +212,14 @@ const data = {
       },
       "notes": "S B [on drainpipe]",
       "external": ""
+    },
+    "1824": {
+      "latlng": {
+        "lat": 51.50822,
+        "lng": -0.30487
+      },
+      "notes": "IS",
+      "external": "96714381"
     },
     "1826": {
       "latlng": {
@@ -239,14 +263,6 @@ const data = {
     },
     "1834a_": {
       "latlng": {
-        "lat": 51.50822,
-        "lng": -0.30487
-      },
-      "notes": "LV [?]",
-      "external": "96714381"
-    },
-    "1834b_": {
-      "latlng": {
         "lat": 51.60746,
         "lng": -0.48019
       },
@@ -269,6 +285,14 @@ const data = {
       "notes": "TOI",
       "external": "436673739"
     },
+    "1836a_": {
+      "latlng": {
+        "lat": 51.59799,
+        "lng": -0.39486
+      },
+      "notes": "[on drainpipe]",
+      "external": ""
+    },
     "1839": {
       "latlng": {
         "lat": 51.62111,
@@ -277,12 +301,28 @@ const data = {
       "notes": "The Cot [modern sign]",
       "external": ""
     },
+    "1839a": {
+      "latlng": {
+        "lat": 51.4703525,
+        "lng": -0.3284286
+      },
+      "notes": "Silver Hall Place. .",
+      "external": ""
+    },
     "1840_": {
       "latlng": {
         "lat": 51.43566,
         "lng": -0.34821
       },
       "notes": "Valentine Cottages E.D.C.",
+      "external": ""
+    },
+    "1843": {
+      "latlng": {
+        "lat": 51.4707,
+        "lng": -0.3283
+      },
+      "notes": "These almshouses were built and endowed by Mrs. Sarah Sermon A.D",
       "external": ""
     },
     "1846": {
@@ -469,7 +509,7 @@ const data = {
       "notes": "[?] Cottages",
       "external": ""
     },
-    "1853c_": {
+    "1853c": {
       "latlng": {
         "lat": 51.4711736,
         "lng": -0.3522842
@@ -533,7 +573,7 @@ const data = {
       "notes": "Park Cottage",
       "external": "950043894"
     },
-    "1858_": {
+    "1858": {
       "latlng": {
         "lat": 51.4744528,
         "lng": -0.3355657
@@ -555,14 +595,6 @@ const data = {
         "lng": -0.0830927
       },
       "notes": "Rose Cottages",
-      "external": ""
-    },
-    "1859b_": {
-      "latlng": {
-        "lat": 51.4703525,
-        "lng": -0.3284286
-      },
-      "notes": "Silver Hall Place",
       "external": ""
     },
     "1860": {
@@ -589,12 +621,12 @@ const data = {
       "notes": "Prospect Villas",
       "external": ""
     },
-    "1861b_": {
+    "1861b": {
       "latlng": {
         "lat": 51.50952,
         "lng": -0.30589
       },
-      "notes": "Girls School",
+      "notes": "Girls School. Come ye Children and Hearken unto me. I will teach you the Fear of the LORD.",
       "external": "91426376"
     },
     "1861c_": {
@@ -861,7 +893,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1869_": {
+    "1869": {
       "latlng": {
         "lat": 51.4685512,
         "lng": -0.3293125
@@ -983,11 +1015,11 @@ const data = {
     },
     "1874a_": {
       "latlng": {
-        "lat": 51.49091,
-        "lng": -0.30803
+        "lat": 51.49106,
+        "lng": -0.30788
       },
-      "notes": "Alberto Villa",
-      "external": ""
+      "notes": "Silverto Villa",
+      "external": "1108581660"
     },
     "1874b_": {
       "latlng": {
@@ -1173,11 +1205,11 @@ const data = {
     },
     "1879e_": {
       "latlng": {
-        "lat": 51.49112,
-        "lng": -0.30755
+        "lat": 51.49117,
+        "lng": -0.30763
       },
       "notes": "Snowdrop Villas",
-      "external": ""
+      "external": "1108581653"
     },
     "1879f_": {
       "latlng": {
@@ -1373,27 +1405,27 @@ const data = {
     },
     "1881i_": {
       "latlng": {
-        "lat": 51.49079,
-        "lng": -0.30831
+        "lat": 51.49097,
+        "lng": -0.3081
       },
       "notes": "Florence Villas",
-      "external": ""
+      "external": "1108581656"
     },
     "1881j_": {
       "latlng": {
-        "lat": 51.49083,
-        "lng": -0.30822
+        "lat": 51.49101,
+        "lng": -0.308
       },
       "notes": "Park Villa",
-      "external": ""
+      "external": "1108581655"
     },
     "1881k_": {
       "latlng": {
-        "lat": 51.49112,
-        "lng": -0.30755
+        "lat": 51.49129,
+        "lng": -0.30736
       },
       "notes": "Olive Villas",
-      "external": ""
+      "external": "1108581663"
     },
     "1881l": {
       "latlng": {
@@ -1458,6 +1490,14 @@ const data = {
       },
       "notes": "Portland Villas",
       "external": "966391556"
+    },
+    "1881t_": {
+      "latlng": {
+        "lat": 51.49123,
+        "lng": -0.30749
+      },
+      "notes": "Roa Villas",
+      "external": "1108581662"
     },
     "1882": {
       "latlng": {
@@ -1531,7 +1571,7 @@ const data = {
       "notes": "[?]",
       "external": ""
     },
-    "1882i_": {
+    "1882i": {
       "latlng": {
         "lat": 51.50236,
         "lng": -0.30717
@@ -2099,6 +2139,14 @@ const data = {
       "notes": "Beach Cottage",
       "external": ""
     },
+    "1886q_": {
+      "latlng": {
+        "lat": 51.57669,
+        "lng": -0.42642
+      },
+      "notes": "A D 1983 [clock]",
+      "external": "1061871480"
+    },
     "1887": {
       "latlng": {
         "lat": 51.51689,
@@ -2435,6 +2483,14 @@ const data = {
       "notes": "George's Villa",
       "external": ""
     },
+    "1888y_": {
+      "latlng": {
+        "lat": 51.40659,
+        "lng": -0.40507
+      },
+      "notes": "Bank [YOF]",
+      "external": "749261032"
+    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -2491,7 +2547,7 @@ const data = {
       "notes": "Solan Cottages",
       "external": ""
     },
-    "1889g_": {
+    "1889g": {
       "latlng": {
         "lat": 51.6672,
         "lng": -0.01809
@@ -2602,6 +2658,14 @@ const data = {
       },
       "notes": "Portland Cottages",
       "external": ""
+    },
+    "1889w_": {
+      "latlng": {
+        "lat": 51.66853,
+        "lng": -0.02848
+      },
+      "notes": "Brook Cottages",
+      "external": "118387506"
     },
     "1890": {
       "latlng": {
@@ -3091,7 +3155,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1894k_": {
+    "1894k": {
       "latlng": {
         "lat": 51.51097,
         "lng": -0.30195
@@ -3403,6 +3467,22 @@ const data = {
       "notes": "Dene Cottage",
       "external": ""
     },
+    "1896r_": {
+      "latlng": {
+        "lat": 51.54941,
+        "lng": -0.22777
+      },
+      "notes": "",
+      "external": "67254117"
+    },
+    "1896s_": {
+      "latlng": {
+        "lat": 51.57724,
+        "lng": -0.42823
+      },
+      "notes": "Rosebank Villas",
+      "external": ""
+    },
     "1897": {
       "latlng": {
         "lat": 51.58292,
@@ -3443,7 +3523,7 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1897e_": {
+    "1897e": {
       "latlng": {
         "lat": 51.50506,
         "lng": -0.30565
@@ -3531,7 +3611,7 @@ const data = {
       "notes": "Dunoon Cottages",
       "external": "757035203"
     },
-    "1897p_": {
+    "1897p": {
       "latlng": {
         "lat": 51.51099,
         "lng": -0.3021
@@ -3554,6 +3634,22 @@ const data = {
       },
       "notes": "Pembroke Cottages",
       "external": ""
+    },
+    "1897s": {
+      "latlng": {
+        "lat": 51.6708,
+        "lng": -0.04189
+      },
+      "notes": "Emmadapton Villa",
+      "external": "100854917"
+    },
+    "1897t_": {
+      "latlng": {
+        "lat": 51.53139,
+        "lng": -0.2312
+      },
+      "notes": "",
+      "external": "256916917"
     },
     "1898": {
       "latlng": {
@@ -3755,6 +3851,14 @@ const data = {
       "notes": "Londsdale Cottages",
       "external": ""
     },
+    "1898y": {
+      "latlng": {
+        "lat": 51.66157,
+        "lng": -0.19405
+      },
+      "notes": "Anno du [out of area]",
+      "external": "71295639"
+    },
     "1899": {
       "latlng": {
         "lat": 51.511983,
@@ -3947,6 +4051,14 @@ const data = {
       "notes": "Arkley Terrace",
       "external": "672938041"
     },
+    "1899x_": {
+      "latlng": {
+        "lat": 51.58191,
+        "lng": -0.4321
+      },
+      "notes": "Fairview",
+      "external": ""
+    },
     "1899y": {
       "latlng": {
         "lat": 51.5409,
@@ -3994,6 +4106,14 @@ const data = {
       },
       "notes": "Rose Villas",
       "external": ""
+    },
+    "1899ze_": {
+      "latlng": {
+        "lat": 51.66887,
+        "lng": -0.03935
+      },
+      "notes": "? Villas",
+      "external": "105918030"
     },
     "1900": {
       "latlng": {
@@ -4051,10 +4171,10 @@ const data = {
       "notes": "Caterham Villas",
       "external": ""
     },
-    "1900g_": {
+    "1900g": {
       "latlng": {
-        "lat": 51.4724134,
-        "lng": -0.3331958
+        "lat": 51.47245,
+        "lng": -0.3333
       },
       "notes": "Aldboro Villas",
       "external": ""
@@ -4427,6 +4547,30 @@ const data = {
       "notes": "Devonshire Villas",
       "external": ""
     },
+    "1901p": {
+      "latlng": {
+        "lat": 51.66977,
+        "lng": -0.04014
+      },
+      "notes": "Ivey Villas",
+      "external": "105935278"
+    },
+    "1901q_": {
+      "latlng": {
+        "lat": 51.66878,
+        "lng": -0.03867
+      },
+      "notes": "Beulah Villas",
+      "external": "105918045"
+    },
+    "1901r_": {
+      "latlng": {
+        "lat": 51.66882,
+        "lng": -0.03895
+      },
+      "notes": "Allan Villas",
+      "external": "105918030"
+    },
     "1902": {
       "latlng": {
         "lat": 51.57495,
@@ -4563,7 +4707,7 @@ const data = {
       "notes": "Retlas Cottages",
       "external": ""
     },
-    "1902q_": {
+    "1902q": {
       "latlng": {
         "lat": 51.5139,
         "lng": -0.30113
@@ -4571,7 +4715,7 @@ const data = {
       "notes": "",
       "external": "128622186"
     },
-    "1902r_": {
+    "1902r": {
       "latlng": {
         "lat": 51.51068,
         "lng": -0.30542
@@ -4586,6 +4730,14 @@ const data = {
       },
       "notes": "Brodie Terrace",
       "external": "311904742"
+    },
+    "1902t": {
+      "latlng": {
+        "lat": 51.46875,
+        "lng": -0.36293
+      },
+      "notes": "",
+      "external": "1057751928"
     },
     "1903": {
       "latlng": {
@@ -5067,7 +5219,7 @@ const data = {
       "notes": "[?] Villas",
       "external": ""
     },
-    "1905m_": {
+    "1905m": {
       "latlng": {
         "lat": 51.49868,
         "lng": -0.30615
@@ -5106,6 +5258,14 @@ const data = {
       },
       "notes": "R. E. Coronation Bakery",
       "external": ""
+    },
+    "1905r": {
+      "latlng": {
+        "lat": 51.46954,
+        "lng": -0.35875
+      },
+      "notes": "",
+      "external": "1039568784"
     },
     "1906": {
       "latlng": {
@@ -5162,6 +5322,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1906f": {
+      "latlng": {
+        "lat": 51.41098,
+        "lng": -0.312
+      },
+      "notes": "The Old Kings Head Rebuilt A.D..",
+      "external": "848835387"
     },
     "1906g_": {
       "latlng": {
@@ -5555,12 +5723,12 @@ const data = {
       "notes": "AD Capel C.M Ealing Green",
       "external": "91438777"
     },
-    "1908k_": {
+    "1908k": {
       "latlng": {
         "lat": 51.5092,
         "lng": -0.30617
       },
-      "notes": "AD [?]",
+      "notes": "AD Capel M.C Ealing Green",
       "external": "91438777"
     },
     "1908l": {
@@ -5883,6 +6051,22 @@ const data = {
       "notes": "HH",
       "external": ""
     },
+    "1910m_": {
+      "latlng": {
+        "lat": 51.6688,
+        "lng": -0.03881
+      },
+      "notes": "Dunoon Villas",
+      "external": "105918030"
+    },
+    "1910n": {
+      "latlng": {
+        "lat": 51.51354,
+        "lng": -0.47702
+      },
+      "notes": "",
+      "external": "44131259"
+    },
     "1911": {
       "latlng": {
         "lat": 51.6092539,
@@ -6034,6 +6218,22 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1911s": {
+      "latlng": {
+        "lat": 51.53164,
+        "lng": -0.17065
+      },
+      "notes": "A.D [out of area]",
+      "external": "9662973"
+    },
+    "1911t_": {
+      "latlng": {
+        "lat": 51.51352,
+        "lng": -0.47696
+      },
+      "notes": "GJ CC.",
+      "external": "44131261"
     },
     "1912": {
       "latlng": {
@@ -6235,6 +6435,14 @@ const data = {
       "notes": "Home Villas",
       "external": "327315844"
     },
+    "1915c": {
+      "latlng": {
+        "lat": 51.4813,
+        "lng": -0.41673
+      },
+      "notes": "County of Middlesex Cranford Bridge Erected 1776 Rebvilt and Widened",
+      "external": "1169948848"
+    },
     "1916_": {
       "latlng": {
         "lat": 51.4813,
@@ -6323,6 +6531,14 @@ const data = {
       "notes": "Grand Parade",
       "external": "1079087529"
     },
+    "1923e_": {
+      "latlng": {
+        "lat": 51.42454,
+        "lng": -0.4195
+      },
+      "notes": "St. Adrians [YOF]",
+      "external": "351616501"
+    },
     "1924": {
       "latlng": {
         "lat": 51.50988,
@@ -6410,6 +6626,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1925g_": {
+      "latlng": {
+        "lat": 51.56883,
+        "lng": -0.43993
+      },
+      "notes": "",
+      "external": "1205436236"
     },
     "1926": {
       "latlng": {
@@ -6659,12 +6883,12 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1931f_": {
+    "1931f": {
       "latlng": {
         "lat": 51.50448,
         "lng": -0.30634
       },
-      "notes": "A.D. St. Mary's Parade",
+      "notes": "A.D. St.. Mary's Parade .",
       "external": "128870135"
     },
     "1931g": {
@@ -6730,6 +6954,14 @@ const data = {
       },
       "notes": "Rebuilt",
       "external": ""
+    },
+    "1932g_": {
+      "latlng": {
+        "lat": 51.54814,
+        "lng": -0.44876
+      },
+      "notes": "A D 2018 [clock]",
+      "external": "360910623"
     },
     "1933": {
       "latlng": {
@@ -6955,6 +7187,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1938b": {
+      "latlng": {
+        "lat": 51.55042,
+        "lng": -0.48473
+      },
+      "notes": "Rebuilt U+X 17B95",
+      "external": "42650876"
+    },
     "1939_": {
       "latlng": {
         "lat": 51.61676,
@@ -7003,6 +7243,14 @@ const data = {
       "notes": "ER II",
       "external": "873092922"
     },
+    "1954": {
+      "latlng": {
+        "lat": 51.54321,
+        "lng": -0.4878
+      },
+      "notes": "Waterloo Wharf [relocated to new (2019) building]",
+      "external": "1205138798"
+    },
     "1955": {
       "latlng": {
         "lat": 51.5313,
@@ -7019,13 +7267,29 @@ const data = {
       "notes": "ER II Telephone Exchange",
       "external": "99806373"
     },
-    "1959_": {
+    "1958": {
+      "latlng": {
+        "lat": 51.53481,
+        "lng": -0.16347
+      },
+      "notes": "EIIR [gate] [out of area]",
+      "external": "1540353568"
+    },
+    "1959": {
       "latlng": {
         "lat": 51.58042,
         "lng": -0.40046
       },
       "notes": "",
       "external": "1319526001"
+    },
+    "1959a_": {
+      "latlng": {
+        "lat": 51.62083,
+        "lng": -0.25362
+      },
+      "notes": "[YOF]",
+      "external": ""
     },
     "1963": {
       "latlng": {
@@ -7425,6 +7689,22 @@ const data = {
         "lng": -0.49501
       },
       "notes": "",
+      "external": ""
+    },
+    "2015_": {
+      "latlng": {
+        "lat": 51.62441,
+        "lng": -0.08006
+      },
+      "notes": "Ellis [YOF]",
+      "external": ""
+    },
+    "2016_": {
+      "latlng": {
+        "lat": 51.58103,
+        "lng": -0.32716
+      },
+      "notes": "[YOF]",
       "external": ""
     },
     "2018": {

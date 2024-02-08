@@ -209,7 +209,8 @@ function initMap()
 	}
 	
 	map.on('click', function(e) 
-	{
+	{	
+		var noFeature = true;
 		map.forEachFeatureAtPixel(e.pixel, function (f, layer) 
 		{
 			if (layer != layerData)
@@ -217,13 +218,23 @@ function initMap()
 				return;
 			}
 
-			selected = f;
+			noFeature = false;
 			window.location.href = '../item/?city=' + data.config.city + '&year=' + f.getId();
 		});
+		if (noFeature)
+		{
+			var coord = ol.proj.transform(map.getCoordinateFromPixel(e.pixel), "EPSG:3857", "EPSG:4326");
+			var coordstr = ol.coordinate.toStringXY(coord, 5).replace(' ', '');
+			var lat = coordstr.split(',')[1];
+			var lon = coordstr.split(',')[0];
+			console.log('YYYYx_,' + lat + ',' + lon + ',Name,OSMID');
+			console.log('https://www.openstreetmap.org/query?lat=' + lat + '&lon=' +lon + '&zoom=18&xhr=1#map=18/' + lat + '/' + lon);
+			console.log('https://misc.oomap.co.uk/year-on-facade/csv/UK/' + data.config.city + '.csv');
+		}
 	});
 	
 	map.getView().on("change:resolution", handleZoom);    
- 
+	
 	var keyCount = 0;
 	const parent = document.querySelector('#key')
 	for (const i in keyItems)

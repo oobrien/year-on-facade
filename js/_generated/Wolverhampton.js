@@ -316,6 +316,14 @@ const data = {
       "notes": "May Villa",
       "external": "441901984"
     },
+    "1902_": {
+      "latlng": {
+        "lat": 52.56707,
+        "lng": -2.16396
+      },
+      "notes": "Wood View Cottages",
+      "external": "453957479"
+    },
     "1903_": {
       "latlng": {
         "lat": 52.58731,
