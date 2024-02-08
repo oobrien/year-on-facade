@@ -9852,6 +9852,15 @@ const data = {
       },
       "notes": "Rebuilt"
     },
+    "1935d_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.58651,
+        "lng": -0.21503
+      },
+      "notes": "Vincent House [YOF]"
+    },
     "1935e_": {
       "city": "Middlesex",
       "external": "236473521",

@@ -19,7 +19,7 @@ for filename in ./js/_generated/*.js; do
         $data.config.borders as $borders |
         $borders.south as $minLat | $borders.north as $maxLat | $borders.west as $minLng | $borders.east as $maxLng |
         $data.points[] | .latlng.lat as $lat | .latlng.lng as $lng |
-        $lat > $minLat and $lat < $maxLat and $lng > $minLng and $lng < $maxLng
+        ($lat > $minLat and $lat < $maxLat and $lng > $minLng and $lng < $maxLng) or $data.config.boundary
         ' $temp | jq -se '. | all' &>/dev/null ||
         (echo "Error: $city.csv has coordinates outside of config specified in configs.json." && rm $temp && exit 1)
     fi
