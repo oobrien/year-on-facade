@@ -2,53 +2,64 @@
   
 {
   "World": {
-    "config": {
-      "zoom": 2,
-      "center": {
-        "lat": 0,
-        "lng": 0
-      },
-      "borders": null
-    }
+    "config": {}
   },
   "Denmark": {
     "config": {
-      "zoom": 7,
-      "center": {
-        "lat": 56.0076,
-        "lng": 10.5197
+      "borders": {
+        "south": 54.558253,
+        "north": 57.752419,
+        "west": 8.072706,
+        "east": 12.794192
       },
-      "borders": null
+      "external": {
+        "label": "Check out Fredede og Bevaringsværdige Bygninger",
+        "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
+      }
+    }
+  },
+  "Portugal": {
+    "config": {
+      "borders": {
+        "south": 36.957042,
+        "north": 42.151348,
+        "west": -9.500594,
+        "east": -6.189091
+      },
+      "external": {
+        "label": "Check out Direção-Geral do Património Cultural",
+        "template": "https://www.patrimoniocultural.gov.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/EXTERNAL_ID"
+      }
     }
   },
   "Russia": {
     "config": {
-      "zoom": 3,
-      "center": {
-        "lat": 63.8708,
-        "lng": 96.0191
-      },
-      "borders": null
+      "borders": {
+        "south": 41.185873,
+        "north": 77.721456,
+        "west": 19.875360100148097,
+        "east": 180
+      }
     }
   },
   "Turkey": {
     "config": {
-      "zoom": 6,
-      "center": {
-        "lat": 39.2365,
-        "lng": 35.2222
-      },
-      "borders": null
+      "borders": {
+        "south": 35.807561,
+        "north": 42.102087,
+        "west": 26.038371,
+        "east": 44.817709
+      }
     }
   },
   "UK": {
     "config": {
-      "zoom": 5,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
+      "borders": {
+        "south": 49.958175,
+        "north": 60.837179,
+        "west": -8.174779,
+        "east": 1.7622613
       },
-      "borders": null,
       "external": {
         "label": "Check out Historic England",
         "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
@@ -58,17 +69,6 @@
   "London": {
     "config": {
       "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.5072,
-        "lng": -0.1276
-      },
-      "borders": {
-        "south": 51.279860,
-        "north": 51.692042,
-        "west": -0.524924,
-        "east": 0.323770
-      },
       "boundary": true,
       "external": {
         "label": "Check out Historic England",
@@ -76,63 +76,201 @@
       }
     }
   },
-  "Bath": {
+  "Berkshire": {
     "config": {
       "country": "UK",
-      "zoom": 9,
-      "center": {
-        "lat": 51.3805,
-        "lng": -2.3657
-      },
       "borders": {
-        "south": 51.351671,
-        "north": 51.411133,
-        "west": -2.4139684,
-        "east": -2.3207563
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 51.328464,
+        "north": 51.579507,
+        "west": -1.591204,
+        "east": -0.490289
       }
     }
   },
-  "Brighton_and_Hove": {
+  "Bristol": {
     "config": {
       "country": "UK",
-      "zoom": 10,
-      "center": {
-        "lat": 50.8396,
-        "lng": -0.134
-      },
       "borders": {
-        "south": 50.797214,
-        "north": 50.892159,
-        "west": -0.240598,
-        "east": -0.017147
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 51.392169,
+        "north": 51.544252,
+        "west": -2.730915,
+        "east": -2.451385
+      }
+    }
+  },
+  "Buckinghamshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.484,
+        "north": 52.082,
+        "west": -1.143,
+        "east": -0.473
+      }
+    }
+  },
+  "Cambridgeshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.006,
+        "north": 52.743,
+        "west": -0.509,
+        "east": 0.521
+      }
+    }
+  },
+  "Cheshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.946465,
+        "north": 53.480860,
+        "west": -3.130119,
+        "east": -1.972515
+      }
+    }
+  },
+  "Derbyshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.697346,
+        "north": 53.540492,
+        "west": -2.036065,
+        "east": -1.166344
+      }
+    }
+  },
+  "Devon": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.197743,
+        "north": 51.246192,
+        "west": -4.550117,
+        "east": -2.882941
+      }
+    }
+  },
+  "Dorset": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.514392,
+        "north": 51.083446,
+        "west": -2.963315,
+        "east": -1.682454
+      }
+    }
+  },
+  "East_Sussex": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.731831,
+        "north": 51.146342,
+        "west": -0.245296,
+        "east": 0.867201
+      }
+    }
+  },
+  "East_Yorkshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 53.598887,
+        "north": 54.176769,
+        "west": -1.100503,
+        "east": 0.149191
+      }
+    }
+  },
+  "Essex": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.501741,
+        "north": 52.096222,
+        "west": -0.020936,
+        "east": 1.291931
+      }
+    }
+  },
+  "Gloucestershire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.577579,
+        "north": 52.112387,
+        "west": -2.696015,
+        "east": -1.613902
+      }
+    }
+  },
+  "Hampshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.715419,
+        "north": 51.382016,
+        "west": -1.957332,
+        "east": -0.731067
+      }
+    }
+  },
+  "Hertfordshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.597124,
+        "north": 52.081618,
+        "west": -0.748939,
+        "east": 0.197257
+      }
+    }
+  },
+  "Lancashire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 53.480225,
+        "north": 54.239895,
+        "west": -3.058159,
+        "east": -2.045864
+      }
+    }
+  },
+  "Leicestershire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.391265,
+        "north": 52.877991,
+        "west": -1.596417,
+        "east": -0.713542
+      }
+    }
+  },
+  "Lincolnshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.636615,
+        "north": 53.612036,
+        "west": -0.828111,
+        "east": 0.357457
       }
     }
   },
   "Manchester": {
     "config": {
       "country": "UK",
-      "zoom": 10,
-      "center": {
-        "lat": 53.4741,
-        "lng": -2.2114
-      },
       "borders": {
-        "south": 53.401461,
-        "north": 53.540422,
-        "west": -2.2893825,
-        "east": -2.1472469
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 53.327834,
+        "north": 53.687138,
+        "west": -2.7306122,
+        "east": -1.9101606
       }
     }
   },
@@ -147,63 +285,179 @@
       }
     }
   },
-  "Slough": {
+  "Merseyside": {
     "config": {
       "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.512,
-        "lng": -0.5844
-      },
       "borders": {
-        "south": 51.467762,
-        "north": 51.5464,
-        "west": -0.661624,
-        "east": -0.489276
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 53.284414,
+        "north": 53.705959,
+        "west": -3.237463,
+        "east": -2.578283
       }
     }
   },
-  "Spelthorne": {
+  "North_Yorkshire": {
     "config": {
       "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.4258,
-        "lng": -0.4719
-      },
       "borders": {
-        "south": 51.377194,
-        "north": 51.472244,
-        "west": -0.540968,
-        "east": -0.381323
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 53.619323,
+        "north": 54.558138,
+        "west": -2.569054,
+        "east": -0.211586
       }
     }
   },
-  "Windsor_and_Maidenhead": {
+  "Northamptonshire": {
     "config": {
       "country": "UK",
-      "zoom": 12,
-      "center": {
-        "lat": 51.4811,
-        "lng": -0.6828
-      },
       "borders": {
-        "south": 51.381804,
-        "north": 51.578514,
-        "west": -0.855217,
-        "east": -0.523567
-      },
-      "external": {
-        "label": "Check out Historic England",
-        "template": "https://historicengland.org.uk/listing/the-list/list-entry/EXTERNAL_ID?section=official-list-entry"
+        "south": 51.975466,
+        "north": 52.644039,
+        "west": -1.332793,
+        "east": -0.342651
+      }
+    }
+  },
+  "Northumberland": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 54.781048,
+        "north": 55.810994,
+        "west": -2.688144,
+        "east": -1.458719
+      }
+    }
+  },
+  "Nottinghamshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.788514,
+        "north": 53.502329,
+        "west": -1.346023,
+        "east": -0.666164
+      }
+    }
+  },
+  "Oxfordshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.458,
+        "north": 52.169,
+        "west": -1.724,
+        "east": -0.876
+      }
+    }
+  },
+  "Somerset": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.818960,
+        "north": 51.503085,
+        "west": -3.8442908,
+        "east": -2.2402870
+      }
+    }
+  },
+  "South_Yorkshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 53.300211,
+        "north": 53.659557,
+        "west": -1.823894,
+        "east": -0.865515
+      }
+    }
+  },
+  "Staffordshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.419664,
+        "north": 53.224606,
+        "west": -2.471234,
+        "east": -1.586088
+      }
+    }
+  },
+  "Surrey": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.070426,
+        "north": 51.473371,
+        "west": -0.849959,
+        "east": 0.060532
+      }
+    }
+  },
+  "Warwickshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.955932,
+        "north": 52.690624,
+        "west": -1.962376,
+        "east": -1.172711
+      }
+    }
+  },
+  "West_Midlands": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 52.347093,
+        "north": 52.663008,
+        "west": -2.208741,
+        "east": -1.423549
+      }
+    }
+  },
+  "West_Sussex": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.721388,
+        "north": 53.519227,
+        "west": -0.958713,
+        "east": 0.039925
+      }
+    }
+  },
+  "West_Yorkshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 53.519227,
+        "north": 53.963124,
+        "west": -2.173283,
+        "east": -1.198031
+      }
+    }
+  },
+  "Wiltshire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 50.944295,
+        "north": 51.703717,
+        "west": -2.365109,
+        "east": -1.484692
+      }
+    }
+  },
+  "Worcestershire": {
+    "config": {
+      "country": "UK",
+      "borders": {
+        "south": 51.967456,
+        "north": 52.454672,
+        "west": -2.663538,
+        "east": -1.758539
       }
     }
   },
@@ -221,11 +475,6 @@
   "Billund": {
     "config": {
       "country": "Denmark",
-      "zoom": 14,
-      "center": {
-        "lat": 55.730953,
-        "lng": 9.126648
-      },
       "borders": {
         "south": 55.699129,
         "north": 55.773428,
@@ -237,31 +486,17 @@
   "Copenhagen": {
     "config": {
       "country": "Denmark",
-      "zoom": 13,
-      "center": {
-        "lat": 55.6722309,
-        "lng": 12.4896549
-      },
       "borders": {
         "south": 55.614929,
         "north": 55.728391,
         "west": 12.4526044,
         "east": 12.6514573
-      },
-      "external": {
-        "label": "Check out Fredede og Bevaringsværdige Bygninger",
-        "template": "https://www.kulturarv.dk/fbb/bygningvis.pub?bygning=EXTERNAL_ID"
       }
     }
   },
   "Perm": {
     "config": {
       "country": "Russia",
-      "zoom": 13,
-      "center": {
-        "lat": 58.015969,
-        "lng": 56.282795
-      },
       "borders": {
         "south": 57.802453,
         "north": 58.231352,
@@ -273,16 +508,44 @@
   "Istanbul": {
     "config": {
       "country": "Turkey",
-      "zoom": 11,
-      "center": {
-        "lat": 40.968569,
-        "lng": 29.006633
-      },
       "borders": {
         "south": 40.807649,
         "north": 41.196299,
         "west": 28.591899,
         "east": 29.429607
+      }
+    }
+  },
+  "Lisbon": {
+    "config": {
+      "country": "Portugal",
+      "borders": {
+        "south": 38.690869,
+        "north": 38.797006,
+        "west": -9.230198,
+        "east": -9.089545
+      }
+    }
+  },
+  "Porto": {
+    "config": {
+      "country": "Portugal",
+      "borders": {
+        "south": 41.138093,
+        "north": 41.186168,
+        "west": -8.691305,
+        "east": -8.552603
+      }
+    }
+  },
+  "Sintra": {
+    "config": {
+      "country": "Portugal",
+      "borders": {
+        "south": 38.737738,
+        "north": 38.931868,
+        "west": -9.501551,
+        "east": -9.219954
       }
     }
   }

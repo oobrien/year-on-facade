@@ -5,6 +5,8 @@ set -euo pipefail
 temp=./utils/temp.json.tmp
 min_year="2000"
 
+rm -rf ./js/_generated/*
+
 # generate js files for each city
 for filename in ./csv/**/*.csv; do
   city=$(basename "$filename" .csv)
@@ -13,14 +15,21 @@ for filename in ./csv/**/*.csv; do
 
   # sort
   header="year,latitude,longitude,notes"
-  if $(jq ".[\"$city\"].config | has(\"external\")" utils/configs.json); then
+  if $(jq ".[.[\"$city\"].config.country].config | has(\"external\")" utils/configs.json); then
     header="$header,external"
   fi
   echo -ne "$header\n$(tail -n +2 $filename | sort)" >$filename
 
   # generate temporary json files for each city
   cat $filename | jq -sRr "split(\"\\n\") | .[1:] | map(split(\",\")) | map({(.[0]): {latlng: {lat: .[1]|tonumber, lng: .[2]|tonumber}, notes: .[3], external: .[4]} }) | add as \$points | {\"$city\": {\"points\": \$points}} | del(..|nulls)" >$temp
-  jq -s "(.[0] | del(.apiKey)) as \$globalConfigs | .[1] * .[2] | {\"$city\": .[\"$city\"]} | .[\"$city\"].config += \$globalConfigs | .[\"$city\"].config.city = \"$city\"" config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
+  jq -s "(.[0] | del(.apiKey)) as \$globalConfigs |
+    (.[1][.[1][\"$city\"].config.country].config.external) as \$countryExternal |
+    .[1] * .[2] |
+    {\"$city\": .[\"$city\"]} |
+    .[\"$city\"].config += if \$countryExternal then {external: \$countryExternal} else {} end |
+    .[\"$city\"].config += \$globalConfigs |
+    .[\"$city\"].config.city = \"$city\"" \
+    config.json ./utils/configs.json $temp >"./utils/$city.json.tmp"
 
   cat >"./js/_generated/$city.js" <<EOF
 const data = $(cat ./utils/$city.json.tmp | jq ".[\"$city\"]")
@@ -56,14 +65,27 @@ EOF
 
 #generate world.js
 echo "Generating world.js..."
-jq -s --sort-keys '{"World": {"points": [.[] | ..? | .config.city as $city | .points // empty | with_entries(.value += {"city": $city})] | add }}' $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
+jq -s --sort-keys '
+  {"World":
+    {"points": [
+      .[] | ..? | .config.city as $city | .points // empty |
+      with_entries(.value += {"city": $city})] | add }
+  }' \
+  $(ls -SA1 utils/*tmp | grep -v temp.json.tmp) >$temp
 generateFakeCity "World"
 
 #generate <country>.js
 for d in ./csv/*/; do
   country=$(basename "$d")
   echo "Generating $country.js..."
-  jq -s --sort-keys "{\"$country\": {\"points\": [.[] | ..? | .config.city as \$city | .points // empty | with_entries(.value += {\"city\": \$city})] | add }}" $(ls -SA1 csv/$country/* | sed -e "s/^csv\/$country/utils/" -e 's/csv$/json.tmp/') >$temp
+  jq -s --sort-keys "
+    {\"$country\":
+      {\"points\": [
+        .[] | ..? | .config.city as \$city | .points // empty |
+        with_entries(.value += {\"city\": \$city})] | add }
+    }" \
+    $(ls -SA1 csv/$country/* | \
+    sed -e "s/^csv\/$country/utils/" -e 's/csv$/json.tmp/') >$temp
   generateFakeCity "$country"
 done
 
@@ -156,3 +178,7 @@ cat ./index.html | sed -E "s,\"wit\" href=\"[^\"]+\",\"wit\" href=\"$wit_link\",
 mv ./utils/index.html.tmp ./index.html
 
 rm ./utils/*.tmp
+
+# build geoguesser json
+echo "Generating World_geogesser.json..."
+sed '1s/^.\{13\}//' ./js/_generated/World.js | jq '.points | map_values(.latlng) | to_entries | map(.value) | map(. += {"heading": 0, "pitch": 0, "zoom": 1})' > ./js/_generated/World_geogesser.json

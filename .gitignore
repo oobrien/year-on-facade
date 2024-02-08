@@ -1,6 +1,12 @@
+# infra
+.terraform
+.terraform.lock.hcl
+/iaac/*.zip
+# python dependencies
+/iaac/lambda-resize/*/*
+
+# photos
 photos/original
-photos/web
-photos/upload
 
 *.tmp
 
@@ -15,3 +21,5 @@ utils/historic-england/prepare/*.csv
 utils/historic-england/crawl
 utils/historic-england/analysis
 utils/historic-england/db/pgdata
+
+data.csv

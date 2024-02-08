@@ -74,6 +74,7 @@ function createMarker(year, pointGeom)
 			marker.set('label', '\n' + yearText.substring(0, 4) + '\n' + yearText.substring(4))
 		}
 		return marker;
+
 }
 
 var keyMaps = [];
