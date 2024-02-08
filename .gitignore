@@ -11,8 +11,8 @@ photos/original
 *.tmp
 
 .DS_Store
-img/_generated/*.svg
-js/_generated/*.js
+# img/_generated/*.svg
+# js/_generated/*.js
 
 utils/*/*.csv
 utils/*/*.json
