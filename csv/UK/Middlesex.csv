@@ -5,7 +5,7 @@ year,latitude,longitude,notes,external
 1599_,51.59620,-0.37610,,
 1624_,51.45841,-0.47580,The house and freehouse were founded... by the year,
 1625_,51.63367,-0.07464,Salisbury House [recently painted on sign],331374324
-1629,51.53503,-0.46021,Io. Atlee Io. Robince, Church Wa.,360739067
+1629,51.53503,-0.46021,Io. Atlee Io. Robince Church Wa.,360739067
 1675,51.48795,-0.47839,,
 1696,51.61740,-0.22718,T N,544200461
 1700_,51.41438,-0.36002,The Old Saddlery Circa,729735977
@@ -21,7 +21,8 @@ year,latitude,longitude,notes,external
 1782,51.48565,-0.30727,Deo Hoc Templem Erat Aedificatum Et Dedicatum A.D.,166585101
 1784_,51.62523,-0.06246,Institute of [?],56651227
 1791,51.54732,-0.48029,Old Bank A.D.,990490557
-1794_,51.65737,-0.08780,Westwood Cottage A..D [YOF],91000121  
+1794_,51.65737,-0.08780,Westwood Cottage A..D [YOF],91000121
+1799_,51.52372,-0.14328,The Greene Man [added in 2023],108251970
 1811,51.50959,-0.25997,Erected by the Worshipful Company of Goldsmiths A.D.,211819761
 1811a_,51.57850,-0.15389,Prospect Place,
 1817,51.59965,-0.06769,S B [on drainpipe],
@@ -39,6 +40,7 @@ year,latitude,longitude,notes,external
 1839a,51.4703525,-0.3284286,Silver Hall Place. .,
 1840_,51.43566,-0.34821,Valentine Cottages E.D.C.,
 1843,51.47070,-0.32830,These almshouses were built and endowed by Mrs. Sarah Sermon A.D,
+1844_,51.52510,-0.13530,Founded,40269406
 1846,51.46452,-0.37752,Wellington Cottages,
 1846a_,51.44089,-0.34956,The Cottage of Content. Thou shalt not bear false witness against thy neighbour. E.I.F.,311913765
 1847,51.54483,-0.48322,Newland House Converted 1996,1001368831
@@ -118,6 +120,7 @@ year,latitude,longitude,notes,external
 1871a_,51.6550012,-0.0867398,William Place,
 1871b_,51.66995,-0.01831,Leamington Cottage,120082967
 1871c_,51.43167,-0.33969,Stafford Place,
+1871d_,51.51985,-0.10167,LBS Erected Anno Dom,97175525
 1872,51.6013875,-0.4834587,A†D,
 1872a,51.59436,-0.38305,Bridge Place T.E,
 1872b_,51.42914,-0.50462,Dane More Cottages,
@@ -144,6 +147,7 @@ year,latitude,longitude,notes,external
 1878e_,51.60071,-0.07090,[?]
 1878f_,51.48814,-0.30595,Cleopatra Terrace,
 1878g_,51.42639,-0.35850,Devonshire Villas,
+1878h_,51.52648,-0.14442,,225562168
 1879,51.49916,-0.25601,NJ A.D.,787287273
 1879a_,51.60007,-0.07123,[?]
 1879b_,51.59993,-0.07125,Landermere Villa,
@@ -249,6 +253,7 @@ year,latitude,longitude,notes,external
 1885l_,51.66661,-0.08634,Percival Villas,87963819
 1885m,51.50379,-0.37890,Gordon Cottages,
 1885n_,51.41367,-0.36791,MRA,
+1885o_,51.51894,-0.10075,CHS Erected AD [Flickr BD],146986819
 1886,51.53352,-0.45623,Sunningdale Cottages,
 1886a_,51.4671991,-0.3584619,Brodmore Villas,
 1886b_,51.67729,-0.03507,Claremont Villas,99491552
@@ -275,7 +280,7 @@ year,latitude,longitude,notes,external
 1887e,51.51609,-0.29967,,975755938
 1887f_,51.6612687,-0.0860591,Raleigh Buildings.,
 1887g,51.53408,-0.24792,VR,627997846
-1887h_,51.58713,-0.09743,Built in the [?],891209395
+1887h,51.58713,-0.09743,Built in the [?],891209395
 1887i,51.53802,-0.48364,Home Cottage,
 1887k_,51.50378,-0.37906,Jubilee Cottages,
 1887l_,51.42882,-0.33722,Ivy Cottage,
@@ -287,7 +292,7 @@ year,latitude,longitude,notes,external
 1888,51.46627,-0.36759,,
 1888a_,51.6618918,-0.0885904,Witham Villa,
 1888b_,51.6608851,-0.0852505,Percy Villa,
-1888c_,51.58786,-0.11750,,338351270
+1888c,51.58786,-0.11750,,338351270
 1888d_,51.67782,-0.03475,Vernum Cottages,99491561
 1888e,51.59624,-0.38629,North End Cottage,
 1888f_,51.42979,-0.50799,Katrine,
@@ -310,6 +315,7 @@ year,latitude,longitude,notes,external
 1888w,51.53823,-0.48336,Industry,
 1888x_,51.43230,-0.47056,George's Villa,
 1888y_,51.40659,-0.40507,Bank [YOF],749261032
+1888z,51.52890,-0.21875,AD,477963941
 1889,51.57019,-0.33985,,
 1889a,51.6084408,-0.4154621,Norfolk Terrace,
 1889b_,51.58347,-0.11669,Millman Terrace,457491928
@@ -339,6 +345,8 @@ year,latitude,longitude,notes,external
 1890d_,51.40312,-0.46344,[date unclear],
 1890e,51.50119,-0.38697,HD,327315538
 1890f_,51.43355,-0.47632,South View,
+1890g_,51.51848,-0.10184,BB,100835971
+1890h_,51.64617,-0.03009,,741955711
 1891,51.57591,-0.34293,,
 1891a_,51.5821486,-0.33576,Gladstone Villas,
 1891b,51.58207,-0.33573,Nelson Villas,
@@ -368,6 +376,8 @@ year,latitude,longitude,notes,external
 1892m,51.51163,-0.37163,Thorn Cottages,
 1892n_,51.44040,-0.34907,Wycombe Cottages,311913755
 1892o,51.52945,-0.48239,Cedar Cottages H. B,
+1892p_,51.52723,-0.13913,Hampstead House,224890370
+1892q_,51.63048,-0.33715,,
 1893,51.60988,-0.42124,Ferndale Villas,
 1893a_,51.49189,-0.26197,,
 1893b_,51.5825051,-0.33576,Prince Albert Villas,
@@ -414,6 +424,11 @@ year,latitude,longitude,notes,external
 1895n_,51.50355,-0.38985,Ivy Villas,
 1895o_,51.42913,-0.35410,Matthews Stores,311971041
 1895p,51.53903,-0.48373,Sunnyside [number damaged],
+1895q_,51.59862,-0.12422,,
+1895r_,51.58173,-0.03939,A.D,378218824
+1895s_,51.58287,-0.04015,A.D,378218345
+1895t_,51.58287,-0.03989,A.D,378204678
+1895u_,51.58338,-0.04017,A.D,378204638
 1896,51.57971,-0.24223,,
 1896a_,51.58768,-0.11671,A.D.,533651125
 1896b_,51.58767,-0.11706,,533896122
@@ -424,7 +439,7 @@ year,latitude,longitude,notes,external
 1896g_,51.66439,-0.06739,Primrose Cottages,92785040
 1896h_,51.60523,-0.12248,,
 1896i_,51.50329,-0.47566,Daisy Villas,
-1896j_,51.58766,-0.11694,The Pavement,533896121
+1896j,51.58766,-0.11694,The Pavement,533896121
 1896k_,51.4690069,-0.3581276,Lewisham Villas,
 1896l_,51.66588,-0.08159,Clay Hill Church Institute A.D.,90692448
 1896m_,51.66748,-0.08668,Pilgrim Villas,87803636
@@ -434,6 +449,8 @@ year,latitude,longitude,notes,external
 1896q_,51.42694,-0.33803,Dene Cottage,
 1896r_,51.54941,-0.22777,,67254117
 1896s_,51.57724,-0.42823,Rosebank Villas,
+1896t_,51.58217,-0.03977,A.D,378218350
+1896u_,51.58356,-0.04018,,378204648
 1897,51.58292,-0.09995,,
 1897a_,51.6438809,-0.0465746,,
 1897b_,51.41329,-0.36418,,
@@ -443,7 +460,7 @@ year,latitude,longitude,notes,external
 1897f,51.49256,-0.26692,,205697238
 1897g,51.50192,-0.38239,,326005890
 1897h,51.51304,-0.47293,This foundation stone of the Church of S.Matthew was laid September 24 AD,96882518
-1897i_,51.58413,-0.06883,A.D.,163085077
+1897i,51.58413,-0.06883,A.D.,163085077
 1897j_,51.49975,-0.25597,,787287285
 1897k_,51.57063,-0.13832,,4368279,
 1897l,51.61829,-0.23512,[Photo © Jim Osley CC-By-SA],
@@ -454,7 +471,8 @@ year,latitude,longitude,notes,external
 1897q,51.55155,-0.24137,Commenced AD 1896 Completed AD,
 1897r_,51.50360,-0.38744,Pembroke Cottages,
 1897s,51.67080,-0.04189,Emmadapton Villa,100854917
-1897t_,51.53139,-0.23120,,256916917
+1897t,51.53139,-0.23120,,256916917
+1897u_,51.51995,-0.10193,Rebuilt by W Harris,147004013
 1898,51.54711,-0.23218,,
 1898a_,51.5792179,-0.0990928,Ducketts Terrace,
 1898b_,51.6634352,-0.0920675,Cedar Villa,
@@ -480,7 +498,7 @@ year,latitude,longitude,notes,external
 1898v_,51.42877,-0.39688,West Bank,
 1898w_,51.42887,-0.39713,Audley Villas,
 1898x_,51.42589,-0.50466,Londsdale Cottages,
-1898y,51.66157,-0.19405,Anno du [out of area],71295639
+1898y,51.66157,-0.19405,Anno du,71295639
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -513,7 +531,8 @@ year,latitude,longitude,notes,external
 1899zc_,51.51525,-0.32258,,
 1899zd_,51.42675,-0.49065,Rose Villas,
 1899ze_,51.66887,-0.03935,? Villas,105918030
-1899zf_,51.60093,-0.19442,,237665188
+1899zf,51.60093,-0.19442,,237665188
+1899zg_,51.52639,-0.14075,Estabd 1803 Rebuilt,OSMID
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a,51.56048,-0.43993,Manor View Villas,
 1900b_,51.6610081,-0.0791394,,
@@ -552,6 +571,7 @@ year,latitude,longitude,notes,external
 1900zi_,51.42654,-0.49064,Cymbal Cottages,
 1900zj_,51.43231,-0.47067,Gordon Villa,
 1900zk_,51.56124,-0.30145,,
+1900zl_,51.59917,-0.12737,[Flickr],
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -571,6 +591,7 @@ year,latitude,longitude,notes,external
 1901p,51.66977,-0.04014,Ivey Villas,105935278
 1901q_,51.66878,-0.03867,Beulah Villas,105918045
 1901r_,51.66882,-0.03895,Allan Villas,105918030
+1901s_,51.52569,-0.14255,A.M.D.G [Roman numerals],OS674001065MID
 1902,51.57495,-0.10451,,
 1902a,51.6125075,-0.1808578,Thornton Villa,
 1902b,51.53980,-0.20858,WDC,97060663
@@ -592,6 +613,12 @@ year,latitude,longitude,notes,external
 1902r,51.51068,-0.30542,A D,88695646
 1902s_,51.44364,-0.34789,Brodie Terrace,311904742
 1902t,51.46875,-0.36293,,1057751928
+1902u_,51.60110,-0.12741,ER,
+1902v_,51.60086,-0.12732,ER,
+1902w_,51.60082,-0.12722,ER,
+1902x_,51.60039,-0.12710,ER,
+1902y_,51.60025,-0.12700,ER,
+1902z_,51.60011,-0.12690,ER,
 1903,51.5884,-0.11461,,
 1903a_,51.51474,-0.33034,,
 1903b_,51.621481,-0.0617196,,
@@ -619,6 +646,9 @@ year,latitude,longitude,notes,external
 1903x,51.59658,-0.34010,,
 1903y,51.62072,-0.31688,Chart Cottages,
 1903z_,51.49655,-0.38435,Keswick Terrace,
+1903za_,51.52540,-0.13446,Anno Dom Vniversity of London Vniv Coll [Roman numerals],40269405
+1903zb_,51.52593,-0.14223,,
+1903zc_,51.53200,-0.10654,,
 1904,51.48443,-0.37341,,
 1904a_,51.63561,-0.05213,Downham,
 1904b,51.58309,-0.33576,,
@@ -639,6 +669,7 @@ year,latitude,longitude,notes,external
 1904r_,51.41941,-0.37053,Myosotis Villa,60141304
 1904s_,51.41991,-0.37076,Pro[?] Villas,60141322
 1904t_,51.42596,-0.50428,Deal Villas,
+1904u_,51.52823,-0.13842,The.Saint.Pancras Female.Orphanage Established 1776. Rebuilt. .,OSMID
 1905,51.5584532,-0.2174762,,
 1905a,51.51115,-0.37577,A.D.,192928593
 1905b_,51.6061519,-0.0681858,,
@@ -658,11 +689,12 @@ year,latitude,longitude,notes,external
 1905p_,51.42764,-0.33445,TLDC,469029192
 1905q,51.50026,-0.38826,R. E. Coronation Bakery,
 1905r,51.46954,-0.35875,,1039568784
+1905s_,51.52423,-0.13470,University College London [Roman Numerals],863409196
 1906,51.5775976,-0.239595,,
 1906R_,51.65299,-0.07269,Enfield Electricity Works,93982284
 1906a_,51.6529456,-0.0805599,Town Parade,
 1906b_,51.61581,-0.17638,,
-1906c_,51.5879369,-0.1197484,This stone was laid by W.C. Parkinson Esq L.C.C. 19th September,
+1906c,51.5879369,-0.1197484,This stone was laid by Herbert Marnham Esq. 19th September,
 1906d_,51.4934009,-0.2674967,Dewsbury Crescent,
 1906e_,51.41472,-0.36608,,
 1906f,51.41098,-0.31200,The Old Kings Head Rebuilt A.D..,848835387
@@ -691,7 +723,7 @@ year,latitude,longitude,notes,external
 1906zc_,51.56158,-0.30246,CAE,
 1907,51.60418,-0.19016,,
 1907a_,51.59488,-0.06906,I.S.L.V.,
-1907b_,51.58907,-0.16416,,
+1907b,51.58907,-0.16416,,
 1907c_,51.61348,-0.06455,AD,
 1907d_,51.4707613,-0.3293555,Muriel Villa,
 1907e_,51.64040,-0.30128,A D,1058208403
@@ -777,7 +809,7 @@ year,latitude,longitude,notes,external
 1911p_,51.51537,-0.33100,,
 1911q_,51.59232,-0.25684,Colindale House,199918359
 1911r,51.55530,-0.31609,,
-1911s,51.53164,-0.17065,A.D [out of area],9662973
+1911s,51.53164,-0.17065,A.D,9662973
 1911t_,51.51352,-0.47696,GJ CC.,44131261
 1912,51.6234141,-0.1225127,,
 1912a_,51.57775,-0.20736,,
@@ -786,6 +818,7 @@ year,latitude,longitude,notes,external
 1912d,51.59269,-0.25598,Chosen Villas,199918359
 1912e,51.59254,-0.25634,Chosen Villas,199918359
 1912f_,51.43234,-0.33850,[on drainpipe],781337436
+1912g_,51.53017,-0.14382,V,353854654
 1913,51.58867,-0.16392,,
 1913a,51.57025,-0.33993,[on drainpipe],
 1913b_,51.46549,-0.37774,,
@@ -801,6 +834,7 @@ year,latitude,longitude,notes,external
 1914f,51.57384,-0.20111,A.D.,,
 1914g,51.57951,-0.35230,,
 1914h_,51.42286,-0.35881,,312006373
+1914i_,51.51890,-0.10449,Port of London Authority,41385453
 1915,51.51675,-0.41885,WM,
 1915a_,51.63012,-0.09717,[on drainpipe],671600555
 1915b,51.50078,-0.38744,Home Villas,327315844
@@ -817,10 +851,11 @@ year,latitude,longitude,notes,external
 1923c,51.56318,-0.27919,MR,287131758
 1923d,51.61283,-0.15915,Grand Parade,1079087529
 1923e_,51.42454,-0.4195,St. Adrians [YOF],351616501
+1923f_,51.52694,-0.18009,Clive Court,1517736
 1924,51.50988,-0.28633,,
 1924aX,51.4993,-0.38305,[removed (painted over) - Google Street View image © Google],324577975
 1924b,51.4851383,-0.3078365,AMDG Taylor House A.D.,
-1924c,51.55247,-0.31425,,This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March,228985590
+1924c,51.55247,-0.31425,This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March,228985590
 1925,51.6138,-0.27616,,
 1925a,51.61495,-0.24608,,
 1925b_,51.58159,-0.16888,[on gates],383594002
@@ -853,7 +888,7 @@ year,latitude,longitude,notes,external
 1930e_,51.60909,-0.42453,[on drainpipe],
 1930f_,51.47449,-0.35807,A.Cowen A.D.,
 1930g,51.59612,-0.33662,,1056290545
-1930h_,51.60851,-0.25267,H.E.C.,200220346
+1930h,51.60832,-0.25261,H.E.C.,200220346
 1930i_,51.65242,-0.08479,Howards Chambers,91060480
 1931,51.5882482,-0.2524284,Wakemans Hill Parade,
 1931a_,51.6205928,-0.0625341,E.U.D.C. Lending Library,
@@ -894,6 +929,7 @@ year,latitude,longitude,notes,external
 1936,51.589062,-0.2533524,Wakemans Hill Parade,
 1936a_,51.63544,-0.09175,ER VIII,449549027
 1936b,51.60812,-0.37235,S,609808899
+1936c,51.60134,-0.19542,ER VIII Telephone Exchange,161564201
 1937,51.50852,-0.47325,Broadway Parade,
 1937a,51.50764,-0.47335,GR VI,
 1937b_,51.51782,-0.28021,,
@@ -901,19 +937,21 @@ year,latitude,longitude,notes,external
 1938,51.53487,-0.24792,GR VI Telephone Exchange,
 1938a,51.51229,-0.38318,,
 1938b,51.55042,-0.48473,Rebuilt U+X 17B95,42650876
+1938b_,51.56858,-0.50400,GR VI Telephone Exchange,530488996
 1939_,51.61676,-0.13875,GR VI,829784318
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
 1948a_,51.51769,-0.43308,Hayes Amateur Boxing Club Est,
 1951,51.58966,-0.21855,GR VI,
+1951a_,51.53242,-0.10639,[on drainpipe?],31310858
 1952,51.59856,-0.11995,ER II,368597795
 1953,51.62150,-0.27639,ER II,873092922
 1954,51.54321,-0.48780,Waterloo Wharf [relocated to new (2019) building],1205138798
-1955,51.53130,-0.36449,Greenford Free Church (Baptist),1932 Destroyed 1940 Rebuilt,222351190
+1955,51.53130,-0.36449,Greenford Free Church (Baptist) 1932 Destroyed 1940 Rebuilt,222351190
 1957,51.53445,-0.38893,ER II Telephone Exchange,99806373
-1958,51.53481,-0.16347,EIIR [gate] [out of area],1540353568
+1958,51.53481,-0.16347,EIIR [gate],1540353568
 1959,51.58042,-0.40046,,1319526001
 1959a_,51.62083,-0.25362,[YOF],
-1962_,51.60103,-0.19386,,201854471
+1962,51.60103,-0.19386,,201854471
 1963,51.63050,-0.12803,ER II,188837393
 1971,51.42971,-0.49877,[on drainpipe],162411474
 1982,51.57752,-0.33367,Rebuilt,135704911

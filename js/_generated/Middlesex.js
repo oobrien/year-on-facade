@@ -66,8 +66,8 @@ const data = {
         "lat": 51.53503,
         "lng": -0.46021
       },
-      "notes": "Io. Atlee Io. Robince",
-      "external": " Church Wa."
+      "notes": "Io. Atlee Io. Robince Church Wa.",
+      "external": "360739067"
     },
     "1675": {
       "latlng": {
@@ -195,7 +195,15 @@ const data = {
         "lng": -0.0878
       },
       "notes": "Westwood Cottage A..D [YOF]",
-      "external": "91000121  "
+      "external": "91000121"
+    },
+    "1799_": {
+      "latlng": {
+        "lat": 51.52372,
+        "lng": -0.14328
+      },
+      "notes": "The Greene Man [added in 2023]",
+      "external": "108251970"
     },
     "1811": {
       "latlng": {
@@ -332,6 +340,14 @@ const data = {
       },
       "notes": "These almshouses were built and endowed by Mrs. Sarah Sermon A.D",
       "external": ""
+    },
+    "1844_": {
+      "latlng": {
+        "lat": 51.5251,
+        "lng": -0.1353
+      },
+      "notes": "Founded",
+      "external": "40269406"
     },
     "1846": {
       "latlng": {
@@ -965,6 +981,14 @@ const data = {
       "notes": "Stafford Place",
       "external": ""
     },
+    "1871d_": {
+      "latlng": {
+        "lat": 51.51985,
+        "lng": -0.10167
+      },
+      "notes": "LBS Erected Anno Dom",
+      "external": "97175525"
+    },
     "1872": {
       "latlng": {
         "lat": 51.6013875,
@@ -1171,6 +1195,14 @@ const data = {
       },
       "notes": "Devonshire Villas",
       "external": ""
+    },
+    "1878h_": {
+      "latlng": {
+        "lat": 51.52648,
+        "lng": -0.14442
+      },
+      "notes": "",
+      "external": "225562168"
     },
     "1879": {
       "latlng": {
@@ -2011,6 +2043,14 @@ const data = {
       "notes": "MRA",
       "external": ""
     },
+    "1885o_": {
+      "latlng": {
+        "lat": 51.51894,
+        "lng": -0.10075
+      },
+      "notes": "CHS Erected AD [Flickr BD]",
+      "external": "146986819"
+    },
     "1886": {
       "latlng": {
         "lat": 51.53352,
@@ -2219,7 +2259,7 @@ const data = {
       "notes": "VR",
       "external": "627997846"
     },
-    "1887h_": {
+    "1887h": {
       "latlng": {
         "lat": 51.58713,
         "lng": -0.09743
@@ -2315,7 +2355,7 @@ const data = {
       "notes": "Percy Villa",
       "external": ""
     },
-    "1888c_": {
+    "1888c": {
       "latlng": {
         "lat": 51.58786,
         "lng": -0.1175
@@ -2498,6 +2538,14 @@ const data = {
       },
       "notes": "Bank [YOF]",
       "external": "749261032"
+    },
+    "1888z": {
+      "latlng": {
+        "lat": 51.5289,
+        "lng": -0.21875
+      },
+      "notes": "AD",
+      "external": "477963941"
     },
     "1889": {
       "latlng": {
@@ -2731,6 +2779,22 @@ const data = {
       "notes": "South View",
       "external": ""
     },
+    "1890g_": {
+      "latlng": {
+        "lat": 51.51848,
+        "lng": -0.10184
+      },
+      "notes": "BB",
+      "external": "100835971"
+    },
+    "1890h_": {
+      "latlng": {
+        "lat": 51.64617,
+        "lng": -0.03009
+      },
+      "notes": "",
+      "external": "741955711"
+    },
     "1891": {
       "latlng": {
         "lat": 51.57591,
@@ -2961,6 +3025,22 @@ const data = {
         "lng": -0.48239
       },
       "notes": "Cedar Cottages H. B",
+      "external": ""
+    },
+    "1892p_": {
+      "latlng": {
+        "lat": 51.52723,
+        "lng": -0.13913
+      },
+      "notes": "Hampstead House",
+      "external": "224890370"
+    },
+    "1892q_": {
+      "latlng": {
+        "lat": 51.63048,
+        "lng": -0.33715
+      },
+      "notes": "",
       "external": ""
     },
     "1893": {
@@ -3331,6 +3411,46 @@ const data = {
       "notes": "Sunnyside [number damaged]",
       "external": ""
     },
+    "1895q_": {
+      "latlng": {
+        "lat": 51.59862,
+        "lng": -0.12422
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1895r_": {
+      "latlng": {
+        "lat": 51.58173,
+        "lng": -0.03939
+      },
+      "notes": "A.D",
+      "external": "378218824"
+    },
+    "1895s_": {
+      "latlng": {
+        "lat": 51.58287,
+        "lng": -0.04015
+      },
+      "notes": "A.D",
+      "external": "378218345"
+    },
+    "1895t_": {
+      "latlng": {
+        "lat": 51.58287,
+        "lng": -0.03989
+      },
+      "notes": "A.D",
+      "external": "378204678"
+    },
+    "1895u_": {
+      "latlng": {
+        "lat": 51.58338,
+        "lng": -0.04017
+      },
+      "notes": "A.D",
+      "external": "378204638"
+    },
     "1896": {
       "latlng": {
         "lat": 51.57971,
@@ -3411,7 +3531,7 @@ const data = {
       "notes": "Daisy Villas",
       "external": ""
     },
-    "1896j_": {
+    "1896j": {
       "latlng": {
         "lat": 51.58766,
         "lng": -0.11694
@@ -3491,6 +3611,22 @@ const data = {
       "notes": "Rosebank Villas",
       "external": ""
     },
+    "1896t_": {
+      "latlng": {
+        "lat": 51.58217,
+        "lng": -0.03977
+      },
+      "notes": "A.D",
+      "external": "378218350"
+    },
+    "1896u_": {
+      "latlng": {
+        "lat": 51.58356,
+        "lng": -0.04018
+      },
+      "notes": "",
+      "external": "378204648"
+    },
     "1897": {
       "latlng": {
         "lat": 51.58292,
@@ -3563,7 +3699,7 @@ const data = {
       "notes": "This foundation stone of the Church of S.Matthew was laid September 24 AD",
       "external": "96882518"
     },
-    "1897i_": {
+    "1897i": {
       "latlng": {
         "lat": 51.58413,
         "lng": -0.06883
@@ -3651,13 +3787,21 @@ const data = {
       "notes": "Emmadapton Villa",
       "external": "100854917"
     },
-    "1897t_": {
+    "1897t": {
       "latlng": {
         "lat": 51.53139,
         "lng": -0.2312
       },
       "notes": "",
       "external": "256916917"
+    },
+    "1897u_": {
+      "latlng": {
+        "lat": 51.51995,
+        "lng": -0.10193
+      },
+      "notes": "Rebuilt by W Harris",
+      "external": "147004013"
     },
     "1898": {
       "latlng": {
@@ -3864,7 +4008,7 @@ const data = {
         "lat": 51.66157,
         "lng": -0.19405
       },
-      "notes": "Anno du [out of area]",
+      "notes": "Anno du",
       "external": "71295639"
     },
     "1899": {
@@ -4123,13 +4267,21 @@ const data = {
       "notes": "? Villas",
       "external": "105918030"
     },
-    "1899zf_": {
+    "1899zf": {
       "latlng": {
         "lat": 51.60093,
         "lng": -0.19442
       },
       "notes": "",
       "external": "237665188"
+    },
+    "1899zg_": {
+      "latlng": {
+        "lat": 51.52639,
+        "lng": -0.14075
+      },
+      "notes": "Estabd 1803 Rebuilt",
+      "external": "OSMID"
     },
     "1900": {
       "latlng": {
@@ -4435,6 +4587,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1900zl_": {
+      "latlng": {
+        "lat": 51.59917,
+        "lng": -0.12737
+      },
+      "notes": "[Flickr]",
+      "external": ""
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -4586,6 +4746,14 @@ const data = {
       },
       "notes": "Allan Villas",
       "external": "105918030"
+    },
+    "1901s_": {
+      "latlng": {
+        "lat": 51.52569,
+        "lng": -0.14255
+      },
+      "notes": "A.M.D.G [Roman numerals]",
+      "external": "OS674001065MID"
     },
     "1902": {
       "latlng": {
@@ -4754,6 +4922,54 @@ const data = {
       },
       "notes": "",
       "external": "1057751928"
+    },
+    "1902u_": {
+      "latlng": {
+        "lat": 51.6011,
+        "lng": -0.12741
+      },
+      "notes": "ER",
+      "external": ""
+    },
+    "1902v_": {
+      "latlng": {
+        "lat": 51.60086,
+        "lng": -0.12732
+      },
+      "notes": "ER",
+      "external": ""
+    },
+    "1902w_": {
+      "latlng": {
+        "lat": 51.60082,
+        "lng": -0.12722
+      },
+      "notes": "ER",
+      "external": ""
+    },
+    "1902x_": {
+      "latlng": {
+        "lat": 51.60039,
+        "lng": -0.1271
+      },
+      "notes": "ER",
+      "external": ""
+    },
+    "1902y_": {
+      "latlng": {
+        "lat": 51.60025,
+        "lng": -0.127
+      },
+      "notes": "ER",
+      "external": ""
+    },
+    "1902z_": {
+      "latlng": {
+        "lat": 51.60011,
+        "lng": -0.1269
+      },
+      "notes": "ER",
+      "external": ""
     },
     "1903": {
       "latlng": {
@@ -4971,6 +5187,30 @@ const data = {
       "notes": "Keswick Terrace",
       "external": ""
     },
+    "1903za_": {
+      "latlng": {
+        "lat": 51.5254,
+        "lng": -0.13446
+      },
+      "notes": "Anno Dom Vniversity of London Vniv Coll [Roman numerals]",
+      "external": "40269405"
+    },
+    "1903zb_": {
+      "latlng": {
+        "lat": 51.52593,
+        "lng": -0.14223
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1903zc_": {
+      "latlng": {
+        "lat": 51.532,
+        "lng": -0.10654
+      },
+      "notes": "",
+      "external": ""
+    },
     "1904": {
       "latlng": {
         "lat": 51.48443,
@@ -5131,6 +5371,14 @@ const data = {
       "notes": "Deal Villas",
       "external": ""
     },
+    "1904u_": {
+      "latlng": {
+        "lat": 51.52823,
+        "lng": -0.13842
+      },
+      "notes": "The.Saint.Pancras Female.Orphanage Established 1776. Rebuilt. .",
+      "external": "OSMID"
+    },
     "1905": {
       "latlng": {
         "lat": 51.5584532,
@@ -5283,6 +5531,14 @@ const data = {
       "notes": "",
       "external": "1039568784"
     },
+    "1905s_": {
+      "latlng": {
+        "lat": 51.52423,
+        "lng": -0.1347
+      },
+      "notes": "University College London [Roman Numerals]",
+      "external": "863409196"
+    },
     "1906": {
       "latlng": {
         "lat": 51.5775976,
@@ -5315,12 +5571,12 @@ const data = {
       "notes": "",
       "external": ""
     },
-    "1906c_": {
+    "1906c": {
       "latlng": {
         "lat": 51.5879369,
         "lng": -0.1197484
       },
-      "notes": "This stone was laid by W.C. Parkinson Esq L.C.C. 19th September",
+      "notes": "This stone was laid by Herbert Marnham Esq. 19th September",
       "external": ""
     },
     "1906d_": {
@@ -5547,7 +5803,7 @@ const data = {
       "notes": "I.S.L.V.",
       "external": ""
     },
-    "1907b_": {
+    "1907b": {
       "latlng": {
         "lat": 51.58907,
         "lng": -0.16416
@@ -6240,7 +6496,7 @@ const data = {
         "lat": 51.53164,
         "lng": -0.17065
       },
-      "notes": "A.D [out of area]",
+      "notes": "A.D",
       "external": "9662973"
     },
     "1911t_": {
@@ -6306,6 +6562,14 @@ const data = {
       },
       "notes": "[on drainpipe]",
       "external": "781337436"
+    },
+    "1912g_": {
+      "latlng": {
+        "lat": 51.53017,
+        "lng": -0.14382
+      },
+      "notes": "V",
+      "external": "353854654"
     },
     "1913": {
       "latlng": {
@@ -6426,6 +6690,14 @@ const data = {
       },
       "notes": "",
       "external": "312006373"
+    },
+    "1914i_": {
+      "latlng": {
+        "lat": 51.5189,
+        "lng": -0.10449
+      },
+      "notes": "Port of London Authority",
+      "external": "41385453"
     },
     "1915": {
       "latlng": {
@@ -6555,6 +6827,14 @@ const data = {
       "notes": "St. Adrians [YOF]",
       "external": "351616501"
     },
+    "1923f_": {
+      "latlng": {
+        "lat": 51.52694,
+        "lng": -0.18009
+      },
+      "notes": "Clive Court",
+      "external": "1517736"
+    },
     "1924": {
       "latlng": {
         "lat": 51.50988,
@@ -6584,8 +6864,8 @@ const data = {
         "lat": 51.55247,
         "lng": -0.31425
       },
-      "notes": "",
-      "external": "This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March"
+      "notes": "This stone was laid To the Glory of God and on behalf of the church and congregation on 19th March",
+      "external": "228985590"
     },
     "1925": {
       "latlng": {
@@ -6843,10 +7123,10 @@ const data = {
       "notes": "",
       "external": "1056290545"
     },
-    "1930h_": {
+    "1930h": {
       "latlng": {
-        "lat": 51.60851,
-        "lng": -0.25267
+        "lat": 51.60832,
+        "lng": -0.25261
       },
       "notes": "H.E.C.",
       "external": "200220346"
@@ -7171,6 +7451,14 @@ const data = {
       "notes": "S",
       "external": "609808899"
     },
+    "1936c": {
+      "latlng": {
+        "lat": 51.60134,
+        "lng": -0.19542
+      },
+      "notes": "ER VIII Telephone Exchange",
+      "external": "161564201"
+    },
     "1937": {
       "latlng": {
         "lat": 51.50852,
@@ -7227,6 +7515,14 @@ const data = {
       "notes": "Rebuilt U+X 17B95",
       "external": "42650876"
     },
+    "1938b_": {
+      "latlng": {
+        "lat": 51.56858,
+        "lng": -0.504
+      },
+      "notes": "GR VI Telephone Exchange",
+      "external": "530488996"
+    },
     "1939_": {
       "latlng": {
         "lat": 51.61676,
@@ -7259,6 +7555,14 @@ const data = {
       "notes": "GR VI",
       "external": ""
     },
+    "1951a_": {
+      "latlng": {
+        "lat": 51.53242,
+        "lng": -0.10639
+      },
+      "notes": "[on drainpipe?]",
+      "external": "31310858"
+    },
     "1952": {
       "latlng": {
         "lat": 51.59856,
@@ -7288,8 +7592,8 @@ const data = {
         "lat": 51.5313,
         "lng": -0.36449
       },
-      "notes": "Greenford Free Church (Baptist)",
-      "external": "1932 Destroyed 1940 Rebuilt"
+      "notes": "Greenford Free Church (Baptist) 1932 Destroyed 1940 Rebuilt",
+      "external": "222351190"
     },
     "1957": {
       "latlng": {
@@ -7304,7 +7608,7 @@ const data = {
         "lat": 51.53481,
         "lng": -0.16347
       },
-      "notes": "EIIR [gate] [out of area]",
+      "notes": "EIIR [gate]",
       "external": "1540353568"
     },
     "1959": {
@@ -7323,7 +7627,7 @@ const data = {
       "notes": "[YOF]",
       "external": ""
     },
-    "1962_": {
+    "1962": {
       "latlng": {
         "lat": 51.60103,
         "lng": -0.19386
