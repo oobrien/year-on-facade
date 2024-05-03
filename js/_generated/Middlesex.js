@@ -141,6 +141,14 @@ const data = {
       "notes": "HW",
       "external": ""
     },
+    "1746_": {
+      "latlng": {
+        "lat": 51.55551,
+        "lng": -0.17867
+      },
+      "notes": "Established ChasB King Estate Agent Decorator",
+      "external": "199561804"
+    },
     "1759_": {
       "latlng": {
         "lat": 51.42788,
@@ -202,7 +210,7 @@ const data = {
         "lat": 51.52372,
         "lng": -0.14328
       },
-      "notes": "The Greene Man [added in 2023]",
+      "notes": "The Greene Man [Company founding date rather than building date - added in 2023]",
       "external": "108251970"
     },
     "1811": {
@@ -228,6 +236,14 @@ const data = {
       },
       "notes": "S B [on drainpipe]",
       "external": ""
+    },
+    "1823_": {
+      "latlng": {
+        "lat": 51.52589,
+        "lng": -0.12272
+      },
+      "notes": "S G B Refixed 1897 117 St P P [parish boundary marker on building] via https://twitter.com/Ldn_Boundaries/status/1538447971045474305",
+      "external": "132165777"
     },
     "1824": {
       "latlng": {
@@ -941,6 +957,14 @@ const data = {
       "notes": "Suffolk Place",
       "external": ""
     },
+    "1869c_": {
+      "latlng": {
+        "lat": 51.55502,
+        "lng": -0.17791
+      },
+      "notes": "Erected Anno Domini",
+      "external": "948285055"
+    },
     "1870_": {
       "latlng": {
         "lat": 51.4269,
@@ -948,6 +972,22 @@ const data = {
       },
       "notes": "Rose Cottage",
       "external": ""
+    },
+    "1870a_": {
+      "latlng": {
+        "lat": 51.67386,
+        "lng": -0.03317
+      },
+      "notes": "Amelia Cottages",
+      "external": "104036692"
+    },
+    "1870b_": {
+      "latlng": {
+        "lat": 51.67405,
+        "lng": -0.03624
+      },
+      "notes": "Rose Cottage W R",
+      "external": "103700677"
     },
     "1871": {
       "latlng": {
@@ -989,6 +1029,22 @@ const data = {
       "notes": "LBS Erected Anno Dom",
       "external": "97175525"
     },
+    "1871e_": {
+      "latlng": {
+        "lat": 51.67373,
+        "lng": -0.03319
+      },
+      "notes": "May Cottages",
+      "external": "104036680"
+    },
+    "1871f_": {
+      "latlng": {
+        "lat": 51.55181,
+        "lng": -0.14147
+      },
+      "notes": "Bull & Gate",
+      "external": "449266220"
+    },
     "1872": {
       "latlng": {
         "lat": 51.6013875,
@@ -1020,6 +1076,14 @@ const data = {
       },
       "notes": "Laburnum Cottage",
       "external": ""
+    },
+    "1872d_": {
+      "latlng": {
+        "lat": 51.67405,
+        "lng": -0.03605
+      },
+      "notes": "Laurel Cottage",
+      "external": "103700622"
     },
     "1873": {
       "latlng": {
@@ -1204,6 +1268,14 @@ const data = {
       "notes": "",
       "external": "225562168"
     },
+    "1878i_": {
+      "latlng": {
+        "lat": 51.55288,
+        "lng": -0.15918
+      },
+      "notes": "AD",
+      "external": "1056486197"
+    },
     "1879": {
       "latlng": {
         "lat": 51.49916,
@@ -1370,6 +1442,14 @@ const data = {
       },
       "notes": "Fullwell Terrace",
       "external": "961008759"
+    },
+    "1880l_": {
+      "latlng": {
+        "lat": 51.55693,
+        "lng": -0.17147
+      },
+      "notes": "",
+      "external": "1159279049"
     },
     "1881": {
       "latlng": {
@@ -1538,6 +1618,22 @@ const data = {
       },
       "notes": "Roa Villas",
       "external": "1108581662"
+    },
+    "1881u_": {
+      "latlng": {
+        "lat": 51.67401,
+        "lng": -0.03515
+      },
+      "notes": "Chester Terrace",
+      "external": "103700641"
+    },
+    "1881v_": {
+      "latlng": {
+        "lat": 51.67639,
+        "lng": -0.03414
+      },
+      "notes": "West Cottage",
+      "external": "102840856"
     },
     "1882": {
       "latlng": {
@@ -2051,6 +2147,14 @@ const data = {
       "notes": "CHS Erected AD [Flickr BD]",
       "external": "146986819"
     },
+    "1885p_": {
+      "latlng": {
+        "lat": 51.54917,
+        "lng": -0.14117
+      },
+      "notes": "Rebuilt",
+      "external": "291687162"
+    },
     "1886": {
       "latlng": {
         "lat": 51.53352,
@@ -2331,6 +2435,22 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1887r_": {
+      "latlng": {
+        "lat": 51.67449,
+        "lng": -0.03343
+      },
+      "notes": "East View Terrace",
+      "external": "103464763"
+    },
+    "1887s_": {
+      "latlng": {
+        "lat": 51.67436,
+        "lng": -0.03315
+      },
+      "notes": "West View Terrace",
+      "external": "104036687"
+    },
     "1888": {
       "latlng": {
         "lat": 51.46627,
@@ -2547,6 +2667,38 @@ const data = {
       "notes": "AD",
       "external": "477963941"
     },
+    "1888za_": {
+      "latlng": {
+        "lat": 51.67492,
+        "lng": -0.03354
+      },
+      "notes": "Vine Cottages",
+      "external": "103464761"
+    },
+    "1888zb_": {
+      "latlng": {
+        "lat": 51.55611,
+        "lng": -0.17859
+      },
+      "notes": "",
+      "external": "199398457"
+    },
+    "1888zc_": {
+      "latlng": {
+        "lat": 51.55568,
+        "lng": -0.17874
+      },
+      "notes": "A D",
+      "external": "199561802"
+    },
+    "1888zd_": {
+      "latlng": {
+        "lat": 51.55768,
+        "lng": -0.17554
+      },
+      "notes": "The Wells and Campden Baths and Wash Houses",
+      "external": "105574415"
+    },
     "1889": {
       "latlng": {
         "lat": 51.57019,
@@ -2715,13 +2867,37 @@ const data = {
       "notes": "Portland Cottages",
       "external": ""
     },
-    "1889w_": {
+    "1889v_": {
       "latlng": {
         "lat": 51.66853,
         "lng": -0.02848
       },
       "notes": "Brook Cottages",
       "external": "118387506"
+    },
+    "1889w_": {
+      "latlng": {
+        "lat": 51.5562,
+        "lng": -0.17881
+      },
+      "notes": "",
+      "external": "199398436"
+    },
+    "1889x_": {
+      "latlng": {
+        "lat": 51.55607,
+        "lng": -0.17882
+      },
+      "notes": "Express Dairy Company Limited A D",
+      "external": "1023058865"
+    },
+    "1889y_": {
+      "latlng": {
+        "lat": 51.556,
+        "lng": -0.17859
+      },
+      "notes": "",
+      "external": "199398465"
     },
     "1890": {
       "latlng": {
@@ -2794,6 +2970,22 @@ const data = {
       },
       "notes": "",
       "external": "741955711"
+    },
+    "1890i_": {
+      "latlng": {
+        "lat": 51.55507,
+        "lng": -0.17342
+      },
+      "notes": "Dudman's Hampstead Borough Stores Rebuilt A D [date also on drainpipe]",
+      "external": "129337432"
+    },
+    "1890j_": {
+      "latlng": {
+        "lat": 51.55512,
+        "lng": -0.17367
+      },
+      "notes": "LD JB",
+      "external": "129337405"
     },
     "1891": {
       "latlng": {
@@ -2898,6 +3090,22 @@ const data = {
       },
       "notes": "Lancester Cottage [modern sign]",
       "external": "90831025"
+    },
+    "1891n_": {
+      "latlng": {
+        "lat": 51.67414,
+        "lng": -0.03348
+      },
+      "notes": "",
+      "external": "103464765"
+    },
+    "1891o_": {
+      "latlng": {
+        "lat": 51.55483,
+        "lng": -0.17161
+      },
+      "notes": "",
+      "external": "129317567"
     },
     "1892": {
       "latlng": {
@@ -3275,6 +3483,14 @@ const data = {
       "notes": "Orchard Villa",
       "external": ""
     },
+    "1894o_": {
+      "latlng": {
+        "lat": 51.60957,
+        "lng": -0.48153
+      },
+      "notes": "Parkview Cottages",
+      "external": ""
+    },
     "1895": {
       "latlng": {
         "lat": 51.4835022,
@@ -3450,6 +3666,14 @@ const data = {
       },
       "notes": "A.D",
       "external": "378204638"
+    },
+    "1895v_": {
+      "latlng": {
+        "lat": 51.55179,
+        "lng": -0.14098
+      },
+      "notes": "",
+      "external": "973132166"
     },
     "1896": {
       "latlng": {
@@ -3627,6 +3851,30 @@ const data = {
       "notes": "",
       "external": "378204648"
     },
+    "1896v_": {
+      "latlng": {
+        "lat": 51.55208,
+        "lng": -0.14093
+      },
+      "notes": "",
+      "external": "973132182"
+    },
+    "1896w_": {
+      "latlng": {
+        "lat": 51.55508,
+        "lng": -0.17096
+      },
+      "notes": "Hampstead Hill Mansions",
+      "external": "129317558"
+    },
+    "1896x_": {
+      "latlng": {
+        "lat": 51.55489,
+        "lng": -0.17273
+      },
+      "notes": "AD",
+      "external": "129337399"
+    },
     "1897": {
       "latlng": {
         "lat": 51.58292,
@@ -3802,6 +4050,30 @@ const data = {
       },
       "notes": "Rebuilt by W Harris",
       "external": "147004013"
+    },
+    "1897v_": {
+      "latlng": {
+        "lat": 51.67487,
+        "lng": -0.03596
+      },
+      "notes": "South View",
+      "external": "103467264"
+    },
+    "1897w_": {
+      "latlng": {
+        "lat": 51.55511,
+        "lng": -0.16632
+      },
+      "notes": "GHP",
+      "external": "126219012"
+    },
+    "1897x_": {
+      "latlng": {
+        "lat": 51.55521,
+        "lng": -0.16646
+      },
+      "notes": "W.R.",
+      "external": "67555376"
     },
     "1898": {
       "latlng": {
@@ -4010,6 +4282,14 @@ const data = {
       },
       "notes": "Anno du",
       "external": "71295639"
+    },
+    "1898z_": {
+      "latlng": {
+        "lat": 51.55093,
+        "lng": -0.14018
+      },
+      "notes": "",
+      "external": "973132221"
     },
     "1899": {
       "latlng": {
@@ -4282,6 +4562,14 @@ const data = {
       },
       "notes": "Estabd 1803 Rebuilt",
       "external": "OSMID"
+    },
+    "1899zh_": {
+      "latlng": {
+        "lat": 51.52568,
+        "lng": -0.12254
+      },
+      "notes": "SPL SGB [parish boundary marker]",
+      "external": ""
     },
     "1900": {
       "latlng": {
@@ -5211,6 +5499,14 @@ const data = {
       "notes": "",
       "external": ""
     },
+    "1903zd_": {
+      "latlng": {
+        "lat": 51.6747,
+        "lng": -0.03571
+      },
+      "notes": "Penbridge Villas",
+      "external": "103587194"
+    },
     "1904": {
       "latlng": {
         "lat": 51.48443,
@@ -5378,6 +5674,14 @@ const data = {
       },
       "notes": "The.Saint.Pancras Female.Orphanage Established 1776. Rebuilt. .",
       "external": "OSMID"
+    },
+    "1904v_": {
+      "latlng": {
+        "lat": 51.55408,
+        "lng": -0.16468
+      },
+      "notes": "",
+      "external": "1159279304"
     },
     "1905": {
       "latlng": {
@@ -5787,6 +6091,14 @@ const data = {
       "notes": "CAE",
       "external": ""
     },
+    "1906zd_": {
+      "latlng": {
+        "lat": 51.67405,
+        "lng": -0.03615
+      },
+      "notes": "Oak Villa",
+      "external": "103700622"
+    },
     "1907": {
       "latlng": {
         "lat": 51.60418,
@@ -6043,6 +6355,14 @@ const data = {
       "notes": "Minerva Terrace",
       "external": ""
     },
+    "1908q_": {
+      "latlng": {
+        "lat": 51.54919,
+        "lng": -0.24413
+      },
+      "notes": "",
+      "external": ""
+    },
     "1908r_": {
       "latlng": {
         "lat": 51.42133,
@@ -6098,6 +6418,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1908y_": {
+      "latlng": {
+        "lat": 51.67529,
+        "lng": -0.03374
+      },
+      "notes": "Primrose Cottages",
+      "external": "103444605"
     },
     "1909": {
       "latlng": {
@@ -6338,6 +6666,14 @@ const data = {
       },
       "notes": "",
       "external": "44131259"
+    },
+    "1910o_": {
+      "latlng": {
+        "lat": 51.67391,
+        "lng": -0.0301
+      },
+      "notes": "Rosary Cottages",
+      "external": "104050804"
     },
     "1911": {
       "latlng": {
@@ -7714,6 +8050,14 @@ const data = {
       },
       "notes": "",
       "external": ""
+    },
+    "1995_": {
+      "latlng": {
+        "lat": 51.55381,
+        "lng": -0.16344
+      },
+      "notes": "",
+      "external": "1159279302"
     },
     "1996": {
       "latlng": {
