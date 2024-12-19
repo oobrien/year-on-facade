@@ -2344,6 +2344,15 @@ const data = {
       },
       "notes": "Oxford Villas"
     },
+    "1862e_": {
+      "city": "Middlesex",
+      "external": "1343469370",
+      "latlng": {
+        "lat": 51.5064,
+        "lng": -0.27481
+      },
+      "notes": "Leicester Terraces"
+    },
     "1863": {
       "city": "London",
       "external": "1393325",
@@ -2478,6 +2487,15 @@ const data = {
         "lng": -0.38519
       },
       "notes": "Manchester Villas"
+    },
+    "1866c_": {
+      "city": "Middlesex",
+      "external": "1060827769",
+      "latlng": {
+        "lat": 51.60237,
+        "lng": -0.05986
+      },
+      "notes": ""
     },
     "1867": {
       "city": "Istanbul",
@@ -2856,6 +2874,15 @@ const data = {
       },
       "notes": "[?] Terrace"
     },
+    "1875b_": {
+      "city": "Middlesex",
+      "external": "1060828027",
+      "latlng": {
+        "lat": 51.60228,
+        "lng": -0.05816
+      },
+      "notes": "Redfern Villas"
+    },
     "1876": {
       "city": "Istanbul",
       "latlng": {
@@ -3221,6 +3248,33 @@ const data = {
         "lng": -0.17147
       },
       "notes": ""
+    },
+    "1880m_": {
+      "city": "Middlesex",
+      "external": "1279972798",
+      "latlng": {
+        "lat": 51.58846,
+        "lng": -0.40374
+      },
+      "notes": "Haydon Lodge c [plaque on wall]"
+    },
+    "1880n_": {
+      "city": "Middlesex",
+      "external": "1233009544",
+      "latlng": {
+        "lat": 51.6017,
+        "lng": -0.0614
+      },
+      "notes": "Tavistock Villas"
+    },
+    "1880o_": {
+      "city": "Middlesex",
+      "external": "1060827991",
+      "latlng": {
+        "lat": 51.60011,
+        "lng": -0.06048
+      },
+      "notes": "?"
     },
     "1881": {
       "city": "Hertfordshire",
@@ -3879,6 +3933,15 @@ const data = {
       },
       "notes": "Thornton Villas"
     },
+    "1884o_": {
+      "city": "Middlesex",
+      "external": "718831170",
+      "latlng": {
+        "lat": 51.50752,
+        "lng": -0.27219
+      },
+      "notes": ""
+    },
     "1885": {
       "city": "Cambridgeshire",
       "external": "",
@@ -4202,6 +4265,15 @@ const data = {
         "lng": -0.42642
       },
       "notes": "A D 1983 [clock]"
+    },
+    "1886r_": {
+      "city": "Middlesex",
+      "external": "816691402",
+      "latlng": {
+        "lat": 51.60137,
+        "lng": -0.05898
+      },
+      "notes": "St. Pauls... A.D."
     },
     "1887": {
       "city": "Surrey",
@@ -5129,6 +5201,15 @@ const data = {
         "lng": -0.17161
       },
       "notes": ""
+    },
+    "1891p_": {
+      "city": "Middlesex",
+      "external": "179543961",
+      "latlng": {
+        "lat": 51.5921,
+        "lng": -0.06566
+      },
+      "notes": "To the glory of god This stone was laid by The Rt Rev The Lord Bishop of Glasgow..."
     },
     "1892": {
       "city": "Porto",
@@ -6264,6 +6345,33 @@ const data = {
       },
       "notes": "W.R."
     },
+    "1897y_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61357,
+        "lng": -0.06988
+      },
+      "notes": "Queen's Villas"
+    },
+    "1897z_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61347,
+        "lng": -0.06984
+      },
+      "notes": "Diarope Villas"
+    },
+    "1897za_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61363,
+        "lng": -0.06962
+      },
+      "notes": "Laurel Villas"
+    },
     "1898": {
       "city": "Surrey",
       "external": "",
@@ -6524,6 +6632,15 @@ const data = {
         "lng": -0.14018
       },
       "notes": ""
+    },
+    "1898za_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50821,
+        "lng": -0.27877
+      },
+      "notes": "A D"
     },
     "1899": {
       "city": "Copenhagen",
@@ -6856,6 +6973,15 @@ const data = {
         "lng": -0.12254
       },
       "notes": "SPL SGB [parish boundary marker]"
+    },
+    "1899zi_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.61363,
+        "lng": -0.06923
+      },
+      "notes": "Witham Villas"
     },
     "1900": {
       "city": "London",
@@ -7226,6 +7352,15 @@ const data = {
       },
       "notes": "[Flickr]"
     },
+    "1900zm_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50627,
+        "lng": -0.27455
+      },
+      "notes": "...Limited Builders... est [painted advertising]"
+    },
     "1901": {
       "city": "Hertfordshire",
       "external": "",
@@ -7399,12 +7534,21 @@ const data = {
     },
     "1901s_": {
       "city": "Middlesex",
-      "external": "OS674001065MID",
+      "external": "674001065",
       "latlng": {
         "lat": 51.52569,
         "lng": -0.14255
       },
       "notes": "A.M.D.G [Roman numerals]"
+    },
+    "1901t_": {
+      "city": "Middlesex",
+      "external": "78173589",
+      "latlng": {
+        "lat": 51.58687,
+        "lng": -0.06762
+      },
+      "notes": ""
     },
     "1902": {
       "city": "Hertfordshire",
@@ -8152,6 +8296,15 @@ const data = {
         "lng": -0.16468
       },
       "notes": ""
+    },
+    "1904w_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.51031,
+        "lng": -0.26949
+      },
+      "notes": "ADC"
     },
     "1905": {
       "city": "Istanbul",
@@ -9294,6 +9447,24 @@ const data = {
       },
       "notes": "Rosary Cottages"
     },
+    "1910p_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.50445,
+        "lng": -0.27481
+      },
+      "notes": ""
+    },
+    "1910q_": {
+      "city": "Middlesex",
+      "external": "233384639",
+      "latlng": {
+        "lat": 51.51351,
+        "lng": -0.28037
+      },
+      "notes": "[roman numerals]"
+    },
     "1911": {
       "city": "London",
       "external": "1294346",
@@ -10023,6 +10194,15 @@ const data = {
       },
       "notes": ""
     },
+    "1925h_": {
+      "city": "Middlesex",
+      "external": "1307009870",
+      "latlng": {
+        "lat": 51.6078,
+        "lng": -0.0668
+      },
+      "notes": ""
+    },
     "1926": {
       "city": "Hertfordshire",
       "external": "",
@@ -10734,6 +10914,15 @@ const data = {
       },
       "notes": "GR VI"
     },
+    "1940_": {
+      "city": "Middlesex",
+      "external": "",
+      "latlng": {
+        "lat": 51.56833,
+        "lng": -0.22952
+      },
+      "notes": "GR VI"
+    },
     "1947": {
       "city": "London",
       "external": "",
@@ -10753,6 +10942,15 @@ const data = {
       "notes": ""
     },
     "1948a_": {
+      "city": "Middlesex",
+      "external": "40278334",
+      "latlng": {
+        "lat": 51.4791,
+        "lng": -0.33987
+      },
+      "notes": "GR VI"
+    },
+    "1948b_": {
       "city": "Middlesex",
       "external": "",
       "latlng": {

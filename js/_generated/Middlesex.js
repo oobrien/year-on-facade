@@ -725,6 +725,14 @@ const data = {
       "notes": "Oxford Villas",
       "external": "708005555"
     },
+    "1862e_": {
+      "latlng": {
+        "lat": 51.5064,
+        "lng": -0.27481
+      },
+      "notes": "Leicester Terraces",
+      "external": "1343469370"
+    },
     "1863": {
       "latlng": {
         "lat": 51.57481,
@@ -844,6 +852,14 @@ const data = {
       },
       "notes": "Manchester Villas",
       "external": ""
+    },
+    "1866c_": {
+      "latlng": {
+        "lat": 51.60237,
+        "lng": -0.05986
+      },
+      "notes": "",
+      "external": "1060827769"
     },
     "1867_": {
       "latlng": {
@@ -1132,6 +1148,22 @@ const data = {
       },
       "notes": "",
       "external": "138428151"
+    },
+    "1875a_": {
+      "latlng": {
+        "lat": 51.60232,
+        "lng": -0.05872
+      },
+      "notes": "Richmond Villas",
+      "external": "1060828019"
+    },
+    "1875b_": {
+      "latlng": {
+        "lat": 51.60228,
+        "lng": -0.05816
+      },
+      "notes": "Redfern Villas",
+      "external": "1060828027"
     },
     "1876": {
       "latlng": {
@@ -1450,6 +1482,30 @@ const data = {
       },
       "notes": "",
       "external": "1159279049"
+    },
+    "1880m_": {
+      "latlng": {
+        "lat": 51.58846,
+        "lng": -0.40374
+      },
+      "notes": "Haydon Lodge c [plaque on wall]",
+      "external": "1279972798"
+    },
+    "1880n_": {
+      "latlng": {
+        "lat": 51.6017,
+        "lng": -0.0614
+      },
+      "notes": "Tavistock Villas",
+      "external": "1233009544"
+    },
+    "1880o_": {
+      "latlng": {
+        "lat": 51.60011,
+        "lng": -0.06048
+      },
+      "notes": "?",
+      "external": "1060827991"
     },
     "1881": {
       "latlng": {
@@ -2019,6 +2075,14 @@ const data = {
       "notes": "Thornton Villas",
       "external": ""
     },
+    "1884o_": {
+      "latlng": {
+        "lat": 51.50752,
+        "lng": -0.27219
+      },
+      "notes": "",
+      "external": "718831170"
+    },
     "1885": {
       "latlng": {
         "lat": 51.58609,
@@ -2298,6 +2362,14 @@ const data = {
       },
       "notes": "A D 1983 [clock]",
       "external": "1061871480"
+    },
+    "1886r_": {
+      "latlng": {
+        "lat": 51.60137,
+        "lng": -0.05898
+      },
+      "notes": "St. Pauls... A.D.",
+      "external": "816691402"
     },
     "1887": {
       "latlng": {
@@ -3106,6 +3178,14 @@ const data = {
       },
       "notes": "",
       "external": "129317567"
+    },
+    "1891p_": {
+      "latlng": {
+        "lat": 51.5921,
+        "lng": -0.06566
+      },
+      "notes": "To the glory of god This stone was laid by The Rt Rev The Lord Bishop of Glasgow...",
+      "external": "179543961"
     },
     "1892": {
       "latlng": {
@@ -4075,6 +4155,30 @@ const data = {
       "notes": "W.R.",
       "external": "67555376"
     },
+    "1897y_": {
+      "latlng": {
+        "lat": 51.61357,
+        "lng": -0.06988
+      },
+      "notes": "Queen's Villas",
+      "external": ""
+    },
+    "1897z_": {
+      "latlng": {
+        "lat": 51.61347,
+        "lng": -0.06984
+      },
+      "notes": "Diarope Villas",
+      "external": ""
+    },
+    "1897za_": {
+      "latlng": {
+        "lat": 51.61363,
+        "lng": -0.06962
+      },
+      "notes": "Laurel Villas",
+      "external": ""
+    },
     "1898": {
       "latlng": {
         "lat": 51.54711,
@@ -4290,6 +4394,14 @@ const data = {
       },
       "notes": "",
       "external": "973132221"
+    },
+    "1898za_": {
+      "latlng": {
+        "lat": 51.50821,
+        "lng": -0.27877
+      },
+      "notes": "A D",
+      "external": ""
     },
     "1899": {
       "latlng": {
@@ -4569,6 +4681,14 @@ const data = {
         "lng": -0.12254
       },
       "notes": "SPL SGB [parish boundary marker]",
+      "external": ""
+    },
+    "1899zi_": {
+      "latlng": {
+        "lat": 51.61363,
+        "lng": -0.06923
+      },
+      "notes": "Witham Villas",
       "external": ""
     },
     "1900": {
@@ -4883,6 +5003,14 @@ const data = {
       "notes": "[Flickr]",
       "external": ""
     },
+    "1900zm_": {
+      "latlng": {
+        "lat": 51.50627,
+        "lng": -0.27455
+      },
+      "notes": "...Limited Builders... est [painted advertising]",
+      "external": ""
+    },
     "1901": {
       "latlng": {
         "lat": 51.59132,
@@ -5041,7 +5169,15 @@ const data = {
         "lng": -0.14255
       },
       "notes": "A.M.D.G [Roman numerals]",
-      "external": "OS674001065MID"
+      "external": "674001065"
+    },
+    "1901t_": {
+      "latlng": {
+        "lat": 51.58687,
+        "lng": -0.06762
+      },
+      "notes": "",
+      "external": "78173589"
     },
     "1902": {
       "latlng": {
@@ -5682,6 +5818,14 @@ const data = {
       },
       "notes": "",
       "external": "1159279304"
+    },
+    "1904w_": {
+      "latlng": {
+        "lat": 51.51031,
+        "lng": -0.26949
+      },
+      "notes": "ADC",
+      "external": ""
     },
     "1905": {
       "latlng": {
@@ -6675,6 +6819,22 @@ const data = {
       "notes": "Rosary Cottages",
       "external": "104050804"
     },
+    "1910p_": {
+      "latlng": {
+        "lat": 51.50445,
+        "lng": -0.27481
+      },
+      "notes": "",
+      "external": ""
+    },
+    "1910q_": {
+      "latlng": {
+        "lat": 51.51351,
+        "lng": -0.28037
+      },
+      "notes": "[roman numerals]",
+      "external": "233384639"
+    },
     "1911": {
       "latlng": {
         "lat": 51.6092539,
@@ -7266,6 +7426,14 @@ const data = {
       },
       "notes": "",
       "external": "1205436236"
+    },
+    "1925h_": {
+      "latlng": {
+        "lat": 51.6078,
+        "lng": -0.0668
+      },
+      "notes": "",
+      "external": "1307009870"
     },
     "1926": {
       "latlng": {
@@ -7867,6 +8035,14 @@ const data = {
       "notes": "GR VI",
       "external": "829784318"
     },
+    "1940_": {
+      "latlng": {
+        "lat": 51.56833,
+        "lng": -0.22952
+      },
+      "notes": "GR VI",
+      "external": ""
+    },
     "1948": {
       "latlng": {
         "lat": 51.55257,
@@ -7876,6 +8052,14 @@ const data = {
       "external": "247904227"
     },
     "1948a_": {
+      "latlng": {
+        "lat": 51.4791,
+        "lng": -0.33987
+      },
+      "notes": "GR VI",
+      "external": "40278334"
+    },
+    "1948b_": {
       "latlng": {
         "lat": 51.51769,
         "lng": -0.43308

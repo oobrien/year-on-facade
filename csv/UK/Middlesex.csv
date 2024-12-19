@@ -88,6 +88,7 @@ year,latitude,longitude,notes,external
 1862b,51.60480,-0.39821,AD [part damaged - missing the A and 2],
 1862c_,51.61469,-0.17261,,188283562
 1862d_,51.42767,-0.32723,Oxford Villas,708005555
+1862e_,51.50640,-0.27481,Leicester Terraces,1343469370
 1863,51.57481,-0.33386,,229466309
 1863a_,51.49105,-0.26893,Fromow & Sons Estd 1829 Erected,549228726
 1863b_,51.4131663,-0.3113954,Hampton Wick U.D.C.,
@@ -103,6 +104,7 @@ year,latitude,longitude,notes,external
 1866,51.57246,-0.33739,,229688648
 1866a,51.61175,-0.33554,called home Dec' 13,
 1866b,51.59701,-0.38519,Manchester Villas,
+1866c_,51.60237,-0.05986,,1060827769
 1867_,51.42987,-0.33835,Clarence Terrace,986663453
 1867a_,51.48476,-0.30612,This Stone Was Laid By Her Royal Highness Princess Margaret Duchess of Teck 31st December,882870880
 1867b_,51.42887,-0.33705,Hyde Cottage,
@@ -139,6 +141,8 @@ year,latitude,longitude,notes,external
 1874a_,51.49106,-0.30788,Silverto Villa,1108581660
 1874b_,51.43000,-0.33847,Edith Cottages,986663458
 1875,51.59835,-0.11982,,138428151
+1875a_,51.60232,-0.05872,Richmond Villas,1060828019
+1875b_,51.60228,-0.05816,Redfern Villas,1060828027
 1876,51.53926,-0.25214,,86840426
 1876a_,51.4105562,-0.4868538,,
 1876b,51.40758,-0.48857,,
@@ -179,6 +183,9 @@ year,latitude,longitude,notes,external
 1880j,51.59772,-0.39544,,
 1880k_,51.43210,-0.34668,Fullwell Terrace,961008759
 1880l_,51.55693,-0.17147,,1159279049
+1880m_,51.58846,-0.40374,Haydon Lodge c [plaque on wall],1279972798
+1880n_,51.60170,-0.06140,Tavistock Villas,1233009544
+1880o_,51.60011,-0.06048,?,1060827991
 1881,51.59764,-0.39599,,
 1881a_,51.4905561,-0.2734897,AD,
 1881b_,51.69507,-0.23315,St Giles. South Myms Parish Room,787643233
@@ -250,6 +257,7 @@ year,latitude,longitude,notes,external
 1884l_,51.4263,-0.3613,Ferndale,
 1884m_,51.43237,-0.38265,Bloomfield,
 1884n_,51.43281,-0.38305,Thornton Villas,
+1884o_,51.50752,-0.27219,,718831170
 1885,51.58609,-0.44068,Hope Cottages,
 1885a_,51.4717719,-0.363735,[?] Cottages,
 1885b_,51.41431,-0.36646,Avenue Villa,
@@ -285,6 +293,7 @@ year,latitude,longitude,notes,external
 1886o_,51.4262,-0.3618,Longford Cottages,
 1886p_,51.42842,-0.37425,Beach Cottage,
 1886q_,51.57669,-0.42642,A D 1983 [clock],1061871480
+1886r_,51.60137,-0.05898,St. Pauls... A.D.,816691402
 1887,51.51689,-0.29998,Alpha Cottages,984971824
 1887a_,51.6616157,-0.0858438,Henrietta Cottages,
 1887b_,51.6609585,-0.0855164,Ashby Terrace,
@@ -386,6 +395,7 @@ year,latitude,longitude,notes,external
 1891m_,51.66569,-0.08193,Lancester Cottage [modern sign],90831025
 1891n_,51.67414,-0.03348,,103464765
 1891o_,51.55483,-0.17161,,129317567
+1891p_,51.59210,-0.06566,To the glory of god This stone was laid by The Rt Rev The Lord Bishop of Glasgow...,179543961
 1892,51.57847,-0.09911,Cavendish Parade,
 1892a_,51.6175664,-0.0637221,The Golden Fleece,
 1892b,51.582235,-0.33576,Palmerston Villas,
@@ -507,6 +517,9 @@ year,latitude,longitude,notes,external
 1897v_,51.67487,-0.03596,South View,103467264
 1897w_,51.55511,-0.16632,GHP,126219012
 1897x_,51.55521,-0.16646,W.R.,67555376
+1897y_,51.61357,-0.06988,Queen's Villas,
+1897z_,51.61347,-0.06984,Diarope Villas,
+1897za_,51.61363,-0.06962,Laurel Villas,
 1898,51.54711,-0.23218,,
 1898a_,51.5792179,-0.0990928,Ducketts Terrace,
 1898b_,51.6634352,-0.0920675,Cedar Villa,
@@ -534,6 +547,7 @@ year,latitude,longitude,notes,external
 1898x_,51.42589,-0.50466,Londsdale Cottages,
 1898y,51.66157,-0.19405,Anno du,71295639
 1898z_,51.55093,-0.14018,,973132221
+1898za_,51.50821,-0.27877,A D,
 1899,51.511983,-0.2888638,Inglewood,
 1899a,51.4989288,-0.3798854,Penalverne Villas,
 1899b_,51.6599774,-0.0873822,,
@@ -569,6 +583,7 @@ year,latitude,longitude,notes,external
 1899zf,51.60093,-0.19442,,237665188
 1899zg_,51.52639,-0.14075,Estabd 1803 Rebuilt,OSMID
 1899zh_,51.52568,-0.12254,SPL SGB [parish boundary marker],
+1899zi_,51.61363,-0.06923,Witham Villas,
 1900,51.606,-0.41879,Woodbine Terrace,823995712
 1900a,51.56048,-0.43993,Manor View Villas,
 1900b_,51.6610081,-0.0791394,,
@@ -608,6 +623,7 @@ year,latitude,longitude,notes,external
 1900zj_,51.43231,-0.47067,Gordon Villa,
 1900zk_,51.56124,-0.30145,,
 1900zl_,51.59917,-0.12737,[Flickr],
+1900zm_,51.50627,-0.27455,...Limited Builders... est [painted advertising],
 1901,51.59132,-0.1486,,
 1901a,51.57215,-0.33998,,
 1901b_,51.6942361,-0.1775536,,
@@ -627,7 +643,8 @@ year,latitude,longitude,notes,external
 1901p,51.66977,-0.04014,Ivey Villas,105935278
 1901q_,51.66878,-0.03867,Beulah Villas,105918045
 1901r_,51.66882,-0.03895,Allan Villas,105918030
-1901s_,51.52569,-0.14255,A.M.D.G [Roman numerals],OS674001065MID
+1901s_,51.52569,-0.14255,A.M.D.G [Roman numerals],674001065
+1901t_,51.58687,-0.06762,,78173589
 1902,51.57495,-0.10451,,
 1902a,51.6125075,-0.1808578,Thornton Villa,
 1902b,51.53980,-0.20858,WDC,97060663
@@ -708,6 +725,7 @@ year,latitude,longitude,notes,external
 1904t_,51.42596,-0.50428,Deal Villas,
 1904u_,51.52823,-0.13842,The.Saint.Pancras Female.Orphanage Established 1776. Rebuilt. .,OSMID
 1904v_,51.55408,-0.16468,,1159279304
+1904w_,51.51031,-0.26949,ADC,
 1905,51.5584532,-0.2174762,,
 1905a,51.51115,-0.37577,A.D.,192928593
 1905b_,51.6061519,-0.0681858,,
@@ -832,6 +850,8 @@ year,latitude,longitude,notes,external
 1910m_,51.66880,-0.03881,Dunoon Villas,105918030
 1910n,51.51354,-0.47702,,44131259
 1910o_,51.67391,-0.03010,Rosary Cottages,104050804
+1910p_,51.50445,-0.27481,,
+1910q_,51.51351,-0.28037,[roman numerals],233384639
 1911,51.6092539,-0.3689304,,
 1911a,51.6077094,-0.340214,,
 1911b,51.48584,-0.3419,Oaklands,
@@ -906,6 +926,7 @@ year,latitude,longitude,notes,external
 1925e_,51.63540,-0.07815,,666354063
 1925f,51.54661,-0.27400,,
 1925g_,51.56883,-0.43993,,1205436236
+1925h_,51.60780,-0.06680,,1307009870
 1926,51.61568,-0.27533,,198992577
 1926a,51.57364,-0.33695,,29294316
 1926b,51.54301,-0.22451,,474481940
@@ -981,8 +1002,10 @@ year,latitude,longitude,notes,external
 1938b,51.55042,-0.48473,Rebuilt U+X 17B95,42650876
 1938b_,51.56858,-0.50400,GR VI Telephone Exchange,530488996
 1939_,51.61676,-0.13875,GR VI,829784318
+1940_,51.56833,-0.22952,GR VI,
 1948,51.55257,-0.29466,GR VI Telephone Exchange,247904227
-1948a_,51.51769,-0.43308,Hayes Amateur Boxing Club Est,
+1948a_,51.47910,-0.33987,GR VI,40278334
+1948b_,51.51769,-0.43308,Hayes Amateur Boxing Club Est,
 1951,51.58966,-0.21855,GR VI,
 1951a_,51.53242,-0.10639,[on drainpipe?],31310858
 1952,51.59856,-0.11995,ER II,368597795
